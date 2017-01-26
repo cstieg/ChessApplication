@@ -1,0 +1,16 @@
+ 
+[Event "Hanoi VIE, Ch U7 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.15"] 
+[Round "5.39"] 
+[White "Nguyen, Le Trong Nhan"] 
+[Black "Nguyen, Thien Dang"] 
+[Result "0-1"] 
+[WhiteElo "2545"] 
+[BlackElo "2576"] 
+[ECO "C20"] 
+[EventDate "2012.07.12"] 
+ 
+1.e4 e5 2.f3 Nf6 3.Bb5 a6 4.Bc4 Bc5 5.Ne2 O-O 6.d3 d6 7.h3 Nc6 8.c3 Bd7 9. 
+d4 exd4 10.cxd4 Bxd4 11.Nxd4 Nxd4 12.Qd2 Nc6 13.f4 Nxe4 14.Qe2 Re8 15.Qg4  
+Bxg4 16.hxg4 Ng3+ 17.Kd1 Nxh1 0-1 

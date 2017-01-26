@@ -1,0 +1,77 @@
+ 
+[Event "TCh-IND League Qualifier 1 2014"] 
+[Site "Pune IND"] 
+[Date "2014.06.14"] 
+[Round "1"] 
+[White "Gagare, Shardul"] 
+[Black "Kulkarni, Bhakti"] 
+[Result "1-0"] 
+[WhiteElo "2446"] 
+[BlackElo "2231"] 
+[ECO "A10"] 
+[EventDate "2014.06.11"] 
+ 
+1.c4 d6 2.g3 Nf6 3.Bg2 e5 4.Nc3 Be7 5.Nf3 c6 6.O-O O-O 7.d3 Nbd7 8.Bg5 h6  
+9.Bxf6 Nxf6 10.Rb1 Be6 11.b4 Qc7 12.b5 Nd7 13.Nd2 Nc5 14.Nb3 Nd7 15.Nd2  
+Nc5 16.Qc2 Rfd8 17.Nb3 d5 18.bxc6 bxc6 19.cxd5 cxd5 20.Na4 Na6 21.Qxc7  
+Nxc7 22.d4 e4 23.Nbc5 Rab8 24.e3 Bg4 25.h3 Be2 26.Rfc1 Ne8 27.Bf1 Bxf1 28. 
+Kxf1 Nd6 29.Rxb8 Rxb8 30.Nc3 Rb2 31.Nxd5 Bd8 32.a4 Ba5 33.Nc3 f5 34.Ne2  
+Kf7 35.g4 g6 36.gxf5 gxf5 37.Nd7 Ra2 38.Ne5+ Ke8 39.Rc6 Bb4 40.Nf4 Rxa4  
+41.Nd5 Ra1+ 42.Kg2 Ba3 43.Rc7 Kf8 44.Nf6 1-0 
+ 
+[Event "Visma IMB 2013"] 
+[Site "Vaxjo SWE"] 
+[Date "2013.06.30"] 
+[Round "9.2"] 
+[White "Kenneskog, Theodor"] 
+[Black "Fries-Nielsen, Jens Ove"] 
+[Result "0-1"] 
+[WhiteElo "2228"] 
+[BlackElo "2381"] 
+[ECO "A10"] 
+[EventDate "2013.06.26"] 
+ 
+1.c4 d6 2.g3 Nf6 3.Bg2 Nbd7 4.Nc3 c6 5.Nf3 Nb6 6.d3 g6 7.O-O Bg7 8.Bg5 h6  
+9.Bd2 O-O 10.b4 d5 11.cxd5 Nfxd5 12.Nxd5 cxd5 13.Rc1 e5 14.Bc3 d4 15.Bb2  
+Nd5 16.b5 Be6 17.Nd2 a6 18.bxa6 Rxa6 19.a3 Qe7 20.Qc2 Rd8 21.Rfe1 Kh7 22. 
+e3 Rc6 23.Qb1 dxe3 24.fxe3 Rxc1 25.Qxc1 Rc8 26.Qa1 Rc2 27.Nc4 b5 28.Nxe5  
+Qc7 29.d4 Bxe5 30.dxe5 Rxg2+ 31.Kxg2 Qc2+ 32.Kf3 Bg4+ 0-1 
+ 
+[Event "SUI, 1. Division 2007 rounds 8-9"] 
+[Site "SUI"] 
+[Date "2007.09.30"] 
+[Round "9.4"] 
+[White "Aumann, Welf"] 
+[Black "Kappeler, Kaspar"] 
+[Result "1-0"] 
+[WhiteElo "2343"] 
+[BlackElo "2220"] 
+[ECO "A10"] 
+[EventDate "2007.10.07"] 
+ 
+1.c4 d6 2.g3 Nf6 3.Bg2 g6 4.Nc3 Bg7 5.d3 O-O 6.Rb1 e5 7.e4 c6 8.Nge2 Be6  
+9.O-O Na6 10.b3 Re8 11.h3 Qd7 12.Kh2 d5 13.exd5 cxd5 14.Bg5 d4 15.Bxf6  
+Bxf6 16.Ne4 Be7 17.Qd2 Kg7 18.Qa5 f6 19.b4 Qc8 20.c5 b6 21.Qa4 Rb8 22.cxb6 
+Rxb6 23.b5 Nc7 24.Qxa7 Rxb5 25.Nd6 Bxd6 26.Rxb5 Re7 27.Rb7 Qd8 28.Rc1 Bc8  
+29.Rbb1 Ne6 30.Qa8 Nc5 31.Rc4 Rc7 32.Nc1 Qe7 33.Rb6 Be6 34.Bd5 Ra7 35.Qc6  
+Bxd5 36.Qxd5 Rd7 37.Rxd6 1-0 
+ 
+[Event "6. Leg Russian Cup"] 
+[Site "Tomsk RUS"] 
+[Date "2001.06.30"] 
+[Round "1"] 
+[White "Khasin, Alexander"] 
+[Black "Voinov, Alexandr"] 
+[Result "1-0"] 
+[WhiteElo "2542"] 
+[BlackElo "2250"] 
+[ECO "A54"] 
+[EventDate "2001.06.30"] 
+ 
+1.c4 d6 2.g3 Nf6 3.Bg2 e5 4.Nc3 Be7 5.Nf3 O-O 6.d4 Nbd7 7.O-O c6 8.Qc2 Qc7 
+9.Rd1 Re8 10.h3 b6 11.e4 Bb7 12.Be3 Rac8 13.Rac1 a6 14.b4 Bf8 15.Qb1 Qb8  
+16.dxe5 dxe5 17.Ne1 Qc7 18.Nd3 Rcd8 19.b5 axb5 20.cxb5 c5 21.Nb2 Be7 22. 
+Nc4 Ra8 23.Qb3 Reb8 24.f4 Nh5 25.Rxd7 Qxd7 26.Nxb6 Qd6 27.Nc4 Qg6 28.Nxe5  
+Qxg3 29.Ne2 c4 30.Nxc4 Qh4 31.Ne5 Rf8 32.a4 Ng3 33.Nd4 Rad8 34.Qc2 Bf6 35. 
+Ndc6 Bxe5 36.fxe5 Rc8 37.Qf2 f5 38.Kh2 f4 39.Bxf4 Rxf4 40.Qxg3 Qxg3+ 41. 
+Kxg3 Rf7 42.e6 Rfc7 43.e5 Bxc6 44.Rxc6 1-0 

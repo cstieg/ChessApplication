@@ -1,0 +1,106 @@
+ 
+[Event "Umea SWE, Ch MElit"] 
+[Site "Umea SWE"] 
+[Date "2003.07.03"] 
+[Round "5"] 
+[White "Jonsson, Mikael"] 
+[Black "Sixtensson, Mikael"] 
+[Result "1-0"] 
+[WhiteElo "2314"] 
+[BlackElo "2257"] 
+[ECO "A56"] 
+[EventDate "2003.06.29"] 
+ 
+1.e4 g6 2.d4 c5 3.d5 Bg7 4.c4 d6 5.Nc3 Nf6 6.Bf4 O-O 7.Be2 a6 8.a4 Qa5 9. 
+Qd2 b5 10.cxb5 axb5 11.Bxb5 Ba6 12.Bxa6 Rxa6 13.Nge2 Nbd7 14.O-O Rb8 15.f3 
+Rb4 16.Rfb1 Nb6 17.b3 Nfd7 18.Bg5 c4 19.bxc4 Nxc4 20.Qc1 Nde5 21.Kh1 Rab6  
+22.Rxb4 Rxb4 23.Rb1 Nd3 24.Qc2 Nf2+ 25.Kg1 Qc5 26.Rxb4 Nxe4+ 27.Kh1 Nf2+  
+28.Kg1 Nd3+ 29.Kh1 Nxb4 30.Qe4 h6 31.Bxe7 Nd2 32.Qf4 Bxc3 33.Qxh6 Qxd5 34. 
+Nxc3 Qe6 35.Qxd2 Qxe7 36.h3 Qe5 37.Ne4 Nd5 38.Qxd5 Qxd5 39.Nf6+ Kg7 40. 
+Nxd5 1-0 
+ 
+[Event "Admiral Niels Juel Cup 2013"] 
+[Site "Koge DEN"] 
+[Date "2013.04.27"] 
+[Round "10.7"] 
+[White "Narciso Dublan, Marc"] 
+[Black "Prosviriakov, Vladimir"] 
+[Result "1-0"] 
+[WhiteElo "2551"] 
+[BlackElo "2304"] 
+[ECO "B06"] 
+[EventDate "2013.04.20"] 
+ 
+1.e4 g6 2.d4 c5 3.dxc5 Qa5+ 4.c3 Qxc5 5.Na3 Bg7 6.Nf3 Nf6 7.Nb5 b6 8.Qd4  
+Na6 9.Qxc5 bxc5 10.Nd2 Bb7 11.f3 O-O 12.Nb3 Ne8 13.Na5 Bc8 14.Bg5 Bf6 15. 
+Bh6 Bg7 16.Bg5 Bf6 17.Bxf6 Nxf6 18.O-O-O d6 19.Nxd6 exd6 20.Bxa6 Bxa6 21. 
+Rxd6 Nxe4 22.Rxa6 Nf2 23.Rf1 Nd3+ 24.Kc2 Rfd8 25.Nc4 Nf4 26.g3 Ne6 27.f4  
+Rd7 28.Rd1 Rxd1 29.Kxd1 Rd8+ 30.Kc2 Rd7 31.Ne5 Rc7 32.a4 Kf8 33.Nc4 Ke7  
+34.Nd6 c4 35.Nb5 Rb7 36.Rxa7 Rxa7 37.Nxa7 Kd6 38.Nb5+ Kd5 39.a5 Nc5 40.Nd4 
+Ke4 41.Kd2 h5 42.Ke2 h4 43.Nc6 hxg3 44.hxg3 Kd5 45.Ne5 f6 46.Nxg6 Na4 47. 
+a6 Kc6 48.Ne7+ Kb6 49.Nd5+ Kxa6 50.Nxf6 Nxb2 51.Ke3 Na4 52.Kd4 Kb5 53.Ne4  
+1-0 
+ 
+[Event "2. Open"] 
+[Site "Urumia IRI"] 
+[Date "2008.08.31"] 
+[Round "10"] 
+[White "Mallahi, Amir"] 
+[Black "Ghanbari, Rasool"] 
+[Result "1-0"] 
+[WhiteElo "2393"] 
+[BlackElo "2227"] 
+[ECO "B06"] 
+[EventDate "2008.08.26"] 
+ 
+1.e4 g6 2.d4 c5 3.dxc5 Bg7 4.c3 Qc7 5.Be3 Na6 6.Bxa6 bxa6 7.Nd2 Nf6 8.f3  
+Rb8 9.Rb1 O-O 10.Ne2 a5 11.O-O Ba6 12.c4 Rb7 13.Qc2 Rfb8 14.b3 e6 15.Nc1  
+Rd8 16.Nd3 Bf8 17.e5 Ne8 18.Ne4 f6 19.f4 Rbb8 20.Nd6 Qc6 21.Bd2 Nxd6 22. 
+exd6 e5 23.fxe5 fxe5 24.Bxa5 e4 25.Bxd8 exd3 26.Qf2 1-0 
+ 
+[Event "ch-City"] 
+[Site "Tehran IRI"] 
+[Date "2003.07.18"] 
+[Round "7"] 
+[White "Darban, Morteza"] 
+[Black "Mahmoodi, Mashouf"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2341"] 
+[BlackElo "2204"] 
+[ECO "B06"] 
+[EventDate "2003.07.05"] 
+ 
+1.e4 g6 2.d4 c5 3.dxc5 Bg7 4.c3 a5 5.Be3 Na6 6.Na3 Qc7 7.Bxa6 Rxa6 8.Ne2  
+Nf6 9.f3 O-O 10.O-O d5 11.cxd6 Rxd6 12.Qc2 Ra6 13.Rfd1 Nh5 14.Nb5 Qc4 15. 
+a4 f5 16.Ned4 e5 17.Ne2 fxe4 18.Qxe4 Qxe4 19.fxe4 Bg4 20.Rd2 Nf6 21.Ng3 h5 
+22.Nc7 Rc6 23.Nd5 Rc4 24.Nb6 Rc6 25.h4 Be6 26.Rd3 Ng4 27.Nd5 Rc4 28.Bg5  
+Kh7 29.b3 Rcc8 30.Rf1 Rxf1+ 31.Kxf1 Bf8 32.Ke2 Bc5 33.Nf1 Nf2 34.Nf6+ Kg7  
+35.Rf3 Bxb3 36.Ne3 Bxe3 37.Kxe3 Ng4+ 38.Kd2 Rd8+ 39.Kc1 Rd1+ 40.Kb2 Bxa4  
+41.Nxg4 hxg4 42.Bf6+ Kf7 43.Rf2 Ke6 44.Bg7 Be8 45.Rf6+ Ke7 46.Rf2 g3 47. 
+Rf3 Rd2+ 48.Kc1 Rxg2 49.Bxe5 Rg1+ 50.Kb2 g2 51.Rg3 Rh1 52.Rxg2 Rxh4 53.Bc7 
+Rxe4 54.Bxa5 Ke6 55.Rg5 Re2+ 56.Kc1 Kf7 57.Bb6 Bc6 58.Bd4 Ra2 59.Kd1 Be4  
+60.Re5 Bf3+ 61.Ke1 Rg2 62.Kf1 Bc6 63.Rc5 Rg4 64.Be3 Kf6 65.Bd4+ Ke6 66.Be3 
+Bd5 67.Kf2 Rg2+ 68.Kf1 Rc2 69.Ke1 Bf3 70.Bd2 Rb2 71.Rg5 Kf6 72.Rc5 Be4 73. 
+Bg5+ Ke6 74.Bd2 Kd6 75.Rc4 Ke5 76.Rb4 Ra2 77.Rb5+ Ke6 78.Rc5 Bf3 79.Rg5  
+Be4 80.Rb5 Bd5 81.Rc5 Kd6 82.Rb5 Ra4 83.Rb6+ Bc6 84.Rb4 Ra1+ 85.Kf2 Ke5  
+86.Rg4 Be4 87.Ke3 Ra4 88.Kf2 b5 89.Ke3 Kd5 90.Rh4 Bf5 91.Rb4 Kc5 1/2-1/2 
+ 
+[Event "WCh w Blitz Semi-Final"] 
+[Site "Moscow RUS"] 
+[Date "2010.09.16"] 
+[Round "21"] 
+[White "Gaponenko, Inna"] 
+[Black "Gvetadze, Sofio"] 
+[Result "1-0"] 
+[WhiteElo "2469"] 
+[BlackElo "2352"] 
+[ECO "B75"] 
+[EventDate "2010.09.15"] 
+ 
+1.e4 g6 2.d4 c5 3.Nf3 Bg7 4.Nc3 cxd4 5.Nxd4 Nc6 6.Be3 d6 7.Bc4 Nf6 8.f3  
+Bd7 9.Qd2 Ne5 10.Bb3 Rc8 11.h4 h5 12.O-O-O Nc4 13.Bxc4 Rxc4 14.Nb3 a5 15. 
+Kb1 a4 16.Nd4 a3 17.b3 Rc8 18.Nd5 Nxd5 19.exd5 b5 20.Rhe1 O-O 21.Bh6 Re8  
+22.Bxg7 Kxg7 23.g4 hxg4 24.h5 Rh8 25.hxg6 Kxg6 26.fxg4 Rc5 27.Nf5 Bxf5 28. 
+gxf5+ Kg7 29.Qd4+ f6 30.Re2 Kf8 31.Rde1 Qd7 32.Qe4 Rh7 33.Rg2 Qe8 34.Qe6  
+Qf7 35.Qd7 Rh8 36.Reg1 Qh7 37.Re2 Qf7 38.Rge1 Rh7 39.Rg2 Rh8 40.Reg1 Qh7  
+41.b4 Rxd5 42.Qc8+ Kf7 43.Qe6+ Ke8 44.Qxd5 1-0 

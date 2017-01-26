@@ -1,0 +1,16 @@
+ 
+[Event "British Rapidplay"] 
+[Site "Halifax ENG"] 
+[Date "2006.11.04"] 
+[Round "5"] 
+[White "Burrows, Martin P"] 
+[Black "Ashton, Adam G"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2215"] 
+[BlackElo "2304"] 
+[ECO "B00"] 
+[EventDate "2006.11.04"] 
+ 
+1.e4 Nc6 2.Nf3 a6 3.a4 b5 4.d3 Bb7 5.Nbd2 e5 6.axb5 axb5 7.Rxa8 Bxa8 8.c4  
+bxc4 9.dxc4 Nd4 10.Ng5 h6 11.Nh3 c5 12.Nf4 Nf5 13.g3 Bd6 14.Be2 f6 15.b4  
+Nfe7 16.h4 g5 17.hxg5 fxg5 1/2-1/2 

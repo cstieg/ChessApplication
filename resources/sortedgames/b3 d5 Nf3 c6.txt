@@ -1,0 +1,90 @@
+ 
+[Event "2. Zlatni Rat Open"] 
+[Site "Bol CRO"] 
+[Date "2011.09.10"] 
+[Round "1.1"] 
+[White "Kalajzic, Ivan"] 
+[Black "Markus, Robert"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2219"] 
+[BlackElo "2635"] 
+[ECO "A06"] 
+[EventDate "2011.09.10"] 
+ 
+1.b3 d5 2.Nf3 c6 3.Bb2 Nf6 4.e3 Bf5 5.c4 e6 6.Nh4 Bg6 7.Be2 Bd6 8.d3 O-O  
+9.Nd2 Nbd7 10.Nxg6 hxg6 11.h4 Be5 12.Bxe5 Nxe5 13.d4 Ned7 14.h5 gxh5 15. 
+Bxh5 Qe7 16.Bf3 e5 17.Qe2 Rfe8 18.dxe5 Qxe5 19.O-O d4 20.Rfe1 Qg5 21.Nf1  
+dxe3 22.Nxe3 Ne5 23.Rad1 g6 24.g3 Kg7 25.Kg2 Rad8 26.Rxd8 Rxd8 27.Nf5+  
+Qxf5 28.Qxe5 Qxe5 29.Rxe5 Nd7 30.Re1 Kf6 31.Rd1 Ke7 32.Re1+ Kd6 33.Rd1+  
+Kc7 34.Re1 a5 35.Re7 Rf8 36.Bg4 f5 37.Bd1 Kd6 38.Rg7 Rf6 39.a3 b6 40.b4  
+axb4 41.axb4 Ne5 42.Be2 f4 43.gxf4 Rxf4 44.Kg3 Re4 45.f4 Rxe2 46.fxe5+  
+Rxe5 47.Rxg6+ Re6 48.Rxe6+ Kxe6 49.Kf4 Kf6 1/2-1/2 
+ 
+[Event "Benasque ESP, Closed GM 2010"] 
+[Site "Benasque ESP"] 
+[Date "2010.07.09"] 
+[Round "2.3"] 
+[White "Garcia Palermo, Carlos"] 
+[Black "Gomez Esteban, Juan Mario"] 
+[Result "1-0"] 
+[WhiteElo "2450"] 
+[BlackElo "2485"] 
+[ECO "A06"] 
+[EventDate "2010.07.08"] 
+ 
+1.b3 d5 2.Nf3 c6 3.g3 Nf6 4.Bg2 Bf5 5.O-O h6 6.Bb2 e6 7.d3 Be7 8.Nbd2 O-O  
+9.Ne5 Nbd7 10.e4 Bh7 11.Nxd7 Qxd7 12.Qe2 Qc7 13.f4 Rad8 14.Kh1 b5 15.e5  
+Nd7 16.g4 c5 17.f5 d4 18.a4 a6 19.axb5 axb5 20.fxe6 fxe6 21.Nf3 Nb6 22.Bc1 
+Nd5 23.Bd2 Ra8 24.Rxa8 Rxa8 25.g5 hxg5 26.Nxg5 Bxg5 27.Bxd5 exd5 28.Bxg5  
+Rf8 29.Rxf8+ Kxf8 30.e6 Bg6 31.e7+ Ke8 32.Qe6 Bf7 33.Qa6 Kd7 34.Qxb5+ Qc6  
+35.Qb8 Ke6 36.Qh8 Kf5 37.Qxg7 Qe6 38.Bh4 Qg6 39.Qxg6+ Bxg6 40.Kg2 Ke6 41. 
+Kf2 Bh5 42.Ke1 Kf7 43.Kd2 Ke8 44.Bg5 Bf7 45.h4 Kd7 46.Kc1 Bh5 47.Kb2 Bd1  
+48.b4 cxb4 49.Bf6 Ke8 50.Bxd4 Kxe7 51.Bc5+ Ke6 52.Bxb4 d4 53.Bc5 Kd5 54. 
+Ba7 Bh5 55.Kc1 Bg4 56.Kd2 Bh5 57.Bb6 Bg4 58.Bd8 Bh5 59.Bf6 Bg4 60.Bh8 Bh5  
+61.c3 dxc3+ 62.Bxc3 Bg4 63.Ke3 Bd1 64.Bh8 Bh5 65.Kf4 Be2 66.d4 Bd3 67.Kg5  
+Ke6 68.Kh6 Be4 69.Kg7 Bf3 70.Kf8 Bh5 71.Be5 Bg6 72.Kg7 Be8 73.Kh6 Kf5 74. 
+Bh8 Kg4 75.Bf6 Kf5 76.Kg7 Ke6 77.Be5 Bh5 78.Kh6 Bf3 79.Kg5 Be4 80.h5 Bd3  
+81.h6 Bh7 82.Kf4 Kd5 83.Ke3 Kc4 84.Kd2 Be4 85.Kc1 Bh7 86.Kb2 Bg6 87.Ka3  
+Bc2 88.Bg7 Bh7 89.Ka4 Be4 90.Ka5 Kd5 91.Kb6 Bf5 92.Kc7 Be4 93.Kd7 Bh7 94. 
+Ke7 Bd3 95.Be5 1-0 
+ 
+[Event "Cup Rilton"] 
+[Site "Stockholm SWE"] 
+[Date "2002.??.??"] 
+[Round "2"] 
+[White "Bellon Lopez, Juan Manuel"] 
+[Black "Backelin, Rikard"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2461"] 
+[BlackElo "2290"] 
+[ECO "A12"] 
+ 
+1.b3 d5 2.Nf3 c6 3.Bb2 Nf6 4.c4 Bg4 5.h3 Bxf3 6.gxf3 Nbd7 7.f4 e6 8.e3 g6  
+9.h4 Bg7 10.d4 Ne4 11.Nd2 Qa5 12.h5 Ndf6 13.hxg6 hxg6 14.Rxh8+ Bxh8 15.f3  
+Qxd2+ 16.Qxd2 Nxd2 17.Kxd2 Bg7 18.Bd3 Kd7 19.Rh1 Rh8 20.Rxh8 Bxh8 21.Ba3  
+Bg7 22.Bb4 a6 23.a4 Ne8 24.Bc5 f5 25.Kc3 Bf6 26.Bf8 Bh4 27.Kd2 Nd6 28.c5  
+Nf7 29.Bg7 Bd8 30.b4 Kc8 31.b5 axb5 32.axb5 Kd7 33.Ke2 Be7 34.Kf2 Bh4+ 35. 
+Kg2 Ke8 36.e4 Kd7 37.b6 Be7 38.Kg3 Kc8 39.Bc2 Kd7 40.Ba4 Kc8 41.e5 Kd7 42. 
+Kh3 Kc8 43.Bf6 Bxf6 44.exf6 Kd7 45.Kh4 Kc8 46.Bc2 Kd7 47.Ba4 Kc8 48.Bb3  
+Kd7 49.Ba4 Kc8 1/2-1/2 
+ 
+[Event "Rilton Cup"] 
+[Site "Stockholm SWE"] 
+[Date "2001.12.28"] 
+[Round "2"] 
+[White "Bellon Lopez, Juan Manuel"] 
+[Black "Backelin, Rikard"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2442"] 
+[BlackElo "2290"] 
+[ECO "A12"] 
+[EventDate "2001.12.27"] 
+ 
+1.b3 d5 2.Nf3 c6 3.Bb2 Nf6 4.c4 Bg4 5.h3 Bxf3 6.gxf3 Nbd7 7.f4 e6 8.e3 g6  
+9.h4 Bg7 10.d4 Ne4 11.Nd2 Qa5 12.h5 Ndf6 13.hxg6 hxg6 14.Rxh8+ Bxh8 15.f3  
+Qxd2+ 16.Qxd2 Nxd2 17.Kxd2 Bg7 18.Bd3 Kd7 19.Rh1 Rh8 20.Rxh8 Bxh8 21.Ba3  
+Bg7 22.Bb4 a6 23.a4 Ne8 24.Bc5 f5 25.Kc3 Bf6 26.Bf8 Bh4 27.Kd2 Nd6 28.c5  
+Nf7 29.Bg7 Bd8 30.b4 Kc8 31.b5 axb5 32.axb5 Kd7 33.Ke2 Be7 34.Kf2 Bh4+ 35. 
+Kg2 Ke8 36.e4 Kd7 37.b6 Be7 38.Kg3 Kc8 39.Bc2 Kd7 40.Ba4 Kc8 41.e5 Kd7 42. 
+Kh3 Kc8 43.Bf6 Bxf6 44.exf6 Kd7 45.Kh4 Kc8 46.Bc2 Kd7 47.Ba4 Kc8 48.Bb3  
+Kd7 49.Ba4 Kc8 1/2-1/2 

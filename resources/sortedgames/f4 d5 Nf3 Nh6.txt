@@ -1,0 +1,37 @@
+ 
+[Event "HSG Open 2014"] 
+[Site "Hilversum NED"] 
+[Date "2014.06.21"] 
+[Round "3.4"] 
+[White "Becx, Cesar"] 
+[Black "Hambleton, Aman"] 
+[Result "0-1"] 
+[WhiteElo "2219"] 
+[BlackElo "2468"] 
+[ECO "A03"] 
+[EventDate "2014.06.20"] 
+ 
+1.f4 d5 2.Nf3 Nh6 3.g3 Bg4 4.Bg2 e6 5.c4 c6 6.Ne5 Bh5 7.cxd5 exd5 8.Qb3  
+Qb6 9.Bh3 f6 10.Bc8 Bb4 11.Nd3 Na6 12.Be6 Qe3 13.Bd7+ Kd8 14.g4 Nxg4 15. 
+Nc3 Bxc3 16.dxc3 Qe4 17.O-O Qxe2 18.Bxg4 Qxg4+ 19.Kh1 Qe2 20.Rf2 Qxd3 21. 
+Qxb7 Nc7 22.Qxc6 Qd1+ 23.Kg2 Re8 24.Bd2 Qxa1 25.c4 Qxa2 26.b3 Qa6 27.Qc5  
+Qb6 28.Qa3 a5 0-1 
+ 
+[Event "BL2-Nord 0203"] 
+[Site "GER"] 
+[Date "2003.01.26"] 
+[Round "5.1"] 
+[White "Danielsen, Henrik"] 
+[Black "Richter, Michael"] 
+[Result "0-1"] 
+[WhiteElo "2501"] 
+[BlackElo "2396"] 
+[ECO "A03"] 
+ 
+1.f4 d5 2.Nf3 Nh6 3.c3 g6 4.g3 Nf5 5.d3 Nc6 6.e4 dxe4 7.dxe4 Qxd1+ 8.Kxd1  
+Nd6 9.e5 Bg4 10.Be2 Nf5 11.Ng5 h5 12.Na3 f6 13.Ne6 Kf7 14.Nxc7 Rc8 15.e6+  
+Kg8 16.Nd5 Rd8 17.c4 Ncd4 18.Bxg4 hxg4 19.Bd2 Nxg3 20.Rg1 Ne4 21.Be3 Nxe6  
+22.Rxg4 Rxh2 23.Ke1 Kf7 24.Rb1 f5 25.Rg1 Bg7 26.Nb5 Bxb2 27.Nxa7 Nd4 28. 
+Kf1 Nf3 29.Rg2 Nfd2+ 30.Bxd2 Nxd2+ 31.Rxd2 Rxd2 32.Nb5 Rh8 33.Kg1 Rdh2 34. 
+Rf1 Rh1+ 35.Kg2 R8h2+ 36.Kg3 Rxf1 37.Kxh2 Rc1 38.Nb6 e5 39.fxe5 Bxe5+ 40. 
+Kg2 Rc2+ 41.Kf3 g5 42.Nd7 g4+ 43.Ke3 Bh2 44.Nd4 Bg1+ 45.Kd3 Bxd4 0-1 

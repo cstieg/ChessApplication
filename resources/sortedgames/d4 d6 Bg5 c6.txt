@@ -1,0 +1,97 @@
+ 
+[Event "Independence Cup A"] 
+[Site "Kiev UKR"] 
+[Date "2005.08.12"] 
+[Round "11"] 
+[White "Chubar, Vladimir"] 
+[Black "Semenova, Lidia K"] 
+[Result "0-1"] 
+[WhiteElo "2325"] 
+[BlackElo "2271"] 
+[ECO "A41"] 
+[EventDate "2005.08.12"] 
+ 
+1.d4 d6 2.Bg5 c6 3.Nc3 Qb6 4.Rb1 g6 5.h4 Bg7 6.e3 h6 7.Bf4 Nf6 8.Bd3 Nbd7  
+9.Nf3 Nd5 10.Nxd5 cxd5 11.Bg3 Nf6 12.O-O Bg4 13.c4 dxc4 14.Bxc4 O-O 15.Bd3 
+Qa5 16.a3 e5 17.e4 Nh5 18.d5 f5 19.Qd2 Qd8 20.Nh2 f4 21.Nxg4 fxg3 22.fxg3  
+Nxg3 23.Rxf8+ Bxf8 24.Nxh6+ Kh7 25.Qg5 Qb6+ 26.Kh2 Bxh6 27.Qe7+ Bg7 28. 
+Kxg3 Qe3+ 29.Kh2 Qxd3 30.Rc1 Qxe4 31.Rc7 Qf4+ 32.Kh3 Qf5+ 33.Kh2 Qf8 34. 
+Qd7 Rd8 35.Qg4 Qf5 36.Qe2 Rd7 37.Rc4 Rf7 38.b4 e4 39.Rxe4 Be5+ 40.g3 Qf2+  
+41.Qxf2 Rxf2+ 42.Kg1 Rf3 43.a4 Rxg3+ 44.Kf2 Rc3 45.Ke2 Kh6 46.b5 Rc5 0-1 
+ 
+[Event "Saint-Chely d'Aubrac (4eme open)"] 
+[Site "Saint-Chely d'Aubrac"] 
+[Date "2004.07.19"] 
+[Round "3.11"] 
+[White "Prie, Eric"] 
+[Black "Seret, Jean-Luc"] 
+[Result "0-1"] 
+[WhiteElo "2441"] 
+[BlackElo "2351"] 
+[ECO "A41"] 
+ 
+1.d4 d6 2.Bg5 c6 3.c3 Nd7 4.Nd2 Ngf6 5.Ngf3 Qc7 6.e3 h6 7.Bh4 g5 8.Bg3 Nh5 
+9.Bd3 Bg7 10.a4 Ndf6 11.e4 Nxg3 12.hxg3 Bg4 13.Qc2 O-O-O 14.a5 a6 15.Nc4  
+Kb8 16.Nb6 Bxf3 17.gxf3 h5 18.Qb3 e6 19.Ke2 Ka7 20.Nc4 Nd7 21.Ne3 Rh6 22. 
+Qa2 h4 23.gxh4 Rdh8 24.Rhg1 Rxh4 25.Rxg5 Bh6 26.Rg2 Nf6 27.Ng4 Nh5 28.Rh2  
+Rxh2 29.Nxh2 Nf4+ 30.Kd2 f5 31.exf5 Qh7 32.Qb1 Nxd3+ 33.Kxd3 Qxf5+ 34.Ke2  
+Qb5+ 35.c4 Qxc4+ 36.Qd3 Qb4 37.b3 Bg7 38.Ra4 Qb5 39.Ng4 Rh1 40.Ne3 Rb1 41. 
+Nc2 Rb2 0-1 
+ 
+[Event "Spring Open"] 
+[Site "Belgrade SRB"] 
+[Date "2003.04.02"] 
+[Round "9"] 
+[White "Zmijanac, Dusko"] 
+[Black "Mihajlovic, M."] 
+[Result "0-1"] 
+[WhiteElo "2275"] 
+[BlackElo "2265"] 
+[ECO "A41"] 
+[EventDate "2003.03.25"] 
+ 
+1.d4 d6 2.Bg5 c6 3.Qd2 Qb6 4.c4 h6 5.Be3 Nf6 6.f3 Nbd7 7.Bf2 Qc7 8.e4 e5  
+9.Nc3 a6 10.Nge2 Be7 11.Ng3 Nf8 12.Be2 Ng6 13.O-O Nf4 14.Rfd1 Nxe2+ 15. 
+Ngxe2 b5 16.b3 O-O 17.Rac1 b4 18.Na4 c5 19.d5 Nh7 20.Be3 Qd8 21.Nb2 a5 22. 
+Rf1 Ng5 23.g4 Bd7 24.Ng3 Bc8 25.Kg2 Nh7 26.h3 Re8 27.Rce1 Bf6 28.Nf5 Ra7  
+29.Nd3 Bxf5 30.gxf5 Bg5 31.Rg1 Bxe3 32.Qxe3 Qg5+ 33.Kf2 Qh4+ 34.Rg3 Ng5  
+35.Kg2 a4 36.Re2 axb3 37.axb3 Ra1 38.Nf2 Rg1+ 39.Kxg1 Qxg3+ 40.Kf1 Nxf3  
+41.Ra2 Qg1+ 42.Ke2 Nd4+ 43.Kd2 Qb1 44.Ra6 Nxb3+ 45.Ke2 Nd4+ 46.Kd2 Qb2+  
+47.Kd1 Qc2+ 48.Ke1 b3 49.Qd3 Qc1+ 50.Nd1 b2 51.Rb6 Nc2+ 52.Ke2 b1=Q 53. 
+Rxb1 Qxb1 0-1 
+ 
+[Event "TCh"] 
+[Site "Mulhouse FRA"] 
+[Date "2001.03.29"] 
+[Round "4"] 
+[White "Mensch, Etienne"] 
+[Black "Peyrat, Olivier"] 
+[Result "1-0"] 
+[WhiteElo "2313"] 
+[BlackElo "2373"] 
+[ECO "A41"] 
+[EventDate "2001.02.02"] 
+ 
+1.d4 d6 2.Bg5 c6 3.c4 Qa5+ 4.Bd2 Qc7 5.d5 e5 6.dxe6 Bxe6 7.e3 Nf6 8.Bc3  
+Ne4 9.Bd3 Nxc3 10.Nxc3 Nd7 11.Nf3 Ne5 12.Nxe5 dxe5 13.O-O Rd8 14.Qc2 g6  
+15.f4 exf4 16.exf4 Qd6 17.Rad1 f5 18.Kh1 Bg7 19.Qe2 Qe7 20.Rfe1 Kf7 21. 
+Bxf5 gxf5 22.Qh5+ Kf6 23.Qg5+ Kf7 24.Qh5+ Kf6 25.g4 Qc7 26.g5+ Ke7 27.Qe2  
+Qc8 28.Nd5+ cxd5 29.cxd5 Rd6 30.Rc1 Qd8 31.dxe6 Qa5 32.Qc4 Ke8 1-0 
+ 
+[Event "TCh-SVK"] 
+[Site "SVK"] 
+[Date "2001.03.18"] 
+[Round "11"] 
+[White "Bombek, Peter"] 
+[Black "Lipka, Juraj"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2271"] 
+[BlackElo "2376"] 
+[ECO "A41"] 
+[EventDate "2000.10.21"] 
+ 
+1.d4 d6 2.Bg5 c6 3.Nf3 Bg4 4.Nbd2 Nd7 5.c3 Ngf6 6.e4 Qc7 7.Be2 e5 8.O-O  
+Be7 9.Qc2 O-O 10.Rfe1 Rfe8 11.Rad1 Nf8 12.h3 Bh5 13.dxe5 dxe5 14.Nc4 Bxf3  
+15.Bxf3 Rad8 16.Bh4 Ng6 17.Bg3 Nd7 18.a3 b5 19.Ne3 Ndf8 20.Nf5 Ne6 21.Be2  
+Ngf4 22.Bf1 g6 23.Nxe7+ Qxe7 24.a4 a6 25.f3 Rb8 26.Bf2 Nc5 27.axb5 axb5  
+28.Ra1 Red8 29.Red1 Nfe6 1/2-1/2 

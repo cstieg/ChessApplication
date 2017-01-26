@@ -1,0 +1,34 @@
+ 
+[Event "Polugaevsky Mem 2014"] 
+[Site "Samara RUS"] 
+[Date "2014.07.08"] 
+[Round "7.18"] 
+[White "Vastrukhin, Oleg"] 
+[Black "Yeletsky, Ivan"] 
+[Result "0-1"] 
+[WhiteElo "2402"] 
+[BlackElo "2209"] 
+[ECO "A00"] 
+[EventDate "2014.07.02"] 
+ 
+1.a3 g6 2.h4 Nf6 3.b3 d6 4.Bb2 e5 5.e3 Nc6 6.Be2 h6 7.Nf3 Bg7 8.d4 exd4 9. 
+Nxd4 Ne5 10.Nd2 O-O 11.N2f3 Neg4 12.Nh2 Nxf2 13.Kxf2 Ne4+ 14.Kg1 Qxh4 15. 
+Ng4 Qg5 16.Rb1 Bxg4 17.Bxg4 Qxe3+ 18.Kh2 Be5+ 0-1 
+ 
+[Event "4NCL"] 
+[Site "Birmingham ENG"] 
+[Date "2001.11.24"] 
+[Round "3"] 
+[White "Smith, Andrew Philip"] 
+[Black "Neil, David R"] 
+[Result "0-1"] 
+[WhiteElo "2234"] 
+[BlackElo "2244"] 
+[ECO "A00"] 
+[EventDate "2001.09.22"] 
+ 
+1.a3 g6 2.h4 Nf6 3.b4 Bg7 4.Bb2 a5 5.Nh3 d5 6.Nf4 Qd6 7.Nd3 Nbd7 8.Nc3 c6  
+9.e3 e5 10.Na4 O-O 11.Ndc5 b5 12.Nxd7 Nxd7 13.Nc3 axb4 14.axb4 Bb7 15.Rb1  
+Qxb4 16.h5 Qd6 17.hxg6 fxg6 18.Qg4 Nf6 19.Qh4 Rf7 20.g4 Bh8 21.g5 Nd7 22. 
+Ne2 Nb6 23.f4 Nc4 24.Bc3 Bc8 25.Bh3 Bxh3 26.Qxh3 exf4 27.Bxh8 Kxh8 28.Nxf4 
+Re8 29.Kd1 d4 30.Qh6 dxe3 31.Nxg6+ Kg8 32.d3 e2+ 0-1 

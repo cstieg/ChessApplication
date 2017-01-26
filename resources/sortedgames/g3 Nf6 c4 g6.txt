@@ -1,0 +1,416 @@
+ 
+[Event "Politiken Cup 2015"] 
+[Site "Helsingor DEN"] 
+[Date "2015.07.27"] 
+[Round "4.26"] 
+[White "Fernandez, Daniel Howard"] 
+[Black "Olofsson-Dolk, Mattis"] 
+[Result "1-0"] 
+[WhiteElo "2472"] 
+[BlackElo "2253"] 
+[ECO "A15"] 
+[EventDate "2015.07.25"] 
+ 
+1.g3 Nf6 2.c4 g6 3.b3 Bg7 4.Bb2 d5 5.cxd5 O-O 6.Bg2 Nxd5 7.Bxg7 Kxg7 8.Qc1 
+Nc6 9.Nc3 Nxc3 10.Qxc3+ Qd4 11.Rc1 Qxc3 12.Rxc3 Bd7 13.f4 a5 14.Nf3 a4 15. 
+Kf2 axb3 16.axb3 Ra2 17.Rd1 Rd8 18.Ne1 Be6 19.Bxc6 bxc6 20.Nd3 Bf5 21.Ne5  
+Rdxd2 22.Rxd2 Rxd2 23.Rxc6 Rc2 24.b4 f6 25.Rxc2 Bxc2 26.Nd7 Kf7 27.Nc5 Bf5 
+28.Na6 c6 29.Nb8 c5 30.bxc5 Ke6 31.Nc6 Kd7 32.Nb4 e5 33.fxe5 fxe5 34.Kf3  
+g5 35.Ke3 h5 36.h4 gxh4 37.gxh4 Ke6 38.Kd2 Be4 39.Kc3 Bg2 40.Nc2 Bh3 41. 
+Ne3 Kd7 42.Kd3 Kc6 43.Ke4 Kxc5 44.Kxe5 Kc6 45.Nd5 Bg4 46.Nf4 Kd7 47.Kf6  
+Ke8 48.e3 1-0 
+ 
+[Event "Mulhouse IM 2012"] 
+[Site "Mulhouse FRA"] 
+[Date "2012.07.02"] 
+[Round "1.3"] 
+[White "Lerch, Patrice"] 
+[Black "Bellahcene, Bilel"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2391"] 
+[BlackElo "2344"] 
+[ECO "A15"] 
+[EventDate "2012.07.02"] 
+ 
+1.g3 Nf6 2.c4 g6 3.b3 Bg7 4.Bb2 O-O 5.Bg2 c6 6.Nf3 d5 7.O-O Nbd7 8.Qc2 Re8 
+9.Nc3 dxc4 10.bxc4 e5 11.d3 Qc7 12.Rab1 Nc5 13.Na4 Nfd7 14.Ng5 Nxa4 15. 
+Qxa4 Nc5 16.Qb4 Bf8 17.Qd2 f6 18.Ne4 Nxe4 19.Bxe4 Bg7 20.Bg2 Bg4 21.Bc3  
+Rad8 22.Qe3 b6 23.a4 Bf8 24.h3 Bc5 25.Qd2 Bf5 26.a5 e4 27.Kh2 exd3 28.axb6 
+axb6 29.e3 Qd6 30.Rbe1 Bc8 31.f4 Ba6 32.Qa2 Ra8 33.e4 Qe6 34.f5 Qxc4 35. 
+Qb2 Bb5 36.fxg6 Ra2 37.Qc1 d2 38.gxh7+ Kxh7 39.Qd1 Qxc3 40.Qh5+ Kg7 41.e5  
+Rxe5 42.Qg4+ Kf7 43.Rxf6+ Kxf6 44.Qh4+ Ke6 45.Qg4+ Kd6 46.Qg6+ Kc7 47.Qg7+ 
+Re7 48.Rxe7+ Bxe7 49.Qxe7+ Kb8 50.Qe8+ Ka7 51.Qf7+ Ka6 52.Qxa2+ Qa5 53.Qg8 
+1/2-1/2 
+ 
+[Event "Tambov RUS, 18. Korensky Memorial"] 
+[Site "Tambov RUS"] 
+[Date "2009.08.28"] 
+[Round "7"] 
+[White "Vyaznikov, Sergey O"] 
+[Black "Pecheritsa, Vitaly"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2240"] 
+[BlackElo "2319"] 
+[ECO "A16"] 
+[EventDate "2009.08.22"] 
+ 
+1.g3 Nf6 2.c4 g6 3.Nc3 Bg7 4.Bg2 d6 5.Nf3 O-O 6.d3 e5 7.Bd2 Nc6 8.O-O h6  
+9.Rb1 Be6 10.b4 Qd7 11.b5 Ne7 12.Qc1 Kh7 13.e4 Nh5 14.Nd5 f5 15.Nh4 f4 16. 
+Qd1 Bf6 17.Nxf6+ Rxf6 18.Bf3 fxg3 19.fxg3 Ng7 20.Ng2 Bh3 21.Qe2 Raf8 22. 
+Qe3 Ng8 23.Be2 b6 24.Rxf6 Rxf6 25.Rf1 Rxf1+ 26.Bxf1 Bxg2 27.Bxg2 Qg4 28. 
+Bf3 1/2-1/2 
+ 
+[Event "BL 0506 SF Berlin - TV Tegernsee"] 
+[Site "?"] 
+[Date "2006.01.28"] 
+[Round "8.8"] 
+[White "Thiede, Lars"] 
+[Black "Bromberger, Stefan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2417"] 
+[BlackElo "2478"] 
+[ECO "A26"] 
+[EventDate "2006.??.??"] 
+ 
+1.g3 Nf6 2.c4 g6 3.Bg2 Bg7 4.Nf3 O-O 5.O-O d6 6.Nc3 e5 7.d3 Nc6 8.Rb1 h6  
+9.b4 Be6 10.b5 Ne7 11.Qb3 Qc8 12.a4 g5 13.Ba3 Re8 14.a5 Bf8 15.Rfc1 Nf5  
+16.e4 Ng7 17.d4 exd4 18.Nxd4 Bh3 19.Bh1 Nd7 20.Re1 Ne6 21.Nf5 Nec5 22.Qc2  
+a6 23.Bb4 Nf6 24.Ne3 c6 25.bxc6 bxc6 26.Bxc5 dxc5 27.Bg2 Ra7 28.Bxh3 Qxh3  
+29.Rb6 Nd7 30.Rxc6 Bg7 31.f4 gxf4 32.gxf4 Bd4 33.Nd5 Kh8 34.Kh1 Rg8 35.Qe2 
+Rb7 36.Qf1 Qh5 37.Nf5 f6 38.Nxd4 cxd4 39.Nb6 Nxb6 40.Rxb6 Rbg7 41.Rb3 Rg4  
+42.Qf2 Qxa5 43.Rh3 Kh7 44.e5 Qc7 45.Qxd4 Qb7+ 1/2-1/2 
+ 
+[Event "Bundesliga 2005-6"] 
+[Site "Kreuzberg GER"] 
+[Date "2006.01.28"] 
+[Round "8"] 
+[White "Thiede, Lars"] 
+[Black "Bromberger, Stefan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2460"] 
+[BlackElo "2481"] 
+[ECO "A26"] 
+[EventDate "2006.01.27"] 
+ 
+1.g3 Nf6 2.c4 g6 3.Bg2 Bg7 4.Nf3 O-O 5.O-O d6 6.Nc3 e5 7.d3 Nc6 8.Rb1 h6  
+9.b4 Be6 10.b5 Ne7 11.Qb3 Qc8 12.a4 g5 13.Ba3 Re8 14.a5 Bf8 15.Rfc1 Nf5  
+16.e4 Ng7 17.d4 exd4 18.Nxd4 Bh3 19.Bh1 Nd7 20.Re1 Ne6 21.Nf5 Nec5 22.Qc2  
+a6 23.Bb4 Nf6 24.Ne3 c6 25.bxc6 bxc6 26.Bxc5 dxc5 27.Bg2 Ra7 28.Bxh3 Qxh3  
+29.Rb6 Nd7 30.Rxc6 Bg7 31.f4 gxf4 32.gxf4 Bd4 33.Nd5 Kh8 34.Kh1 Rg8 35.Qe2 
+Rb7 36.Qf1 Qh5 37.Nf5 f6 38.Nxd4 cxd4 39.Nb6 Nxb6 40.Rxb6 Rbg7 41.Rb3 Rg4  
+42.Qf2 Qxa5 43.Rh3 Kh7 44.e5 Qc7 45.Qxd4 Qb7+ 1/2-1/2 
+ 
+[Event "FIN Team Ch 2004-5"] 
+[Site "Finland FIN"] 
+[Date "2005.03.13"] 
+[Round "9"] 
+[White "Natri, Antero"] 
+[Black "Lahtinen, Markku"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2211"] 
+[BlackElo "2287"] 
+[ECO "A38"] 
+[EventDate "2004.09.18"] 
+ 
+1.g3 Nf6 2.c4 g6 3.Bg2 c5 4.Nc3 Bg7 5.a3 Nc6 6.Nf3 O-O 7.O-O e5 8.b4 d6 9. 
+Rb1 Rb8 10.d3 Re8 11.Ne1 cxb4 12.axb4 Be6 13.b5 Na5 14.b6 axb6 15.Be3 Nd7  
+16.Na4 Nc6 17.Nxb6 Nd4 18.Nd5 Nc5 19.Nb6 1/2-1/2 
+ 
+[Event "Bundesliga 2003-4"] 
+[Site "Konin GER"] 
+[Date "2003.11.22"] 
+[Round "3"] 
+[White "Thiede, Lars"] 
+[Black "Scholz, Christian Dr"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2440"] 
+[BlackElo "2392"] 
+[ECO "A26"] 
+[EventDate "2003.11.01"] 
+ 
+1.g3 Nf6 2.c4 g6 3.Bg2 Bg7 4.Nc3 O-O 5.d3 d6 6.Nf3 e5 7.O-O Nc6 8.Rb1 a5  
+9.a3 Re8 10.e4 Bg4 11.h3 Bxf3 12.Bxf3 Nd4 13.Be3 Nd7 14.Bg4 Nf8 15.h4 h5  
+16.Bh3 Nfe6 17.Ne2 Nxe2+ 18.Qxe2 a4 19.Kg2 c6 20.b4 d5 21.Bxe6 Rxe6 22. 
+Rbc1 Bf8 23.Rfd1 Qd7 24.Qc2 d4 25.Bd2 f5 26.f3 Qf7 27.Rh1 Be7 28.Rcf1 Bf6  
+29.Re1 Qe7 30.c5 Qf7 31.Re2 Re7 32.Bc1 Kh7 33.Rhe1 Rg8 34.f4 exf4 35.Bxf4  
+fxe4 36.Rxe4 Rge8 37.Rxe7 Rxe7 38.Rxe7 Bxe7 39.Qxa4 Bxh4 40.Qd1 Qa2+ 41. 
+Qd2 Qd5+ 42.Kh2 Bf6 43.Bd6 h4 44.Qf4 hxg3+ 45.Kxg3 Qe6 46.Qe4 Qb3 47.Be7  
+Bg7 48.Qh4+ Kg8 49.Qe4 Kh7 50.Qh4+ Kg8 51.Qe4 Kh7 52.Qh4+ 1/2-1/2 
+ 
+[Event "BL 0304 SF Katernberg - SFR Neuk�lln"] 
+[Site "?"] 
+[Date "2003.11.22"] 
+[Round "3.7"] 
+[White "Thiede, Lars"] 
+[Black "Scholz, Christian Dr"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2440"] 
+[BlackElo "2392"] 
+[ECO "A26"] 
+[EventDate "2003.??.??"] 
+ 
+1.g3 Nf6 2.c4 g6 3.Bg2 Bg7 4.Nc3 O-O 5.d3 d6 6.Nf3 e5 7.O-O Nc6 8.Rb1 a5  
+9.a3 Re8 10.e4 Bg4 11.h3 Bxf3 12.Bxf3 Nd4 13.Be3 Nd7 14.Bg4 Nf8 15.h4 h5  
+16.Bh3 Nfe6 17.Ne2 Nxe2+ 18.Qxe2 a4 19.Kg2 c6 20.b4 d5 21.Bxe6 Rxe6 22. 
+Rbc1 Bf8 23.Rfd1 Qd7 24.Qc2 d4 25.Bd2 f5 26.f3 Qf7 27.Rh1 Be7 28.Rcf1 Bf6  
+29.Re1 Qe7 30.c5 Qf7 31.Re2 Re7 32.Bc1 Kh7 33.Rhe1 Rg8 34.f4 exf4 35.Bxf4  
+fxe4 36.Rxe4 Rge8 37.Rxe7 Rxe7 38.Rxe7 Bxe7 39.Qxa4 Bxh4 40.Qd1 Qa2+ 41. 
+Qd2 Qd5+ 42.Kh2 Bf6 43.Bd6 h4 44.Qf4 hxg3+ 45.Kxg3 Qe6 46.Qe4 Qb3 47.Be7  
+Bg7 48.Qh4+ Kg8 49.Qe4 Kh7 50.Qh4+ Kg8 51.Qe4 Kh7 52.Qh4+ 1/2-1/2 
+ 
+[Event "BL 0304 SC Baden Oos - SFR Neuk�lln"] 
+[Site "?"] 
+[Date "2003.11.02"] 
+[Round "2.5"] 
+[White "Thiede, Lars"] 
+[Black "Schmaltz, Roland"] 
+[Result "0-1"] 
+[WhiteElo "2440"] 
+[BlackElo "2519"] 
+[ECO "A16"] 
+[EventDate "2003.??.??"] 
+ 
+1.g3 Nf6 2.c4 g6 3.Bg2 Bg7 4.Nc3 O-O 5.d3 c5 6.e4 Nc6 7.Be3 d6 8.h3 a6 9. 
+f4 Bd7 10.Nge2 b5 11.cxb5 axb5 12.Nxb5 Qb6 13.a4 Nb4 14.Nec3 Nh5 15.Kf2  
+Bd4 16.Re1 e5 17.f5 Nf6 18.g4 d5 19.exd5 gxf5 20.gxf5 Bxf5 21.Be4 Bg6 22. 
+Kg2 Bxe3 23.Rxe3 c4 24.Rg3 cxd3 25.Bxd3 Nbxd5 26.Nxd5 Nxd5 27.Bxg6 Nf4+  
+28.Kh1 hxg6 29.Qd6 Qb7+ 30.Kh2 Rfd8 31.Qb4 Rac8 32.Re1 Rc2+ 33.Kg1 Nxh3+  
+0-1 
+ 
+[Event "Bundesliga 2003-4"] 
+[Site "Kreuzberg GER"] 
+[Date "2003.11.02"] 
+[Round "2"] 
+[White "Thiede, Lars"] 
+[Black "Schmaltz, Roland"] 
+[Result "0-1"] 
+[WhiteElo "2440"] 
+[BlackElo "2519"] 
+[ECO "A16"] 
+[EventDate "2003.11.01"] 
+ 
+1.g3 Nf6 2.c4 g6 3.Bg2 Bg7 4.Nc3 O-O 5.d3 c5 6.e4 Nc6 7.Be3 d6 8.h3 a6 9. 
+f4 Bd7 10.Nge2 b5 11.cxb5 axb5 12.Nxb5 Qb6 13.a4 Nb4 14.Nec3 Nh5 15.Kf2  
+Bd4 16.Re1 e5 17.f5 Nf6 18.g4 d5 19.exd5 gxf5 20.gxf5 Bxf5 21.Be4 Bg6 22. 
+Kg2 Bxe3 23.Rxe3 c4 24.Rg3 cxd3 25.Bxd3 Nbxd5 26.Nxd5 Nxd5 27.Bxg6 Nf4+  
+28.Kh1 hxg6 29.Qd6 Qb7+ 30.Kh2 Rfd8 31.Qb4 Rac8 32.Re1 Rc2+ 33.Kg1 Nxh3+  
+0-1 
+ 
+[Event "Bundesliga 0102"] 
+[Site "Deutschland"] 
+[Date "2002.02.23"] 
+[Round "8.8"] 
+[White "Thiede, Lars"] 
+[Black "Nijboer, Friso"] 
+[Result "0-1"] 
+[WhiteElo "2410"] 
+[BlackElo "2551"] 
+[ECO "A26"] 
+[EventDate "2001.10.06"] 
+ 
+1.g3 Nf6 2.c4 g6 3.Bg2 Bg7 4.Nc3 O-O 5.d3 d6 6.Nf3 e5 7.O-O Nc6 8.Rb1 a5  
+9.a3 Nd4 10.Nd2 c6 11.e3 Nf5 12.Nf3 Re8 13.e4 Nd4 14.Nxd4 exd4 15.Ne2 Nd7  
+16.b3 Nc5 17.Bb2 Ne6 18.f4 f5 19.exf5 gxf5 20.g4 Nc5 21.Ng3 Re3 22.gxf5  
+Nxd3 23.Nh5 Qf8 24.Ba1 Bxf5 25.Ng3 Rae8 26.Qh5 Bg6 27.Qg4 Qf6 28.f5 Bf7  
+29.Ne4 R8xe4 30.Bxe4 Nc5 31.Bc2 Nd7 32.Rbd1 c5 33.Bb2 Ne5 34.Qg2 Bh5 35. 
+Be4 Re2 36.Rf2 Rxf2 37.Qxf2 Bxd1 38.Qg3 Qh6 39.Kf1 Qd2 40.f6 Be2+ 41.Kg2  
+Bg4+ 0-1 
+ 
+[Event "Bundesliga 2001-2"] 
+[Site "Konin GER"] 
+[Date "2002.02.23"] 
+[Round "8"] 
+[White "Thiede, Lars"] 
+[Black "Nijboer, Friso"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2425"] 
+[BlackElo "2574"] 
+[ECO "A26"] 
+[EventDate "2002.01.06"] 
+ 
+1.g3 Nf6 2.c4 g6 3.Bg2 Bg7 4.Nc3 O-O 5.d3 d6 6.Nf3 e5 7.O-O Nc6 8.Rb1 a5  
+9.a3 Nd4 10.Nd2 c6 11.e3 Nf5 12.Nf3 Re8 13.e4 Nd4 14.Nxd4 exd4 15.Ne2 Nd7  
+16.b3 Nc5 17.Bb2 Ne6 18.f4 f5 19.exf5 gxf5 20.g4 Nc5 21.Ng3 Re3 22.gxf5  
+Nxd3 23.Nh5 Qf8 24.Ba1 Bxf5 25.Ng3 Rae8 26.Qh5 Bg6 27.Qg4 Qf6 28.f5 Bf7  
+29.Ne4 R8xe4 30.Bxe4 Nc5 31.Bc2 Nd7 32.Rbd1 c5 33.Bb2 Ne5 34.Qg2 Bh5 35. 
+Be4 Re2 36.Rf2 Rxf2 37.Qxf2 Bxd1 38.Qg3 Qh6 39.Kf1 Qd2 40.f6 Be2+ 41.Kg2  
+Bg4+ 1/2-1/2 
+ 
+[Event "Bundesliga 2000-1"] 
+[Site "Mainz GER"] 
+[Date "2001.02.18"] 
+[Round "9"] 
+[White "Thiede, Lars"] 
+[Black "Bewersdorff, Oliver"] 
+[Result "0-1"] 
+[WhiteElo "2421"] 
+[BlackElo "2364"] 
+[ECO "A16"] 
+[EventDate "2000.10.14"] 
+ 
+1.g3 Nf6 2.c4 g6 3.Bg2 Bg7 4.Nc3 O-O 5.d3 c5 6.a3 Nc6 7.Rb1 b6 8.b4 cxb4  
+9.axb4 Bb7 10.Nh3 Qc8 11.O-O Nd4 12.e4 e6 13.f4 d6 14.Be3 Nd7 15.Kh1 a6  
+16.Qd2 Nb5 17.Na4 Nd4 18.Qf2 e5 19.Nc3 Nf6 20.Qd2 b5 21.fxe5 dxe5 22.c5  
+Ng4 23.Nd5 Qd8 24.Bxd4 exd4 25.Qe2 h5 26.Nhf4 Re8 27.Qa2 Ne5 28.Nb6 Ra7  
+29.Nxg6 Nxg6 30.Rxf7 Kh8 31.Qe2 Re5 32.Rbf1 Ne7 33.Qf2 Rg5 34.h4 Rg6 35. 
+Qf3 Bc6 36.Qxh5+ Rh6 37.Qg5 Rg6 38.Qh5+ Rh6 39.Qg5 Rg6 40.Qxg6 Nxg6 41. 
+Rxa7 Be5 42.Rf5 Bb8 43.Rh5+ Kg8 44.Rg5 Qxg5 45.hxg5 Bxa7 46.Nd5 a5 47.bxa5 
+Bxc5 48.e5 Nxe5 49.a6 Bxd5 0-1 
+ 
+[Event "Bundesliga 0001"] 
+[Site "Deutschland"] 
+[Date "2001.02.18"] 
+[Round "9.8"] 
+[White "Thiede, Lars"] 
+[Black "Bewersdorff, Oliver"] 
+[Result "0-1"] 
+[WhiteElo "2421"] 
+[BlackElo "2364"] 
+[ECO "A16"] 
+[EventDate "2000.10.14"] 
+ 
+1.g3 Nf6 2.c4 g6 3.Bg2 Bg7 4.Nc3 O-O 5.d3 c5 6.a3 Nc6 7.Rb1 b6 8.b4 cxb4  
+9.axb4 Bb7 10.Nh3 Qc8 11.O-O Nd4 12.e4 e6 13.f4 d6 14.Be3 Nd7 15.Kh1 a6  
+16.Qd2 Nb5 17.Na4 Nd4 18.Qf2 e5 19.Nc3 Nf6 20.Qd2 b5 21.fxe5 dxe5 22.c5  
+Ng4 23.Nd5 Qd8 24.Bxd4 exd4 25.Qe2 h5 26.Nhf4 Re8 27.Qa2 Ne5 28.Nb6 Ra7  
+29.Nxg6 Nxg6 30.Rxf7 Kh8 31.Qe2 Re5 32.Rbf1 Ne7 33.Qf2 Rg5 34.h4 Rg6 35. 
+Qf3 Bc6 36.Qxh5+ Rh6 37.Qg5 Rg6 38.Qh5+ Rh6 39.Qg5 Rg6 40.Qxg6 Nxg6 41. 
+Rxa7 Be5 42.Rf5 Bb8 43.Rh5+ Kg8 44.Rg5 Qxg5 45.hxg5 Bxa7 46.Nd5 a5 47.bxa5 
+Bxc5 48.e5 Nxe5 49.a6 Bxd5 0-1 
+ 
+[Event "Bundesliga 2000-1"] 
+[Site "Neukoelln GER"] 
+[Date "2001.01.07"] 
+[Round "5"] 
+[White "Thiede, Lars"] 
+[Black "Lorenz, S."] 
+[Result "0-1"] 
+[WhiteElo "2421"] 
+[BlackElo "2298"] 
+[ECO "A24"] 
+[EventDate "2000.10.14"] 
+ 
+1.g3 Nf6 2.c4 g6 3.Bg2 Bg7 4.Nc3 O-O 5.d3 d6 6.Nf3 e5 7.O-O h6 8.Rb1 a5 9. 
+a3 Re8 10.Nd2 c6 11.b4 axb4 12.axb4 d5 13.Qc2 Be6 14.Rd1 Nbd7 15.Na4 Bg4  
+16.f3 Be6 17.e4 Bf8 18.c5 Nh5 19.Bb2 f5 20.d4 Qg5 21.exd5 Bxd5 22.dxe5  
+Nxe5 23.Nb6 Qe3+ 24.Kh1 Nd3 25.Ndc4 Nf2+ 26.Kg1 Nh3+ 27.Kh1 Qf2 28.Qd3 0-1 
+ 
+[Event "Bundesliga 0001"] 
+[Site "Deutschland"] 
+[Date "2001.01.07"] 
+[Round "5.8"] 
+[White "Thiede, Lars"] 
+[Black "Lorenz, Sascha"] 
+[Result "0-1"] 
+[WhiteElo "2421"] 
+[BlackElo "2298"] 
+[ECO "A24"] 
+[EventDate "2000.10.14"] 
+ 
+1.g3 Nf6 2.c4 g6 3.Bg2 Bg7 4.Nc3 O-O 5.d3 d6 6.Nf3 e5 7.O-O h6 8.Rb1 a5 9. 
+a3 Re8 10.Nd2 c6 11.b4 axb4 12.axb4 d5 13.Qc2 Be6 14.Rd1 Nbd7 15.Na4 Bg4  
+16.f3 Be6 17.e4 Bf8 18.c5 Nh5 19.Bb2 f5 20.d4 Qg5 21.exd5 Bxd5 22.dxe5  
+Nxe5 23.Nb6 Qe3+ 24.Kh1 Nd3 25.Ndc4 Nf2+ 26.Kg1 Nh3+ 27.Kh1 Qf2 28.Qd3 0-1 
+ 
+[Event "chT"] 
+[Site "Bled SLO"] 
+[Date "2000.10.19"] 
+[Round "6"] 
+[White "Jeras, Iztok"] 
+[Black "Mazi, Leon"] 
+[Result "0-1"] 
+[WhiteElo "2259"] 
+[BlackElo "2383"] 
+[ECO "A16"] 
+[EventDate "2000.10.14"] 
+ 
+1.g3 Nf6 2.c4 g6 3.Nc3 Bg7 4.Bg2 O-O 5.e4 d6 6.Nge2 Nbd7 7.O-O c5 8.d3 a6  
+9.h3 Rb8 10.a4 Ne5 11.f4 Nc6 12.Be3 Nd7 13.Rb1 b6 14.Qd2 Bb7 15.g4 Nd4 16. 
+f5 Bc6 17.Nd5 Bxa4 18.Nxd4 cxd4 19.Bg5 f6 20.Bh4 Ne5 21.Bf2 Bb3 22.fxg6  
+hxg6 23.Bxd4 b5 24.cxb5 Rxb5 25.Bc3 a5 26.d4 Nf7 27.Nf4 Nh8 28.d5 Bh6 29. 
+Qd3 Qb8 30.Ne6 Rc8 31.Rf2 Bc4 32.Qg3 Nf7 33.Bf1 a4 34.Ra1 Rb3 35.Rxa4 Bxf1 
+36.Rxf1 Qb5 37.Raa1 Bd2 38.Rf3 Bxc3 39.bxc3 Rb1+ 40.Rxb1 Qxb1+ 41.Rf1 Qxe4 
+42.Rd1 Ne5 43.g5 Nf3+ 44.Kf1 Rxc3 0-1 
+ 
+[Event "Bundesliga 0102"] 
+[Site "Deutschland"] 
+[Date "2002.02.01"] 
+[Round "5.7"] 
+[White "Perschke, Ulrich"] 
+[Black "Naumann, Alexander"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2216"] 
+[BlackElo "2480"] 
+[ECO "D76"] 
+[EventDate "2001.10.06"] 
+ 
+1.g3 Nf6 2.c4 g6 3.Nc3 Bg7 4.Bg2 O-O 5.Nf3 d5 6.cxd5 Nxd5 7.O-O Nc6 8.d4  
+Nb6 9.e3 e5 10.dxe5 Qxd1 11.Rxd1 Nxe5 12.Nxe5 Bxe5 13.e4 Be6 14.f4 Bxc3  
+15.bxc3 Rfd8 16.Rxd8+ Rxd8 17.Be3 Na4 18.Bd4 c5 19.Bf6 Rd2 20.a3 Nb6 21. 
+Be7 Nd7 22.e5 b6 23.a4 f6 24.exf6 Kf7 25.a5 Nxf6 26.Bxf6 Kxf6 27.axb6 axb6 
+28.Rb1 Rd6 29.Kf2 Bc4 30.Be4 Rd2+ 31.Ke3 Re2+ 32.Kf3 b5 33.h3 Ra2 34.Ke3  
+Ra3 35.Kd2 Ra6 36.g4 Re6 37.Re1 b4 38.cxb4 cxb4 39.g5+ Kg7 40.f5 gxf5 41. 
+Bxf5 Rxe1 1/2-1/2 
+ 
+[Event "Bundesliga 2001-2"] 
+[Site "Hamburg GER"] 
+[Date "2002.02.01"] 
+[Round "5"] 
+[White "Perschke, Ulrich"] 
+[Black "Naumann, A."] 
+[Result "1/2-1/2"] 
+[WhiteElo "2216"] 
+[BlackElo "2508"] 
+[ECO "D76"] 
+[EventDate "2002.01.06"] 
+ 
+1.g3 Nf6 2.c4 g6 3.Nc3 Bg7 4.Bg2 O-O 5.Nf3 d5 6.cxd5 Nxd5 7.O-O Nc6 8.d4  
+Nb6 9.e3 e5 10.dxe5 Qxd1 11.Rxd1 Nxe5 12.Nxe5 Bxe5 13.e4 Be6 14.f4 Bxc3  
+15.bxc3 Rfd8 16.Rxd8+ Rxd8 17.Be3 Na4 18.Bd4 c5 19.Bf6 Rd2 20.a3 Nb6 21. 
+Be7 Nd7 22.e5 b6 23.a4 f6 24.exf6 Kf7 25.a5 Nxf6 26.Bxf6 Kxf6 27.axb6 axb6 
+28.Rb1 Rd6 29.Kf2 Bc4 30.Be4 Rd2+ 31.Ke3 Re2+ 32.Kf3 b5 33.h3 Ra2 34.Ke3  
+Ra3 35.Kd2 Ra6 36.g4 Re6 37.Re1 b4 38.cxb4 cxb4 39.g5+ Kg7 40.f5 gxf5 41. 
+Bxf5 Rxe1 1/2-1/2 
+ 
+[Event "Bundesliga 2001-2"] 
+[Site "Pori GER"] 
+[Date "2002.04.13"] 
+[Round "12"] 
+[White "Perschke, Ulrich"] 
+[Black "Paehtz, Elisabeth"] 
+[Result "0-1"] 
+[WhiteElo "2216"] 
+[BlackElo "2383"] 
+[ECO "E63"] 
+[EventDate "2002.01.06"] 
+ 
+1.g3 Nf6 2.c4 g6 3.Bg2 Bg7 4.Nc3 d6 5.d4 O-O 6.Nf3 Nc6 7.O-O a6 8.d5 Na5  
+9.b3 c5 10.Bb2 Rb8 11.Qc2 Bf5 12.Qc1 b5 13.Nd2 bxc4 14.e4 Bd7 15.bxc4 Ng4  
+16.Nd1 Ne5 17.Bc3 Bh6 18.Bxe5 dxe5 19.Ne3 Bxe3 20.fxe3 Qc7 21.Qc3 Nb7 22. 
+Rf2 f6 23.h3 Qa5 24.Qd3 Nd6 25.g4 g5 26.Bf3 h5 27.gxh5 Bxh3 28.Bd1 Bd7 29. 
+Bb3 Kg7 30.Raf1 Bh3 31.Rc1 Rh8 32.Bd1 Qxa2 33.Nb3 Qa3 34.Ra1 Qb4 35.Kh2 g4 
+36.Nd2 Rxh5 37.Kg3 Qb6 38.Qa3 Qc7 39.Be2 f5 40.exf5 Rxf5 41.e4 Rf4 42.Qc3  
+Rxe4 43.Kh2 Rf8 44.Qg3 Nf5 45.Qxh3 g3+ 46.Kg2 Rh4 47.Rxf5 Rxh3 48.Rg5+ Kh6 
+49.Ne4 Rh4 50.Rxg3 Qc8 51.Ng5 Rf6 52.Bd3 Rg4 53.Ne4 Rxg3+ 54.Nxg3 Qg4 55. 
+Be2 Rf2+ 0-1 
+ 
+[Event "Bundesliga 2001-2"] 
+[Site "Porz GER"] 
+[Date "2002.04.13"] 
+[Round "12"] 
+[White "Perschke, Ulrich"] 
+[Black "Paehtz, Elisabeth"] 
+[Result "0-1"] 
+[WhiteElo "2216"] 
+[BlackElo "2383"] 
+[ECO "E63"] 
+ 
+1.g3 Nf6 2.c4 g6 3.Bg2 Bg7 4.Nc3 d6 5.d4 O-O 6.Nf3 Nc6 7.O-O a6 8.d5 Na5  
+9.b3 c5 10.Bb2 Rb8 11.Qc2 Bf5 12.Qc1 b5 13.Nd2 bxc4 14.e4 Bd7 15.bxc4 Ng4  
+16.Nd1 Ne5 17.Bc3 Bh6 18.Bxe5 dxe5 19.Ne3 Bxe3 20.fxe3 Qc7 21.Qc3 Nb7 22. 
+Rf2 f6 23.h3 Qa5 24.Qd3 Nd6 25.g4 g5 26.Bf3 h5 27.gxh5 Bxh3 28.Bd1 Bd7 29. 
+Bb3 Kg7 30.Raf1 Bh3 31.Rc1 Rh8 32.Bd1 Qxa2 33.Nb3 Qa3 34.Ra1 Qb4 35.Kh2 g4 
+36.Nd2 Rxh5 37.Kg3 Qb6 38.Qa3 Qc7 39.Be2 f5 40.exf5 Rxf5 41.e4 Rf4 42.Qc3  
+Rxe4 43.Kh2 Rf8 44.Qg3 Nf5 45.Qxh3 g3+ 46.Kg2 Rh4 47.Rxf5 Rxh3 48.Rg5+ Kh6 
+49.Ne4 Rh4 50.Rxg3 Qc8 51.Ng5 Rf6 52.Bd3 Rg4 53.Ne4 Rxg3+ 54.Nxg3 Qg4 55. 
+Be2 Rf2+ 0-1 

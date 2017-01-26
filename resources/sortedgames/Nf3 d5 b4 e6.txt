@@ -1,0 +1,88 @@
+ 
+[Event "Ch Romania"] 
+[Site "Baile Tusnad ROU"] 
+[Date "2005.12.01"] 
+[Round "6"] 
+[White "Valeanu, Eduard-Andrei"] 
+[Black "Minescu, Dragos-Olivar"] 
+[Result "1-0"] 
+[WhiteElo "2380"] 
+[BlackElo "2200"] 
+[ECO "A06"] 
+ 
+1.Nf3 d5 2.b4 e6 3.Bb2 Nf6 4.a3 c5 5.bxc5 Bxc5 6.e3 O-O 7.d4 Be7 8.Nbd2 b6 
+9.c4 Ba6 10.Rc1 dxc4 11.Nxc4 b5 12.Ncd2 Qa5 13.Qb3 Nbd7 14.Bd3 Rab8 15.O-O 
+b4 16.a4 Bxd3 17.Qxd3 Qxa4 18.Ra1 Qb5 19.Qxb5 Rxb5 20.Rxa7 Rc8 21.e4 Rc2  
+22.Rb1 Bf8 23.e5 Nd5 24.Rxd7 Nc3 25.Bxc3 bxc3 26.Rxb5 cxd2 27.Nxd2 Rxd2  
+28.g3 1-0 
+ 
+[Event "ROM Ch"] 
+[Site "Baile Tusnad ROM"] 
+[Date "2005.12.01"] 
+[Round "6"] 
+[White "Valeanu, Eduard-Andrei"] 
+[Black "Minescu, Dragos-Olivar"] 
+[Result "1-0"] 
+[WhiteElo "2380"] 
+[BlackElo "2200"] 
+[ECO "A06"] 
+[EventDate "2005.11.26"] 
+ 
+1.Nf3 d5 2.b4 e6 3.Bb2 Nf6 4.a3 c5 5.bxc5 Bxc5 6.e3 O-O 7.d4 Be7 8.Nbd2 b6 
+9.c4 Ba6 10.Rc1 dxc4 11.Nxc4 b5 12.Ncd2 Qa5 13.Qb3 Nbd7 14.Bd3 Rab8 15.O-O 
+b4 16.a4 Bxd3 17.Qxd3 Qxa4 18.Ra1 Qb5 19.Qxb5 Rxb5 20.Rxa7 Rc8 21.e4 Rc2  
+22.Rb1 Bf8 23.e5 Nd5 24.Rxd7 Nc3 25.Bxc3 bxc3 26.Rxb5 cxd2 27.Nxd2 Rxd2  
+28.g3 1-0 
+ 
+[Event "ENG, 4NCL 04/05 Division 2 rounds 3-4"] 
+[Site "ENG"] 
+[Date "2004.11.21"] 
+[Round "4.1"] 
+[White "Rogers, Jonathan W"] 
+[Black "Hulmes, David I"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2340"] 
+[BlackElo "2206"] 
+[ECO "A06"] 
+[EventDate "2004.11.20"] 
+ 
+1.Nf3 d5 2.b4 e6 3.Bb2 Nf6 4.a3 c5 5.bxc5 Bxc5 6.e3 O-O 7.Be2 Nc6 8.d4 Be7 
+9.Nbd2 b6 10.O-O Bb7 11.Bd3 Rc8 12.Qe2 Qc7 13.e4 Na5 14.e5 Ne4 15.Nb3 Nc4  
+16.Bc1 Qd8 17.Ne1 f5 18.exf6 Rxf6 19.Qg4 Qd7 20.Nf3 1/2-1/2 
+ 
+[Event "Grigorov (memorial)"] 
+[Site "Pernik"] 
+[Date "2003.12.13"] 
+[Round "3"] 
+[White "Rusev, Krasimir"] 
+[Black "Karakehajov, Kalin"] 
+[Result "0-1"] 
+[WhiteElo "2379"] 
+[BlackElo "2319"] 
+[ECO "A06"] 
+ 
+1.Nf3 d5 2.b4 e6 3.Bb2 Nf6 4.b5 Be7 5.e3 O-O 6.c4 c6 7.a4 Nbd7 8.Be2 a6 9. 
+Nc3 Nc5 10.O-O Nfe4 11.bxc6 bxc6 12.Ne5 Qc7 13.Nxe4 dxe4 14.f3 Rb8 15.Bc3  
+f6 16.Ng4 e5 17.Nf2 exf3 18.Bxf3 Bd6 19.g3 Be6 20.d3 Rfd8 21.Qc2 Bf5 22. 
+Rad1 Bg6 23.Bg2 Bf8 24.e4 Bf7 25.Bh3 Ne6 26.Bxe6 Bxe6 27.Rb1 Bc5 28.Kg2  
+0-1 
+ 
+[Event "34. Olympiad women"] 
+[Site "Istanbul TUR"] 
+[Date "2000.11.06"] 
+[Round "9"] 
+[White "Ramon Pita, Vivian"] 
+[Black "Klink, T."] 
+[Result "1-0"] 
+[WhiteElo "2294"] 
+[BlackElo "2336"] 
+[ECO "A06"] 
+[EventDate "2000.10.28"] 
+ 
+1.Nf3 d5 2.b4 e6 3.Bb2 Nf6 4.a3 b6 5.e3 c5 6.c4 Be7 7.Be2 O-O 8.b5 Bb7 9. 
+O-O Nbd7 10.d3 Qc7 11.Nbd2 e5 12.cxd5 Nxd5 13.Rc1 Rad8 14.Qb3 Qb8 15.Nc4  
+Bf6 16.Nfd2 Kh8 17.Bf3 Be7 18.a4 f6 19.Rfe1 Nb4 20.Rcd1 Bxf3 21.Nxf3 Qb7  
+22.Ba3 Rfe8 23.Bxb4 cxb4 24.d4 exd4 25.Nxd4 Nc5 26.Qc2 a5 27.Nc6 Rxd1 28. 
+Rxd1 Qc7 29.Qf5 Bf8 30.Nb2 Qf7 31.Qd5 Qxd5 32.Rxd5 g6 33.g3 f5 34.Kg2 Bg7  
+35.Nd4 Kg8 36.Rd6 Rb8 37.Rc6 Rb7 38.Rc8+ Kf7 39.Nc4 Ke7 40.Nc6+ Kd7 41. 
+Rd8+ Kc7 42.Nd6 Ra7 43.Ne8+ Kb7 44.Rb8# 1-0 

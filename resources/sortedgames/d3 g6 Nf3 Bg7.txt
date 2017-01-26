@@ -1,0 +1,36 @@
+ 
+[Event "TCh-TUR Super League 2014"] 
+[Site "Kocaeli TUR"] 
+[Date "2014.08.22"] 
+[Round "5.2"] 
+[White "Benidze, Davit"] 
+[Black "Duman, Aydin"] 
+[Result "1-0"] 
+[WhiteElo "2458"] 
+[BlackElo "2244"] 
+[ECO "A00"] 
+[EventDate "2014.08.18"] 
+ 
+1.d3 g6 2.Nf3 Bg7 3.g3 d6 4.Bg2 e5 5.O-O f5 6.c4 Nf6 7.Nc3 O-O 8.c5 Nc6 9. 
+cxd6 cxd6 10.Bg5 Be6 11.Nd2 Ne7 12.Bxb7 Rb8 13.Bg2 d5 14.Na4 Qa5 15.b3 h6  
+16.Bxf6 Bxf6 17.d4 exd4 18.Rc1 Rfc8 19.Nf3 Bd7 20.Rxc8+ Rxc8 21.Nxd4 Bxa4  
+22.bxa4 Rc4 23.Nb3 Qd8 24.a5 d4 25.Qd2 Kh7 26.e3 Qh8 27.exd4 Bxd4 28.Qd3  
+Ra4 29.Re1 Bf6 30.Qd7 Rxa2 31.Rxe7+ Bxe7 32.Qxe7+ Qg7 33.Qe3 Qf7 34.Bf1  
+Ra3 35.Bc4 Qd7 36.a6 h5 37.Qf3 Kh6 38.Qf4+ g5 39.Qc1 Qe7 40.h4 Ra4 41.Nd4  
+Kg6 42.Nxf5 Qf6 43.Bd3 Qa1 44.Ne3+ Kg7 45.Qxa1+ Rxa1+ 46.Kg2 gxh4 47.Nf5+  
+Kf6 48.Nxh4 Ra3 49.Be2 Ra2 50.Kf3 Ra3+ 51.Ke4 Ra2 52.Ke3 Ra3+ 53.Bd3 Kg5  
+54.Nf3+ 1-0 
+ 
+[Event "Paul Keres Mem IM 2013"] 
+[Site "Tallinn EST"] 
+[Date "2013.01.18"] 
+[Round "8.1"] 
+[White "Anjuhin, Alex"] 
+[Black "Lapidus, Mark"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2308"] 
+[BlackElo "2215"] 
+[ECO "A00"] 
+[EventDate "2013.01.13"] 
+ 
+1.d3 g6 2.Nf3 Bg7 3.c4 d6 4.Nbd2 Nd7 5.Rb1 a5 1/2-1/2 

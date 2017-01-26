@@ -1,0 +1,54 @@
+ 
+[Event "IRI Ch"] 
+[Site "Tehran IRI"] 
+[Date "2005.09.11"] 
+[Round "1"] 
+[White "Khaghani, Mehdi"] 
+[Black "Soozankar, A M"] 
+[Result "1-0"] 
+[WhiteElo "2311"] 
+[BlackElo "2251"] 
+[ECO "A00"] 
+[EventDate "2005.09.11"] 
+ 
+1.e3 d6 2.c4 e5 3.Nc3 Nc6 4.g3 Be6 5.d3 Qd7 6.Bg2 Nge7 7.Nd5 Nd8 8.Ne2 c6  
+9.Nxe7 Bxe7 10.b3 Bh3 11.O-O h5 12.f3 Bxg2 13.Kxg2 f5 14.Bb2 Nf7 15.b4  
+O-O-O 16.b5 cxb5 17.cxb5 h4 18.b6 axb6 19.Qb3 hxg3 20.hxg3 f4 21.Rh1 Ng5  
+22.exf4 Nxf3 23.Rxh8 Rxh8 24.Rc1+ Kb8 25.Kxf3 exf4 26.Nxf4 Bg5 27.Rc4 Bxf4 
+28.Rxf4 Qc6+ 29.Re4 Rf8+ 30.Ke2 Qc5 31.Bd4 Qf5 32.Qxb6 Qf1+ 33.Kd2 Qg2+  
+34.Re2 Qxg3 35.Qa7+ Kc7 36.Re7+ Kd8 37.Rxg7 Qf4+ 38.Kc2 1-0 
+ 
+[Event "Ch Iran"] 
+[Site "Teheran (Iran)"] 
+[Date "2005.09.11"] 
+[Round "1"] 
+[White "Khaghani, Mehdi"] 
+[Black "Soozankar, A M"] 
+[Result "1-0"] 
+[WhiteElo "2311"] 
+[BlackElo "2251"] 
+[ECO "A00"] 
+ 
+1.e3 d6 2.c4 e5 3.Nc3 Nc6 4.g3 Be6 5.d3 Qd7 6.Bg2 Nge7 7.Nd5 Nd8 8.Ne2 c6  
+9.Nxe7 Bxe7 10.b3 Bh3 11.O-O h5 12.f3 Bxg2 13.Kxg2 f5 14.Bb2 Nf7 15.b4  
+O-O-O 16.b5 cxb5 17.cxb5 h4 18.b6 axb6 19.Qb3 hxg3 20.hxg3 f4 21.Rh1 Ng5  
+22.exf4 Nxf3 23.Rxh8 Rxh8 24.Rc1+ Kb8 25.Kxf3 exf4 26.Nxf4 Bg5 27.Rc4 Bxf4 
+28.Rxf4 Qc6+ 29.Re4 Rf8+ 30.Ke2 Qc5 31.Bd4 Qf5 32.Qxb6 Qf1+ 33.Kd2 Qg2+  
+34.Re2 Qxg3 35.Qa7+ Kc7 36.Re7+ Kd8 37.Rxg7 Qf4+ 38.Kc2 1-0 
+ 
+[Event "HZ Open"] 
+[Site "Vlissingen NED"] 
+[Date "2003.08.09"] 
+[Round "9"] 
+[White "Ernst, Sipke"] 
+[Black "Verduyn, Frederic"] 
+[Result "1-0"] 
+[WhiteElo "2468"] 
+[BlackElo "2211"] 
+[ECO "A00"] 
+[EventDate "2003.08.02"] 
+ 
+1.e3 d6 2.c4 e5 3.Nc3 c6 4.d4 Be7 5.g3 f5 6.Bg2 Nf6 7.Nge2 O-O 8.O-O Qe8  
+9.b4 Qh5 10.Rb1 f4 11.exf4 Bh3 12.fxe5 Ng4 13.Nf4 Rxf4 14.Bxf4 Bxg2 15. 
+Kxg2 Qxh2+ 16.Kf3 dxe5 17.dxe5 g5 18.Kxg4 gxf4 19.Rh1 Qxf2 20.Ne4 Qg2 21. 
+Kf5 Na6 22.Qg4+ Kh8 23.Qg6 Rf8+ 24.Ke6 Nc7+ 25.Kxe7 Re8+ 26.Kf7 1-0 

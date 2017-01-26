@@ -1,0 +1,18 @@
+ 
+[Event "Club Argentino-Ruibal"] 
+[Site "Buenos Aires ARG"] 
+[Date "2008.10.02"] 
+[Round "4"] 
+[White "Contin, Daniel"] 
+[Black "Larsen, Bent"] 
+[Result "1-0"] 
+[WhiteElo "2304"] 
+[BlackElo "2461"] 
+[ECO "B00"] 
+[EventDate "2008.09.29"] 
+ 
+1.e4 a5 2.d4 d5 3.exd5 Qxd5 4.Nc3 Qd6 5.Nf3 Bg4 6.h3 Bh5 7.g4 Bg6 8.Ne5  
+Nd7 9.Nb5 Qb6 10.Nc4 Qe6+ 11.Be3 Kd8 12.d5 Qe4 13.f3 Qxc2 14.Qxc2 Bxc2 15. 
+Rc1 Bg6 16.Nxc7 Rc8 17.Ne6+ fxe6 18.dxe6 Nc5 19.Rd1+ Ke8 20.Nb6 Rc6 21. 
+Bxc5 Rxc5 22.Na8 Re5+ 23.Kf2 Rxe6 24.Nc7+ Kf7 25.Bc4 Kf6 26.Nxe6 Bf7 27. 
+g5+ Kf5 28.Rd5+ Kg6 29.Nf4# 1-0 

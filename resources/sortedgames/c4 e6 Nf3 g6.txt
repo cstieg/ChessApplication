@@ -1,0 +1,58 @@
+ 
+[Event "Copenhagen CC 2014"] 
+[Site "Ballerup DEN"] 
+[Date "2014.05.16"] 
+[Round "5.3"] 
+[White "Danielsen, Henrik"] 
+[Black "Fries-Nielsen, Jens Ove"] 
+[Result "0-1"] 
+[WhiteElo "2483"] 
+[BlackElo "2384"] 
+[ECO "A13"] 
+[EventDate "2014.05.14"] 
+ 
+1.c4 e6 2.Nf3 g6 3.g3 Bg7 4.Bg2 Ne7 5.O-O d6 6.d4 Nd7 7.Nc3 a6 8.Re1 Rb8  
+9.a4 O-O 10.Rb1 h6 11.b3 b6 12.Ba3 Bb7 13.e3 c5 14.Rc1 Nf5 15.d5 e5 16.Nd2 
+Ne7 17.Nde4 Nc8 18.f4 f5 19.Nf2 Ne7 20.Rc2 Bc8 21.Bc1 g5 22.e4 exf4 23. 
+gxf4 gxf4 24.Bxf4 Ne5 25.Qh5 N7g6 26.Bxh6 Bxh6 27.Qxh6 f4 28.Bh3 Rb7 29. 
+Bxc8 Qxc8 30.Qh5 Rh7 31.Qd1 Nh4 0-1 
+ 
+[Event "St. Pauli Open 2012"] 
+[Site "Hamburg GER"] 
+[Date "2012.07.11"] 
+[Round "5.1"] 
+[White "Cuenca Jimenez, Jose Fernando"] 
+[Black "Carlstedt, Jonathan"] 
+[Result "1-0"] 
+[WhiteElo "2477"] 
+[BlackElo "2352"] 
+[ECO "A13"] 
+[EventDate "2012.07.07"] 
+ 
+1.c4 e6 2.Nf3 g6 3.g3 Bg7 4.Bg2 Ne7 5.O-O d5 6.d4 O-O 7.Nbd2 Nbc6 8.e3 a5  
+9.Qc2 a4 10.a3 b6 11.Rd1 Bb7 12.b4 axb3 13.Nxb3 dxc4 14.Qxc4 Qd5 15.Qc2  
+Rfc8 16.Bd2 Ra7 17.e4 Qd7 18.Bc3 Qd6 19.Nbd2 Ba6 20.Qb2 Nd8 21.Nf1 Qc6 22. 
+Ne3 Bb7 23.Rac1 h5 24.d5 Bxc3 25.Rxc3 Qa4 26.Nd4 exd5 27.exd5 Ra5 28.Ndc2  
+Qd7 29.Rcd3 Qe8 30.Qf6 Ba6 31.Rd4 Kf8 32.Re4 Qd7 33.Rxe7 1-0 
+ 
+[Event "111. ch-SCO"] 
+[Site "Hamilton SCO"] 
+[Date "2004.07.15"] 
+[Round "6"] 
+[White "McNab, Colin A"] 
+[Black "Motwani, Paul"] 
+[Result "1-0"] 
+[WhiteElo "2427"] 
+[BlackElo "2552"] 
+[ECO "A13"] 
+[EventDate "2004.07.10"] 
+ 
+1.c4 e6 2.Nf3 g6 3.Nc3 Bg7 4.d4 Ne7 5.Bf4 h6 6.h4 a6 7.Qd2 d5 8.e3 Nbc6 9. 
+Rc1 dxc4 10.Bxc4 Nd5 11.Bg3 Nxc3 12.Qxc3 Ne7 13.O-O c6 14.e4 O-O 15.Rfe1  
+f6 16.Rcd1 Kh8 17.Qb3 Qd7 18.Qb6 Re8 19.a4 Ng8 20.a5 Bf8 21.Qb3 Qd8 22.Ra1 
+h5 23.Bf4 Nh6 24.e5 f5 25.Bg5 Qd7 26.Bf6+ Kg8 27.Ng5 Nf7 28.Nh3 Kh7 29. 
+Rad1 Bh6 30.Qc3 Qc7 31.b4 Bd7 32.f3 b6 33.Bd3 Reb8 34.g4 bxa5 35.bxa5 Rb5  
+36.Bxb5 axb5 37.Ra1 Bf8 38.Reb1 b4 39.Rxb4 Rxa5 40.Rbb1 Rxa1 41.Rxa1 hxg4  
+42.fxg4 fxg4 43.Ng5+ Nxg5 44.hxg5 Qb6 45.Rd1 Kg8 46.Qg3 Be8 47.Qh4 Bg7 48. 
+Qxg4 Qb3 49.Re1 c5 50.Bxg7 Kxg7 51.Qf4 cxd4 52.Rf1 Kh7 53.Rf3 Qd1+ 54.Rf1  
+Qb3 55.Kh2 Qc2+ 56.Rf2 Qc5 57.Qf6 d3 58.Rf4 1-0 

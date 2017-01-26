@@ -1,0 +1,37 @@
+ 
+[Event "6. Geller Memorial Open A"] 
+[Site "Odessa UKR"] 
+[Date "2010.08.22"] 
+[Round "2"] 
+[White "Evdokimov, Alexa"] 
+[Black "Pavlov, Maxim"] 
+[Result "0-1"] 
+[WhiteElo "2551"] 
+[BlackElo "2364"] 
+[ECO "A45"] 
+[EventDate "2010.08.21"] 
+ 
+1.d4 Nf6 2.e3 b6 3.f4 Bb7 4.Nf3 g6 5.Bd3 Bg7 6.O-O O-O 7.c3 c5 8.Nbd2 d5  
+9.Qe2 Nc6 10.b3 cxd4 11.exd4 Ne8 12.Ba3 Nd6 13.Rac1 Re8 14.Ne5 e6 15.Rfe1  
+Nf5 16.Qf2 a6 17.Ndf3 Rc8 18.g4 Nd6 19.Ng5 Rc7 20.Qh4 h6 21.Bxd6 Qxd6 22. 
+Ngf3 Nxe5 23.Nxe5 Rec8 24.f5 exf5 25.gxf5 Qf6 26.Qxf6 Bxf6 27.fxg6 fxg6  
+28.Nxg6 Bxd4+ 29.Kf1 Rf7+ 30.Ke2 Bxc3 31.Rg1 Bg7 32.Bf5 Re8+ 0-1 
+ 
+[Event "17. Jozef Kochan Memorial"] 
+[Site "Koszalin POL"] 
+[Date "2006.08.05"] 
+[Round "2"] 
+[White "Paszkiewicz, Sebastian"] 
+[Black "Tazbir, Marcin"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2222"] 
+[BlackElo "2413"] 
+[ECO "A45"] 
+[EventDate "2006.08.04"] 
+ 
+1.d4 Nf6 2.e3 b6 3.f4 Bb7 4.Nf3 e6 5.Bd3 Be7 6.c3 Ne4 7.O-O f5 8.Nbd2 O-O  
+9.Qc2 d5 10.Ne5 c5 11.Ndf3 Qc7 12.Bd2 Ba6 13.Be1 Bxd3 14.Qxd3 Bd6 15.Kh1  
+Bxe5 16.Nxe5 Nd7 17.Nf3 cxd4 18.Qxd4 Rfc8 19.Rg1 Qc5 20.g4 fxg4 21.Rxg4  
+Qxd4 22.Nxd4 Kf7 23.Bh4 g6 24.Rag1 b5 25.Be1 Rab8 26.h4 a6 27.R4g2 Rg8 28. 
+Kh2 Rbc8 29.Nf3 Ke7 30.h5 Kf7 31.h6 Rce8 32.Rf1 Rgf8 33.c4 bxc4 34.Bb4  
+Ndc5 35.Ng5+ Kg8 1/2-1/2 

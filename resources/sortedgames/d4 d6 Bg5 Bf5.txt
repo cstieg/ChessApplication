@@ -1,0 +1,24 @@
+ 
+[Event "Russian Rapid GP 2015"] 
+[Site "Khanty-Mansiysk RUS"] 
+[Date "2015.12.14"] 
+[Round "9"] 
+[White "Ubiennykh, Ekaterina"] 
+[Black "Pridorozhni, Aleksei"] 
+[Result "0-1"] 
+[WhiteElo "2283"] 
+[BlackElo "2563"] 
+[ECO "A41"] 
+[EventDate "2015.12.13"] 
+ 
+1.d4 d6 2.Bg5 Bf5 3.Nc3 d5 4.e4 dxe4 5.f3 e3 6.Bd3 Bg6 7.Bxg6 hxg6 8.Qd3  
+c6 9.O-O-O Nf6 10.Nge2 e6 11.Nf4 Be7 12.h4 Nbd7 13.Rhe1 Qa5 14.Rxe3 O-O-O  
+15.Qc4 Kb8 16.Qb3 Nd5 17.Nfxd5 Bxg5 18.hxg5 cxd5 19.Nb5 Nb6 20.Rc3 Nc4 21. 
+a4 Rc8 22.Na3 Nb6 23.Rxc8+ Rxc8 24.Nb5 Nc4 25.Na3 Nb6 26.Nb5 Qxa4 27.Qxa4  
+Nxa4 28.b3 Nb6 29.Kd2 Rd8 30.Rh1 a6 31.Nc3 Kc7 32.Rh7 Rg8 33.Ne2 Kc6 34. 
+Nf4 Nd7 35.Nd3 a5 36.f4 b5 37.Kc3 Kd6 38.Kb2 f6 39.gxf6 gxf6 40.Rf7 g5 41. 
+g3 gxf4 42.gxf4 Rc8 43.b4 axb4 44.Nxb4 Rc4 45.c3 Nb6 46.Na2 b4 47.Rxf6 Ke7 
+48.Rh6 Na4+ 49.Kb3 bxc3 50.Rh7+ Kf6 51.Ra7 c2 52.Rxa4 c1=Q 53.Nxc1 Rxc1  
+54.Ra8 Rc4 55.Rf8+ Ke7 56.Rh8 Rxd4 57.f5 exf5 58.Kc3 Re4 59.Rh6 Re6 60. 
+Rh7+ Kd6 61.Kd4 Re4+ 62.Kd3 Ke5 63.Rd7 Kf4 64.Rxd5 Re8 65.Kd2 Kg4 66.Kd1  
+f4 67.Rd3 0-1 

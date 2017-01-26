@@ -1,0 +1,18 @@
+ 
+[Event "Belgrade Premier League"] 
+[Site "Belgrade SRB"] 
+[Date "2015.09.29"] 
+[Round "8.2"] 
+[White "Ilincic, Zlatko"] 
+[Black "Jelic, Goran"] 
+[Result "1-0"] 
+[WhiteElo "2395"] 
+[BlackElo "2208"] 
+[ECO "D00"] 
+[EventDate "2015.09.21"] 
+ 
+1.d4 d5 2.g3 Nc6 3.Bg2 Bf5 4.Nf3 Qd7 5.h3 f6 6.g4 Be4 7.Nc3 O-O-O 8.Nxe4  
+dxe4 9.Nd2 h5 10.e3 hxg4 11.hxg4 Rxh1+ 12.Bxh1 f5 13.gxf5 Nf6 14.Nxe4 Qxf5 
+15.Ng3 Qa5+ 16.c3 e5 17.Bd2 exd4 18.cxd4 Nb4 19.Bc3 Nfd5 20.Bxd5 Qxd5 21. 
+a3 Nc6 22.Qc2 Kb8 23.O-O-O Qc4 24.Kb1 a6 25.Rc1 Qf7 26.Qf5 Qb3 27.Qc2 Qf7  
+28.Qf5 Qb3 29.Nf1 Bxa3 30.Nd2 Qb6 1-0 

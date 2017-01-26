@@ -1,0 +1,54 @@
+ 
+[Event "4. Holuj-Radzikowska"] 
+[Site "Wroclaw POL"] 
+[Date "2014.12.15"] 
+[Round "6.4"] 
+[White "Mkrtchian, Lilit"] 
+[Black "Matnadze, Ana"] 
+[Result "1-0"] 
+[WhiteElo "2450"] 
+[BlackElo "2411"] 
+[ECO "A11"] 
+[EventDate "2014.12.10"] 
+ 
+1.c4 c6 2.Nf3 g6 3.d4 d5 4.cxd5 cxd5 5.Nc3 Bg7 6.Bf4 Nc6 7.e3 a6 8.h3 Nf6  
+9.Bd3 O-O 10.O-O b5 11.a4 b4 12.Na2 a5 13.Nc1 Bd7 14.Nb3 Ne4 15.Qe2 Qe8  
+16.Bb5 f6 17.Rfc1 e5 18.Bh2 Rf7 19.Rc2 exd4 20.Nfxd4 Nxd4 21.Nxd4 f5 22. 
+Qd3 h5 23.Rac1 Kh7 24.Bxd7 Rxd7 25.Rc6 Re7 26.R1c2 Qh8 27.Bf4 b3 28.Nxb3  
+d4 29.Nxd4 Rd8 30.Rc7 Red7 31.Qb5 Qe8 32.Rxd7 Qxd7 33.Rc7 Qxb5 34.axb5 Re8 
+35.b6 g5 36.Nxf5 gxf4 37.Rxg7+ Kh8 38.b7 Ng3 39.fxg3 fxe3 40.Re7 1-0 
+ 
+[Event "OKU Open A 2013"] 
+[Site "Maarssen NED"] 
+[Date "2013.06.01"] 
+[Round "4.2"] 
+[White "Janssen, Ruud"] 
+[Black "Van der Heijden, Alan"] 
+[Result "1-0"] 
+[WhiteElo "2469"] 
+[BlackElo "2271"] 
+[ECO "D93"] 
+[EventDate "2013.05.31"] 
+ 
+1.c4 c6 2.Nf3 g6 3.Nc3 d5 4.d4 Bg7 5.Bf4 Nf6 6.e3 O-O 7.Rc1 Nbd7 8.cxd5  
+Nxd5 9.Nxd5 cxd5 10.Bc7 Qe8 11.Qb3 Nf6 12.Ne5 a6 13.Be2 b5 14.O-O Be6 15. 
+Qb4 Ra7 16.Qa5 Ne4 17.Bb6 Rb7 18.Qxa6 Qa8 19.Qa5 Qxa5 20.Bxa5 Ra8 21.Nc6  
+Nd6 22.a3 Nc4 23.Bb4 Nxb2 24.Nxe7+ Kh8 25.Bf3 Rd7 26.Rc8+ Rxc8 27.Nxc8 Nc4 
+28.Bc5 Rc7 29.Nd6 Nxd6 30.Bxd6 Rc2 31.Rb1 Bf5 32.Bxd5 Rd2 33.Rc1 1-0 
+ 
+[Event "7. Autumn"] 
+[Site "Deizisau GER"] 
+[Date "2012.10.28"] 
+[Round "4.1"] 
+[White "Schild, C GER."] 
+[Black "Sanikidze, Tornike"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2289"] 
+[BlackElo "2580"] 
+[ECO "D79"] 
+[EventDate "2012.10.27"] 
+ 
+1.c4 c6 2.Nf3 g6 3.g3 Bg7 4.Bg2 d5 5.cxd5 cxd5 6.d4 Nf6 7.O-O O-O 8.Nc3  
+Nc6 9.Ne5 Bf5 10.Bg5 Qd6 11.Bxf6 Bxf6 12.Nxd5 Bxe5 13.dxe5 Qxe5 14.e4 Be6  
+15.Qb3 Rab8 16.Qa3 Rfe8 17.Rac1 a6 18.Kh1 Bxd5 19.exd5 Nd4 20.Qe3 Qf6 21. 
+f4 Nf5 22.Qe5 Qxe5 1/2-1/2 

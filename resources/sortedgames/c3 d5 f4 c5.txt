@@ -1,0 +1,17 @@
+ 
+[Event "Petroff Mem Open"] 
+[Site "St Petersburg RUS"] 
+[Date "2000.02.16"] 
+[Round "9"] 
+[White "Toporov, Victor"] 
+[Black "Sepman, Yulius"] 
+[Result "0-1"] 
+[WhiteElo "2216"] 
+[BlackElo "2273"] 
+[ECO "A00"] 
+[EventDate "2000.02.05"] 
+ 
+1.c3 d5 2.f4 c5 3.Nf3 e6 4.d3 f5 5.g3 Nf6 6.Bg2 Nc6 7.O-O Be7 8.Qc2 O-O 9. 
+a4 a6 10.h3 Qe8 11.Bd2 Bd6 12.Na3 Kh8 13.Nh4 Nh5 14.Be1 e5 15.Bxd5 exf4  
+16.Nc4 Bc7 17.Ng2 fxg3 18.Bf3 f4 19.Bg4 Bxg4 20.hxg4 Qe6 21.Nd2 Qxg4 22. 
+Nf3 Qh3 23.Bd2 Ne5 24.Nge1 Rae8 25.e4 fxe3 0-1 

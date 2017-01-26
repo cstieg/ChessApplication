@@ -1,0 +1,41 @@
+ 
+[Event "XXXIII Open"] 
+[Site "Seville ESP"] 
+[Date "2008.01.11"] 
+[Round "8"] 
+[White "Epishin, Vladimir"] 
+[Black "Rizouk, Aimen"] 
+[Result "1-0"] 
+[WhiteElo "2577"] 
+[BlackElo "2498"] 
+[ECO "A40"] 
+[EventDate "2008.01.05"] 
+ 
+1.d4 a6 2.g3 Nf6 3.Bg2 d5 4.Nf3 g6 5.O-O Bg7 6.Nbd2 O-O 7.c4 c6 8.b3 Ne4  
+9.Bb2 f5 10.Qc2 Nd7 11.Rad1 e6 12.Ne1 g5 13.Nxe4 fxe4 14.f3 exf3 15.exf3  
+a5 16.Nd3 a4 17.f4 axb3 18.axb3 gxf4 19.Nxf4 Nf6 20.Bc3 Kh8 21.Nd3 Bd7 22. 
+Bb4 Rg8 23.Ne5 Be8 24.Qe2 dxc4 25.bxc4 Ra4 26.Qe1 Nd7 27.Nf7+ Bxf7 28.Rxf7 
+Nb6 29.Bf1 Nc8 30.Kh1 Nd6 31.Bxd6 Qxd6 32.Bd3 Qxd4 33.Bc2 Qxc4 34.Bxa4  
+Qxa4 35.Rdd7 Qb5 36.Qxe6 Ra8 37.Kg2 1-0 
+ 
+[Event "National I"] 
+[Site "Bischwiller FRA"] 
+[Date "2003.02.01"] 
+[Round "2"] 
+[White "Mensch, Etienne"] 
+[Black "Bricard, Emmanuel"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2346"] 
+[BlackElo "2458"] 
+[ECO "A40"] 
+[EventDate "2003.01.31"] 
+ 
+1.d4 a6 2.g3 Nf6 3.Bg2 c5 4.d5 b5 5.Bg5 d6 6.a4 b4 7.Bxf6 exf6 8.a5 Be7 9. 
+Nf3 O-O 10.Nbd2 Nd7 11.Nc4 Ra7 12.Nfd2 f5 13.e3 Bf6 14.f4 g6 15.O-O Be7  
+16.Qe2 Nf6 17.Nb6 Re8 18.Bf3 Bf8 19.b3 Rae7 20.Nxc8 Qxc8 21.Rae1 Bg7 22. 
+Kg2 h5 23.Nc4 Qd8 24.Qd3 Nh7 25.Nb6 Bc3 26.Re2 Ra7 27.e4 fxe4 28.Rxe4 Nf6  
+29.Rxe8+ Qxe8 30.Rf2 Qe1 31.Rf1 Qe8 32.Rf2 Qb5 33.Nc8 Qxd3 34.cxd3 Rd7 35. 
+Re2 Kf8 36.Kf1 Ne8 37.g4 Rc7 38.Nb6 hxg4 39.Bxg4 f6 40.Bf3 Re7 41.h4 Rxe2  
+42.Bxe2 Nc7 43.h5 gxh5 44.Bxh5 Nb5 45.Nd7+ Ke7 46.Nb8 Nc7 47.Bf3 Bd2 48.d4 
+Bxf4 49.Be2 Nxd5 50.Nxa6 cxd4 51.Bf3 Nc3 52.Nxb4 d3 53.Nxd3 Be3 54.Nb4 Kd7 
+1/2-1/2 

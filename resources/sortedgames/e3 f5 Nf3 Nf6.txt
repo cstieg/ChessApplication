@@ -1,0 +1,22 @@
+ 
+[Event "Petersburg Autumn"] 
+[Site "St Petersburg RUS"] 
+[Date "2006.11.02"] 
+[Round "3"] 
+[White "Turikov, Viktor"] 
+[Black "Yerastov, Alexey"] 
+[Result "1-0"] 
+[WhiteElo "2365"] 
+[BlackElo "2253"] 
+[ECO "A00"] 
+[EventDate "2006.10.31"] 
+ 
+1.e3 f5 2.Nf3 Nf6 3.c4 e6 4.b3 Be7 5.Bb2 b6 6.Be2 Bb7 7.O-O O-O 8.d3 a5 9. 
+a3 Na6 10.Nc3 Nc5 11.Qc2 Qe8 12.Rad1 d6 13.b4 axb4 14.axb4 Na4 15.Nxa4  
+Qxa4 16.Qc3 e5 17.Nd2 Rf7 18.b5 Qa7 19.Ra1 Qb8 20.Rxa8 Bxa8 21.Ra1 Bf8 22. 
+Qc2 Re7 23.Bf3 Bxf3 24.Nxf3 Qb7 25.Qb3 Kh8 26.Ra4 Re8 27.Qa2 Qc8 28.Ra7  
+Nd7 29.d4 e4 30.Ne1 Nf6 31.d5 Nd7 32.Nc2 Nc5 33.Nb4 f4 34.Qb1 fxe3 35.fxe3 
+Qg4 36.Qf1 Qg5 37.Nc2 Be7 38.Qf4 Qh5 39.g4 Qh4 40.Qg3 Qg5 41.h4 Qg6 42. 
+Rxc7 Bf6 43.Bd4 h5 44.Qf4 Bxd4 45.Nxd4 hxg4 46.Qg5 Kh7 47.Nf5 Qxg5 48.hxg5 
+Kg6 49.Nxd6 Ra8 50.Re7 Ra2 51.Nxe4 Nxe4 52.Rxe4 Kxg5 53.d6 Ra1+ 54.Kg2 Kf5 
+55.d7 1-0 

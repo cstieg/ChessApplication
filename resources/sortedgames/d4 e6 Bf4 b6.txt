@@ -1,0 +1,123 @@
+ 
+[Event "Sumarice GM 2015"] 
+[Site "Kragujevac SRB"] 
+[Date "2015.11.20"] 
+[Round "5.5"] 
+[White "Draganic, Veljko"] 
+[Black "Ider, Borya"] 
+[Result "1-0"] 
+[WhiteElo "2375"] 
+[BlackElo "2464"] 
+[ECO "A40"] 
+[EventDate "2015.11.17"] 
+ 
+1.d4 e6 2.Bf4 b6 3.e3 Bb7 4.Nf3 f5 5.Be2 Nf6 6.O-O Nc6 7.c4 Ne7 8.Nc3 Ng6  
+9.Ne5 Nxf4 10.exf4 Bb4 11.Bh5+ g6 12.Bf3 Bxc3 13.Bxb7 Bxb2 14.Rb1 Rb8 15. 
+Nc6 dxc6 16.Bxc6+ Kf7 17.Rxb2 Qd6 18.d5 exd5 19.cxd5 Qxf4 20.Re1 Rhf8 21. 
+g3 Qh6 22.Rbe2 Kg8 23.Qb3 Kh8 24.Re7 Ng4 25.Qb2+ Kg8 26.f3 Nf6 27.Rxc7 f4  
+28.Ree7 fxg3 29.hxg3 Rbd8 30.Rxa7 Rd6 31.Kg2 Rfd8 32.Qxb6 Qg5 33.Qf2 Nh5  
+34.f4 Qf6 35.Qe2 Qf8 36.Rxh7 Rf6 37.Qe7 Qxe7 38.Rhxe7 Rdf8 39.a4 g5 40.Re5 
+Rf5 41.Rxf5 Rxf5 42.d6 1-0 
+ 
+[Event "Millionaire TB B 2015"] 
+[Site "Las Vegas, NV USA"] 
+[Date "2015.10.11"] 
+[Round "1.2"] 
+[White "Kamsky, Gata"] 
+[Black "Bareev, Evgeny"] 
+[Result "1-0"] 
+[WhiteElo "2680"] 
+[BlackElo "2669"] 
+[ECO "A40"] 
+[EventDate "2015.10.11"] 
+ 
+1.d4 e6 2.Bf4 b6 3.e3 Bb7 4.Nf3 d6 5.h3 Nd7 6.Bh2 f5 7.c4 g6 8.Nc3 Bg7 9. 
+Be2 Ngf6 10.a4 a5 11.Ng5 Ke7 12.Bf3 Qc8 13.Bxb7 Qxb7 14.O-O h6 15.Nf3 Kf7  
+16.Nb5 Bf8 17.Rc1 Be7 18.Qb3 Ne4 19.Rfd1 Rac8 20.Nd2 Rhd8 21.Nxe4 Qxe4 22. 
+f3 Qa8 23.Re1 Nf8 24.c5 bxc5 25.dxc5 dxc5 26.Bxc7 Rd7 27.Bg3 h5 28.e4 Qc6  
+29.Na3 Rb7 30.Qc2 Rb4 31.Nc4 Kg8 32.b3 Bf6 33.Rcd1 Rd8 34.Nxa5 Qc8 35.Nc4  
+Rxd1 36.Rxd1 Qb7 37.a5 1-0 
+ 
+[Event "1. League Cent-SRB"] 
+[Site "Kragujevac SRB"] 
+[Date "2015.09.09"] 
+[Round "7.1"] 
+[White "Colovic, Dusan"] 
+[Black "Jovanovic, Dusan D"] 
+[Result "1-0"] 
+[WhiteElo "2375"] 
+[BlackElo "2381"] 
+[ECO "A47"] 
+[EventDate "2015.09.05"] 
+ 
+1.d4 e6 2.Bf4 b6 3.e3 Nf6 4.Nf3 Bb7 5.h3 Bd6 6.Bxd6 cxd6 7.Be2 d5 8.O-O  
+O-O 9.a4 Nc6 10.Nbd2 d6 11.c3 Rc8 12.b4 Ne7 13.Qb3 a6 14.Rfc1 h6 15.c4  
+dxc4 16.Nxc4 Qc7 17.Qa3 Bxf3 18.Bxf3 b5 19.axb5 axb5 20.Nd2 Qb8 21.Ne4  
+Ned5 22.Nxf6+ Nxf6 23.Qa5 e5 24.dxe5 dxe5 25.Bc6 Qd6 26.Qxb5 Rfd8 27.Qc5  
+Rxc6 28.Qxc6 Qxb4 29.Ra8 Rxa8 30.Qxa8+ Kh7 31.Qf3 Qe7 32.Rc6 Qd7 33.Rxf6  
+gxf6 34.Qxf6 Qd5 35.g4 e4 36.Kg2 h5 37.Qf5+ Qxf5 38.gxf5 h4 39.f3 Kg7 40. 
+fxe4 Kf6 41.Kf2 Ke5 42.Kf3 f6 43.Kg4 Kxe4 44.Kxh4 Kxf5 45.Kh5 1-0 
+ 
+[Event "SS Manhem GM 2015"] 
+[Site "Goteborg SWE"] 
+[Date "2015.08.09"] 
+[Round "2.3"] 
+[White "Fries-Nielsen, Jens Ove"] 
+[Black "Johansson, Linus"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2434"] 
+[BlackElo "2379"] 
+[ECO "A40"] 
+[EventDate "2015.08.08"] 
+ 
+1.d4 e6 2.Bf4 b6 3.e4 Bb7 4.Nd2 d5 5.exd5 Bxd5 6.Ngf3 Bb7 7.Bb5+ c6 8.Bd3  
+Nf6 9.O-O Be7 10.a4 Ba6 11.Bxa6 Nxa6 12.Qe2 Nb4 13.Nc4 O-O 14.Nce5 Rc8 15. 
+Rfd1 Nbd5 16.Bd2 Qc7 17.c4 Nb4 18.Bc3 h6 19.Re1 a5 20.b3 Qb7 21.Rad1 Na6  
+22.Ng6 fxg6 23.Qxe6+ Rf7 24.Ne5 Rf8 25.Nxc6 Bb4 26.Bxb4 Nxb4 27.Ne5 Kh7  
+28.Nxf7 Rxf7 29.d5 Na6 30.Qd6 Nc5 31.f3 Qc7 32.Qxc7 Rxc7 33.Rb1 Kg8 34.Re3 
+Na6 35.Re6 Rb7 36.Rbe1 Nc5 37.R6e3 Kf8 38.Rb1 Na6 39.Rbe1 Rb8 40.Kf2 g5  
+41.Ke2 g4 42.Kd2 gxf3 43.gxf3 Nc5 44.Kc3 Rb7 45.R1e2 Ra7 46.Re1 Kf7 47. 
+R1e2 Kf8 48.Re1 Kf7 49.R1e2 Kf8 50.Re1 Kf7 51.R1e2 Kf8 1/2-1/2 
+ 
+[Event "Bundesliga 2014-15"] 
+[Site "Munich GER"] 
+[Date "2015.02.21"] 
+[Round "10.1"] 
+[White "Renner, Christoph"] 
+[Black "Smerdon, David"] 
+[Result "0-1"] 
+[WhiteElo "2375"] 
+[BlackElo "2506"] 
+[ECO "A40"] 
+[EventDate "2014.10.18"] 
+ 
+1.d4 e6 2.Bf4 b6 3.e3 Bb7 4.Nf3 f5 5.Bd3 Nf6 6.Nbd2 g6 7.Qe2 Bg7 8.h3 O-O  
+9.g4 d6 10.O-O-O Qe7 11.gxf5 exf5 12.h4 Nh5 13.Bh2 Nd7 14.Ba6 Bxa6 15.Qxa6 
+Ndf6 16.Qc4+ Kh8 17.Ng5 Rae8 18.f3 c5 19.dxc5 d5 20.Qa6 Qxc5 21.Kb1 h6 22. 
+Nh3 Qxe3 23.Qxa7 f4 24.a3 Qe5 25.Nb3 Ne4 26.Rd4 Nd2+ 27.Nxd2 Qxd4 0-1 
+ 
+[Event "4. Mediterranean Open"] 
+[Site "Rijeka CRO"] 
+[Date "2010.11.16"] 
+[Round "5.18"] 
+[White "Foglia, Maurizio"] 
+[Black "Brumen, Dinko"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2204"] 
+[BlackElo "2359"] 
+[ECO "A47"] 
+[EventDate "2010.11.13"] 
+ 
+1.d4 e6 2.Bf4 b6 3.e3 Bb7 4.Nf3 Nf6 5.Nbd2 Be7 6.h3 O-O 7.Be2 c5 8.c3 d6  
+9.O-O Nbd7 10.a4 Re8 11.a5 Bf8 12.axb6 axb6 13.Nc4 Rxa1 14.Qxa1 Qc7 15.Na3 
+e5 16.Bh2 g6 17.Rd1 Ra8 18.Qc1 Bc6 19.Nb5 Qb8 20.dxe5 dxe5 21.c4 Ne4 22. 
+Nd2 Nd6 23.Nf3 Ne4 24.Nd2 Ng5 25.h4 Ne6 26.Bf3 Qb7 27.Bxc6 Qxc6 28.Nf3 e4  
+29.Ne5 Nxe5 30.Bxe5 Ng7 31.Bxg7 Bxg7 32.Nc3 Bxc3 33.Qxc3 Qe6 34.b3 Qg4 35. 
+Ra1 Rxa1+ 36.Qxa1 Qxh4 37.Qa8+ Kg7 38.Qc6 Qf6 39.Qxe4 h5 40.Qd3 Qa1+ 41. 
+Kh2 Qe1 42.Qc2 f6 43.Qa2 Qa5 44.Qb2 Qa7 45.Qd2 Qc7+ 46.Kg1 h4 47.Qd5 g5  
+48.Qe6 Qd8 49.Kh2 Kg6 50.e4 Kg7 51.Qd5 Qc7+ 52.Kg1 Qa7 53.Kh2 Qb8+ 54.Kg1  
+Kh6 55.Qe6 Kg7 56.Qd7+ Kf8 57.Qe6 Qd8 58.Kh2 Kg7 59.Qd5 Qe7 60.Kg1 Kh6 61. 
+Qc6 g4 62.Qxb6 Kg5 63.Qc6 Kf4 64.Kf1 g3 65.fxg3+ hxg3 66.Qd5 Qxe4 67.Qxc5  
+Qd3+ 68.Ke1 Qb1+ 69.Ke2 Qc2+ 70.Ke1 Qxg2 71.Qd6+ Kf5 72.Qd7+ Kf4 73.Qc7+  
+Kg5 74.Qg7+ Kf5 75.Qd7+ Ke5 76.Qe7+ Kd4 77.Qxf6+ Kc5 78.Qe7+ Kd4 79.Qf6+  
+Kc5 80.Qe7+ 1/2-1/2 

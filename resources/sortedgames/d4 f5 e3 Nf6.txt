@@ -1,0 +1,138 @@
+ 
+[Event "TCh-Madrid 2014-15"] 
+[Site "Madrid ESP"] 
+[Date "2015.01.24"] 
+[Round "7.4"] 
+[White "Granda Zuniga, Julio E"] 
+[Black "Anton Guijarro, David"] 
+[Result "1-0"] 
+[WhiteElo "2654"] 
+[BlackElo "2607"] 
+[ECO "A80"] 
+[EventDate "2014.11.23"] 
+ 
+1.d4 f5 2.e3 Nf6 3.Bc4 e6 4.Ne2 d5 5.Bb3 Bd6 6.c4 c6 7.Nd2 O-O 8.O-O b6 9. 
+Nf3 Ba6 10.Qc2 Nbd7 11.Nf4 Re8 12.Bd2 Rc8 13.Rfc1 Ne4 14.Qd1 g5 15.Nd3 g4  
+16.Nfe1 Rf8 17.Bb4 Nxf2 18.Kxf2 Qh4+ 19.Ke2 c5 20.cxd5 e5 21.Bc4 Bxc4 22. 
+Rxc4 e4 23.Nf4 Bxf4 24.exf4 e3 25.dxc5 Qf2+ 26.Kd3 bxc5 27.Ba5 Qxb2 28.Rb1 
+Qa3+ 29.Bc3 Nb6 30.Qb3 Qa6 31.d6 Rf7 32.Be5 Kf8 33.Nc2 e2 34.Ne3 Rb7 35. 
+Kxe2 Rcb8 36.Qb5 Qxb5 37.Rxb5 Nxc4 38.Rxb7 Rxb7 39.Nxc4 Kf7 40.Bc3 Ke6 41. 
+Ba5 Kd5 42.Bc7 1-0 
+ 
+[Event "Hanoi VIE, Ch U11 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.13"] 
+[Round "2.31"] 
+[White "Nguyen, Tran Minh Tam"] 
+[Black "Luong, Giang Son"] 
+[Result "0-1"] 
+[WhiteElo "2536"] 
+[BlackElo "2561"] 
+[ECO "A80"] 
+[EventDate "2012.07.12"] 
+ 
+1.d4 f5 2.e3 Nf6 3.Nc3 e6 4.Nf3 c6 5.g3 d5 6.Bg2 Nbd7 7.Ne5 Bd6 8.Nxd7  
+Bxd7 9.O-O O-O 10.b3 Ne4 11.Nxe4 fxe4 12.Bb2 Be8 13.Qg4 Qe7 14.Bh3 Rf6 15. 
+f3 Rg6 16.Qh5 Rxg3+ 17.hxg3 Bxh5 18.g4 Qh4 19.gxh5 Qxh3 20.fxe4 Qg3+ 21. 
+Kh1 Qh2# 0-1 
+ 
+[Event "14. Dubai Open 2012"] 
+[Site "Dubai UAE"] 
+[Date "2012.04.19"] 
+[Round "5.12"] 
+[White "Akshayraj, Kore"] 
+[Black "Zhou, Weiqi"] 
+[Result "0-1"] 
+[WhiteElo "2422"] 
+[BlackElo "2628"] 
+[ECO "A80"] 
+[EventDate "2012.04.15"] 
+ 
+1.d4 f5 2.e3 Nf6 3.Bd3 d6 4.Qf3 g6 5.h4 e5 6.dxe5 dxe5 7.Bc4 Nc6 8.Nc3 Bd6 
+9.Bd2 Qe7 10.O-O-O Be6 11.Nd5 e4 12.Nxe7 exf3 13.Bxe6 Kxe7 14.Bb3 fxg2 15. 
+Rh3 Ng4 16.Be1 Bh2 17.f3 Bxg1 18.fxg4 fxg4 19.Rg3 Rhd8 20.Bd2 Bf2 21.Rxg2  
+g3 22.e4 Nd4 23.Bg5+ Ke8 24.Rd3 Rd7 25.Bc4 c6 26.a4 Rc8 27.c3 Nb3+ 28.Kc2  
+Rxd3 29.Bxd3 Nc5 30.Bf4 Rd8 31.Be2 Nxe4 32.Bf3 Nc5 33.Bxg3 Bxg3 34.Rxg3  
+Nxa4 35.h5 Rd6 36.Rg5 Nb6 37.b4 a6 38.Be4 Kf7 39.Kb3 Nd7 40.Ka4 gxh5 41. 
+Bc2 Rh6 42.Rf5+ Ke7 43.Bb3 h4 44.Rf7+ Ke8 45.Rf2 h3 46.Rh2 Ne5 47.Bd1 Kd8  
+48.Be2 Kc7 49.Ka5 Rh4 50.Bf1 h5 51.Rxh3 Rxh3 52.Bxh3 h4 0-1 
+ 
+[Event "2. Agzamov Memorial"] 
+[Site "Toshkent UZB"] 
+[Date "2008.03.23"] 
+[Round "4"] 
+[White "Saidov, Beqali"] 
+[Black "Glek, Igor"] 
+[Result "1-0"] 
+[WhiteElo "2329"] 
+[BlackElo "2546"] 
+[ECO "A80"] 
+[EventDate "2008.03.19"] 
+ 
+1.d4 f5 2.e3 Nf6 3.Bd3 d6 4.Nc3 e5 5.dxe5 dxe5 6.e4 Bb4 7.exf5 e4 8.Bb5+  
+c6 9.Qxd8+ Kxd8 10.Bc4 Bxc3+ 11.bxc3 Bxf5 12.Ne2 b5 13.Nd4 Bd7 14.Be2 Na6  
+15.a4 Nc7 16.axb5 Nxb5 17.Nxb5 cxb5 18.c4 bxc4 19.Bxc4 a5 20.O-O Re8 21. 
+Rd1 Re5 22.Be3 Ke8 23.Bd4 Rf5 24.Re1 Bc6 25.Rab1 Kf8 26.Rb6 Bd5 27.Bb5 Rc8 
+28.c3 Bc4 29.Bxc4 Rxc4 30.Ra1 Kf7 31.h3 h5 32.Ra6 Kg6 33.R1xa5 Rxa5 34. 
+Rxa5 h4 35.Kf1 Rc8 36.Ke2 Rb8 37.Ke3 Rb2 38.Ra7 Rc2 39.Kf4 Rc1 40.Ra5 Rc2  
+41.Rg5+ Kf7 42.Ke3 Rc1 43.Kd2 Ra1 44.Kc2 Ra2+ 45.Kb3 Rd2 46.Be3 Rd3 47.Kc4 
+Rd1 48.Kc5 Nd7+ 49.Kb5 Nf6 50.c4 Rd3 51.Kc6 Rd1 52.c5 Rb1 53.Re5 Rg1 54. 
+Kb7 Rb1+ 55.Kc7 Rd1 56.c6 Ne8+ 57.Kb6 Nd6 58.Kc5 Nc8 59.Rxe4 Rg1 60.c7 1-0 
+ 
+[Event "2. Agzamov Memorial"] 
+[Site "Tashkent UZB"] 
+[Date "2008.03.23"] 
+[Round "4"] 
+[White "Saidov, Beqali"] 
+[Black "Glek, Igor"] 
+[Result "1-0"] 
+[WhiteElo "2329"] 
+[BlackElo "2546"] 
+[ECO "A80"] 
+[EventDate "2008.03.19"] 
+ 
+1.d4 f5 2.e3 Nf6 3.Bd3 d6 4.Nc3 e5 5.dxe5 dxe5 6.e4 Bb4 7.exf5 e4 8.Bb5+  
+c6 9.Qxd8+ Kxd8 10.Bc4 Bxc3+ 11.bxc3 Bxf5 12.Ne2 b5 13.Nd4 Bd7 14.Be2 Na6  
+15.a4 Nc7 16.axb5 Nxb5 17.Nxb5 cxb5 18.c4 bxc4 19.Bxc4 a5 20.O-O Re8 21. 
+Rd1 Re5 22.Be3 Ke8 23.Bd4 Rf5 24.Re1 Bc6 25.Rab1 Kf8 26.Rb6 Bd5 27.Bb5 Rc8 
+28.c3 Bc4 29.Bxc4 Rxc4 30.Ra1 Kf7 31.h3 h5 32.Ra6 Kg6 33.R1xa5 Rxa5 34. 
+Rxa5 h4 35.Kf1 Rc8 36.Ke2 Rb8 37.Ke3 Rb2 38.Ra7 Rc2 39.Kf4 Rc1 40.Ra5 Rc2  
+41.Rg5+ Kf7 42.Ke3 Rc1 43.Kd2 Ra1 44.Kc2 Ra2+ 45.Kb3 Rd2 46.Be3 Rd3 47.Kc4 
+Rd1 48.Kc5 Nd7+ 49.Kb5 Nf6 50.c4 Rd3 51.Kc6 Rd1 52.c5 Rb1 53.Re5 Rg1 54. 
+Kb7 Rb1+ 55.Kc7 Rd1 56.c6 Ne8+ 57.Kb6 Nd6 58.Kc5 Nc8 59.Rxe4 Rg1 60.c7 1-0 
+ 
+[Event "Independence Cup"] 
+[Site "Kiev UKR"] 
+[Date "2003.08.17"] 
+[Round "5"] 
+[White "Kruppa, Yuri"] 
+[Black "Panchenko, Alexandar G"] 
+[Result "1-0"] 
+[WhiteElo "2520"] 
+[BlackElo "2402"] 
+[ECO "A80"] 
+[EventDate "2003.08.13"] 
+ 
+1.d4 f5 2.e3 Nf6 3.Nf3 e6 4.Be2 d5 5.O-O Bd6 6.c4 c6 7.b3 Qe7 8.Bb2 b6 9. 
+Ne5 Bb7 10.cxd5 exd5 11.Qc2 g6 12.Rc1 O-O 13.Nd2 Rc8 14.Ndf3 Nbd7 15.Qd1  
+Ne4 16.Rc2 Nxe5 17.Nxe5 Bxe5 18.dxe5 Ng5 19.f4 Ne4 20.Bf3 c5 21.Qe1 Qe6  
+22.Rd1 h5 23.Qh4 Rf8 24.h3 Rf7 25.b4 c4 26.Bxe4 fxe4 27.g4 hxg4 28.hxg4  
+Rh7 29.Qg5 Qe7 30.Qxe7 Rxe7 31.f5 gxf5 32.gxf5 Rg7+ 33.Rg2 Rf8 34.Rf1  
+Rxg2+ 35.Kxg2 Kf7 36.e6+ Ke7 37.Bg7 Rg8 38.Kh2 1-0 
+ 
+[Event "ch-Paris Open"] 
+[Site "Paris FRA"] 
+[Date "2001.07.26"] 
+[Round "6"] 
+[White "Kruppa, Yuri"] 
+[Black "Barletta, Diego"] 
+[Result "1-0"] 
+[WhiteElo "2552"] 
+[BlackElo "2276"] 
+[ECO "A80"] 
+[EventDate "2001.07.21"] 
+ 
+1.d4 f5 2.e3 Nf6 3.Nf3 g6 4.b3 Bg7 5.Bb2 O-O 6.Nbd2 c6 7.Bd3 d5 8.c4 Ne4  
+9.O-O Be6 10.Rc1 Kh8 11.Qc2 Na6 12.a3 Rc8 13.b4 Nb8 14.Nb3 b6 15.Ne5 Bxe5  
+16.dxe5 dxc4 17.Bxc4 Bxc4 18.Qxc4 Qd5 19.Qxd5 cxd5 20.f3 Ng5 21.Nd4 Kg8  
+22.e6 h6 23.h4 Nh7 24.h5 Rxc1 25.Rxc1 gxh5 26.Rc7 1-0 

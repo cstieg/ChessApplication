@@ -1,0 +1,51 @@
+ 
+[Event "2. Bundesliga West 2012/13 rounds 7-8"] 
+[Site "Bregenz AUT"] 
+[Date "2013.01.13"] 
+[Round "8.5"] 
+[White "Mittelberger, Peter"] 
+[Black "Kroell, Johannes"] 
+[Result "0-1"] 
+[WhiteElo "2305"] 
+[BlackElo "2205"] 
+[ECO "C00"] 
+[EventDate "2013.01.12"] 
+ 
+1.e4 e6 2.d4 b5 3.Bxb5 Bb7 4.Bd3 f5 5.Qe2 Nf6 6.Nd2 c5 7.dxc5 Bxc5 8.Ngf3  
+O-O 9.O-O Nc6 10.c3 Qc7 11.e5 Nd5 12.Nc4 h6 13.Bd2 a5 14.Nh4 Rf7 15.Ng6  
+Nde7 16.Nf4 g5 17.Nh5 Ng6 18.Rfe1 Nce7 19.Kf1 Nh4 20.f3 g4 21.Nf6+ Rxf6  
+22.exf6 Qxh2 23.f7+ Kh7 24.Be3 Qh1+ 0-1 
+ 
+[Event "TCh-AUT 2 West 2012-13"] 
+[Site "Bregenz AUT"] 
+[Date "2013.01.13"] 
+[Round "8.5"] 
+[White "Pflug, Matthias"] 
+[Black "Kroell, Johannes"] 
+[Result "0-1"] 
+[WhiteElo "2305"] 
+[BlackElo "2205"] 
+[ECO "C00"] 
+[EventDate "2012.10.05"] 
+ 
+1.e4 e6 2.d4 b5 3.Bxb5 Bb7 4.Bd3 f5 5.Qe2 Nf6 6.Nd2 c5 7.dxc5 Bxc5 8.Ngf3  
+O-O 9.O-O Nc6 10.c3 Qc7 11.e5 Nd5 12.Nc4 h6 13.Bd2 a5 14.Nh4 Rf7 15.Ng6  
+Nde7 16.Nf4 g5 17.Nh5 Ng6 18.Rfe1 Nce7 19.Kf1 Nh4 20.f3 g4 21.Nf6+ Rxf6  
+22.exf6 Qxh2 23.f7+ Kh7 24.Be3 Qh1+ 0-1 
+ 
+[Event "Bundesliga 2004/05"] 
+[Site "Austria"] 
+[Date "2005.01.14"] 
+[Round "5"] 
+[White "Moser, Eva"] 
+[Black "Kroell, Johannes"] 
+[Result "1-0"] 
+[WhiteElo "2438"] 
+[BlackElo "2234"] 
+[ECO "C00"] 
+ 
+1.e4 e6 2.d4 b5 3.Bxb5 Bb7 4.Qe2 f5 5.Nd2 Nf6 6.Bd3 c5 7.dxc5 Bxc5 8.Ngf3  
+O-O 9.O-O Nc6 10.c3 Qc7 11.e5 Nd5 12.Nb3 Be7 13.Re1 a5 14.a4 Rfb8 15.Nfd4  
+Nxd4 16.Nxd4 Bc5 17.Nb5 Qc6 18.Qf3 Qb6 19.Qg3 Kh8 20.Re2 Rg8 21.Bd2 g5 22. 
+Nd6 Bxd6 23.exd6 Nf4 24.Be3 Nxe2+ 25.Bxe2 f4 26.Bxb6 fxg3 27.Bd4+ Rg7 28. 
+hxg3 Ba6 29.Bb5 Bxb5 30.axb5 Kg8 31.Bxg7 Kxg7 32.f4 Kf6 33.Ra4 1-0 

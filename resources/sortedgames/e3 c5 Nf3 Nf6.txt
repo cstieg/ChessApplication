@@ -1,0 +1,82 @@
+ 
+[Event "SCT Seniors 2013"] 
+[Site "Stockholm SWE"] 
+[Date "2013.05.09"] 
+[Round "3.2"] 
+[White "Turikov, Viktor"] 
+[Black "Kupreichik, Viktor D"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2266"] 
+[BlackElo "2443"] 
+[ECO "A00"] 
+[EventDate "2013.05.09"] 
+ 
+1.e3 c5 2.Nf3 Nf6 3.b3 d6 4.Bb2 e5 5.d3 Nc6 6.c4 Be7 7.Nc3 O-O 8.Be2 d5 9. 
+cxd5 Nxd5 10.O-O Be6 11.Nxd5 Qxd5 12.Qc2 Rac8 13.Rfd1 Rfd8 14.Rac1 b6 15. 
+Qb1 Bf6 16.Nd2 Be7 17.Ne4 f5 18.Ng3 g6 19.Qa1 Bf8 20.Bf3 Qd7 21.Bxc6 Qxc6  
+22.Bxe5 Bd5 23.f3 Re8 24.e4 Bf7 25.exf5 gxf5 26.d4 Qe6 27.Kh1 Bg6 28.f4 h5 
+29.d5 Qf7 30.Qc3 Rcd8 31.d6 Re6 32.Qd3 Kh7 33.Ne2 Bxd6 34.Qc4 Qe7 35.Bxd6  
+Rdxd6 36.Rxd6 Rxd6 37.Ng1 Rd4 38.Qf1 Qe4 39.Nh3 Qd3 40.Qe1 Qd2 41.Qe7+ Kg8 
+42.Rg1 Rd7 43.Qe6+ Kg7 44.Qe5+ Kg8 45.Qe6+ Kg7 46.Qe5+ Kg8 47.Qe6+ 1/2-1/2 
+ 
+[Event "TCh-Elite 2012-13"] 
+[Site "Sweden SWE"] 
+[Date "2013.03.17"] 
+[Round "9"] 
+[White "Fries-Nielsen, Jens Ove"] 
+[Black "Nithander, Victor"] 
+[Result "0-1"] 
+[WhiteElo "2365"] 
+[BlackElo "2443"] 
+[ECO "A00"] 
+[EventDate "2012.10.05"] 
+ 
+1.e3 c5 2.Nf3 Nf6 3.b3 g6 4.Bb2 Bg7 5.g4 h6 6.c4 Nc6 7.d3 d5 8.cxd5 Qxd5  
+9.Nc3 Qd7 10.h3 b6 11.a3 Bb7 12.Be2 Rc8 13.Ne4 O-O 14.Ng3 Rfd8 15.Qc2 Na5  
+16.e4 Nc6 17.O-O Ne8 18.Bxg7 Nxg7 19.Qd2 Kh7 20.Qf4 f6 21.Qd2 Ne6 22.Ne1  
+Ned4 23.Bd1 e5 24.b4 Ne7 25.f4 exf4 26.Qxf4 Rf8 27.bxc5 Rxc5 28.Ra2 Nec6  
+29.Raf2 Ne5 30.h4 Ne6 31.Qd2 Qd4 32.Kh2 Rb5 33.Qa2 Bc8 34.Nc2 Qxd3 35.Nb4  
+Qd4 36.Nd5 f5 37.a4 Rc5 38.Rd2 Qc4 39.Bb3 Nxg4+ 40.Kg1 Qa6 41.exf5 gxf5  
+42.Ne7 Re5 43.Ngxf5 Qa5 44.Rc2 Re1 45.Rc1 Rxf1+ 46.Rxf1 Qc5+ 47.Kh1 Bb7+  
+48.Bd5 Rxf5 49.Rxf5 Qxe7 50.Bxb7 Qxb7+ 51.Qd5 Qxd5+ 52.Rxd5 Nc5 53.a5 Nf6  
+54.Re5 Nfd7 55.axb6 axb6 56.Rd5 Kg6 57.Kg2 h5 58.Kf3 b5 59.Rg5+ Kh6 60.Ke3 
+b4 61.Rd5 b3 62.Kd2 Nf6 63.Re5 Nfe4+ 0-1 
+ 
+[Event "Horsens DEN, Open 2011"] 
+[Site "Horsens DEN"] 
+[Date "2011.??.??"] 
+[Round "7"] 
+[White "Fries-Nielsen, Jens Ove"] 
+[Black "Dyrgaard, Kristoffer"] 
+[Result "0-1"] 
+[WhiteElo "2430"] 
+[BlackElo "2232"] 
+[ECO "A00"] 
+[EventDate "2011.07.21"] 
+ 
+1.e3 c5 2.Nf3 Nf6 3.b3 d5 4.Bb2 Nc6 5.h3 a6 6.d4 cxd4 7.exd4 Bf5 8.g4 Bg6  
+9.Ne5 Rc8 10.Nxg6 hxg6 11.Bg2 e6 12.O-O b5 13.a4 b4 14.Qe2 Bd6 15.Nd2 Qc7  
+16.Rfd1 a5 17.Nf1 Bf4 18.Rd3 O-O 19.h4 e5 20.g5 e4 21.Rdd1 Nh5 22.Bh3 Ne7  
+23.Bxc8 Qxc8 24.f3 Qh3 25.Qg2 Qxh4 26.Qg4 Nf5 27.Qxh4 Nxh4 28.fxe4 dxe4  
+29.Bc1 Nf3+ 30.Kf2 Rd8 31.Bxf4 Nxf4 32.d5 Nxg5 33.Ne3 f5 34.Nc4 Rxd5 35. 
+Rxd5 Nxd5 36.Nxa5 e3+ 37.Ke2 f4 38.Nc4 f3+ 39.Kd3 e2 40.a5 Nc3 41.a6 f2  
+42.a7 e1=N+ 43.Kd2 Nge4+ 44.Ke3 f1=Q 45.Kd4 0-1 
+ 
+[Event "Trofeo Intel Pentium"] 
+[Site "Milan ITA"] 
+[Date "2001.07.13"] 
+[Round "4"] 
+[White "Drazic, Sinisa"] 
+[Black "Borgo, Giulio"] 
+[Result "1-0"] 
+[WhiteElo "2480"] 
+[BlackElo "2428"] 
+[ECO "A00"] 
+[EventDate "2001.07.10"] 
+ 
+1.e3 c5 2.Nf3 Nf6 3.b3 b6 4.Bb2 e6 5.d4 Bb7 6.Nbd2 Be7 7.Bd3 O-O 8.O-O d6  
+9.a3 Nbd7 10.Qe2 a6 11.c4 Re8 12.Rfd1 Qc7 13.a4 cxd4 14.Nxd4 Ne5 15.Bb1  
+Rac8 16.f4 Nc6 17.N4f3 d5 18.cxd5 Nxd5 19.Nc4 Ncb4 20.Ng5 Bxg5 21.fxg5 e5  
+22.Bf5 Rcd8 23.Rac1 Qe7 24.h4 Na2 25.Rc2 Qb4 26.Rd3 b5 27.axb5 axb5 28. 
+Nxe5 Qxh4 29.Nf3 Qg3 30.Rd4 Nxe3 31.Qxe3 Bxf3 32.Rxd8 Rxd8 33.Rd2 Rf8 34. 
+Rf2 Nb4 35.Rxf3 1-0 

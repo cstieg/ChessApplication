@@ -1,0 +1,126 @@
+ 
+[Event "38. San Sebastian Open"] 
+[Site "Donostia ESP"] 
+[Date "2015.03.31"] 
+[Round "5.2"] 
+[White "Tratar, Marko"] 
+[Black "Epishin, Vladimir"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2475"] 
+[BlackElo "2563"] 
+[ECO "D02"] 
+[EventDate "2015.03.28"] 
+ 
+1.Nf3 d5 2.d4 Nd7 3.Bf4 Ngf6 4.e3 e6 5.Nbd2 Be7 6.h3 b6 7.Bb5 a6 8.Ne5 O-O 
+9.Nc6 Qe8 10.Nxe7+ Qxe7 11.Be2 c5 12.c3 a5 13.a4 Ba6 14.Bxa6 Rxa6 15.O-O  
+Raa8 16.Nf3 Rac8 17.Ne5 Ne4 18.f3 Nd6 19.Nxd7 Qxd7 20.Bxd6 Qxd6 21.Qd3 g6  
+22.Rfe1 Rfd8 23.Qb5 Kg7 24.Rad1 Qc7 25.Re2 Rd6 26.Kh1 Qe7 27.Kg1 Qc7 28. 
+Kh1 Rcd8 1/2-1/2 
+ 
+[Event "XXX Zalakaros Open"] 
+[Site "Zalakaros HUN"] 
+[Date "2011.05.20"] 
+[Round "1"] 
+[White "Banusz, Tamas"] 
+[Black "Boguszlavszkij, Jevgenyij"] 
+[Result "1-0"] 
+[WhiteElo "2555"] 
+[BlackElo "2232"] 
+[ECO "D21"] 
+[EventDate "2011.05.20"] 
+ 
+1.Nf3 d5 2.d4 Nd7 3.c4 dxc4 4.e4 Nb6 5.Ne5 Nf6 6.Nc3 e6 7.Nxc4 Bb4 8.a3  
+Bxc3+ 9.bxc3 Nxe4 10.Qg4 Nf6 11.Qxg7 Rg8 12.Qh6 Nbd5 13.Qd2 b6 14.Ne5 Bd7  
+15.c4 Ne7 16.g3 Ng4 17.Nxd7 Qxd7 18.Bg2 Rd8 19.Bb2 c5 20.d5 exd5 21.cxd5  
+Nxd5 22.O-O-O Ne7 23.Qf4 Qe6 24.Qa4+ 1-0 
+ 
+[Event "ISR Ch"] 
+[Site "Tel Aviv ISR"] 
+[Date "2002.12.01"] 
+[Round "7"] 
+[White "Mikhalevski, Victor"] 
+[Black "Zilberman, Yaacov"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2524"] 
+[BlackElo "2467"] 
+[ECO "D21"] 
+ 
+1.Nf3 d5 2.d4 Nd7 3.c4 dxc4 4.e4 Nb6 5.a4 a5 6.h3 g6 7.Nc3 Bg7 8.Bf4 c6 9. 
+Qd2 Nf6 10.Be2 O-O 11.O-O Ne8 12.Rfe1 f5 13.Bf1 Nc7 14.Bh6 Qd6 15.d5 cxd5  
+16.exd5 Re8 17.Rad1 Bf6 18.Qe3 Na6 19.Nb5 Qd8 20.d6 Bd7 21.Nc7 Nxc7 22. 
+Qxb6 exd6 23.Rxd6 Rxe1 24.Nxe1 Ne8 25.Bxc4+ Kh8 26.Rxf6 Qxf6 27.Qxb7 Bc6  
+28.Qb6 Be4 29.Qc5 Qd6 30.Qe3 Ng7 31.Qc3 Qc7 32.f3 Bb7 33.Nd3 Re8 34.Bf4  
+Qb6+ 35.Kh2 Ba6 36.Be5 Bxc4 37.Bxg7+ Kg8 38.Bh6 Qc7+ 39.f4 Rc8 40.Nc5 Bd5  
+41.Qd4 Qf7 42.Nd3 Ba8 43.Ne1 Re8 44.Qc3 Qa7 45.Qc4+ Qf7 46.Qc3 Re2 47.Kg3  
+Qe7 48.Qc4+ Qe6 49.Qc7 Qe3+ 50.Kh2 Qe7 51.Qc4+ Qe6 52.Qc3 Qe7 53.Qxa5 Bb7  
+54.Bg5 Qe4 55.Qd8+ Kf7 56.Qd7+ Kg8 57.Qd8+ Kf7 58.Qc7+ Kg8 59.Qb8+ 1/2-1/2 
+ 
+[Event "ISR Ch"] 
+[Site "Tel Aviv ISR"] 
+[Date "2002.12.01"] 
+[Round "7"] 
+[White "Mikhalevski, Victor"] 
+[Black "Zilberman, Yaacov"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2524"] 
+[BlackElo "2467"] 
+[ECO "D21"] 
+[EventDate "2002.11.24"] 
+ 
+1.Nf3 d5 2.d4 Nd7 3.c4 dxc4 4.e4 Nb6 5.a4 a5 6.h3 g6 7.Nc3 Bg7 8.Bf4 c6 9. 
+Qd2 Nf6 10.Be2 O-O 11.O-O Ne8 12.Rfe1 f5 13.Bf1 Nc7 14.Bh6 Qd6 15.d5 cxd5  
+16.exd5 Re8 17.Rad1 Bf6 18.Qe3 Na6 19.Nb5 Qd8 20.d6 Bd7 21.Nc7 Nxc7 22. 
+Qxb6 exd6 23.Rxd6 Rxe1 24.Nxe1 Ne8 25.Bxc4+ Kh8 26.Rxf6 Qxf6 27.Qxb7 Bc6  
+28.Qb6 Be4 29.Qc5 Qd6 30.Qe3 Ng7 31.Qc3 Qc7 32.f3 Bb7 33.Nd3 Re8 34.Bf4  
+Qb6+ 35.Kh2 Ba6 36.Be5 Bxc4 37.Bxg7+ Kg8 38.Bh6 Qc7+ 39.f4 Rc8 40.Nc5 Bd5  
+41.Qd4 Qf7 42.Nd3 Ba8 43.Ne1 Re8 44.Qc3 Qa7 45.Qc4+ Qf7 46.Qc3 Re2 47.Kg3  
+Qe7 48.Qc4+ Qe6 49.Qc7 Qe3+ 50.Kh2 Qe7 51.Qc4+ Qe6 52.Qc3 Qe7 53.Qxa5 Bb7  
+54.Bg5 Qe3 55.Qd8+ Kf7 56.Qd7+ Kf8 57.Qd8+ Kf7 1/2-1/2 
+ 
+[Event "14. Open"] 
+[Site "Bosnjaci CRO"] 
+[Date "2009.01.09"] 
+[Round "9"] 
+[White "Lalic, Bogdan"] 
+[Black "Kristovic, Marijan"] 
+[Result "1-0"] 
+[WhiteElo "2538"] 
+[BlackElo "2330"] 
+[ECO "D35"] 
+[EventDate "2009.01.03"] 
+ 
+1.Nf3 d5 2.d4 Nd7 3.c4 e6 4.Nc3 Ngf6 5.cxd5 exd5 6.Bg5 c6 7.e3 Qa5 8.Bd3  
+Ne4 9.O-O h6 10.Bh4 Nxc3 11.bxc3 Bd6 12.Qe1 g5 13.Bg3 Bxg3 14.fxg3 O-O 15. 
+h4 Qd8 16.hxg5 hxg5 17.e4 dxe4 18.Qxe4 f5 19.Qe3 Nb6 20.Nxg5 Qd6 21.g4 Nd5 
+22.Bc4 Kg7 23.Bxd5 cxd5 24.Rae1 b6 25.gxf5 Bxf5 26.Rxf5 Rxf5 27.Ne6+ Kg8  
+28.Qh3 Rf7 29.Re5 Rh7 30.Qg4+ Kh8 31.Qf4 Rg8 32.Qf6+ Rgg7 33.Rh5 1-0 
+ 
+[Event "XIII Open"] 
+[Site "Balaguer ESP"] 
+[Date "2008.07.16"] 
+[Round "3"] 
+[White "Lalith, Babu M R"] 
+[Black "Burmakin, Vladimir"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2328"] 
+[BlackElo "2625"] 
+[ECO "D66"] 
+[EventDate "2008.07.14"] 
+ 
+1.Nf3 d5 2.d4 Nd7 3.c4 e6 4.Nc3 Ngf6 5.Bg5 h6 6.Bh4 Be7 7.e3 O-O 8.Rc1 c6  
+9.Bd3 Nh5 10.Bxe7 Qxe7 11.O-O Rd8 12.Qe2 Nf8 13.Rfd1 Bd7 14.a3 Be8 15.Qc2  
+Nf6 16.e4 dxe4 17.Bxe4 Nxe4 18.Nxe4 f6 19.Qe2 Bg6 20.Ng3 Qf7 21.Rd2 Rd7  
+22.Rcd1 Bh7 23.Qe3 Re8 24.Ne4 Red8 25.h3 Re7 26.Ng3 Qe8 27.Qb3 Kh8 28.Qe3  
+Red7 29.Ne4 Qf7 30.Nc5 Re7 31.Ne4 Ree8 32.Ng3 Qc7 33.Ne4 Re7 34.Ng3 Rde8  
+35.Ne4 Nd7 36.Nc3 Qa5 37.Ne4 Qc7 38.Nc3 Nb6 39.b3 Nc8 40.Ne4 Nd6 41.Nxd6  
+Qxd6 42.b4 a6 43.Qc3 Bg6 44.Re1 Bh5 45.Nh2 Rd8 46.Nf1 Bf7 47.Ng3 Bg6 48. 
+Red1 b5 49.c5 Qd5 50.Ne2 Bf7 51.Qc2 Qd7 52.Nf4 Qe8 53.Qe4 Kg8 54.Qf3 g5  
+55.Ne2 Kg7 56.Ng3 Bg6 57.Re1 Rd5 58.Red1 Qd7 59.Nf1 Qc7 60.Ne3 Rd8 61.Ng4  
+Rf8 62.Ne3 Rc8 63.Ng4 Qf4 64.Qxf4 gxf4 65.f3 a5 66.Nf2 axb4 67.axb4 Ra8  
+68.Ne4 Ra4 69.Rb2 Rea7 70.Nd6 Ra1 71.Rxa1 Rxa1+ 72.Kf2 e5 73.dxe5 fxe5 74. 
+g3 Kf6 75.h4 Bh7 76.Rd2 Ra4 77.Nc8 fxg3+ 78.Kxg3 Bf5 79.Rd6+ Be6 80.Rxc6  
+Rxb4 81.Nd6 Rb3 82.Rb6 b4 83.Ne4+ Ke7 84.Rb7+ Kf8 85.c6 Rb1 86.Nc5 Bf5 87. 
+Nd7+ Bxd7 88.Rxd7 Ke8 89.Rb7 Rc1 90.c7 Kd7 91.Rxb4 Rxc7 92.Kg4 Rc8 93.Rb7+ 
+Ke6 94.Rb6+ Kf7 95.Kf5 Rc4 96.Rb7+ Kf8 97.Kxe5 Rxh4 98.f4 Rg4 99.Kf5 Rg7  
+100.Rb8+ Kf7 101.Rh8 Rg1 102.Rh7+ Kg8 103.Rxh6 Ra1 104.Kg5 Rg1+ 105.Kf6  
+Ra1 106.Kg5 Rg1+ 107.Kf6 Ra1 108.f5 Ra6+ 109.Kg5 Rxh6 110.Kxh6 1/2-1/2 

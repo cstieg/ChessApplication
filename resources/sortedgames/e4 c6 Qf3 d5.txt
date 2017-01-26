@@ -1,0 +1,20 @@
+ 
+[Event "AUT, 2. Bundesliga Mitte rounds 5-11"] 
+[Site "AUT"] 
+[Date "2005.03.05"] 
+[Round "8.1"] 
+[White "Butunoi, Alexandru-Victor"] 
+[Black "Buhmann, Rainer"] 
+[Result "0-1"] 
+[WhiteElo "2361"] 
+[BlackElo "2532"] 
+[ECO "B10"] 
+ 
+1.e4 c6 2.Qf3 d5 3.exd5 cxd5 4.Nc3 Nf6 5.d4 Nc6 6.Be3 Bg4 7.Qg3 e6 8.Nf3  
+Bxf3 9.Qxf3 Rc8 10.Bd3 Be7 11.O-O O-O 12.a3 Na5 13.Ne2 Nc4 14.Bxc4 Rxc4  
+15.c3 b5 16.Bg5 a5 17.Bxf6 Bxf6 18.Qd3 Qb8 19.f4 g6 20.g3 Rfc8 21.Kg2 b4  
+22.axb4 axb4 23.Ra6 R4c7 24.Rfa1 Rb7 25.h4 bxc3 26.bxc3 Rb2 27.R1a2 Qb3  
+28.Rxb2 Qxb2 29.Kf3 Qb7 30.Ra4 Qb2 31.Ra6 Bd8 32.Ra7 Rb8 33.h5 Bb6 34.Rd7  
+Qa1 35.Kg2 Qa4 36.Rd6 Qa3 37.Rd7 Qa4 38.Rd6 Kf8 39.f5 gxf5 40.Nf4 Qa2+ 41. 
+Kh3 Qa1 42.Kg2 Bc7 43.Rxe6 Bxf4 44.Ra6 Qe1 45.Ra2 Rb1 46.Kh3 Bd6 47.Ra8+  
+Ke7 48.Kh4 h6 0-1 

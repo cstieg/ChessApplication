@@ -1,0 +1,18 @@
+ 
+[Event "ECC"] 
+[Site "Rethymnon GRE"] 
+[Date "2003.10.03"] 
+[Round "6"] 
+[White "Welling, Gerard"] 
+[Black "Sikora-Lerch, Jan"] 
+[Result "0-1"] 
+[WhiteElo "2391"] 
+[BlackElo "2324"] 
+[ECO "A30"] 
+[EventDate "2003.09.28"] 
+ 
+1.c4 c5 2.b3 g6 3.Bb2 Nf6 4.Bxf6 exf6 5.Nc3 h5 6.h4 Nc6 7.g3 d6 8.Bg2 Bg4  
+9.Nh3 g5 10.Qb1 gxh4 11.gxh4 Bh6 12.Nd5 Kf8 13.Nhf4 Qa5 14.f3 Bd7 15.e3  
+Re8 16.Kd1 Bxf4 17.Nxf4 Ne5 18.Rf1 b5 19.Nd5 Qd8 20.f4 Ng4 21.Qb2 Rh6 22. 
+b4 f5 23.bxc5 dxc5 24.Qa3 bxc4 25.Qxc5+ Kg8 26.Qc7 Rd6 27.Kc1 Qxc7 28.Nxc7 
+Rd8 29.Nd5 Be8 30.Ne7+ Kf8 31.Nxf5 Rxd2 32.Be4 Ba4 33.Nd4 c3 0-1 

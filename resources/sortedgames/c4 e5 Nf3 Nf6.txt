@@ -1,0 +1,94 @@
+ 
+[Event "Philippine Int Open 2014"] 
+[Site "Quezon City PHI"] 
+[Date "2014.12.08"] 
+[Round "4.10"] 
+[White "Grigoryan, Avetik"] 
+[Black "Garma, Chito"] 
+[Result "1-0"] 
+[WhiteElo "2580"] 
+[BlackElo "2322"] 
+[ECO "A28"] 
+[EventDate "2014.12.06"] 
+ 
+1.c4 e5 2.Nf3 Nf6 3.Nc3 Nc6 4.e4 Bb4 5.d3 O-O 6.a3 Bxc3+ 7.bxc3 d6 8.g3 h6 
+9.Bg2 Be6 10.O-O Qd7 11.Nh4 g5 12.Nf3 Kh7 13.Rb1 Rab8 14.h4 g4 15.Ne1 Rg8  
+16.Nc2 Ne7 17.Ne3 b5 18.d4 Qe8 19.Nd5 Nexd5 20.cxd5 Bd7 21.Be3 a5 22.dxe5  
+dxe5 23.Qd2 Rg6 24.c4 bxc4 25.Qxa5 Ra8 26.Qxc7 Rc8 27.Qa5 Ba4 28.Rfc1 Bb3  
+29.Qc3 Nd7 30.Bf1 Ra6 31.Be2 h5 32.Bd2 Rxa3 33.Qe3 Qe7 34.Qh6+ Kg8 35.Qxh5 
+Nf6 36.Qg5+ Kf8 37.Qh6+ Ke8 38.Bg5 1-0 
+ 
+[Event "Uliyanovsk RUS, Povolje Open 2010"] 
+[Site "Uliyanovsk RUS"] 
+[Date "2010.11.21"] 
+[Round "4"] 
+[White "Lyanguzov, Oleg"] 
+[Black "Alavkin, Arseny"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2276"] 
+[BlackElo "2436"] 
+[ECO "A29"] 
+[EventDate "2010.11.19"] 
+ 
+1.c4 e5 2.Nf3 Nf6 3.Nc3 Nc6 4.g3 Bb4 5.Bg2 O-O 6.O-O Bxc3 7.bxc3 d6 8.d3  
+h6 9.Rb1 Rb8 10.e4 Ne7 11.c5 Nc6 12.cxd6 Qxd6 13.Qc2 Re8 14.Re1 b5 15.d4  
+exd4 16.cxd4 Nxd4 17.Nxd4 Qxd4 18.Be3 Qe5 19.Bf4 Qh5 20.Bxc7 Ra8 21.Bd6  
+Bb7 22.e5 Bxg2 23.Kxg2 Ng4 24.h3 Nxe5 25.Bxe5 Rxe5 26.Qc6 Rb8 27.Qc7 Ree8  
+28.Qxa7 Qd5+ 29.Kh2 Ra8 30.Rxe8+ Rxe8 31.Qb6 Re5 32.a3 Kh7 33.Qc7 Qe6 34. 
+Qc2+ g6 35.Qc3 Rh5 36.h4 Qf5 37.Rb2 g5 38.Qc2 Qxc2 39.Rxc2 gxh4 40.g4 Rd5  
+41.Rc6 h5 42.gxh5 Rxh5 43.Kh3 Kg7 44.Rb6 Kf8 45.Rb7 Kg7 46.Rb6 f6 47.Ra6  
+Rf5 48.Ra5 Rxf2 1/2-1/2 
+ 
+[Event "Continental ch-Americas"] 
+[Site "Sao Paulo BRA"] 
+[Date "2009.07.26"] 
+[Round "2"] 
+[White "Sega, Carlos Alberto"] 
+[Black "Quesada Perez, Y."] 
+[Result "0-1"] 
+[WhiteElo "2293"] 
+[BlackElo "2584"] 
+[ECO "A29"] 
+[EventDate "2009.07.25"] 
+ 
+1.c4 e5 2.Nf3 Nf6 3.Nc3 Nc6 4.g3 Bb4 5.Bg2 Bxc3 6.bxc3 d6 7.Rb1 O-O 8.O-O  
+e4 9.Nd4 Ne5 10.d3 c5 11.f4 exf3 12.Nxf3 Ng6 13.Ng5 Rb8 14.Nh3 d5 15.Bg5  
+Bxh3 16.Bxh3 dxc4 17.Rf5 cxd3 18.exd3 Qd6 19.Bxf6 gxf6 20.Qd2 Rfd8 21.Rd1  
+b6 22.d4 cxd4 23.cxd4 Kh8 24.Qf2 Kg7 25.Bg4 Rb7 26.h4 h6 27.Bf3 Rc7 28.Rd5 
+Qf8 29.Rxd8 Qxd8 30.h5 Nf8 31.d5 Qd6 32.Kg2 Nd7 33.Be4 Rc3 34.Qf4 Ne5 35. 
+Qf5 Kf8 36.Qf4 Ke7 37.Rc1 Rxc1 38.Qxc1 f5 39.Bxf5 Qxd5+ 40.Kh3 Qf3 0-1 
+ 
+[Event "Bundesliga 2005-6"] 
+[Site "Kreuzberg GER"] 
+[Date "2006.01.28"] 
+[Round "8"] 
+[White "Ribli, Zoltan"] 
+[Black "Brynell, Stellan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2593"] 
+[BlackElo "2493"] 
+[ECO "A28"] 
+[EventDate "2006.01.27"] 
+ 
+1.c4 e5 2.Nf3 Nf6 3.Nc3 Nc6 4.d3 Bb4 5.Bd2 O-O 6.e3 Re8 7.Qc2 d5 8.cxd5  
+Nxd5 9.Be2 Bf8 10.O-O Bg4 11.a3 Nxc3 12.Bxc3 Qd5 13.h3 Bh5 14.Rfd1 Rad8  
+15.b4 a6 16.Rac1 f6 17.Bb2 Kh8 18.Qb1 Rd7 19.g4 Bf7 20.Nh4 Nd8 21.Bf3 Qa2  
+22.Qxa2 Bxa2 23.Nf5 c6 24.Rc3 Nf7 25.Ng3 1/2-1/2 
+ 
+[Event "FRA Team Ch N2 2003/2004"] 
+[Site "FRA"] 
+[Date "2004.03.13"] 
+[Round "8.3"] 
+[White "Lopez Gracia, Fernando"] 
+[Black "Bardel, Stephan"] 
+[Result "1-0"] 
+[WhiteElo "2352"] 
+[BlackElo "2278"] 
+[ECO "A29"] 
+[EventDate "2004.??.??"] 
+ 
+1.c4 e5 2.Nf3 Nf6 3.Nc3 Nc6 4.g3 Bb4 5.Bg2 O-O 6.O-O e4 7.Ng5 Bxc3 8.dxc3  
+Re8 9.Nh3 h6 10.Nf4 d6 11.Nd5 Bf5 12.Bf4 Ne5 13.Qb3 Rb8 14.Rad1 Nfd7 15. 
+Ne3 Bh7 16.g4 Qc8 17.Qc2 Nb6 18.Rd4 Nxg4 19.Bxe4 Rxe4 20.Rxe4 Nf6 21.f3  
+Nxe4 22.fxe4 Qe6 23.Nf5 Nxc4 24.Rf2 Re8 25.Rg2 Bg6 26.b3 Nb6 27.h4 Qxe4  
+28.Qxe4 Rxe4 29.Bxh6 1-0 

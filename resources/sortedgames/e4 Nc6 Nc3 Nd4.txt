@@ -1,0 +1,58 @@
+ 
+[Event "19. Open 2012"] 
+[Site "Graz AUT"] 
+[Date "2012.08.31"] 
+[Round "7.7"] 
+[White "Kokol, Peter"] 
+[Black "Krumpacnik, Domen"] 
+[Result "1-0"] 
+[WhiteElo "2266"] 
+[BlackElo "2365"] 
+[ECO "B00"] 
+[EventDate "2012.08.25"] 
+ 
+1.e4 Nc6 2.Nc3 Nd4 3.Bc4 e6 4.Nge2 c5 5.Nxd4 cxd4 6.Ne2 b5 7.Bb3 Bc5 8.d3  
+Ne7 9.O-O O-O 10.c3 Nc6 11.f4 d5 12.exd5 exd5 13.f5 dxc3+ 14.d4 cxb2 15. 
+Bxb2 Bb6 16.f6 Bg4 17.Qc1 gxf6 18.Qh6 Re8 19.Bc2 f5 20.Rxf5 Rxe2 21.Rf4 f5 
+22.Rxg4+ fxg4 23.Qxh7+ Kf8 24.Rf1+ 1-0 
+ 
+[Event "90. ch-Marshall CC"] 
+[Site "New York, NY USA"] 
+[Date "2006.12.10"] 
+[Round "9"] 
+[White "Ehlvest, Jaan"] 
+[Black "Bonin, Jay R"] 
+[Result "1-0"] 
+[WhiteElo "2597"] 
+[BlackElo "2310"] 
+[ECO "B00"] 
+[EventDate "2006.12.01"] 
+ 
+1.e4 Nc6 2.Nc3 Nd4 3.Nf3 Nxf3+ 4.Qxf3 c5 5.Bc4 e6 6.d3 a6 7.Be3 b5 8.Bb3  
+Bb7 9.a4 c4 10.dxc4 b4 11.Ne2 Qh4 12.Nf4 Nf6 13.O-O-O Nxe4 14.Rhe1 Nc5 15. 
+Nd5 Rc8 16.Kb1 Be7 17.g3 Qh3 18.Bxc5 Bxc5 19.Nf6+ gxf6 20.Qxb7 O-O 21.Rxd7 
+e5 22.Red1 Qe6 23.a5 e4 24.R1d2 f5 25.Ba4 Qf6 26.Qd5 Be7 27.Qd4 Qe6 28.Qd5 
+Qf6 29.g4 Rc5 30.Qb7 Re5 31.R2d5 Rd8 32.g5 Qxg5 33.Rxe5 Rxd7 34.Qxd7 1-0 
+ 
+[Event "90. ch-Marshall CC"] 
+[Site "New York, NY USA"] 
+[Date "2006.12.09"] 
+[Round "6"] 
+[White "Hess, Robert L"] 
+[Black "Bonin, Jay R"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2394"] 
+[BlackElo "2310"] 
+[ECO "B00"] 
+[EventDate "2006.12.01"] 
+ 
+1.e4 Nc6 2.Nc3 Nd4 3.Nf3 Nxf3+ 4.Qxf3 c5 5.Bc4 e6 6.d3 a6 7.a4 Ne7 8.O-O  
+Nc6 9.Be3 Be7 10.Qh5 O-O 11.f4 f5 12.Rf3 g6 13.Qh6 Rf7 14.exf5 gxf5 15. 
+Rg3+ Kh8 16.Ne2 b6 17.Rd1 Bb7 18.d4 Na5 19.Ba2 c4 20.d5 Bxd5 21.Rxd5 exd5  
+22.Bxb6 Qf8 23.Qxf8+ Rfxf8 24.Bxa5 Bf6 25.b3 Rae8 26.Kf2 Re4 27.Re3 d4 28. 
+Rxe4 fxe4 29.bxc4 Rb8 30.c5 Rb2 31.Bd5 d3 32.Bxe4 dxe2 33.Kxe2 Ra2 34.Bf5  
+Rxa4 35.Bc7 Rc4 36.Bd6 a5 37.Bxd7 a4 38.c6 Rxc2+ 39.Kd1 Rc3 40.Kd2 a3 41. 
+Bxa3 Rxa3 42.c7 Ra8 43.Ke3 Bd8 44.c8=Q Rxc8 45.Bxc8 h6 46.Ke4 Kg7 47.Kf5  
+Be7 48.Ke6 Bd8 49.Ba6 Bf6 50.Kf5 Bd8 51.Bd3 Be7 52.Kg4 Bd8 53.h4 Be7 54. 
+Kh5 Bd8 55.g4 Be7 56.g5 hxg5 57.fxg5 Ba3 58.Kg4 Bc1 59.Kf5 Bd2 60.Bc2 Bc1  
+1/2-1/2 

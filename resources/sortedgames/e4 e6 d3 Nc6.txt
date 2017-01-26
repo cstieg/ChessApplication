@@ -1,0 +1,95 @@
+ 
+[Event "Ostravsky Konik A"] 
+[Site "Ostrava CZE"] 
+[Date "2015.05.07"] 
+[Round "6.2"] 
+[White "Shkuran, Daniil"] 
+[Black "Vojtek, Vladimir"] 
+[Result "1-0"] 
+[WhiteElo "2386"] 
+[BlackElo "2338"] 
+[ECO "C00"] 
+[EventDate "2015.05.02"] 
+ 
+1.e4 e6 2.d3 Nc6 3.Nd2 d5 4.g3 Nf6 5.Bg2 Bb4 6.c3 Ba5 7.Qe2 O-O 8.Ngf3  
+dxe4 9.dxe4 e5 10.b4 Bb6 11.Nc4 Re8 12.O-O Bg4 13.a4 a6 14.h3 Be6 15.Nh4  
+h6 16.Ba3 Nh7 17.Kh2 Qf6 18.Bb2 Rad8 19.b5 Bxc4 20.Qxc4 Na5 21.Qe2 axb5  
+22.axb5 Qe6 23.Nf5 Nf6 24.Ba3 Kh7 25.Bb4 Nc4 26.Rad1 Ba5 27.h4 Bxb4 28.Bh3 
+Rxd1 29.Rxd1 Qb6 30.cxb4 Nd6 31.Nxd6 cxd6 32.Rd2 Rd8 33.Qc4 Kg8 34.Rc2 Ra8 
+35.Bf5 Kf8 36.Qc7 Qxc7 37.Rxc7 g6 38.Bc8 b6 39.Bb7 Ra7 40.Rc8+ Ke7 41.Bc6  
+Ra4 42.Rc7+ Kf8 43.Rb7 Rxb4 44.f3 d5 45.exd5 Rd4 46.Rxb6 Nxd5 47.Rb8+ Ke7  
+48.b6 Kd6 49.Ba8 Nf6 50.Rf8 Nd7 51.b7 Rb4 52.Rxf7 Kc7 53.g4 Rb6 54.Rh7 g5  
+55.hxg5 hxg5 56.Rg7 Rh6+ 57.Kg3 Rh8 58.Rxg5 Kd6 59.Rg6+ Kc7 60.Rc6+ Kb8  
+61.g5 Rh1 62.Rc8+ Ka7 63.Rd8 Nb8 64.Rd6 Rc1 65.g6 Re1 66.Kf2 1-0 
+ 
+[Event "4. Split Open 2014"] 
+[Site "Split CRO"] 
+[Date "2014.08.19"] 
+[Round "5.5"] 
+[White "Biliskov, Vjekoslav"] 
+[Black "Drazic, Sinisa"] 
+[Result "0-1"] 
+[WhiteElo "2354"] 
+[BlackElo "2433"] 
+[ECO "C00"] 
+[EventDate "2014.08.16"] 
+ 
+1.e4 e6 2.d3 Nc6 3.Nf3 e5 4.g3 Bc5 5.Bg2 d6 6.Nc3 a6 7.Be3 Nge7 8.h3 O-O  
+9.O-O h6 10.d4 Ba7 11.Re1 f6 12.Kh2 Qe8 13.Qd2 Qh5 14.Nd5 Nxd5 15.exd5 Ne7 
+16.Ng1 Qf7 17.dxe5 fxe5 18.Bxa7 Rxa7 19.Rf1 Bd7 20.a4 g5 21.Ne2 Raa8 22. 
+Nc3 Qh5 23.Qe2 Qxe2 24.Nxe2 b5 25.a5 b4 26.Kg1 Rab8 27.Rfd1 Bb5 28.Bf1 Kg7 
+29.Rd2 h5 30.Rad1 Kg6 31.c3 bxc3 32.bxc3 h4 33.c4 Bd7 34.c5 Bb5 35.cxd6  
+cxd6 36.Kg2 hxg3 37.Nxg3 Nf5 38.Nxf5 Kxf5 39.Bd3+ Bxd3 40.Rxd3 Rfc8 41. 
+Rf3+ Kg6 42.Rg3 Rc4 43.Rg1 Rf8 44.Rb1 Rcf4 45.Rb2 R8f6 46.Rg4 e4 47.Re2  
+Kf5 48.Rg3 Rh6 49.Rb2 Rf6 50.Re2 Kg6 51.Rge3 R6f5 52.Rxe4 Rxd5 53.Rxf4  
+gxf4 54.Re6+ Kf5 55.Rh6 Rd3 56.Rh8 Ra3 57.Rd8 Ke5 58.Re8+ Kd4 59.Rf8 d5  
+60.Rxf4+ Ke5 61.Rf3 Rxa5 62.h4 d4 63.h5 Ke4 64.Rh3 d3 65.h6 d2 66.h7 Rg5+  
+67.Rg3 Rh5 68.f3+ Kf5 69.Rh3 Rxh3 0-1 
+ 
+[Event "TCh-CZE Extraliga 2011-12"] 
+[Site "Czech Republic CZE"] 
+[Date "2011.12.03"] 
+[Round "3.3"] 
+[White "Fedorov, Alexei"] 
+[Black "Novotny, Michal1"] 
+[Result "1-0"] 
+[WhiteElo "2609"] 
+[BlackElo "2337"] 
+[ECO "C00"] 
+[EventDate "2011.10.08"] 
+ 
+1.e4 e6 2.d3 Nc6 3.c3 e5 4.Nf3 d5 5.Nbd2 Nf6 6.Be2 Be7 7.O-O O-O 8.b4 a6  
+9.Bb2 Bg4 10.a3 dxe4 11.dxe4 Qc8 12.Re1 Rd8 13.Qc2 Nh5 14.g3 Rd6 15.Nc4  
+Rh6 16.Nfxe5 Bxe2 17.Qxe2 Nxe5 18.Nxe5 Qe6 19.f4 Rd8 20.Rad1 Qb6+ 21.Kg2  
+Rxd1 22.Rxd1 Nf6 23.f5 Bd6 24.c4 c5 25.Qd3 Bf8 26.Qd8 Nxe4 27.Qxf8+ Kxf8  
+28.Nd7+ 1-0 
+ 
+[Event "TCh-CRO"] 
+[Site "Rabat CRO"] 
+[Date "2004.09.13"] 
+[Round "9"] 
+[White "Biti, Ozren"] 
+[Black "Kovacevic, Vlatko"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2352"] 
+[BlackElo "2510"] 
+[ECO "C00"] 
+[EventDate "2004.09.05"] 
+ 
+1.e4 e6 2.d3 Nc6 3.Nf3 d5 4.Nbd2 Nf6 5.c3 e5 6.Be2 a5 7.a4 Bc5 8.O-O O-O  
+9.Nb3 Bb6 10.Nfd2 Be6 11.exd5 Bxd5 12.Nc4 1/2-1/2 
+ 
+[Event "TCh-CRO"] 
+[Site "Rabac CRO"] 
+[Date "2004.09.13"] 
+[Round "9"] 
+[White "Biti, Ozren"] 
+[Black "Kovacevic, Vlatko"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2352"] 
+[BlackElo "2510"] 
+[ECO "C00"] 
+[EventDate "2004.09.05"] 
+ 
+1.e4 e6 2.d3 Nc6 3.Nf3 d5 4.Nbd2 Nf6 5.c3 e5 6.Be2 a5 7.a4 Bc5 8.O-O O-O  
+9.Nb3 Bb6 10.Nfd2 Be6 11.exd5 Bxd5 12.Nc4 1/2-1/2 

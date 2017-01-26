@@ -1,0 +1,33 @@
+ 
+[Event "It Open"] 
+[Site "Senta YUG"] 
+[Date "2006.07.22"] 
+[Round "2"] 
+[White "Pacal, Mihaly"] 
+[Black "Lajthajm, Borko"] 
+[Result "0-1"] 
+[WhiteElo "2236"] 
+[BlackElo "2507"] 
+[ECO "A00"] 
+ 
+1.g4 e5 2.c4 d5 3.Bg2 dxc4 4.Qa4+ c6 5.Qxc4 Be6 6.Qc2 Bxg4 7.Nf3 Nd7 8.b3  
+Ngf6 9.Bb2 Qa5 10.a3 Bd6 11.Nc3 O-O 12.Ng5 Bh5 13.Qf5 Bg6 14.Qh3 Rfe8 15. 
+Nge4 Be7 16.Ng3 Qb6 17.b4 a5 18.Na4 Qc7 19.bxa5 Rxa5 20.Nc3 Rea8 21.Nf5  
+Bc5 22.Ne4 Nxe4 23.Bxe4 Nf6 24.Bc2 Bxf2+ 0-1 
+ 
+[Event "10. Battle of Senta 1697 Open"] 
+[Site "Senta SCG"] 
+[Date "2006.07.22"] 
+[Round "2"] 
+[White "Pacal, Mihaly"] 
+[Black "Lajthajm, Borko"] 
+[Result "0-1"] 
+[WhiteElo "2236"] 
+[BlackElo "2507"] 
+[ECO "A00"] 
+[EventDate "2006.07.21"] 
+ 
+1.g4 e5 2.c4 d5 3.Bg2 dxc4 4.Qa4+ c6 5.Qxc4 Be6 6.Qc2 Bxg4 7.Nf3 Nd7 8.b3  
+Ngf6 9.Bb2 Qa5 10.a3 Bd6 11.Nc3 O-O 12.Ng5 Bh5 13.Qf5 Bg6 14.Qh3 Rfe8 15. 
+Nge4 Be7 16.Ng3 Qb6 17.b4 a5 18.Na4 Qc7 19.bxa5 Rxa5 20.Nc3 Rea8 21.Nf5  
+Bc5 22.Ne4 Nxe4 23.Bxe4 Nf6 24.Bc2 Bxf2+ 0-1 

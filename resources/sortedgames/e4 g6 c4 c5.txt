@@ -1,0 +1,19 @@
+ 
+[Event "Open"] 
+[Site "Vladimir RUS"] 
+[Date "2004.08.24"] 
+[Round "7"] 
+[White "Gorbatov, Alexej"] 
+[Black "Kachar, Vladimir"] 
+[Result "1-0"] 
+[WhiteElo "2407"] 
+[BlackElo "2367"] 
+[ECO "B27"] 
+[EventDate "2004.08.18"] 
+ 
+1.e4 g6 2.c4 c5 3.Nf3 d6 4.d4 Bg7 5.d5 Nf6 6.Bd3 e6 7.O-O exd5 8.exd5 O-O  
+9.h3 Nbd7 10.Nc3 Ne5 11.Nxe5 dxe5 12.Bg5 Qb6 13.Qd2 Bd7 14.Rab1 a5 15.b3  
+Kh8 16.a3 Ng8 17.Be3 Qc7 18.b4 axb4 19.axb4 cxb4 20.Rxb4 Rfb8 21.Rfb1 f5  
+22.Bf1 Bf8 23.Bb6 Qd6 24.c5 Qf6 25.d6 Bc6 26.Nd5 Qg7 27.Nc7 Nf6 28.Nxa8  
+Rxa8 29.Bb5 Nd5 30.Bxc6 bxc6 31.R4b3 Kg8 32.Ba5 Qa7 33.Bc3 Qxc5 34.Bxe5  
+1-0 

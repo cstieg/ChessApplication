@@ -1,0 +1,97 @@
+ 
+[Event "6. Prospero A Pichay Cup"] 
+[Site "Manila PHI"] 
+[Date "2010.08.23"] 
+[Round "4"] 
+[White "Dableo, Ronald"] 
+[Black "Pascua, Haridas"] 
+[Result "0-1"] 
+[WhiteElo "2448"] 
+[BlackElo "2368"] 
+[ECO "A00"] 
+[EventDate "2010.08.21"] 
+ 
+1.a3 e5 2.d4 exd4 3.Nf3 d5 4.Qxd4 Nc6 5.Qd3 Nf6 6.Bg5 h6 7.Bh4 g5 8.Bg3  
+Ne4 9.Nc3 Nxc3 10.Qxc3 d4 11.Qd2 Bg7 12.e3 Bg4 13.Bb5 Bxf3 14.gxf3 Qd5 15. 
+Be2 O-O-O 16.e4 Qe6 17.h4 Rhg8 18.hxg5 hxg5 19.Bd3 Be5 20.Qe2 Rh8 21.Rg1  
+Rh6 22.Bc4 Qf6 23.Bd3 Bf4 24.Bxf4 Qxf4 25.Qd2 Qxf3 26.Be2 Qxe4 27.O-O-O f6 
+28.Kb1 Rh4 29.Bf1 Qe6 30.Rg3 Ne5 31.Bg2 c6 32.Rb3 d3 33.Qe3 dxc2+ 0-1 
+ 
+[Event "Herceg Novi MNT, Team Ch 2007"] 
+[Site "Herceg Novi MNT"] 
+[Date "2007.09.10"] 
+[Round "8"] 
+[White "Velimirovic, Dragoljub"] 
+[Black "Benderac, Srdjan"] 
+[Result "0-1"] 
+[WhiteElo "2442"] 
+[BlackElo "2298"] 
+[ECO "A00"] 
+[EventDate "2007.09.03"] 
+ 
+1.a3 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qd3 d5 5.Nf3 Nge7 6.Bg5 Bf5 7.Qxf5 Nxf5 8. 
+Bxd8 Rxd8 9.Nbd2 Bc5 10.e3 O-O 11.Bd3 Nd6 12.O-O Rfe8 13.Nb3 Bb6 14.a4 a6  
+15.a5 Ba7 16.Ra4 Ne5 17.Nxe5 Rxe5 18.Rd1 Ree8 19.g3 g6 20.c4 dxc4 21.Bxc4  
+Nxc4 22.Rxd8 Rxd8 23.Rxc4 Rd3 24.Nc1 Rd1+ 25.Kg2 Rd2 26.Kf3 Rxb2 27.Rxc7  
+Rb5 28.Nd3 Kg7 29.g4 Bb8 30.Rc5 Bxh2 31.Rxb5 axb5 32.Nc5 b4 33.Ke2 h5 34. 
+gxh5 gxh5 35.Nxb7 b3 36.Kd3 Bb8 37.a6 h4 38.Nd6 h3 39.Nf5+ Kg6 40.Nh4+ Kf6 
+41.Nf3 Kf5 42.Kc3 f6 43.Kxb3 Ke4 44.Nh2 Kd3 45.e4 Kxe4 46.Kc2 Kd5 47.Kd3  
+Kc6 48.a7 Bxa7 49.Ke2 Bb8 50.f4 Bxf4 51.Ng4 f5 52.Nf2 h2 53.Kf3 Be5 54.Kg2 
+Kd5 55.Nh3 Ke4 56.Ng5+ Ke3 0-1 
+ 
+[Event "19. Open Pula"] 
+[Site "Pula CRO"] 
+[Date "2005.06.22"] 
+[Round "5"] 
+[White "Plenkovic, Zdenko"] 
+[Black "Zvan, Ziga"] 
+[Result "1-0"] 
+[WhiteElo "2302"] 
+[BlackElo "2203"] 
+[ECO "A00"] 
+[EventDate "2005.06.19"] 
+ 
+1.a3 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qd3 Nf6 5.Nf3 d5 6.Nbd2 Be6 7.b4 Nd7 8.Bb2  
+f6 9.g3 Bd6 10.Bg2 Qe7 11.O-O Nde5 12.Qb3 Qd7 13.Rad1 Ne7 14.Nxe5 fxe5 15. 
+c4 c6 16.Nf3 d4 17.Ng5 b5 18.Nxe6 Qxe6 19.Rc1 O-O 20.Qd3 Rab8 21.cxb5 cxb5 
+22.e3 dxe3 23.Qxe3 Rb6 24.Rfe1 Qf5 25.Re2 Bb8 26.Qe4 Qxe4 27.Bxe4 a6 28. 
+Rd2 Rbf6 29.Kg2 g6 30.Rcc2 Nf5 31.Rd7 Kh8 32.Rcd2 Nd6 33.Bxe5 Nxe4 34. 
+Bxf6+ Rxf6 35.Re2 Rd6 36.Rb7 Nf6 37.Rxb8+ Kg7 38.Rb7+ Kh6 39.Rf7 Kg5 40. 
+Re5+ Kh6 41.h4 Nd5 42.Kh3 Nf6 43.Ree7 g5 44.f3 gxh4 45.Kxh4 Kg6 46.g4 Nd5  
+47.Rg7+ Kf6 48.Rd7 Nf4 49.Rxd6+ 1-0 
+ 
+[Event "36. Olympiad"] 
+[Site "Calvia ESP"] 
+[Date "2004.10.22"] 
+[Round "7"] 
+[White "Eid, Fadi"] 
+[Black "Cueto, Jonny"] 
+[Result "0-1"] 
+[WhiteElo "2357"] 
+[BlackElo "2306"] 
+[ECO "A00"] 
+[EventDate "2004.10.15"] 
+ 
+1.a3 e5 2.d4 exd4 3.Nf3 Nf6 4.Qxd4 d5 5.Bg5 Be7 6.Nc3 Be6 7.O-O-O Nbd7 8. 
+Qf4 c6 9.e4 h6 10.Bxf6 Nxf6 11.exd5 cxd5 12.Bb5+ Kf8 13.Nd4 Rc8 14.Rhe1  
+Bd7 15.Bxd7 Qxd7 16.Nf5 Bc5 17.g4 Kg8 18.g5 hxg5 19.Qxg5 Bf8 20.Rxd5 Qc7  
+21.Rde5 Rxh2 22.Rg1 Nh5 23.Nh6+ Kh8 24.Ng4 f6 25.Nh6 fxg5 0-1 
+ 
+[Event "Goodbye Summer Open"] 
+[Site "Omis CRO"] 
+[Date "2004.10.09"] 
+[Round "5"] 
+[White "Plenkovic, Zdenko"] 
+[Black "Zufic, Miroslav"] 
+[Result "1-0"] 
+[WhiteElo "2240"] 
+[BlackElo "2370"] 
+[ECO "A00"] 
+[EventDate "2004.10.06"] 
+ 
+1.a3 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qd3 Nf6 5.Nf3 Be7 6.g3 O-O 7.Bg2 d6 8.O-O  
+Bg4 9.Nbd2 Qd7 10.Re1 Rfe8 11.b4 Bf5 12.e4 Bg6 13.Bb2 a6 14.Nh4 Ne5 15.Qb3 
+Qc6 16.Bd4 Qd7 17.Nxg6 Nxg6 18.Rad1 Rad8 19.Nc4 Qc8 20.Ne3 c5 21.Bc3 b5  
+22.Nf5 Qe6 23.Qb2 Ne5 24.f4 Nc4 25.Qa1 Bf8 26.Bh3 Nxe4 27.Bxg7 Qxf5 28. 
+Bxf5 Bxg7 29.c3 Nxc3 30.Qc1 Ne2+ 31.Rxe2 Rxe2 32.bxc5 Bb2 33.Qb1 Bxa3 34. 
+c6 Bc5+ 35.Kh1 Bb6 36.Bd3 Rb2 37.Qc1 Be3 38.Qa1 1-0 

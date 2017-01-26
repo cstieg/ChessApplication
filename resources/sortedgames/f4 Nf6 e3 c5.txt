@@ -1,0 +1,16 @@
+ 
+[Event "Elista RUS, Dordzhiev Mem 2011"] 
+[Site "Elista RUS"] 
+[Date "2011.04.26"] 
+[Round "5"] 
+[White "Yushinov, Nikolay"] 
+[Black "Moroz, Roman"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2228"] 
+[BlackElo "2311"] 
+[ECO "A02"] 
+[EventDate "2011.04.24"] 
+ 
+1.f4 Nf6 2.e3 c5 3.Nf3 d6 4.b3 g6 5.Bb2 Bg7 6.Bb5+ Nbd7 7.O-O O-O 8.Qe1 a6 
+9.Bxd7 Bxd7 10.d3 Bc6 11.Nbd2 Re8 12.Qh4 e6 13.Rae1 Nh5 14.Bxg7 Qxh4 15. 
+Nxh4 Nxg7 16.Nc4 Red8 17.e4 b5 18.Ne3 f5 19.exf5 exf5 20.c3 1/2-1/2 

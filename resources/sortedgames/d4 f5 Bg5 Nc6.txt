@@ -1,0 +1,107 @@
+ 
+[Event "4NCL 2013-14"] 
+[Site "Hinckley ENG"] 
+[Date "2014.02.16"] 
+[Round "6.156"] 
+[White "Griffiths, Ryan Rhys"] 
+[Black "Cherniaev, Alexander"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2344"] 
+[BlackElo "2420"] 
+[ECO "A80"] 
+[EventDate "2013.11.16"] 
+ 
+1.d4 f5 2.Bg5 Nc6 3.Nc3 h6 4.Bh4 g5 5.e3 Nf6 6.Bg3 e6 7.h4 g4 8.d5 exd5 9. 
+Nxd5 Nxd5 10.Qxd5 Qf6 11.c3 d6 12.Bb5 Bd7 13.Ne2 a6 14.Ba4 b5 15.Bb3 Rb8  
+16.h5 Ne5 17.Bh4 Qg7 18.Nf4 Be7 19.Ne6 Bxe6 20.Qxe6 Kd8 21.Bxe7+ Qxe7 22. 
+Qxf5 Rf8 1/2-1/2 
+ 
+[Event "e2e4 Gatwick Open 2013"] 
+[Site "Crawley ENG"] 
+[Date "2013.04.06"] 
+[Round "3"] 
+[White "Sowray, Peter J"] 
+[Black "Cherniaev, Alexander"] 
+[Result "0-1"] 
+[WhiteElo "2368"] 
+[BlackElo "2432"] 
+[ECO "A80"] 
+[EventDate "2013.04.05"] 
+ 
+1.d4 f5 2.Bg5 Nc6 3.e3 g6 4.Nc3 Bg7 5.Bc4 Nf6 6.Nf3 d6 7.Qe2 h6 8.Bh4 g5  
+9.Bg3 e6 10.h4 g4 11.Nd2 Nh5 12.O-O-O Nxg3 13.fxg3 d5 14.Bb5 Bd7 15.Nb3 a6 
+16.Bd3 O-O 17.Qd2 b6 18.Ne2 a5 19.Kb1 a4 20.Nbc1 Na5 21.Nf4 c5 22.c3 Ra7  
+23.a3 Qe8 24.Qe2 Rc7 25.Rhe1 Nb7 26.c4 dxc4 27.Bxc4 b5 28.Bd3 c4 29.Bc2 c3 
+30.bxc3 Rxc3 31.Qd2 Qc8 32.e4 b4 33.axb4 Nd6 34.Na2 Nb5 35.Nxc3 Nxc3+ 36. 
+Kc1 Qc4 37.Nd3 Qxd4 38.e5 Na2+ 39.Kb1 Nc3+ 40.Kc1 Rb8 41.Qf4 Na2+ 42.Kb1  
+Qc3 43.Kxa2 Qxc2+ 44.Ka1 Qc3+ 45.Kb1 Bb5 46.Nb2 a3 47.Qd2 Qxb2+ 48.Qxb2  
+axb2 49.Kxb2 Bc6 50.Rd6 Bd5 51.Kc3 Bf8 0-1 
+ 
+[Event "Greifswald GER, Ryck-Open 03"] 
+[Site "Greifswald GER"] 
+[Date "2003.08.31"] 
+[Round "6"] 
+[White "Pajeken, Wolfgang"] 
+[Black "Schnabel, Ralf"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2322"] 
+[BlackElo "2238"] 
+[ECO "A80"] 
+[EventDate "2003.08.23"] 
+ 
+1.d4 f5 2.Bg5 Nc6 3.e3 g6 4.h4 Bg7 5.Bd3 d6 6.e4 Nxd4 7.h5 Ne6 8.exf5 Nxg5 
+9.hxg6 1/2-1/2 
+ 
+[Event "4NCL"] 
+[Site "Birmingham ENG"] 
+[Date "2002.05.05"] 
+[Round "10"] 
+[White "Palliser, Richard J D"] 
+[Black "Gayson, Peter M"] 
+[Result "1-0"] 
+[WhiteElo "2443"] 
+[BlackElo "2281"] 
+[ECO "A80"] 
+[EventDate "2002.05.06"] 
+ 
+1.d4 f5 2.Bg5 Nc6 3.Nc3 d6 4.e4 fxe4 5.Nxe4 Bf5 6.Ng3 Qd7 7.Bb5 d5 8.Nf3  
+Bg4 9.O-O O-O-O 10.Re1 h6 11.Bf4 e6 12.h3 Bxf3 13.Qxf3 Nf6 14.Re3 Bd6 15. 
+Rc3 Bxf4 16.Qxf4 Qd6 17.Qe3 Ne7 18.Bd3 Rhe8 19.Re1 Nc6 20.Bb5 e5 21.Rxc6  
+bxc6 22.Ba6+ Kd7 23.dxe5 Qe6 24.Bd3 Ne4 25.Nxe4 dxe4 26.Qxe4 Rf8 27.Bc4  
+Qf5 28.Qd4+ Ke8 29.Qc5 Rd2 30.Rf1 Qe4 31.Bd3 Qd5 32.Bg6+ Rf7 33.Qxd5 cxd5  
+34.e6 1-0 
+ 
+[Event "4NCL"] 
+[Site "Birmingham ENG"] 
+[Date "2001.05.06"] 
+[Round "10"] 
+[White "Crouch, Colin S"] 
+[Black "Bellin, Robert"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2403"] 
+[BlackElo "2361"] 
+[ECO "A80"] 
+[EventDate "2001.09.22"] 
+ 
+1.d4 f5 2.Bg5 Nc6 3.e3 g6 4.f4 Bg7 5.Nd2 Nf6 6.c3 b6 7.Bd3 Bb7 8.Ngf3 O-O  
+9.O-O Qe8 10.Qe2 Nd8 11.Ba6 Bxa6 12.Qxa6 Nf7 1/2-1/2 
+ 
+[Event "Challengers"] 
+[Site "Hastings ENG"] 
+[Date "2000.01.06"] 
+[Round "9"] 
+[White "Pert, Nicholas"] 
+[Black "Cherniaev, A."] 
+[Result "1-0"] 
+[WhiteElo "2425"] 
+[BlackElo "2432"] 
+[ECO "A80"] 
+[EventDate "1999.12.29"] 
+ 
+1.d4 f5 2.Bg5 Nc6 3.e3 g6 4.Nd2 Bg7 5.c3 Nf6 6.h4 d6 7.Qb3 a6 8.Bd3 e5 9. 
+h5 h6 10.Bxf6 Qxf6 11.hxg6 Qxg6 12.Ne2 h5 13.O-O-O Ne7 14.dxe5 dxe5 15.e4  
+f4 16.g3 fxg3 17.Nxg3 Bh6 18.Kb1 Bxd2 19.Rxd2 h4 20.Bc4 Bd7 21.Nf5 Nxf5  
+22.exf5 Qxf5+ 23.Ka1 O-O-O 24.Rxd7 Kxd7 25.Qxb7 Ke7 26.Qxc7+ Rd7 27.Qc5+  
+Kf6 28.Qc6+ Ke7 29.Rg1 Qg4 30.Qc5+ Kf6 31.Qc6+ Ke7 32.Qc5+ Kf6 33.f3 Rhd8  
+34.Qb6+ Rd6 35.Qxd8+ Rxd8 36.fxg4 Kg5 37.Kb1 e4 38.Bxa6 e3 39.Kc1 h3 40. 
+Bb7 h2 1-0 

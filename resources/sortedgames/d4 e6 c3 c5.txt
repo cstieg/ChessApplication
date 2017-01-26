@@ -1,0 +1,145 @@
+ 
+[Event "ISL Ch 2012"] 
+[Site "Kopavogur ISL"] 
+[Date "2012.04.18"] 
+[Round "6"] 
+[White "Danielsen, Henrik"] 
+[Black "Thorhallsson, Throstur"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2504"] 
+[BlackElo "2398"] 
+[ECO "A40"] 
+[EventDate "2012.04.13"] 
+ 
+1.d4 e6 2.c3 c5 3.Bf4 Nc6 4.e3 Nf6 5.Nd2 cxd4 6.exd4 Be7 7.Ngf3 O-O 8.Bd3  
+d6 9.Qe2 b6 10.h3 Bb7 11.O-O Re8 12.Rfe1 Bf8 13.Bg5 Be7 14.Bf4 Bf8 15.Bg5  
+Be7 16.Bf4 1/2-1/2 
+ 
+[Event "ch-Paris Int"] 
+[Site "Paris FRA"] 
+[Date "2010.07.08"] 
+[Round "6"] 
+[White "Den Heeten, Djurre"] 
+[Black "Willemze, Thomas"] 
+[Result "1-0"] 
+[WhiteElo "2328"] 
+[BlackElo "2405"] 
+[ECO "A40"] 
+[EventDate "2010.07.03"] 
+ 
+1.d4 e6 2.c3 c5 3.Nf3 Nc6 4.e3 Nf6 5.Bd3 b6 6.O-O Bb7 7.Nbd2 d5 8.Ne5 Nxe5 
+9.dxe5 Nd7 10.f4 Qc7 11.Nf3 Be7 12.c4 f5 13.cxd5 Bxd5 14.Bxf5 O-O-O 15.Bh3 
+Bc4 16.Bd2 g5 17.Rc1 h5 18.Nxg5 Bxg5 19.Rxc4 Nxe5 20.Re4 Ng4 21.Qc2 Bf6  
+22.Rxe6 Rhf8 23.Bc3 Bxc3 24.Qxc3 Rd5 25.Re5 Qd7 26.Rxd5 Qxd5 27.Qe5 Qf7  
+28.Rd1 Re8 29.Qd6 Kb7 30.Bxg4 hxg4 31.Qd7+ Qxd7 32.Rxd7+ Kc6 33.Rd3 c4 34. 
+Rd4 Rxe3 35.Kf2 Re7 36.Rxc4+ Kd5 37.Rc2 Kd4 38.Rd2+ 1-0 
+ 
+[Event "2. Open"] 
+[Site "Urumia IRI"] 
+[Date "2008.08.31"] 
+[Round "9"] 
+[White "Ahmadov, Fariz"] 
+[Black "Toufighi, Homayoon"] 
+[Result "0-1"] 
+[WhiteElo "2261"] 
+[BlackElo "2425"] 
+[ECO "A46"] 
+[EventDate "2008.08.26"] 
+ 
+1.d4 e6 2.c3 c5 3.Nf3 Nf6 4.g3 Be7 5.Bg2 O-O 6.O-O Nc6 7.Bg5 d5 8.Bxf6  
+Bxf6 9.e3 b5 10.Ne1 Qb6 11.Nd3 cxd4 12.cxd4 b4 13.Nd2 Ba6 14.Nb3 Bc4 15. 
+Nbc5 Rfd8 16.b3 Bb5 17.Rc1 e5 18.Re1 exd4 19.e4 Bxd3 20.Nxd3 dxe4 21.Bxe4  
+Rac8 22.Rc4 Ne7 23.Rxb4 Qd6 24.Rc4 g6 25.Qc2 h5 26.h4 Kg7 27.Kg2 Rb8 28. 
+Rc5 Rdc8 29.b4 Qd7 30.Bf3 Nf5 31.Rc1 Rxc5 32.Qxc5 Rd8 33.Qc6 Qe7 34.Re1  
+Qf8 35.Qc5 Be7 36.Qe5+ Kg8 37.a3 Bd6 38.Qa5 Bb8 39.b5 Qd6 40.Re5 Rc8 41. 
+Bc6 Kg7 42.Qa6 Rd8 43.Rd5 Ne3+ 44.fxe3 Qxg3+ 45.Kf1 Qf3+ 0-1 
+ 
+[Event "TSGM Jan"] 
+[Site "Novi Sad SRB"] 
+[Date "2003.01.25"] 
+[Round "10"] 
+[White "Fontaine, Robert"] 
+[Black "Sedlak, Nikola"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2529"] 
+[BlackElo "2506"] 
+[ECO "A46"] 
+[EventDate "2003.01.18"] 
+ 
+1.d4 e6 2.c3 c5 3.Nf3 Nf6 4.Bg5 Qb6 5.Qb3 Ne4 6.Qxb6 axb6 7.e3 Nxg5  
+1/2-1/2 
+ 
+[Event "19. Muensterland Open"] 
+[Site "Senden GER"] 
+[Date "2002.10.16"] 
+[Round "7"] 
+[White "Menk, Rolf"] 
+[Black "Mainka, Gregor"] 
+[Result "0-1"] 
+[WhiteElo "2206"] 
+[BlackElo "2319"] 
+[ECO "A46"] 
+[EventDate "2002.10.12"] 
+ 
+1.d4 e6 2.c3 c5 3.Nf3 Nf6 4.Bg5 Qb6 5.Qb3 d5 6.Nbd2 c4 7.Qc2 Be7 8.e4 Nc6  
+9.e5 Ng8 10.b3 cxb3 11.axb3 Bxg5 12.Nxg5 Nge7 13.Bd3 Bd7 14.O-O f5 15.exf6 
+gxf6 16.Nxh7 Kf7 17.f4 Nf5 18.Ng5+ fxg5 19.fxg5 Nxd4 20.cxd4 Qxd4+ 21.Rf2  
+Qxa1+ 22.Nf1 Qd4 23.Qc7 Ke7 24.Bxf5 exf5 25.Kh1 Qxf2 26.Qe5+ Be6 27.Qc7+  
+Ke8 0-1 
+ 
+[Event "Trudova Ukraina"] 
+[Site "Kiev UKR"] 
+[Date "2001.01.20"] 
+[Round "2"] 
+[White "Sergeev, Vladimir"] 
+[Black "Kruppa, Yuri"] 
+[Result "1-0"] 
+[WhiteElo "2485"] 
+[BlackElo "2572"] 
+[ECO "A46"] 
+[EventDate "2001.01.19"] 
+ 
+1.d4 e6 2.c3 c5 3.Nf3 Nf6 4.Bg5 Nc6 5.e3 h6 6.Bh4 d5 7.Nbd2 Bd6 8.dxc5  
+Bxc5 9.Bd3 Be7 10.O-O O-O 11.c4 d4 12.exd4 Nxd4 13.Bg3 Nh5 14.Nb3 Nxg3 15. 
+hxg3 Nc6 16.Qe2 Qc7 17.Rac1 Bd7 18.Rfd1 Rad8 19.g4 Qf4 20.Qe4 Qxe4 21.Bxe4 
+Nb4 22.Na5 Ba4 23.Rxd8 Rxd8 24.b3 Bc6 25.Nxc6 Nxc6 26.Bxc6 bxc6 27.Kf1 f6  
+28.Ke2 Bc5 29.Ne1 Kf7 30.Nd3 Be7 31.f4 a5 32.Ke3 Rb8 33.Kd4 Rd8+ 34.Kc3  
+Rd6 35.c5 Rd8 36.Kc4 Rd5 37.Re1 Bf8 38.a3 g6 39.b4 axb4 40.axb4 Bg7 41.Ra1 
+f5 42.Ra7+ Kf8 43.Ne5 Bxe5 44.fxe5 Rxe5 45.Rc7 Re4+ 46.Kb3 Rxg4 47.Rxc6  
+Ke7 48.b5 Rg3+ 49.Ka4 Rxg2 50.Rc7+ Kd8 51.b6 Rb2 52.Ka5 e5 53.Rg7 Rc2 54. 
+b7 Ra2+ 55.Kb5 Rb2+ 56.Kc4 1-0 
+ 
+[Event "French Top 12 2013"] 
+[Site "Haguenau FRA"] 
+[Date "2013.06.01"] 
+[Round "3.5"] 
+[White "Saada, Julien"] 
+[Black "David, Alberto"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2323"] 
+[BlackElo "2584"] 
+[ECO "D05"] 
+[EventDate "2013.05.30"] 
+ 
+1.d4 e6 2.c3 c5 3.Nf3 Nc6 4.e3 d5 5.Nbd2 Nf6 6.Bd3 Qc7 7.O-O Be7 8.Qe2 b6  
+9.dxc5 bxc5 10.e4 Bb7 11.Re1 h6 12.Bb5 dxe4 13.Nxe4 O-O 14.Nxf6+ Bxf6 15. 
+Bd3 Rfd8 16.Bc2 Ne7 17.Ne5 Bxe5 18.Qxe5 Qxe5 19.Rxe5 Bd5 20.Re1 a5 21.Bf4  
+a4 22.b3 Bb7 23.c4 Nc6 24.Be4 Rd7 25.Bxc6 Bxc6 26.Be3 Rb7 27.Bxc5 axb3 28. 
+axb3 Rxa1 29.Rxa1 Rxb3 30.Be3 Rc3 31.Rc1 Rxc1+ 1/2-1/2 
+ 
+[Event "Bad Woerishofen GER, Open 2004"] 
+[Site "Bad Woerishofen GER"] 
+[Date "2004.??.??"] 
+[Round "3"] 
+[White "Piankov, Evgenij"] 
+[Black "Eingorn, Vereslav S"] 
+[Result "0-1"] 
+[WhiteElo "2339"] 
+[BlackElo "2600"] 
+[ECO "D05"] 
+[EventDate "2004.03.18"] 
+ 
+1.d4 e6 2.c3 c5 3.Nf3 Nc6 4.e3 d5 5.Bd3 Bd6 6.O-O Nf6 7.Nbd2 O-O 8.dxc5  
+Bxc5 9.e4 Qc7 10.exd5 exd5 11.Nb3 Bb6 12.h3 Bxh3 13.gxh3 Qg3+ 14.Kh1 Qxh3+ 
+15.Nh2 Ne5 16.Be2 Nf3 17.Bf4 Nh4 18.Rg1 Ne4 19.Bg3 Qxg3 20.Rxg3 Nxf2+ 21. 
+Kg1 Nxd1+ 22.Nd4 Nxb2 0-1 

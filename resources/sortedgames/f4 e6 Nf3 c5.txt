@@ -1,0 +1,39 @@
+ 
+[Event "TCh-NED 2005-6"] 
+[Site "Netherlands NED"] 
+[Date "2005.10.15"] 
+[Round "2"] 
+[White "Becx, Cesar"] 
+[Black "Welling, Gerard"] 
+[Result "1-0"] 
+[WhiteElo "2258"] 
+[BlackElo "2399"] 
+[ECO "B25"] 
+[EventDate "2005.09.24"] 
+ 
+1.f4 e6 2.Nf3 c5 3.d3 Nc6 4.g3 g6 5.Bg2 Bg7 6.O-O Nge7 7.Nc3 O-O 8.e4 d6  
+9.Be3 Nd4 10.Rb1 Bd7 11.Ne2 Nxf3+ 12.Bxf3 Bc6 13.c4 f5 14.Bg2 a5 15.Qd2 b6 
+16.Bf2 d5 17.cxd5 exd5 18.exf5 Nxf5 19.d4 c4 20.b3 cxb3 21.Rfc1 bxa2 22. 
+Qxa2 Bb7 23.Rb5 Ne7 24.Rcb1 Ra6 25.Nc3 Bc6 26.R5b2 g5 27.Bf1 Ra7 28.Rxb6  
+Ba8 29.Ne2 Nf5 30.Rb8 Qxb8 31.Rxb8 Rxb8 32.fxg5 a4 33.Bh3 Nd6 34.Nc3 a3  
+35.Nxd5 Rb2 36.Nf6+ Kf8 37.Qg8+ Ke7 38.Qxg7+ Nf7 39.d5 Rc7 40.Ng8+ Ke8 41. 
+Nf6+ Ke7 42.d6+ Kxd6 43.Qf8+ 1-0 
+ 
+[Event "Ch Netherlands (team) 2005/06"] 
+[Site "NED"] 
+[Date "2005.10.15"] 
+[Round "2"] 
+[White "Becx, Cesar"] 
+[Black "Welling, Gerard"] 
+[Result "1-0"] 
+[WhiteElo "2258"] 
+[BlackElo "2399"] 
+[ECO "B25"] 
+ 
+1.f4 e6 2.Nf3 c5 3.d3 Nc6 4.g3 g6 5.Bg2 Bg7 6.O-O Nge7 7.Nc3 O-O 8.e4 d6  
+9.Be3 Nd4 10.Rb1 Bd7 11.Ne2 Nxf3+ 12.Bxf3 Bc6 13.c4 f5 14.Bg2 a5 15.Qd2 b6 
+16.Bf2 d5 17.cxd5 exd5 18.exf5 Nxf5 19.d4 c4 20.b3 cxb3 21.Rfc1 bxa2 22. 
+Qxa2 Bb7 23.Rb5 Ne7 24.Rcb1 Ra6 25.Nc3 Bc6 26.R5b2 g5 27.Bf1 Ra7 28.Rxb6  
+Ba8 29.Ne2 Nf5 30.Rb8 Qxb8 31.Rxb8 Rxb8 32.fxg5 a4 33.Bh3 Nd6 34.Nc3 a3  
+35.Nxd5 Rb2 36.Nf6+ Kf8 37.Qg8+ Ke7 38.Qxg7+ Nf7 39.d5 Rc7 40.Ng8+ Ke8 41. 
+Nf6+ Ke7 42.d6+ Kxd6 43.Qf8+ 1-0 

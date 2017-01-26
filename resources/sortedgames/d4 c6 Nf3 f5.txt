@@ -1,0 +1,41 @@
+ 
+[Event "2. Chennai Open"] 
+[Site "Chennai IND"] 
+[Date "2010.01.31"] 
+[Round "8"] 
+[White "Syed Anwar, Shazuli"] 
+[Black "Dimakiling, Oliver"] 
+[Result "0-1"] 
+[WhiteElo "2321"] 
+[BlackElo "2435"] 
+[ECO "A40"] 
+[EventDate "2010.01.25"] 
+ 
+1.d4 c6 2.Nf3 f5 3.c4 Nf6 4.Nc3 g6 5.Bf4 Bg7 6.e3 d6 7.h3 O-O 8.Be2 h6 9. 
+Bh2 Be6 10.Qc2 a6 11.Nh4 Qe8 12.g4 fxg4 13.Nxg6 Rf7 14.Nf4 Bd7 15.hxg4 b5  
+16.Rg1 e5 17.dxe5 dxe5 18.Nh5 Nxh5 19.gxh5 Bf5 20.Bd3 Qe6 21.Ne4 Nd7 22. 
+O-O-O Raf8 23.f3 Qe7 24.Kb1 Be6 25.Be2 Kh8 26.Nd6 Rf6 27.Bg3 Rxf3 28.Bxf3  
+Rxf3 29.Qe4 Qf8 30.Qxc6 bxc4 31.Nxc4 Bg4 32.Rc1 Qf5+ 33.e4 Qxh5 34.Nd6 Rf6 
+35.Qc8+ Nf8 36.Qd8 Bd7 37.Nc4 Rf7 38.Rgf1 Rxf1 39.Rxf1 Kh7 40.Qe7 Qe2 41. 
+Rg1 Qxc4 42.Bf2 Qxe4+ 43.Ka1 Bg4 44.Bc5 Ne6 0-1 
+ 
+[Event "38. Olympiad"] 
+[Site "Dresden GER"] 
+[Date "2008.11.22"] 
+[Round "9"] 
+[White "Samhouri, Bilal"] 
+[Black "Al-Hadarani, Hatim"] 
+[Result "1-0"] 
+[WhiteElo "2205"] 
+[BlackElo "2308"] 
+[ECO "A40"] 
+[EventDate "2008.11.13"] 
+ 
+1.d4 c6 2.Nf3 f5 3.c4 Nf6 4.Bg5 Ne4 5.Bf4 e6 6.Nc3 Bb4 7.Qb3 Qa5 8.Rc1 O-O 
+9.e3 Be7 10.Bd3 Nxc3 11.bxc3 c5 12.Ke2 d6 13.h3 Nd7 14.g4 Nf6 15.Qc2 cxd4  
+16.cxd4 Bd7 17.gxf5 exf5 18.Bg5 Rae8 19.Rhg1 Ne4 20.Bf4 Kh8 21.Nd2 d5 22. 
+Nb3 Qd8 23.c5 Ng5 24.Be5 Bf6 25.Bd6 Be7 26.Be5 Rf7 27.h4 Ne4 28.f3 Bxh4  
+29.Rg2 Bf6 30.fxe4 fxe4 31.Bxe4 dxe4 32.Bf4 Bb5+ 33.Kd2 Bxd4 34.Nxd4 Rxf4  
+35.Qb2 Qa5+ 36.Rc3 Rd8 37.exf4 Rxd4+ 38.Ke3 Rd8 39.Rxg7 Rg8 40.Rg5 Rxg5  
+41.Ra3+ Kg8 42.Rxa5 Rg3+ 43.Kxe4 Bc6+ 44.Kd4 a6 45.Ra3 Rg7 46.Re3 Rd7+ 47. 
+Kc3 1-0 

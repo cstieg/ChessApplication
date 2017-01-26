@@ -1,0 +1,56 @@
+ 
+[Event "Chelyabinsk RUS, 4. Postovalov Memorial"] 
+[Site "Chelyabinsk RUS"] 
+[Date "2010.01.08"] 
+[Round "7"] 
+[White "Nikolenko, Vadim"] 
+[Black "Kozirev, Alexander"] 
+[Result "0-1"] 
+[WhiteElo "2249"] 
+[BlackElo "2343"] 
+[ECO "D00"] 
+[EventDate "2010.01.04"] 
+ 
+1.d4 d5 2.f4 c5 3.e3 g6 4.Nf3 Bg7 5.c3 Nf6 6.Be2 O-O 7.O-O b6 8.Ne5 Ba6 9. 
+Nd3 Nbd7 10.Nd2 Ne4 11.Nxe4 dxe4 12.Nf2 Bxe2 13.Qxe2 f5 14.a4 Rc8 15.Bd2  
+c4 16.b3 Qc7 17.Rfb1 Rf6 18.Qxc4+ Qxc4 19.bxc4 Rxc4 20.a5 Rc7 21.Kf1 bxa5  
+22.Rxa5 Nb6 23.Ke2 Nc4 24.Ra4 Bf8 25.g4 Kf7 26.h4 Rb6 27.Rxb6 axb6 28.g5  
+b5 29.Ra6 e6 30.Be1 Ba3 31.Ra8 Rb7 32.Nd1 Ke7 33.h5 gxh5 34.Rh8 Kd6 35.Rf8 
+Ra7 36.Bf2 Bc1 37.Rf6 Ra2+ 38.Kf1 Nd2+ 39.Kg2 Nb1 40.Rh6 Ra7 41.Be1 Kd5  
+42.Rxh5 Kc4 43.Rh6 Kd3 44.Rh1 Ke2 45.Bg3 Bd2 46.c4 bxc4 47.Nb2 Na3 48.Kh3  
+c3 49.Rh2+ Kxe3 50.Bf2+ Kxf4 51.Nd1 Kxg5 52.d5 c2 0-1 
+ 
+[Event "Hermosillo MEX, Men ch 2003"] 
+[Site "Hermosillo MEX"] 
+[Date "2003.12.03"] 
+[Round "4"] 
+[White "Villegas, Rafael"] 
+[Black "Blanco Fernandez, Rafael"] 
+[Result "0-1"] 
+[WhiteElo "2282"] 
+[BlackElo "2390"] 
+[ECO "D00"] 
+[EventDate "2003.12.01"] 
+ 
+1.d4 d5 2.f4 c5 3.e3 Nc6 4.Nf3 Bf5 5.c3 e6 6.Be2 Qa5 7.Nbd2 c4 8.Nh4 h6 9. 
+g4 Bh7 10.O-O b5 11.Ndf3 Bd6 12.Bd2 Nge7 13.Qe1 Qc7 14.Qf2 a5 15.Ne5 Nd8  
+16.Bf3 f6 17.Bg2 Qc8 18.e4 fxe5 19.fxe5 Bc7 20.exd5 Nxd5 21.g5 hxg5 22. 
+Bxg5 Qd7 23.Bf3 Nf7 24.Bh5 O-O 25.Bd2 Nxe5 26.Qxf8+ Rxf8 27.Rxf8+ Kxf8 28. 
+dxe5 0-1 
+ 
+[Event "Slavonija"] 
+[Site "Borovo CRO"] 
+[Date "2001.08.02"] 
+[Round "1"] 
+[White "Lukic, Milutin"] 
+[Black "Novakovic, Dragan"] 
+[Result "0-1"] 
+[WhiteElo "2258"] 
+[BlackElo "2388"] 
+[ECO "D00"] 
+[EventDate "2001.08.04"] 
+ 
+1.d4 d5 2.f4 c5 3.e3 Nc6 4.c3 Nf6 5.dxc5 a5 6.Bb5 Bd7 7.Bxc6 Bxc6 8.Nf3 e6 
+9.Nbd2 a4 10.Nd4 Bxc5 11.O-O O-O 12.N2f3 Bd6 13.Qc2 Qd7 14.Rb1 Rfc8 15.h3  
+Bb5 16.Nxb5 Qxb5 17.Nd4 Qa6 18.a3 Bc5 19.Qd3 Nd7 20.Qxa6 Rxa6 21.Kf2 Rb6  
+22.Ra1 Re8 23.Nc2 f6 24.Ke2 Kf7 25.g4 g6 26.Kf3 h5 27.gxh5 gxh5 0-1 

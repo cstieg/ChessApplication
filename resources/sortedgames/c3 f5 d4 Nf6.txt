@@ -1,0 +1,35 @@
+ 
+[Event "It Open"] 
+[Site "Leiden NED"] 
+[Date "2007.02.17"] 
+[Round "2"] 
+[White "Van Rijn, Wouter"] 
+[Black "Nijboer, Friso"] 
+[Result "0-1"] 
+[WhiteElo "2203"] 
+[BlackElo "2638"] 
+[ECO "A00"] 
+ 
+1.c3 f5 2.d4 Nf6 3.g3 g6 4.Bg2 Bg7 5.f3 d6 6.Nh3 e5 7.O-O O-O 8.Nf2 Be6 9. 
+e4 Nbd7 10.d5 Bf7 11.Bh3 Kh8 12.c4 f4 13.gxf4 exf4 14.Bxf4 Nh5 15.Be3 Ne5  
+16.Nd2 Bg8 17.Qe2 Nf4 18.Bxf4 Rxf4 19.Bg2 g5 20.Nh3 Rf8 21.f4 gxf4 22.Nxf4 
+Qh4 23.Nh3 Bf7 24.Rf4 Bh5 25.Rxh4 Bxe2 26.Bf1 Ng6 27.Rxh7+ Kxh7 28.Bxe2  
+Bxb2 29.Rb1 Bd4+ 30.Kh1 Nf4 31.Bg4 Nxh3 32.Bxh3 Rf2 33.Nf1 b6 34.Ng3 Rxa2  
+35.Rf1 Ra1 0-1 
+ 
+[Event "Aeroflot Open"] 
+[Site "Moscow RUS"] 
+[Date "2002.02.09"] 
+[Round "7"] 
+[White "Asrian, Karen"] 
+[Black "Lugovoi, Aleksei"] 
+[Result "0-1"] 
+[WhiteElo "2599"] 
+[BlackElo "2510"] 
+[ECO "A00"] 
+[EventDate "2002.02.04"] 
+ 
+1.c3 f5 2.d4 Nf6 3.Bg5 e6 4.Nd2 d5 5.e3 Be7 6.Ngf3 O-O 7.Ne5 Ne4 8.Bxe7  
+Qxe7 9.Nxe4 fxe4 10.f4 exf3 11.Nxf3 Nd7 12.Be2 c6 13.O-O e5 14.c4 dxc4 15. 
+Bxc4+ Kh8 16.Nxe5 Rxf1+ 17.Bxf1 Nxe5 18.dxe5 Bf5 19.Qd4 a6 20.Rd1 Re8 21. 
+Be2 h6 22.Rf1 Qxe5 23.Bh5 c5 24.Qxe5 Rxe5 25.g4 Be6 26.Bg6 Kg8 27.Kf2 0-1 

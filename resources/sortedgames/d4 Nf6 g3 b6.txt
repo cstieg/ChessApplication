@@ -1,0 +1,24 @@
+ 
+[Event "FSIM February 2016"] 
+[Site "Budapest HUN"] 
+[Date "2016.02.12"] 
+[Round "6.5"] 
+[White "Nagy, Ervin Dr"] 
+[Black "Radlovacki, Jovan"] 
+[Result "0-1"] 
+[WhiteElo "2229"] 
+[BlackElo "2314"] 
+[ECO "A45"] 
+[EventDate "2016.02.06"] 
+ 
+1.d4 Nf6 2.g3 b6 3.Bg2 c6 4.Nf3 Bb7 5.O-O c5 6.dxc5 bxc5 7.c4 g6 8.b3 Bg7  
+9.Bb2 O-O 10.Qc1 d6 11.Rd1 Nbd7 12.Nc3 Rb8 13.Qc2 Nb6 14.Ne1 Bxg2 15.Nxg2  
+Rb7 16.Rab1 a5 17.a4 Nbd7 18.Nb5 Re8 19.e4 Bh6 20.Bxf6 Nxf6 21.e5 Nd7 22. 
+exd6 e6 23.Qe4 Qb6 24.f4 Bg7 25.Ne3 Nf6 26.Qf3 Rd8 27.Rd3 Rbd7 28.Rbd1 h5  
+29.R1d2 Bf8 30.Nd1 Bxd6 31.Ndc3 Be7 32.Rxd7 Rxd7 33.Rxd7 Nxd7 34.Qa8+ Nb8  
+35.Qa7 Qd8 36.Qc7 Qxc7 37.Nxc7 Nc6 38.N7b5 f5 39.Kf2 Bf6 40.Ne2 h4 41.Ke3  
+e5 42.fxe5 Nxe5 43.gxh4 Bxh4 44.h3 Bg5+ 45.Kf2 Nd3+ 46.Kf3 Ne1+ 47.Kf2 Nc2 
+48.Nc7 Kf7 49.Nd5 Bd2 50.Ng1 Na1 51.Nf3 Nxb3 52.Ne5+ Kg7 53.Nd3 Bg5 54.Kg3 
+Bf6 55.Kf2 Bd4+ 56.Ke2 Bg1 57.Kf1 Bh2 58.Ke2 Bd6 59.Ne1 Nd4+ 60.Ke3 g5 61. 
+Kf2 Kg6 62.Kg2 Nc6 63.Nd3 Nb4 64.N5xb4 cxb4 65.Nc1 Kf6 66.Nb3 Bc7 67.Kf3  
+Ke5 68.Ke3 g4 69.hxg4 fxg4 70.Kd3 Kf4 71.Nd4 g3 0-1 

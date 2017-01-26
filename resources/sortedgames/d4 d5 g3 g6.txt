@@ -1,0 +1,57 @@
+ 
+[Event "POL Ch w 2015"] 
+[Site "Poznan POL"] 
+[Date "2015.03.26"] 
+[Round "3.1"] 
+[White "Rajlich, Iweta"] 
+[Black "Kulon, Klaudia"] 
+[Result "1-0"] 
+[WhiteElo "2398"] 
+[BlackElo "2310"] 
+[ECO "D02"] 
+[EventDate "2015.03.24"] 
+ 
+1.d4 d5 2.g3 g6 3.Bg2 Bg7 4.Nf3 Nf6 5.O-O O-O 6.c3 Re8 7.Ne5 c6 8.Nd2 Nfd7 
+9.f4 f6 10.Nd3 e5 11.dxe5 fxe5 12.e4 d4 13.Qb3+ Kh8 14.Nc4 Nb6 15.Ncxe5  
+Re7 16.Nf7+ Rxf7 17.Qxf7 dxc3 18.Ne5 N8d7 19.bxc3 Nxe5 20.fxe5 Bg4 21.Ba3  
+Nd7 22.e6 Ne5 23.Qxb7 Bxe6 24.Bc5 Rb8 25.Rad1 Qg8 26.Qc7 Rc8 27.Qxa7 Bc4  
+28.Rf2 Nd3 29.Rxd3 Bxd3 30.Rf7 Be5 31.Bd4 Re8 32.Qd7 Bc4 33.Rxh7+ 1-0 
+ 
+[Event "Hanoi VIE, Ch U13 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.13"] 
+[Round "3.18"] 
+[White "Tran, Trong Thanh"] 
+[Black "Tran, Duc Anh"] 
+[Result "1-0"] 
+[WhiteElo "2571"] 
+[BlackElo "2576"] 
+[ECO "D78"] 
+[EventDate "2012.07.12"] 
+ 
+1.d4 d5 2.g3 g6 3.Bg2 Bg7 4.Nf3 Nf6 5.O-O O-O 6.c4 c6 7.Nc3 Bg4 8.Ne5 Be6  
+9.cxd5 Nxd5 10.Nf3 Qb6 11.Na4 Qb5 12.Nc5 Bg4 13.a4 Qb6 14.a5 Qc7 15.e4 Nf6 
+16.Bf4 Qc8 17.Qb3 Nbd7 18.Rfe1 Nxc5 19.dxc5 Nd7 20.Qb4 e5 21.Bg5 f6 22.Be3 
+Re8 23.Red1 Bf8 24.Ra3 b6 25.axb6 axb6 26.Rxa8 Qxa8 27.h3 Be6 28.Bf1 Rb8  
+29.Bc4 Nxc5 30.Bxc5 Bxc5 31.Bxe6+ Kh8 32.Qd2 Be7 33.Qc3 Qa5 34.Qxc6 Qc5  
+35.Rc1 Qb4 36.Qc3 Qxe4 37.Re1 Qb4 38.Qxb4 Bxb4 39.Rc1 Bc5 40.Rd1 Re8 41. 
+Bc4 e4 42.Re1 Re7 43.Nh2 f5 44.Kg2 Rd7 45.Nf1 Kg7 46.Ne3 Rd2 47.b3 Kf6 48. 
+Re2 Bxe3 49.fxe3 Rd8 50.Kf2 Rb8 51.Rd2 b5 52.Be2 Ke6 53.Rd4 h5 54.Rb4 Rc8  
+55.Rxb5 Rc1 56.Rb6+ Kf7 57.b4 Rh1 58.Bf1 Rh2+ 1-0 
+ 
+[Event "TCh-SWE 2003-4"] 
+[Site "Malmo SWE"] 
+[Date "2003.11.11"] 
+[Round "3"] 
+[White "Karlsson, Lars"] 
+[Black "Andreasson, Ingvar"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2472"] 
+[BlackElo "2326"] 
+[ECO "D79"] 
+[EventDate "2003.11.09"] 
+ 
+1.d4 d5 2.g3 g6 3.Nf3 Bg7 4.Bg2 Nf6 5.c4 c6 6.cxd5 cxd5 7.Nc3 O-O 8.O-O  
+Nc6 9.Ne5 e6 10.Bg5 h6 11.Bxf6 Bxf6 12.Nxc6 bxc6 13.Na4 e5 14.dxe5 Bxe5  
+15.Rc1 Qf6 16.b3 Bf5 17.Qd2 h5 18.e3 Rac8 19.Rfe1 Rfe8 20.e4 dxe4 21.Bxe4  
+Red8 22.Qc2 Bg4 23.Bg2 Bd4 24.Nc5 Bf5 1/2-1/2 

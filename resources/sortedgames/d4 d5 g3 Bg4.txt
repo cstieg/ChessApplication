@@ -1,0 +1,41 @@
+ 
+[Event "TCh-MKD"] 
+[Site "Struga MKD"] 
+[Date "2010.08.09"] 
+[Round "1"] 
+[White "Koteski, Djorgji"] 
+[Black "Mitkov, N1"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2261"] 
+[BlackElo "2520"] 
+[ECO "D11"] 
+[EventDate "2010.08.09"] 
+ 
+1.d4 d5 2.g3 Bg4 3.Bg2 e6 4.c4 c6 5.Nf3 Nd7 6.O-O Ngf6 7.cxd5 exd5 8.Bf4  
+Be7 9.Nc3 O-O 10.h3 Bh5 11.Qb3 Qb6 12.Qxb6 axb6 13.a4 Rfe8 14.e3 Bg6 15. 
+Rfc1 Ne4 16.Nxe4 Bxe4 17.g4 Ra5 18.Ne5 Nxe5 19.Bxe5 Bxg2 20.Kxg2 Rea8 21. 
+b3 Bb4 22.Rab1 f6 23.Bg3 Re8 24.Kf3 Kf7 25.Ke2 Re7 26.Rc2 Ra8 27.Kd3 h5  
+28.f3 Rh8 29.Rh2 Ke6 30.Rg1 g5 31.Rgh1 Reh7 32.h4 hxg4 33.fxg4 gxh4 34. 
+Rxh4 Rxh4 35.Rxh4 Rg8 36.Ke2 Be7 37.Bc7 b5 38.a5 c5 39.dxc5 Bxc5 40.Kf3  
+Rc8 41.Rh7 Be7 42.Bb6 b4 43.Bd4 Rc7 44.Rh6 Kf7 45.Rh7+ Ke6 46.Rh6 Kf7 47. 
+Rh7+ 1/2-1/2 
+ 
+[Event "3. IECC"] 
+[Site "Batumi GEO"] 
+[Date "2002.06.15"] 
+[Round "4"] 
+[White "Matnadze, Ana"] 
+[Black "Essing, Arnold"] 
+[Result "1-0"] 
+[WhiteElo "2365"] 
+[BlackElo "2286"] 
+[ECO "D00"] 
+[EventDate "2002.06.12"] 
+ 
+1.d4 d5 2.g3 Bg4 3.Bg2 e6 4.Nf3 Nd7 5.O-O Bd6 6.c4 c6 7.Qb3 Rb8 8.Nc3 Ngf6 
+9.Nd2 O-O 10.e4 dxe4 11.Ndxe4 Nxe4 12.Nxe4 Bc7 13.Bg5 f6 14.Bf4 Bxf4 15. 
+gxf4 Qc7 16.Qg3 Bf5 17.Rfe1 c5 18.d5 exd5 19.cxd5 Rbe8 20.d6 Qb6 21.Qb3+  
+Qxb3 22.axb3 a6 23.Ng3 Bc2 24.Bxb7 Bxb3 25.Bxa6 Nb6 26.Ne4 c4 27.Nc5 Rd8  
+28.Ne6 Rxd6 29.Nxf8 Kxf8 30.Bb5 Rd5 31.Bc6 Rd6 32.Re8+ Kf7 33.Ra7+ Kg6 34. 
+Be4+ f5 35.Bf3 Na4 36.Ree7 Kh6 37.h4 Nxb2 38.h5 Rd4 39.Rxg7 Rxf4 40.Rg3  
+Rxf3 41.Rxf3 Bc2 42.Ra6+ 1-0 

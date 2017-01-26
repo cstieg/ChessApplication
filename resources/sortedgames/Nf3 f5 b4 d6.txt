@@ -1,0 +1,81 @@
+ 
+[Event "1. League Cent-SRB"] 
+[Site "Kragujevac SRB"] 
+[Date "2015.09.11"] 
+[Round "9.3"] 
+[White "Petkov, Vladimir"] 
+[Black "Kuzubov, Yuriy"] 
+[Result "1-0"] 
+[WhiteElo "2481"] 
+[BlackElo "2636"] 
+[ECO "A04"] 
+[EventDate "2015.09.05"] 
+ 
+1.Nf3 f5 2.b4 d6 3.Bb2 e5 4.e3 Nf6 5.a3 g6 6.Bc4 Bg7 7.Bb3 Qe7 8.d4 e4 9. 
+Ng5 h6 10.Nh3 g5 11.Nc3 Be6 12.d5 Bf7 13.Nb5 Qd7 14.c4 O-O 15.O-O a6 16. 
+Nd4 c5 17.dxc6 Nxc6 18.Nxc6 bxc6 19.Kh1 Qe7 20.Ng1 c5 21.Ne2 Ng4 22.Bxg7  
+Kxg7 23.Ra2 Qe5 24.Ng3 h5 25.Qxd6 Be6 26.Qe7+ Kg6 27.h4 Rf6 28.hxg5 Rf7  
+29.Qxc5 Qxc5 30.bxc5 Rb8 31.Ne2 f4 32.Bc2 fxe3 33.Bxe4+ Kg7 34.Bd5 Rxf2  
+35.Re1 Bf5 36.Raa1 Bd3 37.Bf3 Ne5 38.Nf4 Nxf3 39.gxf3 Be4 40.Rxe3 Bc6 41. 
+Kg1 Rxf3 42.Rxf3 Bxf3 43.Kf2 Bg4 44.Ke3 Re8+ 45.Kd3 Re5 46.Rg1 Bf5+ 47.Kc3 
+h4 48.Rh1 h3 49.c6 Rc5 50.Kd4 Rxc6 51.Nxh3 Kg6 52.Nf4+ Kxg5 53.Nd5 Re6 54. 
+Rg1+ Kh6 55.Rg8 Re4+ 56.Kc5 Re6 57.a4 Bc2 58.a5 Bb3 59.Rb8 1-0 
+ 
+[Event "European Blitz 2014"] 
+[Site "Wroclaw POL"] 
+[Date "2014.12.19"] 
+[Round "8.1"] 
+[White "Matlakov, Maxim"] 
+[Black "Bosiocic, Marin"] 
+[Result "1-0"] 
+[WhiteElo "2695"] 
+[BlackElo "2555"] 
+[ECO "A04"] 
+[EventDate "2014.12.19"] 
+ 
+1.Nf3 f5 2.b4 d6 3.d4 g6 4.g3 Bg7 5.Bb2 Nh6 6.Bg2 Nf7 7.O-O Nd7 8.c4 O-O  
+9.Nc3 e5 10.dxe5 dxe5 11.e4 f4 12.b5 g5 13.h3 h5 14.Nh2 Nf6 15.Nd5 h4 16. 
+gxf4 gxf4 17.Kh1 c6 18.Nxf6+ Qxf6 19.Rg1 Be6 20.bxc6 bxc6 21.Bf3 Bxc4 22. 
+Ng4 Qe7 23.Rc1 Rad8 24.Qc2 Bb5 25.a4 Rd3 26.axb5 Rxf3 27.Kg2 Ng5 28.bxc6  
+Rxh3 29.c7 Rc8 30.Kf1 Nf7 31.Qc4 Kh8 32.Kg2 Ng5 33.Qb5 a6 34.Qb7 Qd7 35. 
+Nxe5 f3+ 36.Kf1 Rxc7 37.Qxc7 Qb5+ 38.Qc4 Qxb2 1-0 
+ 
+[Event "3. Open"] 
+[Site "Calvia ESP"] 
+[Date "2006.10.28"] 
+[Round "9"] 
+[White "Tate, Emory"] 
+[Black "Bartel, Mateusz"] 
+[Result "0-1"] 
+[WhiteElo "2413"] 
+[BlackElo "2569"] 
+[ECO "A04"] 
+[EventDate "2006.10.20"] 
+ 
+1.Nf3 f5 2.b4 d6 3.c4 g6 4.Bb2 Nf6 5.Bxf6 exf6 6.e3 Be6 7.Nc3 c6 8.Rb1 Nd7 
+9.d4 a5 10.d5 Bf7 11.dxc6 bxc6 12.a3 axb4 13.axb4 Ne5 14.Nxe5 fxe5 15.Be2  
+Bg7 16.e4 O-O 17.O-O fxe4 18.Nxe4 d5 19.cxd5 cxd5 20.Nc5 e4 21.Bg4 Qe7 22. 
+Qd2 h5 23.Bh3 Kh7 24.Rfe1 Bg8 25.f3 Ra3 26.fxe4 Bc3 27.Qc1 Bxe1 28.Qxa3  
+Bf2+ 29.Kh1 dxe4 30.Nd7 Rf7 31.Qb2 e3 32.Qe2 Rf4 33.Rc1 Bc4 34.Rxc4 Rxc4  
+35.Qxc4 e2 36.Nf8+ Kh6 37.Qc1+ Qe3 0-1 
+ 
+[Event "Belgian Interteams 2000-1"] 
+[Site "BEL"] 
+[Date "2001.02.18"] 
+[Round "9"] 
+[White "Thoeng, Paulus"] 
+[Black "Henris, Luc"] 
+[Result "0-1"] 
+[WhiteElo "2255"] 
+[BlackElo "2262"] 
+[ECO "A04"] 
+[EventDate "2001.01.18"] 
+ 
+1.Nf3 f5 2.b4 d6 3.Bb2 e5 4.e3 Nf6 5.c4 g6 6.Qb3 Bg7 7.Nc3 a5 8.b5 O-O 9. 
+c5+ Kh8 10.Na4 e4 11.Nd4 d5 12.Be2 Ng4 13.f3 exf3 14.Bxf3 f4 15.O-O fxe3  
+16.dxe3 Nf6 17.Rad1 Re8 18.Ne2 Qe7 19.Bd4 Be6 20.Qb2 Bg8 21.Ng3 Nbd7 22. 
+Rf2 Ne5 23.Be2 Neg4 24.Rf3 Ne5 25.Rf4 Nfd7 26.Qc3 c6 27.Rb1 h5 28.h3 h4  
+29.Nf1 g5 30.Rf2 Bh7 31.Rb2 Rf8 32.Rxf8+ Rxf8 33.bxc6 bxc6 34.Nh2 Kg8 35. 
+Rb7 Qf7 36.Bf3 Nxf3+ 37.Nxf3 Bh6 38.Nb6 Bf5 39.Ne5 Qh5 40.Nbxd7 Bxd7 41. 
+Nxd7 Qd1+ 42.Kh2 Rf1 43.Rb8+ Kf7 44.Ne5+ Ke7 45.Nxc6+ Ke6 46.Re8+ Kf7 47. 
+Re7+ Kg8 48.Re8+ Bf8 0-1 

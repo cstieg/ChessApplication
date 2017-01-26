@@ -1,0 +1,41 @@
+ 
+[Event "World Blitz 2015"] 
+[Site "Berlin GER"] 
+[Date "2015.10.13"] 
+[Round "1.18"] 
+[White "Morozevich, Alexander"] 
+[Black "Nielsen, Peter Heine"] 
+[Result "1-0"] 
+[WhiteElo "2711"] 
+[BlackElo "2654"] 
+[ECO "B06"] 
+[EventDate "2015.10.13"] 
+ 
+1.e4 g6 2.h4 Nf6 3.e5 Nh5 4.d4 d6 5.Nf3 Bg4 6.Be2 dxe5 7.Nxe5 Bxe2 8.Qxe2  
+Qxd4 9.Qb5+ Nd7 10.Nxd7 Qxd7 11.Qxb7 Rd8 12.O-O Bg7 13.Nd2 O-O 14.Nf3 c5  
+15.Qxd7 Rxd7 16.c3 Rb8 17.Re1 h6 18.g4 Nf6 19.Ne5 Rd6 20.f3 Nd5 21.Nc4 Rd7 
+22.a4 Nb6 23.Nd2 e6 24.a5 Nd5 25.Nc4 Nxc3 26.bxc3 Bxc3 27.Bxh6 Bxa1 28. 
+Rxa1 Rd3 29.Ne5 Rdb3 30.Kf2 Rb1 31.Rxb1 Rxb1 32.Bd2 Rb3 33.Ke2 Kf8 34.Nd7+ 
+Ke7 35.Nxc5 Rb5 36.Nd3 f5 37.Bc3 Kd6 38.g5 Rb3 39.Kd2 a6 40.Nf4 e5 41.Nxg6 
+e4 42.fxe4 fxe4 43.Nf4 1-0 
+ 
+[Event "7. Chennai Open 2014-15"] 
+[Site "Chennai IND"] 
+[Date "2015.01.05"] 
+[Round "9.5"] 
+[White "Ravichandran, Siddharth"] 
+[Black "Deepan, Chakkravarthy J"] 
+[Result "1-0"] 
+[WhiteElo "2381"] 
+[BlackElo "2489"] 
+[ECO "B06"] 
+[EventDate "2014.12.30"] 
+ 
+1.e4 g6 2.h4 Nf6 3.e5 Nh5 4.Be2 d6 5.exd6 Qxd6 6.d4 Bg7 7.c3 c5 8.dxc5  
+Qxc5 9.Be3 Qa5 10.Nd2 Nf6 11.h5 gxh5 12.Nb3 Qc7 13.Nd4 a6 14.Bxh5 e5 15. 
+Qa4+ Qd7 16.Qxd7+ Bxd7 17.Nb3 Bf5 18.Be2 Nbd7 19.Nf3 Nd5 20.Bg5 e4 21.Nbd4 
+Bg4 22.Nh4 Bxd4 23.Bxg4 N7f6 24.Bh3 Bc5 25.Nf5 Rg8 26.Bxf6 Nxf6 27.Rd1 a5  
+28.O-O Rg5 29.Rfe1 Kf8 30.Kf1 Re8 31.Re2 h5 32.g3 Kg8 33.Nh6+ Kg7 34.Nf5+  
+Kh7 35.Rdd2 Re5 36.Ne3 Bxe3 37.Rxe3 Kg7 38.Rd4 Rd5 39.Bg2 Rxd4 40.cxd4 Rb5 
+41.b3 Rb4 42.Bxe4 b6 43.Bf3 Rxd4 44.Ke2 Nd5 45.Rd3 Rxd3 46.Kxd3 Nb4+ 47. 
+Kc4 Nxa2 48.Kd3 Nb4+ 49.Kc4 Na2 50.Bxh5 1-0 

@@ -1,0 +1,17 @@
+ 
+[Event "6. Master Open"] 
+[Site "Amantea ITA"] 
+[Date "2008.09.04"] 
+[Round "6"] 
+[White "Damia, Angelo"] 
+[Black "Marholev, Dimitar"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2247"] 
+[BlackElo "2366"] 
+[ECO "A43"] 
+[EventDate "2008.08.31"] 
+ 
+1.d4 c5 2.Nc3 cxd4 3.Qxd4 Nc6 4.Qh4 d5 5.e4 d4 6.Nd5 e6 7.Qxd8+ Kxd8 8.Nf4 
+Nf6 9.Bd3 e5 10.Nfe2 Nd7 11.f4 f6 12.Nf3 Nc5 13.fxe5 Nxe5 14.Nexd4 Nexd3+  
+15.cxd3 Nxd3+ 16.Ke2 Nc5 17.Rd1 Bd7 18.e5 Ke8 19.exf6 gxf6 20.Bf4 Ne6  
+1/2-1/2 

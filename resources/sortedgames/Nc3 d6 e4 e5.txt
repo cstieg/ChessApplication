@@ -1,0 +1,34 @@
+ 
+[Event "TCh-CRO"] 
+[Site "Rabat CRO"] 
+[Date "2003.09.14"] 
+[Round "8"] 
+[White "Klaric, Zlatko"] 
+[Black "Jusic, Zdenko"] 
+[Result "0-1"] 
+[WhiteElo "2416"] 
+[BlackElo "2412"] 
+[ECO "C25"] 
+[EventDate "2003.09.07"] 
+ 
+1.Nc3 d6 2.e4 e5 3.f4 exf4 4.Bc4 Qh4+ 5.Kf1 c6 6.d4 g5 7.d5 Nf6 8.Nf3 Qh5  
+9.e5 dxe5 10.dxc6 g4 11.c7 Nc6 12.Nd5 Nxd5 13.Bxd5 Bd7 14.Nd2 Rc8 15.Ne4  
+Qg6 16.g3 Bf5 17.Qe1 Rxc7 18.Bxf4 Bg7 19.Rd1 O-O 20.Bc1 Ne7 21.Nc3 Bxc2  
+22.Rd2 Bd3+ 23.Kf2 Rxc3 24.Rxd3 Rc2+ 25.Rd2 Nxd5 0-1 
+ 
+[Event "TCh-CRO"] 
+[Site "Rabac CRO"] 
+[Date "2003.09.14"] 
+[Round "8"] 
+[White "Klaric, Zlatko"] 
+[Black "Jusic, Zdenko"] 
+[Result "0-1"] 
+[WhiteElo "2416"] 
+[BlackElo "2412"] 
+[ECO "C25"] 
+[EventDate "2003.09.07"] 
+ 
+1.Nc3 d6 2.e4 e5 3.f4 exf4 4.Bc4 Qh4+ 5.Kf1 c6 6.d4 g5 7.d5 Nf6 8.Nf3 Qh5  
+9.e5 dxe5 10.dxc6 g4 11.c7 Nc6 12.Nd5 Nxd5 13.Bxd5 Bd7 14.Nd2 Rc8 15.Ne4  
+Qg6 16.g3 Bf5 17.Qe1 Rxc7 18.Bxf4 Bg7 19.Rd1 O-O 20.Bc1 Ne7 21.Nc3 Bxc2  
+22.Rd2 Bd3+ 23.Kf2 Rxc3 24.Rxd3 Rc2+ 25.Rd2 Nxd5 0-1 

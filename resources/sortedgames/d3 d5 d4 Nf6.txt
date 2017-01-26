@@ -1,0 +1,15 @@
+ 
+[Event "12. Goodricke Open"] 
+[Site "Calcutta IND"] 
+[Date "2001.02.16"] 
+[Round "11"] 
+[White "Sharma, D."] 
+[Black "Dhar-Barua, Saheli"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2353"] 
+[BlackElo "2224"] 
+[ECO "A00"] 
+[EventDate "2001.02.06"] 
+ 
+1.d3 d5 2.d4 Nf6 3.Nf3 e6 4.c3 Be7 5.e3 O-O 6.Nbd2 Nbd7 7.Bd3 c5 8.O-O Qc7 
+9.Qe2 b6 10.dxc5 Nxc5 11.Re1 1/2-1/2 

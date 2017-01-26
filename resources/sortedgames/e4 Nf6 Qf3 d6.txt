@@ -1,0 +1,17 @@
+ 
+[Event "13. Festival A"] 
+[Site "Zupanja CRO"] 
+[Date "2007.01.05"] 
+[Round "3"] 
+[White "Dimitrov, Pavel"] 
+[Black "Bobanac, Miro"] 
+[Result "1-0"] 
+[WhiteElo "2441"] 
+[BlackElo "2303"] 
+[ECO "B02"] 
+[EventDate "2007.01.03"] 
+ 
+1.e4 Nf6 2.Qf3 d6 3.c3 g5 4.d4 g4 5.Qd3 b6 6.g3 d5 7.e5 Ne4 8.Qc2 f5 9.h3  
+Bg7 10.hxg4 fxg4 11.Bd3 Be6 12.Nd2 Nxd2 13.Bxd2 c6 14.Ne2 Kd7 15.Nf4 Bg8  
+16.Bxh7 Kc7 17.O-O-O Nd7 18.Bxg8 Qxg8 19.Qf5 Rf8 20.Ne6+ Kc8 21.Nxf8 Bxf8  
+22.Rxh8 Qxh8 23.Qxg4 Kc7 24.f4 Qh2 25.Qf3 Qh7 26.f5 Bh6 1-0 

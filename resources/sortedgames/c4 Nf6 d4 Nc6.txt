@@ -1,0 +1,116 @@
+ 
+[Event "TATA 50. ch-National Premier 2012"] 
+[Site "Kolkata IND"] 
+[Date "2012.10.14"] 
+[Round "13.18"] 
+[White "Sundararajan, Kidambi"] 
+[Black "Ram, S Krishnan"] 
+[Result "1-0"] 
+[WhiteElo "2450"] 
+[BlackElo "2303"] 
+[ECO "A50"] 
+[EventDate "2012.10.01"] 
+ 
+1.c4 Nf6 2.d4 Nc6 3.Nc3 e6 4.Nf3 Bb4 5.e3 O-O 6.Bd3 Bxc3+ 7.bxc3 d6 8.O-O  
+e5 9.Nd2 Qe7 10.Qc2 exd4 11.exd4 Re8 12.Nf3 Bg4 13.Nh4 Be2 14.Nf5 Qe6 15. 
+d5 Bxd3 16.Qxd3 Ne5 17.Qc2 Qd7 18.Bg5 Nh5 19.Rae1 f6 20.Bc1 g6 21.Nh6+ Kg7 
+22.f4 Ng4 23.Nxg4 Qxg4 24.Be3 Re7 25.h3 Qf5 26.Qxf5 gxf5 27.Kf2 Rae8 28.g3 
+b6 29.Kf3 Re4 30.Bf2 Kf7 31.Rxe4 Rxe4 32.Bd4 Re8 33.g4 Ng7 34.Rg1 fxg4+  
+35.hxg4 f5 36.Bxg7 Kxg7 37.gxf5+ Kf6 38.Rh1 Kg7 39.f6+ Kg6 40.Kg4 Rh8 41. 
+f5+ Kxf6 42.Rh6+ Kg7 43.Kg5 Re8 44.Re6 Rf8 45.f6+ Kg8 46.Kf5 Rf7 47.Re8+  
+1-0 
+ 
+[Event "8. Amplico AIG Life Rapid"] 
+[Site "Warsaw POL"] 
+[Date "2008.12.21"] 
+[Round "9"] 
+[White "Ruckschloss, Karol"] 
+[Black "Vlassov, Nikolai"] 
+[Result "0-1"] 
+[WhiteElo "2230"] 
+[BlackElo "2471"] 
+[ECO "A50"] 
+[EventDate "2008.12.20"] 
+ 
+1.c4 Nf6 2.d4 Nc6 3.Nf3 e6 4.e3 Bb4+ 5.Nbd2 a5 6.Bd3 d6 7.O-O e5 8.Ne4 a4  
+9.a3 Ba5 10.d5 Nxe4 11.Bxe4 Ne7 12.Bc2 O-O 13.Bxa4 Bg4 14.h3 Bh5 15.g4 Bg6 
+16.Bc2 f5 17.Ng5 Qd7 18.Ne6 Rf6 19.g5 Rxe6 20.dxe6 Qxe6 21.b3 Bb6 22.Kh2  
+e4 23.Bb2 Qf7 24.Bd4 Bh5 25.Qd2 c5 26.Bb2 Bc7 27.f4 exf3 28.Bd1 d5+ 29.Kh1 
+dxc4 30.Bxf3 Bxf3+ 31.Rxf3 Ng6 32.Raf1 Nh4 33.Rf4 Rd8 34.Qxd8+ Bxd8 35. 
+Rxh4 Bxg5 36.Rxc4 Bxe3 37.Rf3 f4 38.Kg2 0-1 
+ 
+[Event "CRO Ch"] 
+[Site "Vukovar CRO"] 
+[Date "2005.11.09"] 
+[Round "3"] 
+[White "Cebalo, Miso"] 
+[Black "Sulava, Nenad"] 
+[Result "0-1"] 
+[WhiteElo "2512"] 
+[BlackElo "2493"] 
+[ECO "A50"] 
+[EventDate "2005.11.07"] 
+ 
+1.c4 Nf6 2.d4 Nc6 3.Nf3 e6 4.a3 d6 5.Nc3 g6 6.e4 Bg7 7.Be2 O-O 8.Be3 Re8  
+9.O-O e5 10.dxe5 dxe5 11.h3 Nd7 12.c5 Nf8 13.Bb5 Bd7 14.Qa4 Ne6 15.Rad1  
+Ned4 16.Nxd4 exd4 17.Bxd4 Bxh3 18.Bxc6 Qg5 19.e5 bxc6 20.Qxc6 Bg4 21.Ne4  
+Qf4 22.f3 Be6 23.Nf6+ Bxf6 24.exf6 Bc4 25.Rf2 Rad8 26.Qa4 Be2 27.Ra1 Qxd4  
+28.Qxa7 Qxb2 29.Re1 Qd2 30.Rb1 Qd3 31.Re1 Qd4 32.Qxc7 Bb5 33.Rb1 Qxf6 34. 
+Qb6 Bc6 35.a4 Kg7 36.a5 Rb8 37.Qxb8 Rxb8 38.Rxb8 Qa1+ 39.Rf1 Qxa5 40.Rc1  
+Qd2 0-1 
+ 
+[Event "CUB Ch"] 
+[Site "Holguin City CUB"] 
+[Date "2002.04.11"] 
+[Round "10"] 
+[White "Vera Gonzalez-Quevedo, Reynaldo"] 
+[Black "Nogueiras Santiago, Jesus"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2534"] 
+[BlackElo "2521"] 
+[ECO "A50"] 
+[EventDate "2002.03.31"] 
+ 
+1.c4 Nf6 2.d4 Nc6 3.Nf3 e6 4.Nc3 Bb4 5.e3 d6 6.Bd2 e5 7.d5 Bxc3 8.Bxc3 Ne7 
+9.Nd2 O-O 10.Be2 a5 11.O-O Nd7 12.Qe1 Re8 13.f3 b6 14.Bd1 Nc5 15.Ne4 Nxe4  
+16.fxe4 Rf8 17.Bc2 Ng6 18.b3 Bd7 19.a3 Qg5 20.Qg3 Qh5 21.Bd1 Qh6 22.Bc2  
+Qh5 23.Bd1 Qh6 24.Bc2 Qh5 1/2-1/2 
+ 
+[Event "9. Parsvnath Open"] 
+[Site "New Delhi IND"] 
+[Date "2011.01.11"] 
+[Round "6"] 
+[White "Arun Prasad, S"] 
+[Black "Himanshu, Sharma"] 
+[Result "1-0"] 
+[WhiteElo "2513"] 
+[BlackElo "2400"] 
+[ECO "E11"] 
+[EventDate "2011.01.08"] 
+ 
+1.c4 Nf6 2.d4 Nc6 3.Nf3 e6 4.g3 Bb4+ 5.Bd2 Qe7 6.Bg2 O-O 7.Nc3 d6 8.Rc1  
+Re8 9.O-O a5 10.Bg5 Bxc3 11.Rxc3 e5 12.d5 Nb4 13.Nd2 Nxa2 14.Ra3 Nb4 15. 
+Ne4 Bf5 16.Nxf6+ gxf6 17.Bh4 e4 18.Re3 Qe5 19.f3 c5 20.fxe4 Qd4 21.Qxd4  
+cxd4 22.Ref3 Bxe4 23.Rxf6 Bxg2 24.Kxg2 Rxe2+ 25.Kh3 d3 26.Bg5 d2 27.R6f3  
+a4 28.Bh6 Re1 29.Bxd2 Rxf1 30.Rxf1 Nd3 31.Bc3 Kf8 32.Rf3 Nc5 33.Re3 Nd7  
+34.Bb4 Ra6 35.Kg4 Rb6 36.Ba3 Kg7 37.Kf5 Ra6 38.Re7 Ne5 39.Rc7 Nf3 40.Rxb7  
+Nxh2 41.Rd7 Nf1 42.Kf4 Nd2 43.Rc7 Kf6 44.Bb4 Nb1 45.Rc6 Rxc6 46.dxc6 Ke6  
+47.g4 Ke7 48.Ke3 Kd8 49.Bxd6 a3 50.Bxa3 1-0 
+ 
+[Event "100. ch-2013"] 
+[Site "Torquay ENG"] 
+[Date "2013.08.09"] 
+[Round "11.3"] 
+[White "Gordon, Stephen J"] 
+[Black "Meszaros, Gyula"] 
+[Result "1-0"] 
+[WhiteElo "2521"] 
+[BlackElo "2255"] 
+[ECO "E33"] 
+[EventDate "2013.07.29"] 
+ 
+1.c4 Nf6 2.d4 Nc6 3.Nf3 e6 4.Nc3 Bb4 5.Qc2 d6 6.Bd2 O-O 7.a3 Bxc3 8.Bxc3  
+Qe7 9.g3 e5 10.d5 Nb8 11.Bg2 a5 12.b3 c6 13.Nd2 Bd7 14.O-O cxd5 15.cxd5  
+Bb5 16.Rfe1 Rc8 17.Qb2 Nbd7 18.Rac1 Qd8 19.b4 Nb6 20.bxa5 Na4 21.Qxb5 Nxc3 
+22.Qd3 e4 23.Bxe4 Qxa5 24.Bf5 Rc7 25.Nc4 Qc5 26.Rxc3 g6 27.Rec1 Nxd5 28. 
+R3c2 gxf5 29.Ne3 1-0 

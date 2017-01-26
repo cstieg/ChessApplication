@@ -1,0 +1,38 @@
+ 
+[Event "HSG Open A 2012"] 
+[Site "Hilversum NED"] 
+[Date "2012.06.24"] 
+[Round "5.2"] 
+[White "Dgebuadze, Alexandre"] 
+[Black "Jonkman, Harmen"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2558"] 
+[BlackElo "2417"] 
+[ECO "A20"] 
+[EventDate "2012.06.22"] 
+ 
+1.c4 e5 2.e3 c6 3.Nc3 Nf6 4.Nf3 e4 5.Nd4 Bc5 6.d3 exd3 7.Bxd3 d5 8.cxd5  
+cxd5 9.O-O O-O 10.Bd2 Bg4 11.Be2 Bxd4 12.Bxg4 Be5 13.Bf3 Nc6 14.Re1 Rc8  
+15.Qa4 d4 16.exd4 Bxd4 17.Be3 Bxe3 18.Rxe3 a6 19.h3 Qb6 20.Qb3 Qxb3 21. 
+axb3 Rc7 22.Ra4 Rfc8 23.Rf4 Ne7 24.Rd3 Kf8 25.Rd6 Nc6 26.g4 Rd8 27.Rxd8+  
+Nxd8 28.Rb4 b5 29.g5 Nd7 30.h4 1/2-1/2 
+ 
+[Event "Open Dutch Championship"] 
+[Site "Dieren NED"] 
+[Date "2005.08.01"] 
+[Round "6"] 
+[White "Hofland, Leonhard"] 
+[Black "Bosch, Jeroen"] 
+[Result "0-1"] 
+[WhiteElo "2289"] 
+[BlackElo "2465"] 
+[ECO "A20"] 
+[EventDate "2005.07.26"] 
+ 
+1.c4 e5 2.e3 c6 3.d4 d6 4.Nc3 Nd7 5.g3 f5 6.Bg2 Ngf6 7.Nge2 Be7 8.O-O O-O  
+9.Qc2 e4 10.f3 exf3 11.Bxf3 Nb6 12.Qb3 Kh8 13.d5 cxd5 14.cxd5 Nfd7 15.Bg2  
+Nc5 16.Qc2 Bd7 17.Nd4 g6 18.e4 Bf6 19.Be3 Qe7 20.Bf2 Nxe4 21.Nxe4 fxe4 22. 
+Qxe4 Qxe4 23.Bxe4 Bh3 24.Rfe1 Be5 25.Ne6 Rf6 26.Ng5 Bg4 27.h3 Bd7 28.Bg2  
+Raf8 29.Ne4 R6f7 30.Re2 Bb5 31.Rd2 Bc4 32.Rad1 Bxa2 33.Ng5 Re7 34.Ne6 Rc8  
+35.Ra1 Bxd5 36.Rxa7 Bxg2 37.Bxb6 Bxh3 38.Nf4 Bg4 39.Kg2 Rf7 40.Be3 Bf5 41. 
+Ra4 Rfc7 0-1 

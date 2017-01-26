@@ -1,0 +1,18 @@
+ 
+[Event "Euwe Stimulans"] 
+[Site "Arnhem NED"] 
+[Date "2007.08.21"] 
+[Round "5"] 
+[White "Rothuis, Vincent"] 
+[Black "Hendriks, Willy"] 
+[Result "0-1"] 
+[WhiteElo "2441"] 
+[BlackElo "2420"] 
+[ECO "A43"] 
+[EventDate "2007.08.17"] 
+ 
+1.d4 c5 2.Nc3 e6 3.Bf4 cxd4 4.Qxd4 Nc6 5.Qe3 Nf6 6.O-O-O Qa5 7.Bd6 Bxd6 8. 
+Rxd6 O-O 9.h4 b5 10.Rh3 b4 11.Nd1 Bb7 12.Rg3 Qe5 13.Qxe5 Nxe5 14.f3 Rfc8  
+15.e4 Rc7 16.Rg5 Ne8 17.Rd4 Nc6 18.Rd2 h6 19.Rg3 Nf6 20.Bb5 Ne5 21.Rd4 a5  
+22.Ba4 Nh5 23.Rh3 Nf4 24.Rh2 d5 25.Nf2 Rac8 26.g3 Nh5 27.Nh1 dxe4 28.fxe4  
+Nf6 29.Nf2 Rc4 30.Rxc4 Nxc4 0-1 

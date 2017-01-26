@@ -1,0 +1,25 @@
+ 
+[Event "3. IECC"] 
+[Site "Batumi GEO"] 
+[Date "2002.06.26"] 
+[Round "13"] 
+[White "Gelashvili, Tamaz"] 
+[Black "Sargissian, Gabriel"] 
+[Result "0-1"] 
+[WhiteElo "2547"] 
+[BlackElo "2538"] 
+[ECO "D00"] 
+[EventDate "2002.06.12"] 
+ 
+1.c3 Nf6 2.d4 d5 3.Bg5 Nbd7 4.e3 e6 5.Nd2 Be7 6.Bd3 b6 7.f4 Bb7 8.Qf3 h6  
+9.Bxf6 Nxf6 10.Ne2 Qd7 11.O-O O-O-O 12.a4 a6 13.Ng3 Kb8 14.b4 Ka7 15.Nh5  
+Ne8 16.b5 a5 17.e4 g6 18.Ng3 f5 19.e5 c5 20.bxc6 Bxc6 21.Qd1 Nc7 22.Qb3  
+Rb8 23.Ne2 Bb7 24.Ra2 Ba6 25.Bxa6 Nxa6 26.Qc2 Rbc8 27.Qd3 Rhg8 28.Rb1 g5  
+29.Rb5 Rc6 30.Rab2 Nc7 31.R5b3 Na6 32.Qh3 Qe8 33.Qd3 Qd7 34.Rb1 Qc8 35.Nf1 
+Qd7 36.Qd2 g4 37.Qb2 Rb8 38.Ne3 Bd8 39.Rb5 Be7 40.Kf1 Qc8 41.Rb3 Qe8 42. 
+Ng3 Qd7 43.Ke2 Bd8 44.Ngf1 Qe8 45.Kf2 Be7 46.Nd2 Qd7 47.Ke2 Qe8 48.Kf1 Qd7 
+49.Ra1 Qc8 50.Nb1 Qc7 51.Na3 Bxa3 52.Qxa3 Rc8 53.Nd1 Qd8 54.Qb2 Qh4 55.g3  
+Qd8 56.Rb1 h5 57.Ne3 h4 58.gxh4 Qxh4 59.Rxb6 Qh3+ 60.Ng2 Qd3+ 61.Kf2 Nb4  
+62.Rb5 Qxb5 63.axb5 Nd3+ 64.Ke2 Nxb2 65.bxc6 Nc4 66.Ne1 Rxc6 67.Nd3 Rc7  
+68.Nc5 Rh7 69.Ke1 a4 70.Rb4 a3 71.Nxe6 Rxh2 72.Nd8 Rb2 73.Nc6+ Ka8 74.Ra4+ 
+Kb7 75.Na5+ Nxa5 76.Rxa5 a2 77.e6 Rb1+ 78.Ke2 a1=Q 0-1 

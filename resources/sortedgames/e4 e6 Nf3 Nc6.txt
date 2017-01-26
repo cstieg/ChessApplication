@@ -1,0 +1,56 @@
+ 
+[Event "Hanoi VIE, Ch U7 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.15"] 
+[Round "6.29"] 
+[White "Bui, Quoc Dat"] 
+[Black "Nguyen, Hoai Bao"] 
+[Result "1-0"] 
+[WhiteElo "2575"] 
+[BlackElo "2524"] 
+[ECO "C10"] 
+[EventDate "2012.07.12"] 
+ 
+1.e4 e6 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 d5 5.exd5 Nxd5 6.Nxd5 Qxd5 7.c4 Bb4+ 8. 
+Bd2 Qe4+ 9.Be2 a5 10.Bxb4 axb4 11.d5 O-O 12.dxc6 bxc6 13.a3 bxa3 14.Rxa3  
+Rxa3 15.bxa3 Ba6 16.c5 Bc4 17.Nd2 Bxe2 18.Qxe2 Qxe2+ 19.Kxe2 Rd8 20.Ra1  
+1-0 
+ 
+[Event "It \"] 
+[Site "Ilyichevsk UKR"] 
+[Date "2006.07.22"] 
+[Round "3"] 
+[White "Kozel, Roman"] 
+[Black "Martemianov, Iaroslav"] 
+[Result "1-0"] 
+[WhiteElo "2415"] 
+[BlackElo "2261"] 
+[ECO "C00"] 
+ 
+1.e4 e6 2.Nf3 Nc6 3.d4 d5 4.e5 f6 5.Bb5 Bd7 6.Nc3 fxe5 7.Bxc6 bxc6 8.Nxe5  
+Nf6 9.O-O Bd6 10.Na4 Qe7 11.Bg5 O-O 12.Re1 Be8 13.c3 h6 14.Bh4 g5 15.Bg3  
+Ne4 16.f3 Nxg3 17.hxg3 Kg7 18.b4 h5 19.Nc5 Bxc5 20.bxc5 Rh8 21.Rb1 g4 22. 
+fxg4 h4 23.Qd3 Rh6 24.Rb7 Rc8 25.Qe3 hxg3 26.Qxg3 a5 27.Rf1 Rf6 28.Rxf6  
+Qxf6 29.Nf3 Qe7 30.Qe5+ Kg8 31.Qf4 Bg6 32.Ne5 Be4 33.g5 Rf8 34.Qh4 Rf5 35. 
+Qh6 Rf8 36.Ng4 Bf5 37.Ne5 Be4 38.g6 a4 39.a3 Rc8 40.Nf7 Qf6 41.Qh7+ Kf8  
+42.Ne5 Qf4 43.g7+ Ke7 44.g8=N+ Kf8 45.Nd7+ 1-0 
+ 
+[Event "Sunny Pawn B"] 
+[Site "Illichevsk UKR"] 
+[Date "2006.07.22"] 
+[Round "3"] 
+[White "Kozel, Roman"] 
+[Black "Martemianov, Iaroslav"] 
+[Result "1-0"] 
+[WhiteElo "2415"] 
+[BlackElo "2261"] 
+[ECO "C00"] 
+[EventDate "2006.07.20"] 
+ 
+1.e4 e6 2.Nf3 Nc6 3.d4 d5 4.e5 f6 5.Bb5 Bd7 6.Nc3 fxe5 7.Bxc6 bxc6 8.Nxe5  
+Nf6 9.O-O Bd6 10.Na4 Qe7 11.Bg5 O-O 12.Re1 Be8 13.c3 h6 14.Bh4 g5 15.Bg3  
+Ne4 16.f3 Nxg3 17.hxg3 Kg7 18.b4 h5 19.Nc5 Bxc5 20.bxc5 Rh8 21.Rb1 g4 22. 
+fxg4 h4 23.Qd3 Rh6 24.Rb7 Rc8 25.Qe3 hxg3 26.Qxg3 a5 27.Rf1 Rf6 28.Rxf6  
+Qxf6 29.Nf3 Qe7 30.Qe5+ Kg8 31.Qf4 Bg6 32.Ne5 Be4 33.g5 Rf8 34.Qh4 Rf5 35. 
+Qh6 Rf8 36.Ng4 Bf5 37.Ne5 Be4 38.g6 a4 39.a3 Rc8 40.Nf7 Qf6 41.Qh7+ Kf8  
+42.Ne5 Qf4 43.g7+ Ke7 44.g8=N+ Kf8 45.Nd7+ 1-0 

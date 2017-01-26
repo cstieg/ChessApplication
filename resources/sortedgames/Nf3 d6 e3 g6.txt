@@ -1,0 +1,18 @@
+ 
+[Event "Rewal POL, Open 2007"] 
+[Site "Rewal POL"] 
+[Date "2007.08.23"] 
+[Round "3.2"] 
+[White "Sergeev, Vladimir"] 
+[Black "Nguyen, Piotr"] 
+[Result "1-0"] 
+[WhiteElo "2488"] 
+[BlackElo "2283"] 
+[ECO "A04"] 
+[EventDate "2007.08.20"] 
+ 
+1.Nf3 d6 2.e3 g6 3.d4 Bg7 4.c4 f5 5.Nc3 Nf6 6.b4 e5 7.dxe5 Ng4 8.Bb2 Nxe5  
+9.Nxe5 Bxe5 10.Qb3 a5 11.a3 axb4 12.axb4 Rxa1+ 13.Bxa1 Be6 14.Be2 b5 15.f4 
+Bg7 16.O-O c6 17.Na2 Bxa1 18.Rxa1 Qe7 19.Qc3 O-O 20.cxb5 cxb5 21.Bxb5 Rc8  
+22.Qd4 Rc2 23.Nc3 Qb7 24.Bf1 Nc6 25.Qf6 Bb3 26.b5 Nb4 27.b6 Na2 28.Nxa2  
+Qxb6 29.Nb4 Rc8 30.Qd4 1-0 

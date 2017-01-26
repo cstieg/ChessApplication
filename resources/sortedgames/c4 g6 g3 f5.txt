@@ -1,0 +1,69 @@
+ 
+[Event "5. ch-EURw"] 
+[Site "Dresden GER"] 
+[Date "2004.03.31"] 
+[Round "10"] 
+[White "Dzagnidze, Nana"] 
+[Black "Lanchava, Tea"] 
+[Result "1-0"] 
+[WhiteElo "2459"] 
+[BlackElo "2323"] 
+[ECO "A10"] 
+[EventDate "2004.03.21"] 
+ 
+1.c4 g6 2.g3 f5 3.Bg2 Nf6 4.Nc3 Bg7 5.f4 O-O 6.Nf3 d6 7.O-O e5 8.d3 Nc6 9. 
+e3 Kh8 10.d4 e4 11.Ne1 d5 12.c5 b6 13.cxb6 cxb6 14.Nc2 Ba6 15.Re1 Rf7 16. 
+Bf1 Qc8 17.Nb5 Bf8 18.Bd2 Bb7 19.a4 a6 20.Nba3 Rg7 21.Qe2 g5 22.Kh1 Qe6  
+23.b4 Ne7 24.Rac1 Bc8 25.Na1 gxf4 26.exf4 Nc6 27.N3c2 a5 28.b5 Nb4 29.Nxb4 
+axb4 30.Rc6 Qf7 31.Rec1 Bb7 32.Rxb6 Rxa4 33.Bh3 Ne8 34.Nb3 Ra3 35.Nc5 Bxc5 
+36.dxc5 d4 37.c6 Bc8 38.Bxb4 Ra2 39.Qd1 Qd5 40.Bg2 Nc7 41.Rb8 Rg8 42.b6  
+Na6 43.Bc3 Ra4 44.Qxa4 dxc3 45.c7 Nc5 46.Qa5 1-0 
+ 
+[Event "12. Aosta Open"] 
+[Site "Saint Vincent ITA"] 
+[Date "2004.02.15"] 
+[Round "9"] 
+[White "Sarno, Spartaco"] 
+[Black "Joksic, Sinisa"] 
+[Result "0-1"] 
+[WhiteElo "2395"] 
+[BlackElo "2335"] 
+[ECO "A10"] 
+[EventDate "2004.02.08"] 
+ 
+1.c4 g6 2.g3 f5 3.Bg2 Bg7 4.Nc3 Nc6 5.d3 e5 6.e3 Nf6 7.Nge2 O-O 8.O-O d6  
+9.Rb1 Be6 10.Nd5 Qd7 11.b4 Nd8 12.b5 c6 13.bxc6 bxc6 14.Nxf6+ Bxf6 15.Qa4  
+Rc8 16.Bd2 Qf7 17.Nc3 h5 18.Qa3 Qd7 19.Rfc1 h4 20.Rb4 hxg3 21.hxg3 g5 22. 
+Ra4 Rc7 23.Rb1 f4 24.Ne4 Be7 25.Ba5 Rb7 26.Rxb7 Nxb7 27.Bb4 a5 28.Bxa5 f3  
+29.Bf1 d5 30.Bb4 Bxb4 31.Qxb4 dxe4 32.Ra7 Rf7 33.dxe4 Bh3 34.Rxb7 Qxb7 35. 
+Qxb7 Rxb7 36.Bxh3 Rb1+ 37.Kh2 Rb2 38.Bd7 Rxf2+ 39.Kg1 Rxa2 40.Bxc6 Kf7 41. 
+c5 Ke7 42.g4 Rc2 43.Bd5 Kd7 44.Kf1 Kc7 45.c6 Kb6 46.Kg1 Kb5 47.Kf1 Kb4 48. 
+c7 Rxc7 49.Kf2 Kc3 50.Kxf3 Kd2 51.Kf2 Rc3 52.Be6 Rxe3 53.Bf5 Kd3 54.Bg6  
+Kd4 0-1 
+ 
+[Event "European Ind w 2012"] 
+[Site "Gaziantep TUR"] 
+[Date "2012.03.09"] 
+[Round "7"] 
+[White "Foisor, Cristina-Adela"] 
+[Black "Cmilyte, Viktorija"] 
+[Result "1-0"] 
+[WhiteElo "2398"] 
+[BlackElo "2497"] 
+[ECO "A86"] 
+[EventDate "2012.03.02"] 
+ 
+1.c4 g6 2.g3 f5 3.d4 Nf6 4.Bg2 Bg7 5.Nc3 d6 6.d5 O-O 7.Nh3 Na6 8.O-O Nc5  
+9.Rb1 a5 10.b3 e5 11.dxe6 c6 12.Bb2 Qe7 13.Nf4 Bxe6 14.Nxe6 Qxe6 15.e3 Ng4 
+16.Qc2 Ne5 17.Rbd1 Rad8 18.Rfe1 Ng4 19.Re2 Qf7 20.Red2 Qe7 21.Re2 Qf7 22. 
+h3 Nf6 23.Ba3 Qe6 24.Red2 Qe5 25.Rd4 Rd7 26.Bxc5 Qxc5 27.Na4 Qe5 28.Nc3  
+Rfd8 29.R4d3 Qe7 30.R3d2 Qe5 31.Rd3 Qe7 32.R3d2 Re8 33.Qc1 Qe5 34.Rd3 Bf8  
+35.Qc2 h5 36.Rd4 Rh7 37.Ne2 Rg7 38.Kf1 g5 39.h4 c5 40.Rd5 Nxd5 41.Rxd5  
+Qa1+ 42.Rd1 Qf6 43.hxg5 Qxg5 44.Nf4 Kh8 45.Rd5 Re5 46.Rxe5 dxe5 47.Ne6 Qf6 
+48.Nxg7 Kxg7 49.Bxb7 f4 50.Kg2 fxe3 51.fxe3 h4 52.gxh4 Qxh4 53.Qf5 Qf6 54. 
+e4 Qxf5 55.exf5 Kf6 56.Be4 Bg7 57.Kf3 Ke7 58.Bc2 Bf6 59.Kg4 Kf7 60.Be4 Ke7 
+61.Bd5 Kf8 62.a3 Ke7 63.Be4 Kf7 64.Bc2 Ke7 65.Kh5 Kf7 66.Be4 Be7 67.Bd5+  
+Kf6 68.Kg4 Bf8 69.Be6 Bg7 70.Bc8 Ke7 71.a4 Bf6 72.Bb7 Kd6 73.Be4 Ke7 74. 
+Bc2 Kf7 75.Kf3 Ke7 76.Kg4 Kf7 77.b4 cxb4 78.c5 Be7 79.c6 Bd6 80.Kf3 Kf6  
+81.Ke4 Bc7 82.Kd5 b3 83.Bb1 Ke7 84.Kc5 Bd8 85.f6+ Kxf6 86.Kd6 b2 87.c7  
+Bxc7+ 88.Kxc7 Kg5 89.Kd6 Kf4 90.Kd5 Ke3 91.Kxe5 Kd2 92.Kd4 Kc1 93.Bh7 1-0 

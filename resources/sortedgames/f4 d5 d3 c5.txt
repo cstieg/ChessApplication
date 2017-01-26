@@ -1,0 +1,37 @@
+ 
+[Event "TCh-BEL 2006-7"] 
+[Site "Belgium BEL"] 
+[Date "2007.03.25"] 
+[Round "11"] 
+[White "Grafl, Florian"] 
+[Black "Lacrosse, Marc"] 
+[Result "1-0"] 
+[WhiteElo "2413"] 
+[BlackElo "2294"] 
+[ECO "A03"] 
+[EventDate "2007.01.02"] 
+ 
+1.f4 d5 2.d3 c5 3.Nf3 Nc6 4.g3 g6 5.Bg2 Bg7 6.O-O Nf6 7.Qe1 d4 8.Na3 Rb8  
+9.c4 O-O 10.h3 b6 11.g4 Bb7 12.f5 gxf5 13.gxf5 Qd7 14.Qh4 Kh8 15.Ng5 Rbe8  
+16.Nc2 Nd8 17.Ne1 e6 18.Nef3 Bxf3 19.Bxf3 exf5 20.Be4 Re5 21.Bf4 Rfe8 22. 
+Bxe5 Rxe5 23.Rf4 fxe4 24.Rxf6 Rxg5+ 25.Qxg5 exd3 26.exd3 Ne6 27.Qf5 Bxf6  
+28.Qxf6+ Kg8 29.Kf2 Kf8 30.Re1 Qd6 31.Re5 Ke8 32.b3 Qc6 33.Rf5 Qc7 34.Re5  
+Qb7 35.Rxe6+ fxe6 1-0 
+ 
+[Event "Ch Belgium (team) 2006/07"] 
+[Site "Belgium"] 
+[Date "2007.03.25"] 
+[Round "11"] 
+[White "Grafl, Florian"] 
+[Black "Lacrosse, Marc"] 
+[Result "1-0"] 
+[WhiteElo "2413"] 
+[BlackElo "2294"] 
+[ECO "A03"] 
+ 
+1.f4 d5 2.d3 c5 3.Nf3 Nc6 4.g3 g6 5.Bg2 Bg7 6.O-O Nf6 7.Qe1 d4 8.Na3 Rb8  
+9.c4 O-O 10.h3 b6 11.g4 Bb7 12.f5 gxf5 13.gxf5 Qd7 14.Qh4 Kh8 15.Ng5 Rbe8  
+16.Nc2 Nd8 17.Ne1 e6 18.Nef3 Bxf3 19.Bxf3 exf5 20.Be4 Re5 21.Bf4 Rfe8 22. 
+Bxe5 Rxe5 23.Rf4 fxe4 24.Rxf6 Rxg5+ 25.Qxg5 exd3 26.exd3 Ne6 27.Qf5 Bxf6  
+28.Qxf6+ Kg8 29.Kf2 Kf8 30.Re1 Qd6 31.Re5 Ke8 32.b3 Qc6 33.Rf5 Qc7 34.Re5  
+Qb7 35.Rxe6+ fxe6 1-0 

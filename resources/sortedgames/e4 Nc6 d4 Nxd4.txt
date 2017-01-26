@@ -1,0 +1,17 @@
+ 
+[Event "Hanoi VIE, Ch U9 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.13"] 
+[Round "3.40"] 
+[White "Vo, Cong Minh"] 
+[Black "Truong, Nguyen Anh Tai"] 
+[Result "1-0"] 
+[WhiteElo "2534"] 
+[BlackElo "2525"] 
+[ECO "B00"] 
+[EventDate "2012.07.12"] 
+ 
+1.e4 Nc6 2.d4 Nxd4 3.Qxd4 Nf6 4.Nc3 c6 5.Bc4 e6 6.Bg5 h6 7.Bxf6 gxf6 8.Nf3 
+d5 9.exd5 cxd5 10.Bb3 Rg8 11.Rg1 Qd6 12.Ba4+ Bd7 13.Bxd7+ Qxd7 14.Qa4  
+O-O-O 15.Qxd7+ Rxd7 16.O-O-O Rg4 17.Rd4 f5 18.Rxg4 fxg4 19.Ne5 Rc7 20.Nxg4 
+d4 21.Nd1 d3 22.c3 Bd6 23.Re1 Bf4+ 1-0 

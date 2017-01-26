@@ -1,0 +1,18 @@
+ 
+[Event "11. Gazi Open 2015"] 
+[Site "Gazi GRE"] 
+[Date "2015.08.01"] 
+[Round "9.7"] 
+[White "Lekic, Dusan"] 
+[Black "Goossens, Hanne"] 
+[Result "1-0"] 
+[WhiteElo "2425"] 
+[BlackElo "2206"] 
+[ECO "A00"] 
+[EventDate "2015.07.25"] 
+ 
+1.a3 d6 2.c4 f5 3.g3 Nf6 4.Bg2 g6 5.Nc3 a5 6.Rb1 Bg7 7.b4 axb4 8.axb4 e5  
+9.d3 O-O 10.Nf3 Nc6 11.O-O Ne7 12.Qb3 c6 13.c5+ Kh8 14.cxd6 Qxd6 15.Be3  
+Re8 16.Ng5 Rf8 17.Bc5 Qd8 18.Nf7+ Rxf7 19.Qxf7 Ned5 20.Nxd5 Nxd5 21.e4 Nc3 
+22.Ra1 Rxa1 23.Rxa1 Bd7 24.Be7 Qg8 25.Qxg8+ Kxg8 26.Ra7 Kf7 27.Bc5 Nb5 28. 
+Rxb7 Ke6 29.exf5+ gxf5 30.Bh3 Nd4 31.Bxd4 1-0 

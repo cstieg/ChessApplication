@@ -1,0 +1,25 @@
+ 
+[Event "FSIM November"] 
+[Site "Budapest HUN"] 
+[Date "2009.11.12"] 
+[Round "6"] 
+[White "Szalanczy, Emil"] 
+[Black "Turzo, Attila"] 
+[Result "1-0"] 
+[WhiteElo "2295"] 
+[BlackElo "2276"] 
+[ECO "A00"] 
+[EventDate "2009.11.07"] 
+ 
+1.c3 d5 2.c4 c6 3.Qc2 Nf6 4.Nf3 Bg4 5.d3 Nbd7 6.Nbd2 e5 7.g3 Bd6 8.Bg2 O-O 
+9.O-O Re8 10.e4 dxe4 11.Nxe4 Nxe4 12.dxe4 Bxf3 13.Bxf3 Bc5 14.b4 Bxb4 15. 
+Rb1 Qe7 16.a3 Bxa3 17.Rxb7 Bxc1 18.Bg4 Red8 19.Rd1 Ba3 20.Rdxd7 Rxd7 21. 
+Bxd7 Qd6 22.c5 Bxc5 23.Qa2 Rf8 24.Kg2 g6 25.h4 h5 26.Qc4 Bb6 27.Qa2 Qf6  
+28.Qe2 Rd8 29.Qf3 Qxf3+ 30.Kxf3 Kg7 31.Ke2 c5 32.Be6 Rf8 33.Bc4 Kf6 34.f4  
+exf4 35.gxf4 Bd8 36.Kf3 Kg7 37.Kg3 a5 38.e5 Kg8 39.Bd5 a4 40.Ra7 Bb6 41. 
+Rb7 Ba5 42.Ra7 Be1+ 43.Kh3 a3 44.Ba2 Bb4 45.Bc4 Bd2 46.Kg3 Bc1 47.Kf3 Bb2  
+48.Ba2 Bc3 49.Kg3 Bb4 50.Bc4 Be1+ 51.Kh3 Bd2 52.Kg3 Bc1 53.Kf3 Bb2 54.Ke4  
+Bd4 55.f5 gxf5+ 56.Kxf5 Bb2 57.Kf6 Bd4 58.Rxa3 Bf2 59.Rh3 Be1 60.Rh1 Bf2  
+61.Rh2 Be1 62.Bd5 Kh7 63.Ke7 Rb8 64.Be4+ Kh8 65.Kxf7 Bg3 66.Rg2 Rg8 67.e6  
+Rg7+ 68.Ke8 Bd6 69.Rg5 Rxg5 70.hxg5 Kg7 71.Kd7 Bf8 72.e7 Bxe7 73.Kxe7 c4  
+74.Ke6 h4 75.Kf5 h3 76.Kg4 h2 77.Kg3 1-0 

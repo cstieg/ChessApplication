@@ -1,0 +1,61 @@
+ 
+[Event "Asian Continental 2013"] 
+[Site "Manila PHI"] 
+[Date "2013.05.18"] 
+[Round "1.27"] 
+[White "Galmandakh, Badrakh"] 
+[Black "Wang, Chen"] 
+[Result "0-1"] 
+[WhiteElo "2212"] 
+[BlackElo "2498"] 
+[ECO "A04"] 
+[EventDate "2013.05.18"] 
+ 
+1.d3 c5 2.Nf3 Nc6 3.g3 g6 4.Bg2 Bg7 5.O-O Nf6 6.c3 d5 7.Nbd2 O-O 8.e4 b6  
+9.exd5 Nxd5 10.Nc4 Qc7 11.Nfe5 Nxe5 12.Bxd5 Bb7 13.Bxb7 Qxb7 14.Nxe5 Bxe5  
+15.f4 Bg7 16.f5 Rad8 17.fxg6 hxg6 18.Rf3 Rd5 19.Qf1 e6 20.h4 Rd7 21.Be3  
+Qd5 22.Bc1 b5 23.a3 a5 24.Rb1 b4 25.c4 Qc6 26.Be3 Rxd3 27.Qxd3 Qxf3 28.Kh2 
+Be5 29.Rg1 Bc7 30.Qd2 Rd8 31.Qf2 Qxf2+ 32.Bxf2 Rd2 33.Kg2 Rxb2 34.axb4  
+cxb4 35.Kf3 Rxf2+ 0-1 
+ 
+[Event "Lushki B"] 
+[Site "Serpukhov RUS"] 
+[Date "2004.11.24"] 
+[Round "9"] 
+[White "Vorontsov, Nikolay"] 
+[Black "Melnikova, Yana"] 
+[Result "1-0"] 
+[WhiteElo "2347"] 
+[BlackElo "2223"] 
+[ECO "A00"] 
+[EventDate "2004.11.19"] 
+ 
+1.d3 c5 2.Nf3 Nc6 3.g3 d5 4.d4 Nf6 5.Bg2 cxd4 6.Nxd4 e5 7.Nxc6 bxc6 8.c4  
+Be6 9.O-O Be7 10.Nc3 O-O 11.cxd5 cxd5 12.Bg5 Rb8 13.Bxf6 Bxf6 14.Bxd5 Bxd5 
+15.Nxd5 Rxb2 16.e4 Bg5 17.h4 Bd2 18.Rb1 Rxb1 19.Qxb1 Ba5 20.Qb7 Bb6 21.Rc1 
+Qb8 22.Ne7+ Kh8 23.Qxb8 Rxb8 24.Nc6 Re8 25.Nxe5 Kg8 26.Rc4 f5 27.Nd7 Rxe4  
+28.Rxe4 fxe4 29.Nxb6 axb6 30.f3 exf3 31.Kf2 Kf7 32.Kxf3 b5 33.Ke4 Ke6 34. 
+g4 Kd6 35.Kd4 Kc6 36.g5 Kd6 37.h5 g6 38.hxg6 hxg6 39.a3 Kc6 40.Ke5 Kc5 41. 
+Kf6 Kc4 42.Kxg6 Kb3 43.Kf5 Kxa3 44.g6 b4 45.g7 b3 46.g8=Q b2 47.Qa8+ Kb3  
+48.Qb7+ Kc2 49.Qc6+ 1-0 
+ 
+[Event "TCh"] 
+[Site "Murska Sobota SLO"] 
+[Date "2008.12.14"] 
+[Round "9"] 
+[White "Piskur, Mitja"] 
+[Black "Sakelsek, Tadej"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2305"] 
+[BlackElo "2403"] 
+[ECO "B30"] 
+[EventDate "2008.12.06"] 
+ 
+1.d3 c5 2.Nf3 Nc6 3.e4 g6 4.g3 Bg7 5.Bg2 e5 6.O-O Nge7 7.Nc3 O-O 8.Nd2 d6  
+9.Nc4 Be6 10.Nd5 Qd7 11.a4 Bxd5 12.exd5 Nb4 13.Ne3 f5 14.c3 Na6 15.Nc4 Nc7 
+16.f4 Ncxd5 17.Qb3 Kh8 18.Na5 b6 19.Bxd5 Nxd5 20.Qxd5 bxa5 21.Be3 Rfd8 22. 
+fxe5 dxe5 23.Qxd7 Rxd7 24.Bxc5 Rb8 25.Rf2 Rxd3 26.Bxa7 Rb7 27.Bc5 e4 28. 
+Re1 Bh6 29.Rc2 Rb3 30.Kf2 Kg8 31.Ke2 g5 32.Rd1 Rxd1 33.Kxd1 f4 34.Re2 e3  
+35.Rc2 Kf7 36.Ke2 Ke6 37.Kf3 Kd5 38.Be7 Kc4 39.g4 Rb7 40.Bd8 Rd7 41.Bxa5  
+Rd1 42.Ke4 Rd2 43.Rc1 Rxb2 44.Rh1 Ra2 45.Bd8 Rxa4 46.h4 Kxc3+ 47.Kf3 gxh4  
+48.Bxh4 Kd3 49.Rd1+ Kc2 50.Rd7 Bf8 51.Rxh7 Bb4 1/2-1/2 

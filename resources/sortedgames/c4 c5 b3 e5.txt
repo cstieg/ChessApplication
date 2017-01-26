@@ -1,0 +1,83 @@
+ 
+[Event "IRI Ch"] 
+[Site "Tehran IRI"] 
+[Date "2005.09.12"] 
+[Round "2"] 
+[White "Doostkam, P"] 
+[Black "Mahmoody, M Sadegh"] 
+[Result "0-1"] 
+[WhiteElo "2250"] 
+[BlackElo "2228"] 
+[ECO "A30"] 
+[EventDate "2005.09.11"] 
+ 
+1.c4 c5 2.b3 e5 3.Bb2 Nc6 4.g3 d6 5.Bg2 Nge7 6.e3 g6 7.Ne2 Bg7 8.Nbc3 Be6  
+9.Nd5 Bxd5 10.cxd5 Nb4 11.d4 exd4 12.exd4 Nbxd5 13.Qd2 O-O 14.Rd1 Rc8 15. 
+dxc5 Bxb2 16.Qxb2 Qa5+ 17.Qd2 Qxd2+ 18.Rxd2 Rxc5 19.O-O Rfc8 20.Rfd1 Rc2  
+21.a3 b6 22.Kf1 Rxd2 23.Rxd2 Nc3 24.Rxd6 Nf5 25.Rd7 Nxe2 26.Kxe2 Rc2+ 27. 
+Ke1 a5 28.Bd5 Nh6 29.Rb7 Rc5 30.Bc4 Rc6 31.a4 g5 32.h3 Rf6 33.g4 Kf8 34.f4 
+Rxf4 35.Rxb6 Kg7 36.Rb5 f5 37.Rxa5 fxg4 38.Rxg5+ Kf6 39.Rh5 g3 40.Bd5 Nf5  
+41.Rxh7 Ke5 42.Bb7 Rf2 43.Bc8 Nd4 44.Re7+ Kf6 45.Re4 Nf3+ 46.Kd1 g2 47.Rg4 
+g1=Q+ 48.Rxg1 Nxg1 49.a5 Ra2 50.a6 Ne2 51.h4 Nd4 52.b4 Ra4 53.Bb7 Nb5 54. 
+Kc2 Rxb4 0-1 
+ 
+[Event "Ch Iran"] 
+[Site "Teheran (Iran)"] 
+[Date "2005.09.12"] 
+[Round "2"] 
+[White "Doostkam, P"] 
+[Black "Mahmoody, M Sadegh"] 
+[Result "0-1"] 
+[WhiteElo "2250"] 
+[BlackElo "2228"] 
+[ECO "A30"] 
+ 
+1.c4 c5 2.b3 e5 3.Bb2 Nc6 4.g3 d6 5.Bg2 Nge7 6.e3 g6 7.Ne2 Bg7 8.Nbc3 Be6  
+9.Nd5 Bxd5 10.cxd5 Nb4 11.d4 exd4 12.exd4 Nbxd5 13.Qd2 O-O 14.Rd1 Rc8 15. 
+dxc5 Bxb2 16.Qxb2 Qa5+ 17.Qd2 Qxd2+ 18.Rxd2 Rxc5 19.O-O Rfc8 20.Rfd1 Rc2  
+21.a3 b6 22.Kf1 Rxd2 23.Rxd2 Nc3 24.Rxd6 Nf5 25.Rd7 Nxe2 26.Kxe2 Rc2+ 27. 
+Ke1 a5 28.Bd5 Nh6 29.Rb7 Rc5 30.Bc4 Rc6 31.a4 g5 32.h3 Rf6 33.g4 Kf8 34.f4 
+Rxf4 35.Rxb6 Kg7 36.Rb5 f5 37.Rxa5 fxg4 38.Rxg5+ Kf6 39.Rh5 g3 40.Bd5 Nf5  
+41.Rxh7 Ke5 42.Bb7 Rf2 43.Bc8 Nd4 44.Re7+ Kf6 45.Re4 Nf3+ 46.Kd1 g2 47.Rg4 
+g1=Q+ 48.Rxg1 Nxg1 49.a5 Ra2 50.a6 Ne2 51.h4 Nd4 52.b4 Ra4 53.Bb7 Nb5 54. 
+Kc2 Rxb4 0-1 
+ 
+[Event "2. League TCh-SCG"] 
+[Site "Belgrade SRB"] 
+[Date "2003.10.04"] 
+[Round "8"] 
+[White "Stevanovic, Vl"] 
+[Black "Jelic, Goran"] 
+[Result "1-0"] 
+[WhiteElo "2358"] 
+[BlackElo "2229"] 
+[ECO "A30"] 
+[EventDate "2003.09.27"] 
+ 
+1.c4 c5 2.b3 e5 3.Nc3 Nc6 4.g3 d6 5.Bg2 Nge7 6.e3 g6 7.Nge2 Bg7 8.O-O Bg4  
+9.h3 Be6 10.Bb2 d5 11.cxd5 Nxd5 12.Ne4 b6 13.f4 O-O 14.fxe5 Nxe5 15.Nf4  
+Nxf4 16.gxf4 Nf3+ 17.Qxf3 Bxb2 18.Rab1 Bg7 19.Ng5 Bf5 20.Qxa8 Qxa8 21.Bxa8 
+Bxb1 22.Rxb1 Rxa8 23.Kf2 Rd8 24.Ke2 Rd5 25.a4 h6 26.Nf3 f5 27.b4 Kf7 28. 
+bxc5 Rxc5 29.Rb5 Ke6 30.Rxc5 bxc5 31.Kd3 Kd5 32.Nh4 c4+ 33.Kc2 a5 34.Nxg6  
+Bf6 35.Nf8 h5 36.Nh7 Bh8 37.Ng5 Bf6 38.d3 cxd3+ 39.Kxd3 Ba1 40.Nf3 Kc5 41. 
+Nd4 Bxd4 42.exd4+ Kb4 43.h4 Kxa4 44.Kc4 Ka3 45.d5 a4 46.d6 Kb2 47.d7 a3  
+48.d8=Q a2 49.Qd2+ 1-0 
+ 
+[Event "2. IECC"] 
+[Site "Ohrid MKD"] 
+[Date "2001.06.09"] 
+[Round "8"] 
+[White "Georgiev, Kiril"] 
+[Black "Moiseenko, A."] 
+[Result "0-1"] 
+[WhiteElo "2676"] 
+[BlackElo "2561"] 
+[ECO "A30"] 
+[EventDate "2001.06.05"] 
+ 
+1.c4 c5 2.b3 e5 3.Bb2 Nc6 4.g3 Nf6 5.Bg2 d5 6.cxd5 Nxd5 7.Nf3 f6 8.O-O Be7 
+9.d3 O-O 10.Nbd2 Be6 11.a3 Qd7 12.Re1 Rfd8 13.e3 Nc7 14.Bf1 Rac8 15.Qc2  
+Bf8 16.Rac1 Qf7 17.Ba1 Kh8 18.Qb1 Rd7 19.Ne4 Na6 20.Rc3 Rcd8 21.Rec1 Qh5  
+22.Nh4 f5 23.Nd2 Nc7 24.Bb2 Be7 25.Ng2 Nd5 26.R3c2 Nf6 27.f3 h6 28.Nc4  
+Bxc4 29.bxc4 Nh7 30.Be2 Ng5 31.f4 Nf3+ 32.Kf2 e4 33.dxe4 fxe4 34.Bc3 Ncd4  
+35.h4 Bf6 36.exd4 cxd4 37.Be1 d3 38.Ne3 Bd4 39.c5 Bxe3+ 40.Kxe3 dxe2 0-1 

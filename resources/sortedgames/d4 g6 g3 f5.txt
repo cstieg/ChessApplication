@@ -1,0 +1,60 @@
+ 
+[Event "Najdorf Mem Great Final"] 
+[Site "Buenos Aires ARG"] 
+[Date "2002.10.01"] 
+[Round "1.1"] 
+[White "Slipak, Sergio"] 
+[Black "Julia, Ernesto"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2498"] 
+[BlackElo "2399"] 
+[ECO "A40"] 
+[EventDate "2002.10.01"] 
+ 
+1.d4 g6 2.g3 f5 3.Bg2 Bg7 4.Nf3 d6 5.O-O Nh6 6.Nbd2 O-O 7.e4 c6 8.c3 Na6  
+9.exf5 Nxf5 10.Re1 Nc7 11.Ne4 Be6 12.Bg5 Bd5 13.Qc1 Bf6 14.Bd2 Qd7 15.Qc2  
+Rae8 16.c4 Bxe4 17.Qxe4 d5 18.Qd3 dxc4 19.Qxc4+ Qd5 20.Qxd5+ Nxd5 21.Bc3  
+Rd8 22.Rad1 Rd6 23.Ne5 Rfd8 24.Nc4 R6d7 25.Ne3 Nfxe3 26.fxe3 Nxc3 27.bxc3  
+e5 28.Rb1 Re7 29.h4 1/2-1/2 
+ 
+[Event "Bundesliga 0001"] 
+[Site "Deutschland"] 
+[Date "2001.02.18"] 
+[Round "9.6"] 
+[White "Sandner, Gunter"] 
+[Black "Markgraf, Alexander"] 
+[Result "1-0"] 
+[WhiteElo "2333"] 
+[BlackElo "2274"] 
+[ECO "A81"] 
+[EventDate "2000.10.14"] 
+ 
+1.d4 g6 2.g3 f5 3.Bg2 Nf6 4.Nf3 Bg7 5.O-O O-O 6.c3 Na6 7.Nbd2 c5 8.b3 d6  
+9.Bb2 Qc7 10.b4 c4 11.Qc2 d5 12.Ne5 Nb8 13.f3 Nc6 14.Nxc6 bxc6 15.e4 fxe4  
+16.fxe4 Bd7 17.Rae1 e5 18.exd5 Bf5 19.Rxf5 gxf5 20.d6 Qxd6 21.Nxc4 Qe6 22. 
+Nxe5 Ng4 23.Qb3 Qxb3 24.axb3 Nxe5 25.dxe5 Rae8 26.c4 Rc8 27.Bc1 Rfe8 28. 
+Bf4 Bf8 29.c5 a5 30.bxa5 Bxc5+ 31.Kf1 Bb4 32.Rc1 Bxa5 33.Bxc6 Red8 34.Bg5  
+Bd2 35.Bxd2 Rxc6 36.Rxc6 Rxd2 37.Rf6 Rb2 38.Rxf5 Rxb3 39.Rf2 Rb6 40.Kg2  
+Re6 41.Re2 Kf7 42.Kf3 Ra6 43.Kf4 Ke6 44.Kg5 Ra7 45.Kh6 Rb7 46.Re3 Ra7 47. 
+h4 Rb7 48.h5 Kf5 49.e6 Re7 50.Re1 Kg4 51.Re5 Kxg3 52.Kg5 1-0 
+ 
+[Event "Bundesliga 2000-1"] 
+[Site "Bremen GER"] 
+[Date "2001.02.18"] 
+[Round "9"] 
+[White "Sandner, Gunter"] 
+[Black "Markgraf, Alexander"] 
+[Result "1-0"] 
+[WhiteElo "2333"] 
+[BlackElo "2274"] 
+[ECO "A81"] 
+[EventDate "2000.10.14"] 
+ 
+1.d4 g6 2.g3 f5 3.Bg2 Nf6 4.Nf3 Bg7 5.O-O O-O 6.c3 Na6 7.Nbd2 c5 8.b3 d6  
+9.Bb2 Qc7 10.b4 c4 11.Qc2 d5 12.Ne5 Nb8 13.f3 Nc6 14.Nxc6 bxc6 15.e4 fxe4  
+16.fxe4 Bd7 17.Rae1 e5 18.exd5 Bf5 19.Rxf5 gxf5 20.d6 Qxd6 21.Nxc4 Qe6 22. 
+Nxe5 Ng4 23.Qb3 Qxb3 24.axb3 Nxe5 25.dxe5 Rae8 26.c4 Rc8 27.Bc1 Rfe8 28. 
+Bf4 Bf8 29.c5 a5 30.bxa5 Bxc5+ 31.Kf1 Bb4 32.Rc1 Bxa5 33.Bxc6 Red8 34.Bg5  
+Bd2 35.Bxd2 Rxc6 36.Rxc6 Rxd2 37.Rf6 Rb2 38.Rxf5 Rxb3 39.Rf2 Rb6 40.Kg2  
+Re6 41.Re2 Kf7 42.Kf3 Ra6 43.Kf4 Ke6 44.Kg5 Ra7 45.Kh6 Rb7 46.Re3 Ra7 47. 
+h4 Rb7 48.h5 Kf5 49.e6 Re7 50.Re1 Kg4 51.Re5 Kxg3 52.Kg5 1-0 

@@ -1,0 +1,24 @@
+ 
+[Event "FSGM October"] 
+[Site "Budapest HUN"] 
+[Date "2006.10.14"] 
+[Round "8"] 
+[White "Vitor, Antonio"] 
+[Black "Papp, Gellert"] 
+[Result "0-1"] 
+[WhiteElo "2414"] 
+[BlackElo "2324"] 
+[ECO "A01"] 
+[EventDate "2006.10.07"] 
+ 
+1.b3 f6 2.c4 Nh6 3.Nc3 Nf7 4.g3 e6 5.Bg2 Be7 6.e4 b6 7.Nge2 Bb7 8.O-O O-O  
+9.d4 f5 10.f3 Nc6 11.exf5 exf5 12.Be3 Re8 13.Qd2 Bb4 14.Qd3 Ne7 15.Bf2 d5  
+16.Nxd5 Nxd5 17.cxd5 Qxd5 18.Nf4 Qd7 19.Rfd1 Bd6 20.Ne2 Rad8 21.d5 Be5 22. 
+Nc3 f4 23.Rac1 Qe7 24.Rc2 c6 25.gxf4 Bxf4 26.Qc4 Qg5 27.dxc6 Rxd1+ 28.Nxd1 
+Bc8 29.h4 Qg6 30.Re2 Rxe2 31.Qxe2 Qxc6 32.Nc3 Ne5 33.Bd4 Ng6 34.h5 Nh4 35. 
+Qe7 Nf5 36.Qd8+ Kf7 37.Nd5 Be6 38.Nxf4 Qc1+ 39.Bf1 Qxf4 40.Bf2 Qxf3 41. 
+Qc7+ Kf6 42.Qd8+ Kf7 43.Qc7+ Ne7 44.Bc4 Qg4+ 45.Bg3 Bxc4 46.bxc4 Qxh5 47. 
+Bd6 Qg4+ 48.Kh2 Qe6 49.Kg1 Kf6 50.Qd8 Kf7 51.Qc7 h5 52.c5 bxc5 53.Bxc5 a6  
+54.a4 g5 55.a5 h4 56.Kh2 Kf6 57.Bd4+ Kg6 58.Qb6 Qxb6 59.axb6 Nc6 60.b7 a5  
+61.Kh3 Kh5 62.Be5 g4+ 63.Kg2 a4 64.Bd6 Kg5 65.Be7+ Kh5 66.Bd6 h3+ 67.Kg3  
+Kg5 68.Kf2 Kf5 69.Kg3 Ke6 70.b8=Q Nxb8 71.Bxb8 a3 0-1 

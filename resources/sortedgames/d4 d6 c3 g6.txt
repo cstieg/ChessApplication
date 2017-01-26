@@ -1,0 +1,77 @@
+ 
+[Event "TCh-LTU 2016"] 
+[Site "Lithuania LTU"] 
+[Date "2016.02.06"] 
+[Round "3.2"] 
+[White "Sotsky, A"] 
+[Black "Setkauskas, V"] 
+[Result "1-0"] 
+[WhiteElo "2363"] 
+[BlackElo "2252"] 
+[ECO "A41"] 
+[EventDate "2016.01.23"] 
+ 
+1.d4 d6 2.c3 g6 3.Bg5 Bg7 4.e3 Nf6 5.f4 O-O 6.Bd3 c5 7.Nf3 Nc6 8.O-O Qc7  
+9.h3 Re8 10.Na3 a6 11.Qd2 b5 12.Rae1 Be6 13.f5 Bxa2 14.e4 Nd7 15.b4 Bc4  
+16.fxg6 hxg6 17.Nxc4 bxc4 18.Bxc4 cxd4 19.cxd4 e6 20.d5 Nd4 21.dxe6 Nxe6  
+22.Rc1 Qb8 23.Be3 Nf6 24.Ng5 Qb7 25.Nxe6 fxe6 26.Qxd6 Qxe4 27.Bg5 Nd5 28. 
+Qd7 Qe5 29.Bxd5 Qxd5 30.Qf7+ Kh8 31.Bf6 Rg8 32.Rc7 1-0 
+ 
+[Event "Murska Sobota SLO, Team Ch (m) 2007"] 
+[Site "Murska Sobota SLO"] 
+[Date "2007.12.10"] 
+[Round "2"] 
+[White "Sirnik, Bostjan"] 
+[Black "Muzychuk, Anna"] 
+[Result "0-1"] 
+[WhiteElo "2207"] 
+[BlackElo "2469"] 
+[ECO "A41"] 
+[EventDate "2007.12.09"] 
+ 
+1.d4 d6 2.c3 g6 3.Bg5 Bg7 4.Nd2 h6 5.Bh4 g5 6.Bg3 f5 7.f3 Nf6 8.e4 O-O 9. 
+Bc4+ Kh8 10.h4 g4 11.h5 e5 12.dxe5 dxe5 13.Ne2 Nc6 14.Bh4 gxf3 15.gxf3  
+fxe4 16.Nxe4 Bf5 17.N2g3 Bh7 18.Rg1 Qe8 19.Bxf6 Bxf6 20.Qd2 Bxe4 21.Nxe4  
+Bh4+ 22.Ke2 Qxh5 23.Qe3 Rf4 24.Rg2 Raf8 25.Rag1 Ne7 26.Rg4 b6 27.Ng5 Bxg5  
+28.Qxe5+ R4f6 29.Qxe7 Re8 0-1 
+ 
+[Event "ACT Open"] 
+[Site "Amsterdam NED"] 
+[Date "2005.07.24"] 
+[Round "9"] 
+[White "Blanchard, Jack"] 
+[Black "Visser, HJ."] 
+[Result "0-1"] 
+[WhiteElo "2219"] 
+[BlackElo "2221"] 
+[ECO "A41"] 
+[EventDate "2005.07.16"] 
+ 
+1.d4 d6 2.c3 g6 3.Bg5 Bg7 4.e4 Nd7 5.Nf3 a6 6.a4 c5 7.Be2 b6 8.O-O Bb7 9. 
+Nbd2 Ngf6 10.Qb1 O-O 11.Re1 Qc7 12.Bf1 Rfe8 13.h3 Nf8 14.dxc5 Qxc5 15.Be3  
+Qc7 16.Bf4 e5 17.Bh2 Ne6 18.Nb3 Nf4 19.Nbd2 Rad8 20.Nc4 Nxe4 0-1 
+ 
+[Event "PWPW S.A Chess Cup"] 
+[Site "Warsaw POL"] 
+[Date "2004.06.19"] 
+[Round "1"] 
+[White "Rajlich, Iweta"] 
+[Black "Dworakowska, Joanna"] 
+[Result "0-1"] 
+[WhiteElo "2444"] 
+[BlackElo "2395"] 
+[ECO "B06"] 
+[EventDate "2004.06.19"] 
+ 
+1.d4 d6 2.c3 g6 3.e4 Bg7 4.Nf3 Nf6 5.Qc2 O-O 6.Bg5 c5 7.dxc5 dxc5 8.Nbd2  
+Nc6 9.Be2 a6 10.O-O Qc7 11.Nc4 b5 12.Ne3 e6 13.a4 b4 14.Nc4 Bb7 15.Rad1 b3 
+16.Qb1 Ne7 17.Bxf6 Bxf6 18.Nfd2 Bc6 19.a5 Rab8 20.Nb6 Nc8 21.Ndc4 Bb5 22. 
+Rfe1 Nxb6 23.Nxb6 c4 24.Qc1 Be7 25.Bf1 Bc5 26.e5 Bxb6 27.axb6 Rxb6 28.Qg5  
+Rc6 29.h4 Rc5 30.Qf6 Rd5 31.Rxd5 exd5 32.g3 Qc6 33.Qf4 Qe6 34.Bg2 a5 35. 
+Kh2 a4 36.Bh3 f5 37.Bg2 a3 38.bxa3 Bc6 39.a4 Bxa4 40.Qd2 Bc6 41.f4 Ra8 42. 
+Kh3 Ra2 43.Qd4 Rc2 44.Bf3 Kg7 45.Ra1 Ra2 46.Rxa2 bxa2 47.Qa7+ Kh6 48.Qxa2  
+d4 49.Qa6 dxc3 50.Bxc6 c2 51.Qa8 Qxc6 52.Qxc6 c1=Q 53.e6 c3 54.e7 Qf1+ 55. 
+Kh2 Qe2+ 56.Kh3 Qxe7 57.Qxc3 Qe4 58.Qc1 Qf3 59.Kh2 Kh5 60.Qd2 Kg4 61.Qe1  
+h6 62.Qg1 Qe2+ 63.Qg2 Qe1 64.Qh3+ Kf3 65.Qg2+ Ke3 66.Qd5 Qf2+ 67.Kh3 Qf1+  
+68.Kh2 Qe2+ 69.Kh3 h5 70.Qb3+ Kf2 71.Qb6+ Kf1 72.Qb1+ Qe1 73.Qxe1+ Kxe1  
+74.Kg2 Ke2 75.Kh1 Kf1 76.Kh2 Kf2 77.Kh3 Kg1 78.g4 hxg4+ 79.Kg3 Kf1 0-1 

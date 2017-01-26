@@ -1,0 +1,47 @@
+ 
+[Event "Karposh Open 2012"] 
+[Site "Skopje MKD"] 
+[Date "2012.04.10"] 
+[Round "5.14"] 
+[White "Bogdanovski, Vlatko"] 
+[Black "Drazic, Sinisa"] 
+[Result "0-1"] 
+[WhiteElo "2435"] 
+[BlackElo "2536"] 
+[ECO "A04"] 
+[EventDate "2012.04.07"] 
+ 
+1.Nf3 b5 2.c3 c5 3.d4 e6 4.e4 cxd4 5.cxd4 b4 6.Bg5 Be7 7.Bxe7 Nxe7 8.Nbd2  
+a5 9.Bd3 Ba6 10.Bxa6 Nxa6 11.O-O O-O 12.Qa4 Nb8 13.Ne5 d6 14.Nec4 Qc7 15. 
+Ne3 Nbc6 16.d5 Nd4 17.Ndc4 Ng6 0-1 
+ 
+[Event "Jezero Open"] 
+[Site "Belgrade SRB"] 
+[Date "2003.08.19"] 
+[Round "6"] 
+[White "Pavlovic, Mi2"] 
+[Black "Cobic, Vladimir"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2442"] 
+[BlackElo "2378"] 
+[ECO "A04"] 
+[EventDate "2003.08.14"] 
+ 
+1.Nf3 b5 2.c3 c5 3.d4 e6 4.e4 Bb7 5.Nbd2 a6 6.a4 c4 7.g3 d5 8.e5 b4 9.Bh3  
+Qa5 1/2-1/2 
+ 
+[Event "ch-Serbia"] 
+[Site "Kragujevac SRB"] 
+[Date "2000.02.20"] 
+[Round "2"] 
+[White "Tadic, Branko"] 
+[Black "Milosevic, Slavisa"] 
+[Result "1-0"] 
+[WhiteElo "2406"] 
+[BlackElo "2246"] 
+[ECO "A04"] 
+[EventDate "2000.02.19"] 
+ 
+1.Nf3 b5 2.c3 c5 3.d4 e6 4.a4 b4 5.e4 bxc3 6.Nxc3 a6 7.d5 d6 8.Be2 Nf6 9. 
+O-O Be7 10.Nd2 O-O 11.Nc4 Nbd7 12.dxe6 Nb8 13.exf7+ Rxf7 14.e5 dxe5 15. 
+Nxe5 Qxd1 16.Rxd1 Rf8 17.Bc4+ Kh8 18.Re1 Ra7 19.Nf7+ Kg8 20.Bf4 1-0 

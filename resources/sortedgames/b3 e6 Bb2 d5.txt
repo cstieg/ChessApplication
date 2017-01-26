@@ -1,0 +1,99 @@
+ 
+[Event "4NCL 2014-15"] 
+[Site "Hinckley Island ENG"] 
+[Date "2015.02.14"] 
+[Round "5.175"] 
+[White "Harvey, Marcus R"] 
+[Black "Rendle, Thomas E"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2322"] 
+[BlackElo "2378"] 
+[ECO "A01"] 
+[EventDate "2014.11.15"] 
+ 
+1.b3 e6 2.Bb2 d5 3.Nf3 f5 4.e3 Nf6 5.h3 Bd6 6.g4 Qe7 7.gxf5 e5 8.d4 e4 9. 
+Nh4 Qf7 10.c4 g5 11.Ng2 Bxf5 1/2-1/2 
+ 
+[Event "European Rapid 2014"] 
+[Site "Wroclaw POL"] 
+[Date "2014.12.20"] 
+[Round "3.35"] 
+[White "Plat, Vojtech"] 
+[Black "Sotsky, Alexander"] 
+[Result "0-1"] 
+[WhiteElo "2432"] 
+[BlackElo "2377"] 
+[ECO "A01"] 
+[EventDate "2014.12.20"] 
+ 
+1.b3 e6 2.Bb2 d5 3.e3 f5 4.c4 Nf6 5.cxd5 exd5 6.Nf3 Bd6 7.Nc3 c6 8.Be2 O-O 
+9.O-O Qe7 10.Nd4 Ne4 11.d3 Nxc3 12.Bxc3 f4 13.exf4 Bxf4 14.g3 Be5 15.Bg4  
+Qf6 16.Bxc8 Rxc8 17.Qg4 Na6 18.Rae1 h5 19.Qh3 Bxd4 20.Re6 Bxc3 21.Rxf6  
+Bxf6 22.Qe6+ Kf8 23.Qf5 Re8 24.Qxh5 Kg8 25.Qg6 Re5 26.h4 Rf8 27.Qg4 Nc5  
+28.Qb4 b6 29.Qa3 Re2 30.Qxa7 Bd8 31.Qa8 Re6 32.Qa3 Nxd3 33.b4 Ne5 34.Kg2  
+Nc4 35.Qd3 b5 36.h5 Bb6 37.g4 Ref6 38.g5 Rf4 39.Qh3 Ne3+ 40.fxe3 Rxf1 41. 
+Qe6+ Kh8 42.h6 R1f2+ 43.Kh3 R2f3+ 44.Kg4 Bxe3 45.Qe5 R8f7 46.Kh5 Bxg5 47. 
+hxg7+ Kh7 48.Qxg5 Rh3+ 49.Kg4 Rxg7 0-1 
+ 
+[Event "N1 Reykjavik Open 2014"] 
+[Site "Reykjavik ISL"] 
+[Date "2014.03.12"] 
+[Round "10.6"] 
+[White "Rapport, Richard"] 
+[Black "Djurhuus, Rune"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2681"] 
+[BlackElo "2447"] 
+[ECO "A06"] 
+[EventDate "2014.03.04"] 
+ 
+1.b3 e6 2.Bb2 d5 3.Nf3 Nf6 4.g3 c5 5.Bg2 Nc6 6.O-O Bd6 7.e3 O-O 8.c4 dxc4  
+9.bxc4 e5 10.Nc3 Be6 11.d3 h6 12.e4 Qd7 13.Nd5 Nh7 14.Nh4 Nd4 15.f4 b5 16. 
+Bxd4 cxd4 17.fxe5 Bxe5 18.Qh5 Ng5 19.Nf5 f6 20.Nde7+ Kh8 21.Ng6+ Kh7 22. 
+Nxf8+ Rxf8 23.cxb5 Qxb5 24.Qe2 Rc8 25.Rab1 Qa6 26.Rb4 Rc3 27.Rfb1 Bc7 28. 
+a4 Bb6 29.h4 Nf7 30.Qg4 g6 31.h5 g5 32.e5 Nxe5 33.Qe4 Qxd3 34.Qb7+ Rc7 35. 
+Rxb6 Rxb7 36.Rxb7+ Bd7 37.Re1 Kh8 38.Rb8+ Kh7 39.Rb7 Kh8 40.Rb8+ Kh7 41. 
+Rb7 1/2-1/2 
+ 
+[Event "Chigorin Memorial"] 
+[Site "St Petersburg RUS"] 
+[Date "2012.10.28"] 
+[Round "2.56"] 
+[White "Moiseenko, Vadim"] 
+[Black "Sukhareva, Evgeniya"] 
+[Result "1-0"] 
+[WhiteElo "2477"] 
+[BlackElo "2268"] 
+[ECO "A01"] 
+[EventDate "2012.10.27"] 
+ 
+1.b3 e6 2.Bb2 d5 3.e3 b6 4.Nf3 Bb7 5.Ne5 Nf6 6.f4 Be7 7.Bb5+ c6 8.Bd3 O-O  
+9.Qf3 Nbd7 10.O-O Nc5 11.Be2 a5 12.a3 Re8 13.d3 Bf8 14.Nd2 Nfd7 15.d4 Na6  
+16.Bd3 g6 17.e4 Nxe5 18.fxe5 Qd7 19.exd5 exd5 20.Rf2 a4 21.Raf1 Re7 22.Qg3 
+Nc7 23.Nf3 Ne6 24.b4 Bg7 25.Bc1 Rf8 26.Bg5 Nxg5 27.Nxg5 c5 28.c3 Bc6 29. 
+Rf3 Qc7 30.b5 Bd7 31.Nxh7 Rc8 32.Ng5 c4 33.Qh4 Be8 34.Qh7+ Kf8 35.Bxg6 Qd7 
+36.e6 Qxb5 37.exf7 1-0 
+ 
+[Event "ch-Central Serbia"] 
+[Site "Vrnjacka Banja SRB"] 
+[Date "2007.12.13"] 
+[Round "6"] 
+[White "Djosic, Slavoljub"] 
+[Black "Savic, Dragan"] 
+[Result "1-0"] 
+[WhiteElo "2280"] 
+[BlackElo "2229"] 
+[ECO "A01"] 
+[EventDate "2007.12.10"] 
+ 
+1.b3 e6 2.Bb2 d5 3.g3 c5 4.Bg2 Nc6 5.Nf3 Nf6 6.O-O Be7 7.d3 Qc7 8.e3 e5 9. 
+Nc3 h6 10.e4 Be6 11.exd5 Nxd5 12.Nb5 Qb8 13.c4 Nb6 14.Re1 Nd7 15.Nc3 O-O  
+16.Nd5 Re8 17.Nd2 Bf8 18.Qh5 Qd8 19.Nb1 g6 20.Qd1 Bg7 21.Nbc3 Rc8 22.a3  
+Nd4 23.b4 Nf6 24.bxc5 Rxc5 25.Nxf6+ Bxf6 26.Ne4 Rc7 27.Bxd4 exd4 28.Nxf6+  
+Qxf6 29.Qa4 Rce7 30.Bxb7 Rb8 31.Bg2 Rb2 32.f4 Bf5 33.Be4 Bxe4 34.Rxe4 Rxe4 
+35.dxe4 d3 36.Qe8+ Kh7 37.Qe5 Qb6+ 38.c5 Rb1+ 39.Kg2 Rb2+ 40.Kh3 Qb7 41. 
+Qd5 Qc8+ 42.f5 Kg8 43.Rd1 gxf5 44.Qxf5 Qxf5+ 45.exf5 d2 46.Kh4 Kg7 47.c6  
+Rc2 48.g4 Kf6 49.c7 Rxc7 50.Rxd2 Rc6 51.Kh5 Kg7 52.h4 Ra6 53.Rd3 Ra5 54. 
+Rf3 Ra4 55.Rc3 Ra5 56.Rc6 Rxa3 57.Rxh6 Rc3 58.Ra6 Rc7 59.Kg5 Rd7 60.h5 Rb7 
+61.h6+ Kh7 62.Kh5 Kg8 63.g5 Rb5 64.Rf6 a5 65.h7+ Kxh7 66.Rxf7+ Kg8 67.Kg6  
+Rb6+ 68.f6 Ra6 69.Rb7 Ra8 70.Rg7+ Kh8 71.Rh7+ Kg8 1-0 

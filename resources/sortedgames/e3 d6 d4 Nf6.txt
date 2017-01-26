@@ -1,0 +1,15 @@
+ 
+[Event "SCT Seniors 2013"] 
+[Site "Stockholm SWE"] 
+[Date "2013.05.11"] 
+[Round "7.5"] 
+[White "Turikov, Viktor"] 
+[Black "Petkevich, Jusefs"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2266"] 
+[BlackElo "2376"] 
+[ECO "A00"] 
+[EventDate "2013.05.09"] 
+ 
+1.e3 d6 2.d4 Nf6 3.Nf3 g6 4.b3 Bg7 5.Bb2 O-O 6.Qc1 b6 7.Nbd2 c5 8.Be2 Bb7  
+9.O-O Nbd7 10.a4 cxd4 11.Nxd4 a6 12.Bf3 d5 13.Be2 Rc8 1/2-1/2 

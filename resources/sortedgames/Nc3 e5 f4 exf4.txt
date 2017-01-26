@@ -1,0 +1,17 @@
+ 
+[Event "14. Padova Open"] 
+[Site "Padova ITA"] 
+[Date "2011.12.12"] 
+[Round "2"] 
+[White "Rossi, C1"] 
+[Black "Lazic, Miroljub"] 
+[Result "0-1"] 
+[WhiteElo "2318"] 
+[BlackElo "2459"] 
+[ECO "A00"] 
+[EventDate "2011.12.11"] 
+ 
+1.Nc3 e5 2.f4 exf4 3.Nf3 g5 4.d4 g4 5.e4 gxf3 6.Qxf3 Nc6 7.Bxf4 Nxd4 8.Qh5 
+Ne6 9.Be5 Nf6 10.Qf5 Bg7 11.Bc4 O-O 12.O-O Ne8 13.Nd5 d6 14.Bc3 c6 15.Ne3  
+Bxc3 16.bxc3 Qg5 17.Qf3 N6g7 18.Bxf7+ Kh8 19.Qe2 Nf6 20.Bc4 Bg4 21.Qf2 Nd7 
+22.Qg3 Ne5 23.h4 Nh5 24.Rxf8+ Rxf8 25.Qe1 Qf4 26.Bd3 Ng3 27.Qd2 Be2 0-1 

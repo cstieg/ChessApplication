@@ -1,0 +1,41 @@
+ 
+[Event "DSB Match Blitz"] 
+[Site "Schagen NED"] 
+[Date "2006.05.01"] 
+[Round "6"] 
+[White "Carlsen, Magnus"] 
+[Black "Van Wely, Loek"] 
+[Result "1-0"] 
+[WhiteElo "2646"] 
+[BlackElo "2655"] 
+[ECO "B40"] 
+[EventDate "2006.04.28"] 
+ 
+1.b3 c5 2.e4 e6 3.Nf3 d5 4.exd5 exd5 5.Bb5+ Bd7 6.Bxd7+ Nxd7 7.O-O Bd6 8. 
+d4 Ne7 9.Nc3 O-O 10.dxc5 Nxc5 11.Bg5 f6 12.Be3 Ne4 13.Nb5 Bb8 14.Nfd4 a6  
+15.Ne6 Qc8 16.Nbd4 Rf7 17.f3 Nc3 18.Qd3 Be5 19.a4 Qd7 20.Nc5 Qc7 21.Qxc3  
+b6 22.Ne4 Bxh2+ 23.Kh1 dxe4 24.Qxc7 Bxc7 25.fxe4 Be5 26.Rad1 Rc8 27.c4 h5  
+28.Nf3 Bc7 29.Rd3 Nc6 30.Rd5 Re8 31.Rxh5 Rxe4 32.Bf2 Na5 33.c5 b5 34.axb5  
+axb5 35.c6 Nxb3 36.Rxb5 Rc4 37.Rxb3 Rxc6 38.Nd4 Rc4 39.Rh3 Rd7 40.Nf5 Kf7  
+41.Re1 Rf4 42.Rf3 Rxf3 43.gxf3 g6 44.Ng3 Rd2 45.Ne4 Rc2 46.Bd4 Bd8 47.Rd1  
+f5 48.Nf2 Bh4 49.Nd3 g5 50.Be3 Rc3 51.Kg2 g4 52.f4 Bf6 53.Bf2 Rc2 54.Nb4  
+Rb2 55.Nd3 Ra2 56.Kg3 Ra3 57.Rd2 Bc3 58.Rd1 Bf6 59.Kg2 Ra2 60.Kf1 Ke6 61. 
+Nc5+ Kf7 62.Rd7+ Kg6 63.Ne6 Ra6 64.Nf8+ 1-0 
+ 
+[Event "26. Universiade Men"] 
+[Site "Shenzhen CHN"] 
+[Date "2011.08.16"] 
+[Round "4"] 
+[White "Paichadze, Luka"] 
+[Black "Zhang, Tony"] 
+[Result "1-0"] 
+[WhiteElo "2489"] 
+[BlackElo "2262"] 
+[ECO "B50"] 
+[EventDate "2011.08.15"] 
+ 
+1.b3 c5 2.e4 e6 3.Nf3 d6 4.Bb5+ Nd7 5.c4 Nf6 6.Nc3 Be7 7.O-O O-O 8.Bxd7  
+Nxd7 9.Bb2 b6 10.d4 Bb7 11.Qd2 a6 12.Rad1 Re8 13.Qe3 cxd4 14.Nxd4 Bf8 15. 
+Kh1 g6 16.f3 Qc7 17.Qd2 Rad8 18.Nc2 Ne5 19.Ne2 Bg7 20.Ne3 Nc6 21.Bxg7 Kxg7 
+22.Ng4 Qe7 23.Ng3 f6 24.Qh6+ Kh8 25.Qe3 b5 26.cxb5 axb5 27.Qb6 b4 28.Nxf6  
+1-0 

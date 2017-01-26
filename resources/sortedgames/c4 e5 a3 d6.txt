@@ -1,0 +1,99 @@
+ 
+[Event "VMCG GM 2014"] 
+[Site "Lueneburg GER"] 
+[Date "2014.08.16"] 
+[Round "8.2"] 
+[White "Carlstedt, Jonathan"] 
+[Black "Rooze, Jan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2437"] 
+[BlackElo "2313"] 
+[ECO "A20"] 
+[EventDate "2014.08.09"] 
+ 
+1.c4 e5 2.a3 d6 3.Nc3 f5 4.d4 Be7 5.e4 exd4 6.Qxd4 Bf6 7.Qe3 Ne7 8.Bd3  
+Bxc3+ 9.bxc3 O-O 10.Ne2 Na6 11.O-O Nc5 12.Rd1 fxe4 13.Bxe4 Nf5 14.Bd5+ Kh8 
+15.Qg5 Qe8 16.Ng3 Nxg3 17.hxg3 Bf5 18.Ra2 Ne4 19.Qe3 Qh5 20.Re1 Nc5 21.Qg5 
+Qxg5 22.Bxg5 Rae8 23.Rae2 Bd7 24.Be7 Rf5 25.g4 Rf4 26.f3 Nd3 27.g3 Nxe1  
+28.gxf4 Nd3 29.Bf7 Rb8 30.f5 Ne5 31.Bd5 Bc6 32.Kg2 Bxd5 33.cxd5 Kg8 34.Bh4 
+c6 35.Kg3 cxd5 36.f4 Nf7 37.g5 Rc8 38.Kg4 Kf8 39.g6 hxg6 40.Be7+ Ke8 41. 
+Bh4+ Kf8 42.fxg6 Nh6+ 43.Kg5 Rc5 44.Bf2 d4+ 45.Kh4 Rxc3 46.Re4 Rxa3 47. 
+Bxd4 Nf5+ 48.Kg5 Nxd4 49.Rxd4 Ke7 50.Rc4 Kd7 51.Rc1 Ra5+ 52.f5 Ra2 53.Rh1  
+Rg2+ 54.Kf4 Ke7 55.Re1+ Kd7 56.Rh1 1/2-1/2 
+ 
+[Event "BDO Challengers 2012"] 
+[Site "Haarlem NED"] 
+[Date "2012.08.29"] 
+[Round "5.4"] 
+[White "Bosboom, Manuel"] 
+[Black "Bartel, Michal"] 
+[Result "1-0"] 
+[WhiteElo "2383"] 
+[BlackElo "2296"] 
+[ECO "A20"] 
+[EventDate "2012.08.25"] 
+ 
+1.c4 e5 2.a3 d6 3.e3 g6 4.d4 Nc6 5.b4 exd4 6.Bb2 Bg7 7.b5 Nce7 8.Nf3 Nf6  
+9.Nxd4 O-O 10.Nd2 Re8 11.Bd3 Nd7 12.Qb1 Nc5 13.Bc2 Nf5 14.Nxf5 Bxf5 15. 
+Bxf5 Bxb2 16.Qxb2 gxf5 17.O-O Qh4 18.Qc2 Qf6 19.Nf3 Re4 20.a4 Rae8 21.Rad1 
+f4 22.Rd5 h6 23.a5 b6 24.a6 fxe3 25.fxe3 Rxe3 26.Rf5 Qg7 27.Nh4 Qd4 28.Qf2 
+Nd3 29.Rg5+ Kh8 30.Rd5 Qg7 31.Qd2 Qg4 32.Nf5 Re2 33.Qxh6+ Kg8 34.Ne7+  
+R8xe7 35.Rg5+ Qxg5 36.Qxg5+ Kf8 37.Qh6+ Kg8 38.Qg5+ Kf8 39.h4 Rc2 40.Qf5  
+Rd2 41.h5 1-0 
+ 
+[Event "5. Mayors Cup 2012"] 
+[Site "Mumbai IND"] 
+[Date "2012.06.14"] 
+[Round "10.5"] 
+[White "Deepan, Chakkravarthy J"] 
+[Black "Rahman, Ziaur"] 
+[Result "0-1"] 
+[WhiteElo "2461"] 
+[BlackElo "2520"] 
+[ECO "A20"] 
+[EventDate "2012.06.07"] 
+ 
+1.c4 e5 2.a3 d6 3.b4 g6 4.Bb2 Bg7 5.e3 Nf6 6.d3 O-O 7.Nf3 Ng4 8.h3 Nh6 9. 
+g4 f5 10.g5 Nf7 11.h4 c6 12.Nbd2 a5 13.Nb3 b6 14.Qc2 axb4 15.axb4 Rxa1+  
+16.Bxa1 Na6 17.Bc3 c5 18.b5 Nc7 19.Rg1 d5 20.Bb2 Bb7 21.Nfd2 d4 22.Be2 Ne6 
+23.Bf3 e4 24.dxe4 Ne5 25.Bg2 dxe3 26.fxe3 Nd3+ 27.Ke2 fxe4 28.Bxg7 Rf2+  
+29.Kd1 Nxg7 30.Bh3 Rh2 31.Bg2 Nf5 32.Nf1 Rxh4 33.Nbd2 Qxg5 34.Bxe4 Qh5+  
+0-1 
+ 
+[Event "2. Pfalz Open"] 
+[Site "Neustadt an der Weinstrasse G"] 
+[Date "2009.02.16"] 
+[Round "2"] 
+[White "Ackermann, Hans Werner"] 
+[Black "Markowski, Tomasz"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2299"] 
+[BlackElo "2605"] 
+[ECO "A20"] 
+[EventDate "2009.02.15"] 
+ 
+1.c4 e5 2.a3 d6 3.Nc3 g6 4.d4 Nd7 5.Nf3 Bg7 6.dxe5 dxe5 7.e4 Ngf6 8.b4 O-O 
+9.Bb2 c6 10.Qc2 Re8 11.Rd1 Qe7 12.c5 Nf8 13.Bc4 Bg4 14.Ne2 Bxf3 15.gxf3  
+Nh5 16.Bc1 Bf6 17.Qb3 Kg7 18.Rg1 Kg8 19.Rd6 Rad8 20.Ng3 Ng7 21.Be3 b5 22. 
+Rxd8 Rxd8 23.Bf1 Nfe6 24.Ne2 Nh5 25.Bh3 Nd4 26.Bxd4 exd4 27.Qd3 Qe5 28.Rh1 
+a5 29.Bg4 Nf4 30.Nxf4 Qxf4 31.Ke2 axb4 32.axb4 h5 33.Bh3 Kg7 34.Bg2 Ra8  
+35.Rd1 Qxh2 36.Kf1 Be5 1/2-1/2 
+ 
+[Event "2. Pfalz Open"] 
+[Site "Neustadt an der Weinstrasse GER"] 
+[Date "2009.02.16"] 
+[Round "2"] 
+[White "Ackermann, Hans Werner"] 
+[Black "Markowski, Tomasz"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2299"] 
+[BlackElo "2605"] 
+[ECO "A20"] 
+[EventDate "2009.02.15"] 
+ 
+1.c4 e5 2.a3 d6 3.Nc3 g6 4.d4 Nd7 5.Nf3 Bg7 6.dxe5 dxe5 7.e4 Ngf6 8.b4 O-O 
+9.Bb2 c6 10.Qc2 Re8 11.Rd1 Qe7 12.c5 Nf8 13.Bc4 Bg4 14.Ne2 Bxf3 15.gxf3  
+Nh5 16.Bc1 Bf6 17.Qb3 Kg7 18.Rg1 Kg8 19.Rd6 Rad8 20.Ng3 Ng7 21.Be3 b5 22. 
+Rxd8 Rxd8 23.Bf1 Nfe6 24.Ne2 Nh5 25.Bh3 Nd4 26.Bxd4 exd4 27.Qd3 Qe5 28.Rh1 
+a5 29.Bg4 Nf4 30.Nxf4 Qxf4 31.Ke2 axb4 32.axb4 h5 33.Bh3 Kg7 34.Bg2 Ra8  
+35.Rd1 Qxh2 36.Kf1 Be5 1/2-1/2 

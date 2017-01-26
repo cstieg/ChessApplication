@@ -1,0 +1,21 @@
+ 
+[Event "European Blitz 2015"] 
+[Site "Minsk BLR"] 
+[Date "2015.12.18"] 
+[Round "5.47"] 
+[White "Pavlov, Sergey2"] 
+[Black "Vorontsov, Pavlo"] 
+[Result "1-0"] 
+[WhiteElo "2454"] 
+[BlackElo "2395"] 
+[ECO "A13"] 
+[EventDate "2015.12.18"] 
+ 
+1.c4 e6 2.g3 g6 3.Bg2 Bg7 4.Nf3 Ne7 5.O-O O-O 6.d4 d5 7.Nc3 Nbc6 8.cxd5  
+exd5 9.Bf4 Bg4 10.Ne5 Nxe5 11.Bxe5 Bxe5 12.dxe5 c6 13.Qd4 Be6 14.e4 Qb6  
+15.Qxb6 axb6 16.exd5 cxd5 17.Rfd1 Rfd8 18.a3 Ra5 19.b4 Raa8 20.Nb5 Rac8  
+21.Nd6 Rc3 22.Nxb7 Rd7 23.Nd6 Nc6 24.f4 f6 25.Nb5 Re3 26.exf6 Kf7 27.Re1  
+Rxe1+ 28.Rxe1 Kxf6 29.Rxe6+ Kxe6 30.Bh3+ Ke7 31.Bxd7 Kxd7 32.Kf2 Ne7 33. 
+Ke3 Nf5+ 34.Kd3 Ke7 35.a4 Kd7 36.a5 bxa5 37.bxa5 Ne7 38.a6 Kc6 39.a7 Kb7  
+40.Kd4 Nc8 41.Kxd5 Nb6+ 42.Ke6 Kc6 43.Nd4+ Kb7 44.Nf3 Kxa7 45.Ng5 h6 46. 
+Nf7 h5 47.Ne5 1-0 

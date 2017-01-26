@@ -1,0 +1,19 @@
+ 
+[Event "XV Leonardo di Magistrale"] 
+[Site "Cutro ITA"] 
+[Date "2009.04.25"] 
+[Round "8"] 
+[White "Meijers, Viesturs"] 
+[Black "Mrdja, Milan"] 
+[Result "1-0"] 
+[WhiteElo "2458"] 
+[BlackElo "2431"] 
+[ECO "A10"] 
+[EventDate "2009.04.18"] 
+ 
+1.c4 g6 2.b3 Bg7 3.Nc3 c5 4.Bb2 Nc6 5.e3 e5 6.a3 Nge7 7.Qc2 O-O 8.h4 d5 9. 
+cxd5 Nxd5 10.Nf3 Bf5 11.d3 Nxc3 12.Qxc3 Re8 13.h5 Rc8 14.hxg6 hxg6 15.Be2  
+Qe7 16.Rc1 b6 17.Kf1 Bf6 18.g3 Kg7 19.Kg2 Nd4 20.Bd1 Nb5 21.Qd2 Rh8 22.Be2 
+a6 23.a4 Na7 24.d4 cxd4 25.exd4 e4 26.Nh4 Rxc1 27.Nxf5+ gxf5 28.Rxh8 Kxh8  
+29.Qxc1 b5 30.Ba3 Qd8 31.Qh6+ Kg8 32.d5 bxa4 33.bxa4 e3 34.d6 Bg5 35.Qh5  
+exf2 36.Bc4 1-0 

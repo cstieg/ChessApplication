@@ -1,0 +1,94 @@
+ 
+[Event "World University Men 2014"] 
+[Site "Katowice POL"] 
+[Date "2014.08.24"] 
+[Round "9.13"] 
+[White "Nuri, Kambez"] 
+[Black "Munkhgal, Gombosuren"] 
+[Result "0-1"] 
+[WhiteElo "2322"] 
+[BlackElo "2418"] 
+[ECO "C00"] 
+[EventDate "2014.08.18"] 
+ 
+1.e4 e6 2.f4 b6 3.g3 Bb7 4.Bg2 f5 5.d3 Nf6 6.Qe2 fxe4 7.dxe4 Nc6 8.c3 e5  
+9.Nf3 Bd6 10.Nbd2 O-O 11.f5 a5 12.Nc4 Ba6 13.Bg5 a4 14.Nfd2 Be7 15.Qf3 b5  
+16.Ne3 b4 17.a3 bxc3 18.bxc3 Na5 19.Qd1 c6 20.Qxa4 h6 21.Bh4 Qb6 22.Nec4  
+Nxc4 23.Nxc4 Qc5 24.Bf1 Nxe4 25.Qc2 Bxc4 26.Qxe4 Bd5 27.Bc4 Bxh4 0-1 
+ 
+[Event "89. ch-Paris IdF 2014"] 
+[Site "Paris FRA"] 
+[Date "2014.07.13"] 
+[Round "9.14"] 
+[White "Adam, Etienne"] 
+[Black "Carpentier, Pierre"] 
+[Result "0-1"] 
+[WhiteElo "2244"] 
+[BlackElo "2217"] 
+[ECO "C00"] 
+[EventDate "2014.07.05"] 
+ 
+1.e4 e6 2.f4 b6 3.Nf3 Bb7 4.d3 c5 5.g3 d5 6.Qe2 Be7 7.Nc3 Nc6 8.Bg2 dxe4  
+9.Nxe4 Nf6 10.O-O O-O 11.Bd2 Nxe4 12.Qxe4 Rb8 13.Qe3 Bf6 14.c3 Qd6 15.Rfe1 
+Rfd8 16.Bf1 Ne7 17.Red1 Nf5 18.Qf2 Qd5 19.Be2 a5 20.Be3 a4 21.a3 Rbc8 22. 
+Rd2 h6 23.h3 e5 24.Kh2 exf4 25.Bxf4 g5 26.g4 gxf4 27.gxf5 Kh7 28.Rg1 Rg8  
+29.Rdd1 Rg3 30.Rxg3 fxg3+ 31.Qxg3 Rg8 32.Qf4 Be5 33.Qxe5 Qxe5+ 34.Nxe5  
+Rg2+ 35.Kh1 Rxe2+ 36.Kg1 Rxe5 0-1 
+ 
+[Event "19. European Teams"] 
+[Site "Warsaw POL"] 
+[Date "2013.11.10"] 
+[Round "3.7"] 
+[White "Jobava, Baadur"] 
+[Black "Meier, Georg"] 
+[Result "1-0"] 
+[WhiteElo "2695"] 
+[BlackElo "2623"] 
+[ECO "C00"] 
+[EventDate "2013.11.08"] 
+ 
+1.e4 e6 2.f4 b6 3.d4 Bb7 4.Nd2 c5 5.Ngf3 Qc7 6.Bd3 Nc6 7.c3 cxd4 8.Nxd4  
+Nxd4 9.cxd4 Qxf4 10.Nf3 Bb4+ 11.Kf2 Qc7 12.Rf1 f6 13.Kg1 Nh6 14.a3 Be7 15. 
+Bxh6 gxh6 16.Qd2 O-O 17.Qxh6 Rf7 18.Rac1 Qd8 19.d5 Rc8 20.Rcd1 exd5 21. 
+exd5 Qf8 22.Qh5 Qg7 23.Kh1 Bd6 24.Rde1 Re7 25.Rxe7 Qxe7 26.h3 Qf7 27.Qh4  
+Kh8 28.Bxh7 Bg3 29.Qxg3 Qxh7 30.Qd6 Qf5 31.Rd1 Ba6 32.Nd4 Qf2 33.Nf3 Qxb2  
+34.Rd4 1-0 
+ 
+[Event "Moscow Open C University Men"] 
+[Site "Moscow RUS"] 
+[Date "2011.02.04"] 
+[Round "7.17"] 
+[White "Zimin, Alexey"] 
+[Black "Dimukhametov, Artur"] 
+[Result "1-0"] 
+[WhiteElo "2208"] 
+[BlackElo "2354"] 
+[ECO "C00"] 
+[EventDate "2011.01.29"] 
+ 
+1.e4 e6 2.f4 b6 3.Nf3 g6 4.d4 Bb7 5.Bd3 d5 6.e5 c5 7.c3 Nc6 8.Be3 Nh6 9. 
+O-O Ng4 10.Bd2 h5 11.h3 Nh6 12.Be1 Be7 13.Bf2 h4 14.Nbd2 Nf5 15.a3 Qd7 16. 
+b4 c4 17.Bxf5 exf5 18.Ng5 Nd8 19.Qe1 a5 20.Ndf3 Ne6 21.Nxe6 fxe6 22.bxa5  
+Rxa5 23.Bxh4 Bxa3 24.Bf6 Rh6 25.Rf2 Bc6 26.Ng5 Be7 27.Rb2 Qa7 28.Rxa5 bxa5 
+29.Qb1 Kd7 30.Rb8 a4 31.Bxe7 Kxe7 32.Qb4+ 1-0 
+ 
+[Event "SLO Ch"] 
+[Site "Ljubljana SLO"] 
+[Date "2010.08.08"] 
+[Round "2"] 
+[White "Gjuran, Denis"] 
+[Black "Tratar, Marko"] 
+[Result "0-1"] 
+[WhiteElo "2351"] 
+[BlackElo "2505"] 
+[ECO "C00"] 
+[EventDate "2010.08.07"] 
+ 
+1.e4 e6 2.f4 b6 3.Nf3 Bb7 4.d3 d5 5.e5 d4 6.Be2 c5 7.Nbd2 Ne7 8.O-O Nd5 9. 
+Ne4 Nc6 10.Rb1 Qd7 11.c4 dxc3 12.bxc3 O-O-O 13.a3 Be7 14.Qc2 f5 15.exf6  
+gxf6 16.c4 Nc7 17.Bb2 Rhf8 18.Rbe1 Ne8 19.Ng3 Bd6 20.Bc1 Rg8 21.Rf2 f5 22. 
+Bf1 Nf6 23.Rfe2 Rde8 24.Bb2 Ng4 25.Qd2 Qc7 26.Rxe6 Rxe6 27.Rxe6 Nxh2 28. 
+Nxh2 Bxf4 29.Qe1 Bxg3 30.Re8+ Rxe8 31.Qxe8+ Nd8 32.Nf3 Qf7 33.Qe3 Qe6 34. 
+Ne5 f4 35.Qe2 Qh6 36.Ng4 Qe6 37.Ne5 Qf5 38.d4 cxd4 39.Bxd4 Ne6 40.Bc3 Nc5  
+41.Qd1 Ne4 42.Bd3 Bf2+ 43.Kf1 Bc5 44.Qf3 h5 45.Ke1 Bd6 46.g4 hxg4 47.Nxg4  
+Qe6 48.Be2 Nxc3 49.Qxc3 f3 50.Qh8+ Kc7 51.Qg7+ Be7 0-1 

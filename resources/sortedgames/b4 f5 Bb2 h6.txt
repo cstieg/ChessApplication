@@ -1,0 +1,29 @@
+ 
+[Event "Bundesliga 2004/05"] 
+[Site "GER"] 
+[Date "2004.11.27"] 
+[Round "3"] 
+[White "Werle, Jan"] 
+[Black "Schebler, Gerhard"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2457"] 
+[BlackElo "2496"] 
+[ECO "A00"] 
+ 
+1.b4 f5 2.Bb2 h6 3.Be5 h5 4.d4 a5 5.a4 b5 6.axb5 g5 7.Ra2 Ra6 8.f3 Rd6 9. 
+Ra4 Ra6 1/2-1/2 
+ 
+[Event "Bundesliga 2004-5"] 
+[Site "Wattenscheid GER"] 
+[Date "2004.11.27"] 
+[Round "3"] 
+[White "Werle, Jan"] 
+[Black "Schebler, Gerhard"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2457"] 
+[BlackElo "2496"] 
+[ECO "A00"] 
+[EventDate "2004.11.14"] 
+ 
+1.b4 f5 2.Bb2 h6 3.Be5 h5 4.d4 a5 5.a4 b5 6.axb5 g5 7.Ra2 Ra6 8.f3 Rd6 9. 
+Ra4 Ra6 1/2-1/2 

@@ -1,0 +1,57 @@
+ 
+[Event "7. Staunton Memorial GM"] 
+[Site "London ENG"] 
+[Date "2009.08.10"] 
+[Round "3"] 
+[White "Chapman, Terry P D"] 
+[Black "Williams, Simon K"] 
+[Result "0-1"] 
+[WhiteElo "2232"] 
+[BlackElo "2527"] 
+[ECO "B04"] 
+[EventDate "2009.08.08"] 
+ 
+1.Nf3 Nc6 2.e4 Nf6 3.e5 Nd5 4.d4 d6 5.c4 Nb6 6.exd6 exd6 7.Be2 Be7 8.O-O  
+Bg4 9.d5 Bxf3 10.Bxf3 Ne5 11.Be2 O-O 12.Nd2 Re8 13.Rb1 a5 14.f4 Ned7 15. 
+Bd3 Nc5 16.Bc2 Bf6 17.b3 c6 18.Qh5 g6 19.Qf3 cxd5 20.f5 Qe7 21.cxd5 g5 22. 
+Ba3 Nbd7 23.Bxc5 Nxc5 24.Bd3 Qe5 25.Bb5 Qd4+ 26.Rf2 Re3 27.Qh5 Ne4 28.Nxe4 
+Rxe4 29.Kf1 Qxd5 30.Bc4 Rxc4 31.bxc4 Qd3+ 0-1 
+ 
+[Event "BEL Ch"] 
+[Site "Eupen BEL"] 
+[Date "2008.07.08"] 
+[Round "4"] 
+[White "Vandevoort, Pascal"] 
+[Black "Buhr, Carl Christian Dr"] 
+[Result "0-1"] 
+[WhiteElo "2409"] 
+[BlackElo "2344"] 
+[ECO "B00"] 
+[EventDate "2008.07.05"] 
+ 
+1.Nf3 Nc6 2.e4 Nf6 3.e5 Ng4 4.d4 d6 5.h3 Nh6 6.e6 fxe6 7.c4 Qd7 8.Nc3 Nf7  
+9.Be3 e5 10.d5 Ncd8 11.Bd3 c6 12.Qc2 b5 13.cxb5 cxd5 14.Nxd5 Ne6 15.Bf5  
+Nfd8 16.Ng5 Qb7 17.Qc4 Nc5 18.Be4 Nxe4 19.Nxe4 Bf5 20.Nc7+ Kd7 21.Nc5+  
+dxc5 22.Rd1+ Kxc7 23.Qxc5+ Kb8 24.Rxd8+ Bc8 25.Qxe5+ Qc7 26.Qd5 g5 27. 
+Rxc8+ Qxc8 28.O-O Bg7 29.Rc1 Qb7 30.Qxg5 e5 31.Bc5 Qd7 32.a4 Kb7 33.Qh4  
+Rad8 34.Qb4 Qd2 35.Rc3 Qf4 36.Qb3 e4 37.Be3 Qd6 38.Qf7+ Rd7 0-1 
+ 
+[Event "FRA-chT2"] 
+[Site "France"] 
+[Date "2002.01.??"] 
+[Round "6"] 
+[White "Parmentier, Xavier"] 
+[Black "Taddei, Benoit"] 
+[Result "1-0"] 
+[WhiteElo "2335"] 
+[BlackElo "2334"] 
+[ECO "B00"] 
+ 
+1.Nf3 Nc6 2.e4 Nf6 3.e5 Ng4 4.d4 d6 5.h3 Nh6 6.exd6 cxd6 7.d5 Ne5 8.Bb5+  
+Bd7 9.Bxd7+ Qxd7 10.O-O g6 11.Re1 Bg7 12.c3 Nxf3+ 13.Qxf3 O-O 14.Nd2 a6  
+15.Qe2 Rae8 16.Ne4 e6 17.Bxh6 exd5 18.Bxg7 Kxg7 19.Qd3 dxe4 20.Qd4+ Kg8  
+21.Rad1 Re6 22.Rxe4 Rxe4 23.Qxe4 Re8 24.Rxd6 Qc8 25.Qd5 Re1+ 26.Kh2 Qc7  
+27.g3 Qe7 28.Rd8+ Kg7 29.Qd4+ Qe5 30.a4 Qxd4 31.Rxd4 Kf8 32.Rb4 Re7 33.Kg2 
+Ke8 34.Kf3 Kd8 35.Re4 Rc7 36.g4 Rc5 37.Ke3 Rc6 38.Kd3 Rf6 39.f4 Kd7 40.a5  
+h6 41.b4 Kd8 42.c4 Rc6 43.Re5 Kd7 44.Kd4 Rf6 45.f5 Kd8 46.b5 axb5 47.cxb5  
+Kd7 48.Kc5 Kc8 49.Rd5 gxf5 50.Rxf5 Re6 51.Rxf7 Re3 52.Kb6 1-0 

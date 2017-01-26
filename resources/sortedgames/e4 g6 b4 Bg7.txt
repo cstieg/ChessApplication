@@ -1,0 +1,17 @@
+ 
+[Event "TCh-FIN SM 2013-14"] 
+[Site "Helsinki FIN"] 
+[Date "2014.03.08"] 
+[Round "10.3"] 
+[White "Karttunen, Mika"] 
+[Black "Virtanen, Antti"] 
+[Result "0-1"] 
+[WhiteElo "2446"] 
+[BlackElo "2334"] 
+[ECO "B06"] 
+[EventDate "2013.09.21"] 
+ 
+1.e4 g6 2.b4 Bg7 3.Nc3 d5 4.exd5 Nf6 5.Bc4 c6 6.dxc6 Nxc6 7.Rb1 O-O 8.Nge2 
+b6 9.O-O Bb7 10.d4 Rc8 11.Bb3 Nxb4 12.Ba3 Nbd5 13.Qd3 Rxc3 14.Nxc3 Nf4 15. 
+Qe3 Nxg2 16.Qxe7 Qc8 17.Nb5 Nf4 18.f3 Qg4+ 19.Kf2 Qxf3+ 20.Ke1 Ng2+ 21.Kd2 
+Bh6+ 0-1 

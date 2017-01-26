@@ -1,0 +1,58 @@
+ 
+[Event "Pan-American Teams"] 
+[Site "Mendes BRA"] 
+[Date "2009.08.09"] 
+[Round "1"] 
+[White "Dominguez, JM"] 
+[Black "Alonso, Salvador"] 
+[Result "1-0"] 
+[WhiteElo "2368"] 
+[BlackElo "2441"] 
+[ECO "A06"] 
+[EventDate "2009.08.09"] 
+ 
+1.Nf3 d5 2.b4 c6 3.e3 Bg4 4.Be2 e6 5.a3 Nd7 6.Bb2 Ngf6 7.c4 Bd6 8.d3 O-O  
+9.h3 Bxf3 10.Bxf3 Qe7 11.Nd2 e5 12.Rc1 e4 13.dxe4 Be5 14.Bxe5 Nxe5 15.Qc2  
+dxc4 16.Nxc4 Nxc4 17.Qxc4 Rfe8 18.Rd1 a5 19.O-O axb4 20.axb4 Nxe4 21.Rd4  
+Nf6 22.Rfd1 Rad8 23.b5 Rxd4 24.exd4 cxb5 25.Qxb5 Rb8 26.Qc5 Qd8 27.d5 b5  
+28.d6 b4 29.d7 Rb6 30.Qa5 Rb8 31.Qa7 Rb5 32.Qa8 1-0 
+ 
+[Event "Pan-American Teams"] 
+[Site "Menden BRA"] 
+[Date "2009.08.09"] 
+[Round "1"] 
+[White "Dominguez, JM."] 
+[Black "Alonso, S."] 
+[Result "1-0"] 
+[WhiteElo "2368"] 
+[BlackElo "2441"] 
+[ECO "A06"] 
+[EventDate "2009.08.09"] 
+ 
+1.Nf3 d5 2.b4 c6 3.e3 Bg4 4.Be2 e6 5.a3 Nd7 6.Bb2 Ngf6 7.c4 Bd6 8.d3 O-O  
+9.h3 Bxf3 10.Bxf3 Qe7 11.Nd2 e5 12.Rc1 e4 13.dxe4 Be5 14.Bxe5 Nxe5 15.Qc2  
+dxc4 16.Nxc4 Nxc4 17.Qxc4 Rfe8 18.Rd1 a5 19.O-O axb4 20.axb4 Nxe4 21.Rd4  
+Nf6 22.Rfd1 Rad8 23.b5 Rxd4 24.exd4 cxb5 25.Qxb5 Rb8 26.Qc5 Qd8 27.d5 b5  
+28.d6 b4 29.d7 Rb6 30.Qa5 Rb8 31.Qa7 Rb5 32.Qa8 1-0 
+ 
+[Event "RUS Ch"] 
+[Site "Krasnodar RUS"] 
+[Date "2002.08.28"] 
+[Round "2"] 
+[White "Balashov, Yuri S"] 
+[Black "Pridorozhni, Aleksei"] 
+[Result "1-0"] 
+[WhiteElo "2526"] 
+[BlackElo "2453"] 
+[ECO "A06"] 
+[EventDate "2002.08.27"] 
+ 
+1.Nf3 d5 2.b4 c6 3.e3 Bg4 4.Bb2 Nd7 5.c4 Ngf6 6.a3 e6 7.d3 a5 8.b5 cxb5 9. 
+cxb5 Bd6 10.Be2 O-O 11.Nbd2 Qe7 12.h3 Bh5 13.O-O Rfd8 14.a4 e5 15.Nh4 Bxe2 
+16.Qxe2 g6 17.Nhf3 e4 18.dxe4 dxe4 19.Nd4 Ne5 20.Nc4 Nxc4 21.Qxc4 Qe5 22. 
+g3 h5 23.Qe2 Qe7 24.h4 Ng4 25.Nb3 Ne5 26.Bxe5 Bxe5 27.Rac1 Rd3 28.Nc5 Ra3  
+29.Rc4 f5 30.Rd1 Rd8 31.Kg2 b6 32.Rxd8+ Qxd8 33.Ne6 Qd3 34.Nd4 Ra1 35.Qxd3 
+exd3 36.Nf3 Bd6 37.Rd4 Bc5 38.Rd8+ Kg7 39.Ne5 Rxa4 40.Nxd3 Be7 41.Rd7 Kf8  
+42.Rb7 Bd8 43.Ne5 Re4 44.Nc6 Bf6 45.Rxb6 f4 46.gxf4 Ke8 47.Nxa5 Bd8 48.Rb8 
+Kd7 49.Nc6 Bxh4 50.Rg8 Ra4 51.Rg7+ Kd6 52.Rxg6+ Kc7 53.Rh6 Ra2 54.Rxh5  
+Bxf2 55.Kf3 Bg1 56.Rh1 1-0 

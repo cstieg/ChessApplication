@@ -1,0 +1,17 @@
+ 
+[Event "Ch France (team) (nat.1) 2006/07"] 
+[Site "France"] 
+[Date "2006.10.15"] 
+[Round "1"] 
+[White "Bouhallel, Rabah"] 
+[Black "Jossien, Remy"] 
+[Result "0-1"] 
+[WhiteElo "2330"] 
+[BlackElo "2263"] 
+[ECO "A00"] 
+ 
+1.d3 e5 2.Nd2 g6 3.Ngf3 Bg7 4.e4 Ne7 5.g3 Nbc6 6.Bg2 h6 7.O-O d6 8.c3 Be6  
+9.Re1 Qd7 10.Nf1 Bh3 11.Bh1 g5 12.Ne3 O-O 13.d4 f5 14.exf5 exd4 15.Nxd4  
+Nxd4 16.cxd4 Nxf5 17.Nxf5 Qxf5 18.Be3 c6 19.Qd2 Rae8 20.f3 Qd5 21.Bf2  
+Rxe1+ 22.Rxe1 Qxa2 23.Qb4 Qd5 24.Re7 a5 25.Qd2 b5 26.Re1 Kh8 27.f4 Qc4 28. 
+fxg5 Rxf2 29.Kxf2 Bxd4+ 0-1 

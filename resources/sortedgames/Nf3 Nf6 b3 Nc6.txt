@@ -1,0 +1,16 @@
+ 
+[Event "Arad Open A"] 
+[Site "Arad ROU"] 
+[Date "2011.08.10"] 
+[Round "8.9"] 
+[White "Veneteanu, Ion-Cristian"] 
+[Black "Frink, Ferenc"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2216"] 
+[BlackElo "2300"] 
+[ECO "A05"] 
+[EventDate "2011.08.05"] 
+ 
+1.Nf3 Nf6 2.b3 Nc6 3.d4 e6 4.g3 d5 5.Bg2 Ne7 6.O-O Ng6 7.c4 c6 8.Nc3 Bb4  
+9.Bb2 O-O 10.Qc2 Re8 11.Rfd1 Bxc3 12.Qxc3 b5 13.Ne5 Qb6 14.cxd5 cxd5 15. 
+Rac1 Re7 16.Ba3 Re8 17.Nxg6 hxg6 18.Qc7 b4 1/2-1/2 

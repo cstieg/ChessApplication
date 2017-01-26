@@ -1,0 +1,24 @@
+ 
+[Event "IMSA Blitz w 2016"] 
+[Site "Huai'an CHN"] 
+[Date "2016.02.29"] 
+[Round "15.4"] 
+[White "Huang, Qian"] 
+[Black "Zhao Xue"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2450"] 
+[BlackElo "2506"] 
+[ECO "A15"] 
+[EventDate "2016.02.28"] 
+ 
+1.c4 Nf6 2.Nf3 a6 3.Nc3 b5 4.cxb5 axb5 5.Nxb5 Ba6 6.Nc3 e6 7.g3 d5 8.Bg2  
+c5 9.d4 Nbd7 10.O-O Be7 11.Re1 O-O 12.Bf4 Qb6 13.Na4 Qa7 14.dxc5 Nxc5 15. 
+Be3 Bxe2 16.Rxe2 Qxa4 17.Qxa4 Rxa4 18.a3 Nb3 19.Rd1 Ng4 20.Bf4 h6 21.Ne5  
+Nxe5 22.Bxe5 Rc8 23.Bc3 Bxa3 24.Bxg7 Kxg7 25.bxa3 Na5 26.f4 Rxa3 27.f5 Rc6 
+28.fxe6 fxe6 29.Rf1 Nc4 30.Bh3 Re3 31.Ref2 Nd6 32.Rf6 Ne4 33.Rxe6 Rxe6 34. 
+Bxe6 Nd2 35.Rf2 Nf3+ 36.Kf1 Nxh2+ 37.Rxh2 Rxe6 38.Kf2 Kg6 39.Kf3 Kg5 40. 
+Rd2 Re5 41.Rd1 Kf5 42.Rd2 h5 43.Rd1 Ke6 44.Rd2 Rf5+ 45.Ke3 Ke5 46.Rd1 Rg5  
+47.Kf3 Rg8 48.Re1+ Kd4 49.Rd1+ Kc5 50.Rc1+ Kd6 51.Kf4 Rg4+ 52.Kf3 Rc4 53. 
+Rh1 Rc3+ 54.Kf4 Rc4+ 55.Kf3 Rc3+ 56.Kf4 d4 57.Rxh5 Re3 58.Rh8 Re7 59.Rd8+  
+Kc5 60.g4 Kc4 61.g5 d3 62.Kf5 Rf7+ 63.Ke6 Rf4 64.g6 Rg4 65.Kf7 Kc3 66.g7  
+d2 67.g8=Q Rxg8 68.Kxg8 Kc2 69.Rxd2+ Kxd2 1/2-1/2 

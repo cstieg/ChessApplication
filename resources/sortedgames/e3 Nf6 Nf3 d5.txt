@@ -1,0 +1,46 @@
+ 
+[Event "3. IM"] 
+[Site "Griesheim GER"] 
+[Date "2003.01.30"] 
+[Round "2"] 
+[White "Schramm, Christian"] 
+[Black "Jedryczka, Krystian"] 
+[Result "0-1"] 
+[WhiteElo "2331"] 
+[BlackElo "2340"] 
+[ECO "A05"] 
+[EventDate "2003.01.29"] 
+ 
+1.e3 Nf6 2.Nf3 d5 3.c4 e6 4.Be2 c5 5.O-O dxc4 6.Qa4+ Nbd7 7.Qxc4 a6 8.b3  
+Be7 9.Bb2 b5 10.Qc2 Bb7 11.d3 O-O 12.Nbd2 Rc8 13.Rac1 Nd5 14.Rfe1 Bf6 15. 
+Ne4 Bxb2 16.Qxb2 Qe7 17.Bf1 Rfd8 18.a3 N7b6 19.d4 cxd4 20.exd4 Rxc1 21. 
+Qxc1 Nf6 22.Nxf6+ gxf6 23.Qh6 Nd7 24.Bd3 Nf8 25.Be4 Bxe4 26.Rxe4 Ng6 27.h4 
+Qf8 28.Qd2 h5 29.b4 Kh7 30.Re1 Qd6 31.Rc1 e5 32.Rc5 Rg8 33.Qc2 Kh6 34.Rc6  
+Qe7 35.Qf5 e4 36.Rxf6 exf3 37.Qg5+ Kh7 38.Qxh5+ Kg7 39.Rxf3 Rh8 40.Qg5  
+Qe1+ 41.Kh2 Rxh4+ 42.Kg3 Qe6 0-1 
+ 
+[Event "13. Goodricke"] 
+[Site "Calcutta IND"] 
+[Date "2002.03.25"] 
+[Round "9"] 
+[White "Yogesh, G"] 
+[Black "Al-Sayed, Mohammed N"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2333"] 
+[BlackElo "2413"] 
+[ECO "A11"] 
+[EventDate "2002.03.17"] 
+ 
+1.e3 Nf6 2.Nf3 d5 3.c4 c6 4.b3 Bf5 5.Bb2 Nbd7 6.cxd5 cxd5 7.Nc3 e6 8.Nh4  
+Bg4 9.Be2 Bxe2 10.Qxe2 a6 11.f4 Bd6 12.O-O O-O 13.Nf3 Rc8 14.Kh1 Qa5 15.a3 
+Qb6 16.b4 a5 17.b5 Rfd8 18.Nd4 Bf8 19.Na4 Qd6 20.Bc3 Ra8 21.Nb3 Rdc8 22.d3 
+g6 23.e4 dxe4 24.dxe4 Qc7 25.Bxf6 Nxf6 26.Qf3 Bg7 27.Rac1 Qe7 28.Nbc5 Re8  
+29.e5 Nd5 30.Ne4 Rf8 31.Nac3 Rad8 32.Nxd5 Rxd5 33.b6 Rfd8 34.Rc7 R5d7 35. 
+Rfc1 Qxa3 36.h3 Qb2 37.Qe3 Rd4 38.Rc8 Qxb6 39.Rxd8+ Qxd8 40.Nd6 Rxd6 41. 
+exd6 Qxd6 42.Rc8+ Bf8 43.Ra8 b6 44.h4 h5 45.Kh2 Qc7 46.Qd4 Qe7 47.g3 Qb4  
+48.Qd7 Qb2+ 49.Kh3 Qb1 50.Qb7 Kg7 51.Ra7 Qf5+ 52.Kh2 Bc5 53.Ra8 Qc2+ 54. 
+Kh3 Qd1 55.Ra7 Qg4+ 56.Kh2 Qf5 57.Qg2 Qd5 58.Qb2+ Bd4 59.Qc2 Qc5 60.Qxc5  
+Bxc5 61.Kg2 Kf8 62.Kf3 Ke8 63.Ke2 Bd4 64.Kf3 f5 65.Ke2 Kd8 66.Kd3 e5 67. 
+Ra8+ Ke7 68.Rg8 a4 69.Ra8 b5 70.Ra5 Bf2 71.fxe5 Bxg3 72.Kd4 f4 73.Rxb5 f3  
+74.Rb7+ Ke6 75.Rb6+ Ke7 76.Ke3 f2 77.Ke2 Bxe5 78.Rxg6 Bf6 79.Rh6 Bxh4 80. 
+Rxh5 1/2-1/2 

@@ -1,0 +1,15 @@
+ 
+[Event "Gunja active Open"] 
+[Site "Gunja"] 
+[Date "2014.09.14"] 
+[Round "6"] 
+[White "Stevic, Hrvoje"] 
+[Black "Zelcic, Robert"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2615"] 
+[BlackElo "2548"] 
+[ECO "A00"] 
+[EventDate "2014.09.14"] 
+ 
+1.a3 Nf6 2.b4 e6 3.Bb2 d5 4.Nf3 Be7 5.e3 O-O 6.Be2 c5 7.bxc5 Bxc5 8.O-O  
+Nc6 9.d3 Be7 10.Nbd2 1/2-1/2 

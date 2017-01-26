@@ -1,0 +1,65 @@
+ 
+[Event "13. ch-FRA Blitz 2015"] 
+[Site "Nancy FRA"] 
+[Date "2015.02.21"] 
+[Round "2.5"] 
+[White "Dobrov, Vladimir"] 
+[Black "Timmermans, Mark"] 
+[Result "1-0"] 
+[WhiteElo "2490"] 
+[BlackElo "2347"] 
+[ECO "A04"] 
+[EventDate "2015.02.21"] 
+ 
+1.Nf3 b5 2.e3 b4 3.a3 bxa3 4.Nxa3 e6 5.b3 Nf6 6.Bb2 Be7 7.Nc4 O-O 8.Be2 c5 
+9.Rg1 d5 10.Nce5 Nfd7 11.h4 Nxe5 12.Nxe5 Bb7 13.h5 Nc6 14.Ba6 Qc7 15.Bxb7  
+Qxb7 16.Qg4 f5 17.Qe2 Bf6 18.f4 Bxe5 19.fxe5 Nb4 20.Kd1 Rac8 21.Ra4 c4 22. 
+Bc3 Nxc2 23.b4 Qb5 24.Ra5 Nxe3+ 25.Qxe3 Qe8 26.h6 Qh5+ 27.Kc1 gxh6 28.Rxa7 
+Rf7 29.g4 fxg4 30.Rxf7 Kxf7 31.Qf4+ Qf5 32.Qxg4 Qxg4 33.Rxg4 Rb8 34.d3  
+cxd3 35.Kd2 h5 36.Rg5 h6 37.Rxh5 Kg6 38.Rh1 h5 39.Kxd3 Kg5 40.Bd2+ Kg4 41. 
+Rg1+ Kh3 42.Rg6 Re8 43.Rh6 Kg4 44.Kd4 h4 45.Be1 Rc8 46.Rxh4+ Kg5 47.Rh2  
+Rc4+ 48.Kd3 Kf5 49.Bc3 Rg4 50.Rf2+ Kg5 51.Bd2+ Kh5 52.Rf6 1-0 
+ 
+[Event "13. Metropolitan GM"] 
+[Site "Los Angeles, CA USA"] 
+[Date "2011.12.11"] 
+[Round "9"] 
+[White "Molner, Mackenzie"] 
+[Black "Kiewra, Keaton F"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2455"] 
+[BlackElo "2360"] 
+[ECO "A04"] 
+[EventDate "2011.12.07"] 
+ 
+1.Nf3 b5 2.e3 b4 3.a3 e6 4.c3 bxc3 5.Nxc3 Nf6 6.Bb5 Ba6 7.Bxa6 Nxa6 8.O-O  
+Be7 9.d4 c5 10.dxc5 Nxc5 11.b4 Nce4 12.Nxe4 Nxe4 13.Bb2 O-O 14.Nd2 Nxd2  
+15.Qxd2 a5 16.Bc3 axb4 17.Bxb4 Bf6 18.Bxf8 Bxa1 19.Rxa1 Qxf8 20.Qxd7 Rxa3  
+21.Rxa3 Qxa3 22.g3 Qa1+ 23.Kg2 Qa8+ 24.Kg1 Qa1+ 25.Kg2 g6 26.Qd8+ Kg7 27. 
+h4 h5 28.Qc8 1/2-1/2 
+ 
+[Event "8. Savaria Summer IM"] 
+[Site "Szombathely HUN"] 
+[Date "2008.08.16"] 
+[Round "3"] 
+[White "Rachela, Milan"] 
+[Black "Majeric, Zoran"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2338"] 
+[BlackElo "2312"] 
+[ECO "A04"] 
+[EventDate "2008.08.14"] 
+ 
+1.Nf3 b5 2.e3 b4 3.d4 Nf6 4.a3 e6 5.axb4 Bxb4+ 6.Nbd2 O-O 7.Bd3 d5 8.O-O  
+Nbd7 9.c3 Bd6 10.e4 dxe4 11.Nxe4 Bb7 12.Nxd6 cxd6 13.Nd2 Qc7 14.Re1 Rfe8  
+15.Nc4 Bd5 16.Ne3 Be4 17.Bf1 d5 18.Ng4 Bg6 19.Nxf6+ Nxf6 20.Ra6 Reb8 21. 
+Qa4 Rb6 22.Ra5 h6 23.Rc5 Qd6 24.b4 Ne4 25.f3 Nxc5 26.dxc5 Qc6 27.Qxc6 Rxc6 
+28.Bb5 Rcc8 29.Ba6 Rc6 30.Bb7 Rac8 31.Bf4 Bd3 32.Bxc8 Rxc8 33.Bd6 a6 34. 
+Kf2 Bb5 35.Ke3 f6 36.Kd4 Kf7 37.f4 Bc4 38.h4 h5 39.Re3 Rc6 40.Re1 Rc8 41. 
+Rg1 g6 42.Re1 Bb5 43.Ke3 Rg8 44.Kf3 f5 45.Ke3 Rc8 46.Kd4 Rc6 47.Ke5 Rc8  
+48.Ra1 Rc6 49.Bb8 Rc8 50.Bd6 Rc6 51.Ra3 Rc8 52.Ra5 Rc6 53.Bb8 Rc8 54.Ba7  
+Ke7 55.Bb6 Rc6 56.Ra1 Rc8 57.Re1 Kf7 58.Re3 Rc6 59.Bd8 Rc8 60.Bg5 Rc6 61. 
+Re1 Rc8 62.Ra1 Rc6 63.Ra5 Bc4 64.Ra1 Bb5 65.Rd1 Bc4 66.Kd4 Rc8 67.Ke3 Bb5  
+68.Kd2 Ke8 69.Re1 Kf7 70.Kc2 Rc6 71.Kb3 Rc8 72.Rd1 Ke8 73.Rd4 Kd7 74.Bf6  
+Bf1 75.Rd1 Bb5 76.Re1 Rc6 77.Be5 Rc8 78.Bd6 Ra8 79.Re3 Rg8 80.Kc2 Bf1 81. 
+Rg3 Bb5 82.Kd2 Ke8 83.Ke3 Kf7 84.Kd4 Rc8 1/2-1/2 

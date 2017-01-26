@@ -1,0 +1,20 @@
+ 
+[Event "Politiken Cup"] 
+[Site "Helsingor DEN"] 
+[Date "2011.08.01"] 
+[Round "4.14"] 
+[White "Bach, Matthias"] 
+[Black "Hammer, Jon Ludvig"] 
+[Result "0-1"] 
+[WhiteElo "2307"] 
+[BlackElo "2610"] 
+[ECO "A00"] 
+ 
+1.d3 e5 2.Nd2 d5 3.c4 Be6 4.Ngf3 Nc6 5.cxd5 Bxd5 6.a3 a5 7.Qa4 Qd7 8.e3 f6 
+9.Be2 Nh6 10.Ne4 Be7 11.Bd2 Nd8 12.Qxd7+ Kxd7 13.Nc3 Bb3 14.d4 Nhf7 15.Bd1 
+Bxd1 16.Rxd1 exd4 17.Nxd4 c6 18.Ne4 Kc7 19.Rc1 Re8 20.Ke2 Bf8 21.f3 Ne6  
+22.Nf5 g6 23.Nfg3 f5 24.Nf6 Nf4+ 25.Kd1 Re6 26.exf4 Rxf6 27.Kc2 Rd6 28.Bc3 
+Rd5 29.Rhe1 b5 30.Re6 b4 31.Rf6 Rd7 32.Be1 c5 33.axb4 cxb4 34.Kb3+ Kb7 35. 
+Ka4 Bg7 36.Re6 Bxb2 37.Rc5 Nd8 38.Re8 Bd4 39.Rb5+ Kc6 40.Re2 Nb7 41.Rc2+  
+Nc5+ 42.Rbxc5+ Bxc5 43.Bf2 Rd5 44.Ne4 fxe4 45.fxe4 Rd3 46.Rxc5+ Kd7 47.e5  
+Rb8 0-1 

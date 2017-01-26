@@ -1,0 +1,100 @@
+ 
+[Event "Politiken Cup 2015"] 
+[Site "Helsingor DEN"] 
+[Date "2015.07.30"] 
+[Round "7.9"] 
+[White "Maze, Sebastien"] 
+[Black "Bach, Matthias"] 
+[Result "1-0"] 
+[WhiteElo "2575"] 
+[BlackElo "2236"] 
+[ECO "A04"] 
+[EventDate "2015.07.25"] 
+ 
+1.Nf3 c5 2.g3 d6 3.Bg2 Bd7 4.O-O Qc8 5.e4 Nc6 6.c3 Nf6 7.Re1 e5 8.d4 h5 9. 
+Bg5 Nh7 10.Be3 Bg4 11.Qa4 a6 12.d5 b5 13.Qc2 Na5 14.a4 Be7 15.axb5 axb5  
+16.Na3 Bd7 17.b4 Nb7 18.Qe2 c4 19.Nc2 Rxa1 20.Rxa1 O-O 21.Nd2 h4 22.Ra7  
+Qc7 23.Qd1 Rb8 24.Qa1 hxg3 25.hxg3 Kf8 26.Qa6 Qc8 27.Bb6 Nd8 28.Qa5 Nb7  
+29.Qa1 Nd8 30.Qa5 Nb7 31.Qa3 Nf6 32.Nf1 Ne8 33.Kh2 Nd8 34.Qa5 Nb7 35.Qa6  
+Nd8 36.Qxc8 Bxc8 37.Ba5 Nb7 38.Bh3 Bxh3 39.Kxh3 Nd8 40.Na3 f6 41.Ne3 g6  
+42.Ra6 Nf7 43.Kg2 Bd8 44.Bxd8 Nxd8 45.Ra7 Nf7 46.f3 Nh6 47.Kh3 Ng8 48.f4  
+Ne7 49.Kg2 Nc8 50.Ra6 Ke7 51.f5 Nc7 52.Rc6 Kd7 53.fxg6 Ne7 54.g7 f5 55. 
+Rxc7+ Kxc7 56.exf5 Ng8 57.g4 Kd7 58.g5 Ke7 59.f6+ 1-0 
+ 
+[Event "5. Mayors Cup 2012"] 
+[Site "Mumbai IND"] 
+[Date "2012.06.15"] 
+[Round "11.3"] 
+[White "Rahman, Ziaur"] 
+[Black "Gomez, John Paul"] 
+[Result "1-0"] 
+[WhiteElo "2520"] 
+[BlackElo "2507"] 
+[ECO "A04"] 
+[EventDate "2012.06.07"] 
+ 
+1.Nf3 c5 2.g3 d6 3.Bg2 e5 4.O-O Nc6 5.d3 h6 6.a3 Nf6 7.c4 Be7 8.Nc3 O-O 9. 
+Ne1 Be6 10.Nd5 Qd7 11.Nxe7+ Nxe7 12.b4 Bh3 13.Bb2 Ng6 14.e4 Nh7 15.f4 exf4 
+16.gxf4 Nh4 17.f5 Nxg2 18.Nxg2 Bxg2 19.Kxg2 f6 20.b5 a6 21.a4 a5 22.Kh1 b6 
+23.Rg1 Kh8 24.Qh5 Qe8 25.Rg6 Rf7 26.Rag1 Qf8 27.Bc1 Rd8 28.Bf4 Rfd7 29.Qh3 
+Rf7 30.R1g4 Re8 31.Qg3 Rd7 32.Kg1 Red8 33.Kf1 Re8 34.Bc1 Red8 35.Ke2 Re8  
+36.Kd1 Red8 37.Kc2 Rc8 38.Bb2 Rcc7 39.Kb3 Rc8 40.Qg1 Rdc7 41.Rg2 Rd7 42.h4 
+Rdc7 43.R6g4 Rd7 44.d4 cxd4 45.Qxd4 Rdc7 46.Qd5 Rc5 47.Qe6 R8c7 48.Bd4 Re5 
+49.Bxe5 dxe5 50.R4g3 Qb4+ 51.Ka2 Nf8 52.Qxb6 Qxa4+ 53.Kb2 Qxc4 54.Qd6 Nd7  
+55.Qd3 Qc1+ 56.Ka2 Rc4 57.Qa3 Qd1 1-0 
+ 
+[Event "TCh-SWE 2011-12"] 
+[Site "Malmo SWE"] 
+[Date "2011.10.09"] 
+[Round "3"] 
+[White "Aaberg, Anton"] 
+[Black "Volodin, Aleksandr"] 
+[Result "0-1"] 
+[WhiteElo "2375"] 
+[BlackElo "2498"] 
+[ECO "A04"] 
+[EventDate "2011.10.07"] 
+ 
+1.Nf3 c5 2.g3 d6 3.d4 cxd4 4.Nxd4 e5 5.Nf3 Nc6 6.Bg2 d5 7.O-O Be7 8.c4  
+dxc4 9.Qa4 Bd7 10.Qxc4 Nf6 11.Nc3 Rc8 12.Qb3 Qc7 13.Bg5 Be6 14.Qa4 O-O 15. 
+Rfd1 Rcd8 16.Rxd8 Rxd8 17.Rd1 Rxd1+ 18.Nxd1 h6 19.Bd2 e4 20.Bf4 exf3 0-1 
+ 
+[Event "Senigallia ITA, 3. Perini Memorial"] 
+[Site "Senigallia ITA"] 
+[Date "2009.08.07"] 
+[Round "7"] 
+[White "Xia, Jie"] 
+[Black "Calavalle, Giulio"] 
+[Result "1-0"] 
+[WhiteElo "2206"] 
+[BlackElo "2228"] 
+[ECO "A37"] 
+[EventDate "2009.08.01"] 
+ 
+1.Nf3 c5 2.g3 d6 3.Bg2 g6 4.O-O Bg7 5.c4 Nc6 6.Nc3 e5 7.d3 Nge7 8.Ne1 h5  
+9.Nd5 Nxd5 10.cxd5 Ne7 11.b4 b6 12.Bb2 Nf5 13.bxc5 bxc5 14.e4 Nh6 15.Nc2  
+h4 16.Ne3 Bd7 17.Bc3 f6 18.Rb1 Nf7 19.f4 hxg3 20.hxg3 Rb8 21.Nc4 Rxb1 22. 
+Qxb1 Ke7 23.Qb7 exf4 24.gxf4 Kf8 25.e5 f5 26.Rf3 dxe5 27.fxe5 Ng5 28.Rg3  
+f4 29.Ba5 Qe8 30.Rxg5 Qe7 31.Qb8+ Be8 32.Qd6 1-0 
+ 
+[Event "It"] 
+[Site "Bajmok YUG"] 
+[Date "2001.02.02"] 
+[Round "8"] 
+[White "Petre, Nad-Titus"] 
+[Black "Pap, Misa"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2327"] 
+[BlackElo "2405"] 
+[ECO "A04"] 
+[EventDate "2001.01.26"] 
+ 
+1.Nf3 c5 2.g3 d6 3.Bg2 e5 4.O-O Nf6 5.c4 Nc6 6.Nc3 Be7 7.a3 O-O 8.Rb1 h6  
+9.d3 a5 10.b3 d5 11.cxd5 Nxd5 12.Nxd5 Qxd5 13.Bb2 Qe6 14.Nd2 Rb8 15.a4 f6  
+16.Nc4 b6 17.Qd2 Rd8 18.f4 exf4 19.Qxf4 Bb7 20.Qf5 Qxf5 21.Rxf5 Bc8 22.Rf4 
+Nb4 23.h4 Bd6 24.Nxd6 Rxd6 25.Bc1 Be6 26.Re4 Re8 27.Bf4 Rd7 28.Bd2 Nd5 29. 
+Rf1 Nc7 30.Bf4 Bd5 31.Rxe8+ Nxe8 32.Bxd5+ Rxd5 33.Bb8 Rd7 34.Rf3 Rb7 35. 
+Bf4 h5 36.Re3 Kf7 37.Re4 Rd7 38.Kf2 g6 39.Rc4 Ng7 40.Bd2 Ne6 41.Bc3 Rd5  
+42.Re4 f5 43.Rc4 Ke7 44.Ke1 Kd7 45.Kd2 Kc6 46.e3 Rd7 47.Ke2 Nc7 48.d4 Ne6  
+49.dxc5 Nxc5 50.Bd4 Kd5 51.Bxc5 bxc5 52.Kf3 Rb7 53.Rc3 Rb4 54.Rd3+ Kc6 55. 
+Rc3 Kd5 56.Rd3+ Kc6 57.Rc3 Kd5 1/2-1/2 

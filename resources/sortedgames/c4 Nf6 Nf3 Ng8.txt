@@ -1,0 +1,17 @@
+ 
+[Event "TCh"] 
+[Site "Murska Sobota SLO"] 
+[Date "2008.12.09"] 
+[Round "4"] 
+[White "Zupe, Miran"] 
+[Black "Sakelsek, Tadej"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2349"] 
+[BlackElo "2403"] 
+[ECO "E04"] 
+[EventDate "2008.12.06"] 
+ 
+1.c4 Nf6 2.Nf3 Ng8 3.Ng1 Nf6 4.Nf3 e6 5.g3 d5 6.d4 dxc4 7.Bg2 c5 8.Qa4+  
+Bd7 9.Qxc4 Bc6 10.O-O Nbd7 11.Bg5 Rc8 12.Nc3 cxd4 13.Qxd4 Bc5 14.Qh4 O-O  
+15.Rad1 h6 16.Bxf6 Qxf6 17.Qxf6 Nxf6 18.Ne5 Bxg2 19.Kxg2 Bb4 20.Nd7 Nxd7  
+21.Rxd7 Bxc3 1/2-1/2 

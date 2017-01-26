@@ -1,0 +1,37 @@
+ 
+[Event "21. Venetian Autumn 2014"] 
+[Site "Venice ITA"] 
+[Date "2014.11.02"] 
+[Round "4.2"] 
+[White "Xia, Jie"] 
+[Black "Mrdja, Milan"] 
+[Result "0-1"] 
+[WhiteElo "2287"] 
+[BlackElo "2386"] 
+[ECO "A01"] 
+[EventDate "2014.10.31"] 
+ 
+1.b3 d6 2.Bb2 Bg4 3.d4 Nd7 4.f3 Bh5 5.g4 Bg6 6.h4 h5 7.g5 e6 8.e3 Ne7 9. 
+Bd3 c5 10.Bxg6 Nxg6 11.f4 cxd4 12.Qxd4 Ne7 13.Ne2 Nf5 14.Qd2 d5 15.Nd4 Ng3 
+16.g6 Nxh1 17.gxf7+ Kxf7 18.Qh2 Be7 19.Qxh1 Bxh4+ 20.Ke2 Bf6 21.f5 Nc5 22. 
+fxe6+ Nxe6 23.Nxe6 Kxe6 24.Bxf6 gxf6 25.Nd2 Rc8 26.c4 dxc4 27.Nxc4 Qd5 28. 
+e4 Qb5 29.Qh3+ Ke7 30.a4 Qd7 31.Qc3 Qg4+ 32.Kf2 Qf4+ 33.Ke2 Qxe4+ 34.Kf2  
+Qf4+ 35.Ke2 Kf7 0-1 
+ 
+[Event "36. Georgi Tringov Mem 2014"] 
+[Site "Plovdiv BUL"] 
+[Date "2014.02.06"] 
+[Round "6.13"] 
+[White "Danov, Lyubomir"] 
+[Black "Mrdja, Milan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2226"] 
+[BlackElo "2367"] 
+[ECO "A01"] 
+[EventDate "2014.02.02"] 
+ 
+1.b3 d6 2.Bb2 Bg4 3.g3 e5 4.d4 Nd7 5.Bg2 c6 6.c4 Ngf6 7.Nc3 Be7 8.Qd2 O-O  
+9.e3 exd4 10.Qxd4 Re8 11.h3 Bh5 12.g4 Bg6 13.Nge2 Bf8 14.Nf4 Nc5 15.Nxg6  
+hxg6 16.O-O a5 17.Rfd1 a4 18.b4 a3 19.Bc1 Ne6 20.Qd3 Nd7 21.Rb1 Qh4 22.f4  
+g5 23.Ne4 Rad8 24.Bd2 gxf4 25.exf4 f5 26.Nf2 Nf6 27.Qxf5 Nd4 28.Qd3 Ne2+  
+29.Kf1 Ng3+ 30.Kg1 Ne2+ 31.Kf1 Ng3+ 32.Kg1 1/2-1/2 

@@ -1,0 +1,37 @@
+ 
+[Event "28. Staufer-Open 2016"] 
+[Site "Schwaebisch Gmuend GER"] 
+[Date "2016.01.03"] 
+[Round "4.10"] 
+[White "Kahrovic, Mersid"] 
+[Black "Dgebuadze, Alexandre"] 
+[Result "0-1"] 
+[WhiteElo "2306"] 
+[BlackElo "2502"] 
+[ECO "B20"] 
+[EventDate "2016.01.02"] 
+ 
+1.e4 c5 2.Qe2 Nc6 3.Nf3 g6 4.g3 d6 5.Bg2 Bg4 6.c3 Bg7 7.h3 Bd7 8.d3 b5 9. 
+O-O Rb8 10.Rd1 e5 11.Nbd2 Nge7 12.Kh2 O-O 13.Nf1 Qc7 14.Ne3 h6 15.Nh4 Kh7  
+16.Rf1 b4 17.Nc4 bxc3 18.bxc3 Na5 19.Ne3 Be6 20.c4 Nac6 21.Bb2 Qa5 22.Nd5  
+Rb7 23.Bc3 Qa3 24.Qd2 Rfb8 25.Rac1 Bxd5 26.cxd5 Nd4 27.g4 Bf6 28.Bxd4 cxd4 
+29.Nf3 Rb2 30.Rc2 Qxa2 31.Rfc1 g5 32.Ne1 Ng6 33.Bf3 Bd8 34.Qd1 Rxc2 35. 
+Nxc2 Qb2 36.Kg3 Rc8 0-1 
+ 
+[Event "ch-Arab m"] 
+[Site "Cairo EGY"] 
+[Date "2003.12.22"] 
+[Round "3"] 
+[White "Chahrani, Ibrahim"] 
+[Black "Doghri, Nabil"] 
+[Result "0-1"] 
+[WhiteElo "2246"] 
+[BlackElo "2313"] 
+[ECO "B20"] 
+[EventDate "2003.12.20"] 
+ 
+1.e4 c5 2.Qe2 Nc6 3.Nf3 d6 4.d3 g6 5.c3 Bg7 6.h3 Nf6 7.g3 O-O 8.Bg2 b5 9. 
+O-O Rb8 10.d4 Nd7 11.Rd1 b4 12.Bf4 bxc3 13.bxc3 Qa5 14.Qd2 Rd8 15.g4 Nb6  
+16.Bf1 Ba6 17.d5 Bxf1 18.Rxf1 Nc4 19.Qe2 N6e5 20.Nxe5 Nxe5 21.Bg5 Re8 22. 
+f4 Nd7 23.Qc2 c4 24.f5 Nc5 25.fxg6 fxg6 26.Be3 e6 27.Bd4 Nd3 28.dxe6 Rb2  
+29.Qd1 Bxd4+ 30.cxd4 Qb6 31.Qf3 Qxd4+ 0-1 

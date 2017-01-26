@@ -1,0 +1,36 @@
+ 
+[Event "Belgrade Planetwin 365 Open"] 
+[Site "Belgrade SRB"] 
+[Date "2014.12.29"] 
+[Round "14"] 
+[White "Damljanovic, Branko"] 
+[Black "Perunovic, Milos"] 
+[Result "1-0"] 
+[WhiteElo "2552"] 
+[BlackElo "2696"] 
+[ECO "A01"] 
+[EventDate "2014.12.29"] 
+ 
+1.b3 b5 2.Bb2 Bb7 3.Nf3 Nf6 4.e3 a6 5.c4 bxc4 6.bxc4 e6 7.Nc3 c5 8.Rb1 Nc6 
+9.Be2 Be7 10.O-O O-O 11.Nd5 exd5 12.Bxf6 Bxf6 13.Rxb7 dxc4 14.Qa4 Qc8 15. 
+Rfb1 d5 16.h3 h6 17.R7b6 Ne7 18.Qa3 Ra7 19.Nh2 Ng6 20.Bg4 Qc7 21.Bf5 Ne7  
+22.Bc2 Be5 23.Ng4 Bd6 24.f4 h5 25.Nf2 Nc6 26.Qa4 Nb4 27.R6xb4 cxb4 28.Rf1  
+Bc5 29.Bb1 g6 30.f5 Qe5 31.Qc2 Bd6 32.Nh1 Qe4 33.Qd1 Qe5 34.Qc2 f6 35.fxg6 
+Rg7 36.Rf5 Qh2+ 37.Kf2 h4 38.Rxd5 Bg3+ 1-0 
+ 
+[Event "Tabor Open"] 
+[Site "Tabor CZE"] 
+[Date "2011.08.07"] 
+[Round "9.7"] 
+[White "Heinzel, Olaf"] 
+[Black "Civin, Tomas"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2320"] 
+[BlackElo "2425"] 
+[ECO "A01"] 
+[EventDate "2011.07.31"] 
+ 
+1.b3 b5 2.Bb2 Bb7 3.Nf3 e6 4.e3 b4 5.Be2 Nf6 6.O-O Be7 7.d4 O-O 8.c4 a5 9. 
+a3 c5 10.axb4 axb4 11.Rxa8 Bxa8 12.dxc5 Na6 13.c6 Bxc6 14.Ne5 Bb7 15.Nd2  
+Qa8 16.Bf3 d6 17.Nd3 d5 18.Qc2 dxc4 19.Qxc4 Rc8 20.Qb5 Bxf3 21.Nxf3 Nc7  
+22.Qa4 Ncd5 23.Qxa8 Rxa8 24.Ra1 Rxa1+ 25.Bxa1 Ne4 1/2-1/2 

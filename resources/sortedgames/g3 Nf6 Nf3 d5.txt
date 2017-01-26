@@ -1,0 +1,74 @@
+ 
+[Event "CCSCSL Nov GM 2014"] 
+[Site "Saint Louis USA"] 
+[Date "2014.11.21"] 
+[Round "1.4"] 
+[White "Shoker, Samy"] 
+[Black "Bregadze, Levan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2474"] 
+[BlackElo "2458"] 
+[ECO "A11"] 
+[EventDate "2014.11.21"] 
+ 
+1.g3 Nf6 2.Nf3 d5 3.Bg2 c6 4.c4 dxc4 5.O-O g6 6.Na3 Bg7 7.Nxc4 O-O 8.d3  
+Nbd7 9.Bd2 Nd5 10.Qc2 a5 11.a3 b5 12.Ne3 Bb7 13.Rac1 Rc8 14.b4 axb4 15. 
+axb4 c5 16.bxc5 Nxc5 17.Qb1 Qd7 18.Nxd5 Bxd5 19.Qb4 Nb3 20.Rxc8 Rxc8 21. 
+Be3 Bc3 22.Qf4 Bxf3 23.Bxf3 Nd4 24.Bxd4 1/2-1/2 
+ 
+[Event "Lidums Australian Open"] 
+[Site "Mount Buller AUS"] 
+[Date "2005.01.04"] 
+[Round "7"] 
+[White "Kengis, Edvins"] 
+[Black "Bjelobrk, Igor"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2543"] 
+[BlackElo "2377"] 
+[ECO "A11"] 
+[EventDate "2004.12.28"] 
+ 
+1.g3 Nf6 2.Nf3 d5 3.Bg2 c6 4.O-O Bg4 5.c4 e6 6.cxd5 exd5 7.d3 Nbd7 8.Qc2  
+Bd6 9.e4 O-O 10.Nc3 Re8 11.Nd4 Ne5 12.h3 c5 13.Ndb5 Bf3 14.Bg5 dxe4 15. 
+Bxf6 Qxf6 16.Nxe4 Bxe4 17.dxe4 a6 18.Nxd6 Qxd6 19.Rad1 Qf8 20.Rd5 b6 21. 
+Qb3 Rab8 22.Qa4 a5 23.f4 Ng6 24.Rfd1 Red8 25.Bf1 Rxd5 26.Rxd5 Qe7 27.Rd7  
+Qf6 28.Qb3 b5 29.e5 Qf5 30.Qd5 Nf8 31.Ra7 Ne6 32.Ra8 Rxa8 33.Qxa8+ Nf8 34. 
+Qxa5 Qb1 35.Qxb5 Qxa2 36.Kf2 Qd5 37.Qd3 Qb7 38.Qa3 Ne6 39.Bg2 Qb6 40.Qa8+  
+Nf8 41.Qb7 Qa5 42.Kg1 g6 43.h4 h5 44.Kh2 Ne6 45.Bd5 Qd2+ 46.Kh3 Qd1 47. 
+Bxe6 fxe6 48.Kh2 Qd2+ 49.Qg2 Qd4 50.Qc2 Kg7 51.b3 Kh7 52.Kg2 Kg7 53.Kf3  
+Kf7 54.Ke2 Qd5 55.Qd3 Qb7 56.Kd2 Qg2+ 57.Kc3 Qb7 58.Qd8 Kg7 59.Qf6+ Kh7  
+60.Qxe6 Qb4+ 61.Kd3 Qd4+ 62.Ke2 Qe4+ 63.Kf2 Qd4+ 64.Kg2 Qe4+ 1/2-1/2 
+ 
+[Event "KB Czech Open"] 
+[Site "Pardubice CZE"] 
+[Date "2003.07.26"] 
+[Round "9"] 
+[White "Konopka, Michal"] 
+[Black "Neverov, Valeriy"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2428"] 
+[BlackElo "2566"] 
+[ECO "D02"] 
+[EventDate "2003.07.18"] 
+ 
+1.g3 Nf6 2.Nf3 d5 3.Bg2 c6 4.O-O Bg4 5.d4 e6 6.Nbd2 Nbd7 7.Re1 Be7 8.e4  
+dxe4 9.Nxe4 O-O 10.c3 Qb6 11.Qb3 Rfd8 12.Nxf6+ Nxf6 13.Ne5 Bf5 14.Nc4 Qa6  
+15.a4 Nd5 16.Bd2 c5 17.Ne3 Nxe3 18.Bxe3 cxd4 19.Bxd4 1/2-1/2 
+ 
+[Event "Summer II"] 
+[Site "Alushta UKR"] 
+[Date "2004.05.26"] 
+[Round "6"] 
+[White "Derjabin, Ilja"] 
+[Black "Taleb, Moussa"] 
+[Result "0-1"] 
+[WhiteElo "2391"] 
+[BlackElo "2456"] 
+[ECO "E04"] 
+[EventDate "2004.05.22"] 
+ 
+1.g3 Nf6 2.Nf3 d5 3.Bg2 c5 4.O-O Nc6 5.d4 e6 6.c4 dxc4 7.Ne5 Bd7 8.Na3 Nd5 
+9.Nxc6 Bxc6 10.Nxc4 b5 11.Ne5 Bb7 12.e4 Nb6 13.Qe2 c4 14.Rd1 Qc7 15.Bf4  
+Bd6 16.Qg4 O-O 17.Rac1 Qe7 18.Be3 Rac8 19.h4 Na4 20.Rc2 f6 21.Nf3 f5 22. 
+exf5 exf5 23.Qg5 Be4 24.Rcd2 Qb7 25.Ne1 Bxg2 26.Nxg2 c3 27.Rc2 Qf7 28.bxc3 
+h6 0-1 

@@ -1,0 +1,16 @@
+ 
+[Event "Hotel Sajam 6 Open 2015"] 
+[Site "Novi Sad SRB"] 
+[Date "2015.11.02"] 
+[Round "3.4"] 
+[White "Bodiroga, Predrag"] 
+[Black "Meszaros, Andras"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2350"] 
+[BlackElo "2259"] 
+[ECO "B01"] 
+[EventDate "2015.11.01"] 
+ 
+1.e4 d5 2.exd5 e6 3.Bb5+ c6 4.dxc6 Nxc6 5.Nf3 Qc7 6.O-O Bd7 7.d4 Nf6 8.Bd3 
+Nb4 9.Nc3 Be7 10.Re1 O-O 11.Bf1 Rfe8 12.h3 Nbd5 13.Nxd5 exd5 14.c3 Bd6 15. 
+Be3 a6 16.Qb3 Bc6 1/2-1/2 

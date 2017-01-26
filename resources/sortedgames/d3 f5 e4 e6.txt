@@ -1,0 +1,20 @@
+ 
+[Event "Belgian Interteams 2000-1"] 
+[Site "BEL"] 
+[Date "2001.03.04"] 
+[Round "13"] 
+[White "Claesen, Pieter"] 
+[Black "Froeyman, Helmut"] 
+[Result "1-0"] 
+[WhiteElo "2411"] 
+[BlackElo "2247"] 
+[ECO "A00"] 
+[EventDate "2001.01.18"] 
+ 
+1.d3 f5 2.e4 e6 3.Ne2 d5 4.Nd2 Nf6 5.e5 Nfd7 6.Nf3 c5 7.Nf4 Qe7 8.c3 Nc6  
+9.Qc2 g6 10.h4 Rg8 11.Rg1 d4 12.Nh3 Bg7 13.Bf4 Nb6 14.c4 Bd7 15.Qd2 Qf8  
+16.h5 gxh5 17.O-O-O O-O-O 18.Be2 Kb8 19.Rde1 Rc8 20.Kb1 Nd8 21.Nfg5 Rh8  
+22.Bxh5 Be8 23.Bd1 Rc7 24.Bg3 Nc8 25.Rh1 Bh6 26.Bf4 Bg7 27.Nf3 Ne7 28.Nhg5 
+h6 29.Nh3 Ng6 30.Bg3 Nf7 31.Nf4 Nxf4 32.Bxf4 Ng5 33.Bxg5 hxg5 34.Nxg5 Re7  
+35.f4 Bh6 36.Qf2 Bxg5 37.fxg5 Rg7 38.Qf4 Rxh1 39.Rxh1 Qg8 40.Rh6 Rxg5 41. 
+Rxe6 Bd7 42.Re7 Bc6 43.Bf3 Bxf3 44.e6+ Ka8 1-0 

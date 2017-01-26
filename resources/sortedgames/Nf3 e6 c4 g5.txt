@@ -1,0 +1,52 @@
+ 
+[Event "World Rapid 2015"] 
+[Site "Berlin GER"] 
+[Date "2015.10.11"] 
+[Round "7.58"] 
+[White "Sethuraman, S P"] 
+[Black "Anton Guijarro, David"] 
+[Result "0-1"] 
+[WhiteElo "2640"] 
+[BlackElo "2634"] 
+[ECO "A13"] 
+[EventDate "2015.10.10"] 
+ 
+1.Nf3 e6 2.c4 g5 3.d4 g4 4.Ne5 h5 5.Nc3 Bg7 6.e3 c5 7.Nd3 cxd4 8.exd4 Bxd4 
+9.Nb5 Nc6 10.Be2 d6 11.Qa4 Kf8 12.Qa3 Kg7 13.Nxd6 Nf6 14.Be3 Ne8 15.Nb5  
+Bxe3 16.fxe3 Qg5 17.Nf4 a6 18.O-O Qe5 19.Rad1 Rb8 20.Nd4 Nf6 21.Kh1 Bd7  
+22.Qc3 Rbd8 23.Nd3 Qg5 24.Nc5 e5 25.Ndb3 Bf5 26.Nxb7 Rxd1 27.Bxd1 Ne4 28. 
+Qe1 h4 29.N3c5 Ng3+ 30.Kg1 Nxf1 31.Kxf1 Bg6 32.Qd2 Nd4 33.Ke1 g3 34.h3 Nf5 
+35.e4 Ne3 36.Bf3 Qf4 37.Nd6 Rd8 38.Ncb7 Rb8 39.c5 Rxb7 40.Nxb7 Bxe4 41. 
+Bxe4 Qf1# 0-1 
+ 
+[Event "Gibraltar ENG, Tradewise Open-A 2015"] 
+[Site "Gibraltar ENG"] 
+[Date "2015.02.03"] 
+[Round "8.62"] 
+[White "Perez Garcia, Alejandro"] 
+[Black "Martinez Martin, David"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2207"] 
+[BlackElo "2407"] 
+[ECO "A13"] 
+[EventDate "2015.01.27"] 
+ 
+1.Nf3 e6 2.c4 g5 3.d4 g4 4.Ne5 h5 5.Nd3 Bg7 6.e3 d6 7.b4 Nc6 8.Bb2 Nh6 9. 
+b5 Ne7 10.Nf4 Nhf5 11.h3 g3 12.e4 gxf2+ 13.Kxf2 Bh6 14.Bc1 Bg7 15.Bb2 Bh6  
+16.Bc1 Bg7 17.Bb2 1/2-1/2 
+ 
+[Event "Gibraltar Masters 2015"] 
+[Site "Caleta ENG"] 
+[Date "2015.02.03"] 
+[Round "8.62"] 
+[White "Perez Garcia, Alejandro"] 
+[Black "Martinez Martin, David"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2207"] 
+[BlackElo "2407"] 
+[ECO "A13"] 
+[EventDate "2015.01.27"] 
+ 
+1.Nf3 e6 2.c4 g5 3.d4 g4 4.Ne5 h5 5.Nd3 Bg7 6.e3 d6 7.b4 Nc6 8.Bb2 Nh6 9. 
+b5 Ne7 10.Nf4 Nhf5 11.h3 g3 12.e4 gxf2+ 13.Kxf2 Bh6 14.Bc1 Bg7 15.Bb2 Bh6  
+16.Bc1 Bg7 17.Bb2 1/2-1/2 

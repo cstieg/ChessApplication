@@ -1,0 +1,68 @@
+ 
+[Event "NOR, Eliteserien 2011/12"] 
+[Site "NOR"] 
+[Date "2012.01.14"] 
+[Round "5"] 
+[White "Hansen, Torbjorn Ringdal"] 
+[Black "Stokke, Kjetil"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2428"] 
+[BlackElo "2381"] 
+[ECO "A11"] 
+[EventDate "2011.11.04"] 
+ 
+1.Nf3 c6 2.g3 Nf6 3.Bg2 d5 4.c4 dxc4 5.Na3 Qd5 6.O-O e5 7.b3 e4 8.Ne1 c3  
+9.d3 Bf5 10.Nec2 Qd7 11.Ne3 Bg6 12.Nac4 Qe6 13.Qc2 b5 14.Na5 Bb4 15.Nb7  
+Qd7 16.a3 exd3 17.exd3 Bxd3 18.Bh3 Bxc2 19.Bxd7+ Nbxd7 20.axb4 Bxb3 21. 
+Nd6+ Kf8 22.Ra3 Be6 23.Rxc3 Ne5 24.f4 Nc4 25.Nexc4 bxc4 26.Nxc4 Nd5 27.Ra3 
+Nc7 1/2-1/2 
+ 
+[Event "BL 0607 SC Bann - SV M�lheim Nord"] 
+[Site "?"] 
+[Date "2007.02.25"] 
+[Round "11.5"] 
+[White "Hausrath, Daniel"] 
+[Black "Muraniy, Karl-Jasmin"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2529"] 
+[BlackElo "2357"] 
+[ECO "A11"] 
+[EventDate "2007.??.??"] 
+ 
+1.Nf3 c6 2.g3 Nf6 3.Bg2 d5 4.c4 dxc4 5.O-O Nbd7 6.Qc2 Nb6 7.a4 a5 8.Na3 g6 
+9.Nxc4 Nxc4 10.Qxc4 Bg7 11.d3 O-O 12.Qh4 Qd7 13.h3 Ra6 14.Be3 Nd5 15.Bh6  
+f6 16.e4 Nb4 17.d4 g5 18.Qh5 Qe8 19.Qxe8 Rxe8 20.Bxg7 Kxg7 21.Rfd1 Be6  
+1/2-1/2 
+ 
+[Event "Bundesliga 2006-7"] 
+[Site "Muelheim Nord GER"] 
+[Date "2007.02.25"] 
+[Round "11"] 
+[White "Hausrath, Daniel"] 
+[Black "Muranyi, Karl-Jasmin"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2526"] 
+[BlackElo "2357"] 
+[ECO "A11"] 
+[EventDate "2007.01.28"] 
+ 
+1.Nf3 c6 2.g3 Nf6 3.Bg2 d5 4.c4 dxc4 5.O-O Nbd7 6.Qc2 Nb6 7.a4 a5 8.Na3 g6 
+9.Nxc4 Nxc4 10.Qxc4 Bg7 11.d3 O-O 12.Qh4 Qd7 13.h3 Ra6 14.Be3 Nd5 15.Bh6  
+f6 16.e4 Nb4 17.d4 g5 18.Qh5 Qe8 19.Qxe8 Rxe8 20.Bxg7 Kxg7 21.Rfd1 Be6  
+1/2-1/2 
+ 
+[Event "Olympiad"] 
+[Site "Bled SLO"] 
+[Date "2002.11.08"] 
+[Round "13"] 
+[White "McNab, Colin A"] 
+[Black "Amjad, Ali M Al-Bahadly"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2406"] 
+[BlackElo "2246"] 
+[ECO "A07"] 
+[EventDate "2002.10.26"] 
+ 
+1.Nf3 c6 2.g3 Nf6 3.Bg2 d5 4.d3 Bf5 5.Nbd2 e6 6.b3 Bc5 7.Bb2 Nbd7 8.O-O h6 
+9.e4 Bh7 10.e5 Ng8 11.Qe2 Ne7 12.Nd4 Qb6 13.N2f3 Nf5 14.Nxf5 Bxf5 15.a3 a5 
+16.b4 axb4 17.axb4 O-O 18.c3 Be7 19.d4 Qb5 1/2-1/2 

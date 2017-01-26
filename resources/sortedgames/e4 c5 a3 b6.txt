@@ -1,0 +1,118 @@
+ 
+[Event "28. Belgrade Trophy 2014"] 
+[Site "Belgrade SRB"] 
+[Date "2014.11.28"] 
+[Round "5.17"] 
+[White "Svicevic, Rastko"] 
+[Black "Velickovic, Sasa"] 
+[Result "1-0"] 
+[WhiteElo "2216"] 
+[BlackElo "2372"] 
+[ECO "B20"] 
+[EventDate "2014.11.24"] 
+ 
+1.e4 c5 2.a3 b6 3.b4 Bb7 4.bxc5 bxc5 5.Nc3 g6 6.Rb1 Bc6 7.Bb2 Bg7 8.Nd5  
+Nf6 9.Bxf6 exf6 10.Bc4 O-O 11.Ne2 Re8 12.d3 d6 13.O-O Nd7 14.Nec3 a6 15. 
+Qc1 Qa5 16.Qf4 Ne5 17.Ba2 Qxa3 18.Ra1 Qb2 19.Rab1 Qa3 20.Ra1 Bxd5 21.Nxd5  
+Qb2 22.Bb3 c4 23.dxc4 Rac8 24.Rfb1 Qd4 25.Rxa6 f5 26.c5 dxc5 27.exf5 Qxf4  
+28.Nxf4 c4 29.Ba4 Red8 30.g3 Bh6 31.Nh5 Rd2 32.Nf6+ Kg7 33.Ne4 Rd4 34.f6+  
+Kg8 35.Nc3 Bf8 36.Kg2 Rd2 37.Re1 Ng4 38.Ne4 Rd5 39.h3 Nh6 40.g4 Bb4 41.Rb1 
+Bf8 42.Rb7 Rd1 43.Raa7 Re1 44.f3 Re2+ 45.Kg3 Re1 46.Kf4 Ba3 47.Bb5 Bc1+  
+48.Ke5 Bb2+ 49.Kf4 Bc1+ 50.Kg3 Be3 51.Rc7 Rd8 52.Rd7 Rf8 53.Ra3 g5 54.Bxc4 
+Bf4+ 55.Kg2 Kh8 56.Rda7 Rc1 57.Bb3 Rd1 58.c4 Rb1 59.Ra8 Rb2+ 60.Kf1 Rxa8  
+61.Rxa8+ Ng8 62.Ba2 h5 63.c5 hxg4 64.hxg4 Rb7 65.Rf8 Kh7 66.Rxf7+ 1-0 
+ 
+[Event "5. Mediterranean Open"] 
+[Site "Rijeka CRO"] 
+[Date "2011.11.16"] 
+[Round "6.6"] 
+[White "Sale, Srdjan"] 
+[Black "Baron, Tal"] 
+[Result "0-1"] 
+[WhiteElo "2386"] 
+[BlackElo "2504"] 
+[ECO "B20"] 
+[EventDate "2011.11.12"] 
+ 
+1.e4 c5 2.a3 b6 3.Nc3 Bb7 4.b4 d6 5.Nf3 Nf6 6.Bb5+ Nbd7 7.bxc5 bxc5 8.O-O  
+e6 9.Re1 Be7 10.e5 dxe5 11.Nxe5 O-O 12.Nc6 Bxc6 13.Bxc6 Rc8 14.Bf3 c4 15. 
+Rb1 Nb6 16.Bb7 Rc5 17.Ne4 Rc7 18.Ba6 Nxe4 19.Rxe4 Na4 20.Qe2 Nc5 21.Bxc4  
+Nxe4 22.Qxe4 Qa8 23.Qg4 Rb8 24.Bb3 Bf6 25.d3 a5 26.a4 Rb4 27.Qd1 Qa7 28.g3 
+Bd4 29.Qe2 Rc5 30.Bf4 Rf5 31.Rf1 h5 32.Kg2 Qa8+ 33.f3 Qc8 34.Bd2 Re5 35. 
+Qd1 Bc3 36.Bc1 Qc6 37.Kh3 g5 38.g4 Kg7 39.Bc4 hxg4+ 40.fxg4 Rb8 41.Qf3  
+Rh8+ 42.Kg3 Be1+ 43.Kg2 Re2+ 44.Kg1 Qc5+ 0-1 
+ 
+[Event "4NCL 2007-8"] 
+[Site "Wokefield Park ENG"] 
+[Date "2008.05.03"] 
+[Round "9"] 
+[White "Hague, Ben"] 
+[Black "Moskovic, David M"] 
+[Result "0-1"] 
+[WhiteElo "2266"] 
+[BlackElo "2273"] 
+[ECO "B20"] 
+[EventDate "2008.01.01"] 
+ 
+1.e4 c5 2.a3 b6 3.b4 Bb7 4.Nc3 d6 5.g3 Nf6 6.Bg2 Nbd7 7.Nge2 e6 8.O-O Qc7  
+9.f4 Be7 10.f5 e5 11.Nd5 Nxd5 12.exd5 Nf6 13.c4 cxb4 14.Qa4+ Qd7 15.Qxd7+  
+Kxd7 16.axb4 Rhc8 17.d3 b5 18.cxb5 Rc2 19.Re1 Bd8 20.Be3 Bb6 21.Bxb6 axb6  
+22.Rxa8 Bxa8 23.d4 Bxd5 24.dxe5 dxe5 25.Rd1 Kd6 26.Kf1 e4 27.Nd4 Rb2 28.h3 
+Ke5 29.Nc6+ Kxf5 30.Ne7+ Ke5 31.Rc1 Nh5 32.Nxd5 Kxd5 33.Rc6 Nxg3+ 34.Kg1  
+Ne2+ 35.Kf1 Nf4 36.Bxe4+ Kxe4 37.Rxb6 Kf3 38.Ke1 Nd3+ 39.Kd1 Ke3 40.Rg6  
+Rd2# 0-1 
+ 
+[Event "4NCL 2007-8"] 
+[Site "Wakefield Park ENG"] 
+[Date "2008.05.03"] 
+[Round "9"] 
+[White "Hague, Ben"] 
+[Black "Moskovic, David M"] 
+[Result "0-1"] 
+[WhiteElo "2266"] 
+[BlackElo "2273"] 
+[ECO "B20"] 
+[EventDate "2008.01.01"] 
+ 
+1.e4 c5 2.a3 b6 3.b4 Bb7 4.Nc3 d6 5.g3 Nf6 6.Bg2 Nbd7 7.Nge2 e6 8.O-O Qc7  
+9.f4 Be7 10.f5 e5 11.Nd5 Nxd5 12.exd5 Nf6 13.c4 cxb4 14.Qa4+ Qd7 15.Qxd7+  
+Kxd7 16.axb4 Rhc8 17.d3 b5 18.cxb5 Rc2 19.Re1 Bd8 20.Be3 Bb6 21.Bxb6 axb6  
+22.Rxa8 Bxa8 23.d4 Bxd5 24.dxe5 dxe5 25.Rd1 Kd6 26.Kf1 e4 27.Nd4 Rb2 28.h3 
+Ke5 29.Nc6+ Kxf5 30.Ne7+ Ke5 31.Rc1 Nh5 32.Nxd5 Kxd5 33.Rc6 Nxg3+ 34.Kg1  
+Ne2+ 35.Kf1 Nf4 36.Bxe4+ Kxe4 37.Rxb6 Kf3 38.Ke1 Nd3+ 39.Kd1 Ke3 40.Rg6  
+Rd2# 0-1 
+ 
+[Event "Ch England (team) 2005/06"] 
+[Site "England"] 
+[Date "2006.04.30"] 
+[Round "10"] 
+[White "Williams, Simon K"] 
+[Black "Duncan, Chris R"] 
+[Result "1-0"] 
+[WhiteElo "2478"] 
+[BlackElo "2332"] 
+[ECO "B20"] 
+ 
+1.e4 c5 2.a3 b6 3.Nc3 g6 4.h4 h5 5.d4 cxd4 6.Qxd4 Nf6 7.Bb5 Bg7 8.e5 Ng4  
+9.Qe4 Nc6 10.e6 f5 11.Qd5 Nf6 12.Qf3 Nd4 13.Qxa8 Nxc2+ 14.Ke2 Nxa1 15.Bg5  
+Nb3 16.Nf3 Nc5 17.exd7+ Bxd7 18.Qxd8+ Kxd8 19.Ne5 Kc8 20.Nxg6 Re8 21.Bxd7+ 
+Nfxd7 22.Nxe7+ Kb7 23.Re1 Ne4 24.Nxe4 fxe4 25.Nf5 Be5 26.Rd1 Kc7 27.b4 b5  
+28.Be7 a6 29.Rc1+ Kb6 30.Rc2 Nf6 31.Nd6 Rg8 32.Bxf6 Bxf6 33.g3 1-0 
+ 
+[Event "4NCL 2005-06"] 
+[Site "Birmingham ENG"] 
+[Date "2006.04.30"] 
+[Round "10"] 
+[White "Williams, Simon K"] 
+[Black "Duncan, Chris R"] 
+[Result "1-0"] 
+[WhiteElo "2478"] 
+[BlackElo "2332"] 
+[ECO "B20"] 
+[EventDate "2006.04.29"] 
+ 
+1.e4 c5 2.a3 b6 3.Nc3 g6 4.h4 h5 5.d4 cxd4 6.Qxd4 Nf6 7.Bb5 Bg7 8.e5 Ng4  
+9.Qe4 Nc6 10.e6 f5 11.Qd5 Nf6 12.Qf3 Nd4 13.Qxa8 Nxc2+ 14.Ke2 Nxa1 15.Bg5  
+Nb3 16.Nf3 Nc5 17.exd7+ Bxd7 18.Qxd8+ Kxd8 19.Ne5 Kc8 20.Nxg6 Re8 21.Bxd7+ 
+Nfxd7 22.Nxe7+ Kb7 23.Re1 Ne4 24.Nxe4 fxe4 25.Nf5 Be5 26.Rd1 Kc7 27.b4 b5  
+28.Be7 a6 29.Rc1+ Kb6 30.Rc2 Nf6 31.Nd6 Rg8 32.Bxf6 Bxf6 33.g3 1-0 

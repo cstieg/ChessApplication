@@ -1,0 +1,43 @@
+ 
+[Event "10. Battle of Senta 1697 Open"] 
+[Site "Senta SCG"] 
+[Date "2006.07.28"] 
+[Round "9"] 
+[White "Mamuzic, Mirko"] 
+[Black "Dragovic, Momcilo"] 
+[Result "1-0"] 
+[WhiteElo "2233"] 
+[BlackElo "2389"] 
+[ECO "A00"] 
+[EventDate "2006.07.21"] 
+ 
+1.b4 a6 2.Bb2 Nc6 3.a3 d5 4.e3 Nf6 5.Nf3 Bg4 6.Be2 Bxf3 7.Bxf3 e5 8.d3 Bd6 
+9.Nd2 a5 10.b5 Ne7 11.c4 c6 12.Qc2 O-O 13.c5 Bb8 14.a4 Ne8 15.e4 f5 16.O-O 
+Ng6 17.Rfe1 Kh8 18.Rac1 Qg5 19.bxc6 fxe4 20.dxe4 bxc6 21.exd5 Nh4 22.Kf1  
+Rxf3 23.gxf3 cxd5 24.Qd3 Nf6 25.Ke2 Ng2 26.Qb5 Ba7 27.Bc3 Rb8 28.Qxa5 Ra8  
+29.Qc7 d4 30.Qb7 Re8 31.Ba5 Nxe1 32.Rxe1 Bxc5 33.Qc6 d3+ 34.Kd1 Bxf2 35. 
+Ne4 Qf5 36.Nxf2 e4 37.Re3 Qxa5 38.Nxe4 Rb8 39.Rxd3 Qf5 40.Qc7 Rf8 41.Qc5  
+Qxc5 42.Nxc5 Kg8 43.a5 Rc8 44.a6 Kf7 45.Nd7 Ra8 46.Nxf6 Kxf6 47.Ra3 Ke5  
+48.Ke2 Kd5 49.Ke3 Kc6 50.Kf4 Kb6 51.a7 Kb7 52.Kg5 Kb6 53.h4 Kc6 54.h5 Kd6  
+55.h6 Ke6 56.hxg7 Kf7 57.Kh6 Kg8 58.Rb3 1-0 
+ 
+[Event "It Open"] 
+[Site "Senta YUG"] 
+[Date "2006.07.28"] 
+[Round "9"] 
+[White "Mamuzic, Mirko"] 
+[Black "Dragovic, Momcilo"] 
+[Result "1-0"] 
+[WhiteElo "2233"] 
+[BlackElo "2389"] 
+[ECO "A00"] 
+ 
+1.b4 a6 2.Bb2 Nc6 3.a3 d5 4.e3 Nf6 5.Nf3 Bg4 6.Be2 Bxf3 7.Bxf3 e5 8.d3 Bd6 
+9.Nd2 a5 10.b5 Ne7 11.c4 c6 12.Qc2 O-O 13.c5 Bb8 14.a4 Ne8 15.e4 f5 16.O-O 
+Ng6 17.Rfe1 Kh8 18.Rac1 Qg5 19.bxc6 fxe4 20.dxe4 bxc6 21.exd5 Nh4 22.Kf1  
+Rxf3 23.gxf3 cxd5 24.Qd3 Nf6 25.Ke2 Ng2 26.Qb5 Ba7 27.Bc3 Rb8 28.Qxa5 Ra8  
+29.Qc7 d4 30.Qb7 Re8 31.Ba5 Nxe1 32.Rxe1 Bxc5 33.Qc6 d3+ 34.Kd1 Bxf2 35. 
+Ne4 Qf5 36.Nxf2 e4 37.Re3 Qxa5 38.Nxe4 Rb8 39.Rxd3 Qf5 40.Qc7 Rf8 41.Qc5  
+Qxc5 42.Nxc5 Kg8 43.a5 Rc8 44.a6 Kf7 45.Nd7 Ra8 46.Nxf6 Kxf6 47.Ra3 Ke5  
+48.Ke2 Kd5 49.Ke3 Kc6 50.Kf4 Kb6 51.a7 Kb7 52.Kg5 Kb6 53.h4 Kc6 54.h5 Kd6  
+55.h6 Ke6 56.hxg7 Kf7 57.Kh6 Kg8 58.Rb3 1-0 

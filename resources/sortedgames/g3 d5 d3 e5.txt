@@ -1,0 +1,153 @@
+ 
+[Event "24. TCh-CRO Div 1a 2015"] 
+[Site "Bol CRO"] 
+[Date "2015.10.03"] 
+[Round "1.32"] 
+[White "Djurovic, Goran"] 
+[Black "Rusev, Krasimir"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2398"] 
+[BlackElo "2558"] 
+[ECO "A00"] 
+[EventDate "2015.10.03"] 
+ 
+1.g3 d5 2.d3 e5 3.Nf3 Bd6 4.e4 c6 5.Bg2 Nf6 6.O-O Nbd7 7.exd5 cxd5 8.c4  
+O-O 9.cxd5 Nxd5 10.d4 exd4 11.Qxd4 N7f6 12.Bg5 Be7 13.Nc3 Be6 14.Rfd1 Qa5  
+15.Nxd5 Nxd5 16.Bxe7 Nxe7 17.Qe5 Qxe5 18.Nxe5 Rad8 19.Bxb7 Rb8 20.Nd7 Rxb7 
+21.Nxf8 Bd5 22.Rxd5 Nxd5 23.Rd1 Kxf8 24.Rxd5 Rxb2 25.Ra5 Rb7 26.h4 Ke7 27. 
+Ra6 Rc7 28.Kg2 h5 29.Kf3 g6 30.Ke4 Rb7 1/2-1/2 
+ 
+[Event "Mohamed Slama Mem 2013"] 
+[Site "Monastir TUN"] 
+[Date "2013.09.11"] 
+[Round "4.1"] 
+[White "Shoker, Samy"] 
+[Black "Miladinovic, Igor"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2489"] 
+[BlackElo "2572"] 
+[ECO "A00"] 
+[EventDate "2013.09.09"] 
+ 
+1.g3 d5 2.d3 e5 3.Nf3 Nc6 4.Bg2 f6 5.O-O Be6 6.c3 Nge7 7.Nbd2 Qd7 8.b4 Bh3 
+9.Bxh3 Qxh3 10.b5 Nd8 11.Qa4 Qd7 1/2-1/2 
+ 
+[Event "Czech Open A 2013"] 
+[Site "Pardubice CZE"] 
+[Date "2013.07.23"] 
+[Round "5.43"] 
+[White "Kireev, Aleksei"] 
+[Black "Vassallo Barroche, Mauricio"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2310"] 
+[BlackElo "2434"] 
+[ECO "A00"] 
+[EventDate "2013.07.19"] 
+ 
+1.g3 d5 2.d3 e5 3.e4 Nf6 4.Bg2 Nc6 5.Nd2 Bc5 6.Ngf3 O-O 7.O-O Re8 8.c3 a5  
+9.a4 h6 10.Qc2 Be6 11.exd5 Bxd5 12.Ne4 Nxe4 13.dxe4 Bc4 14.Re1 Qf6 15.Be3  
+Bxe3 16.Rxe3 Red8 17.Bf1 Be6 18.Ne1 Rd6 19.Rd1 Rad8 20.Red3 Qe7 21.Ng2 Bg4 
+22.Be2 Rxd3 23.Rxd3 Rxd3 24.Qxd3 Bxe2 1/2-1/2 
+ 
+[Event "Open 2013"] 
+[Site "Karvina CZE"] 
+[Date "2013.07.03"] 
+[Round "5.3"] 
+[White "Kireev, Aleksei"] 
+[Black "Kosiorek, Marek"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2310"] 
+[BlackElo "2340"] 
+[ECO "A00"] 
+[EventDate "2013.06.29"] 
+ 
+1.g3 d5 2.d3 e5 3.e4 dxe4 4.dxe4 Qxd1+ 5.Kxd1 Bc5 6.Bh3 Bxh3 7.Nxh3 h5 8. 
+Ke2 Nf6 9.f3 Nc6 10.c3 Nd7 11.a4 a6 12.Nd2 Ba7 13.Nc4 Nd8 14.Rd1 f6 15.b4  
+Nf7 16.Nf2 O-O-O 17.Nd3 Rhe8 18.b5 Re6 19.Nb4 Nb8 20.Nd5 Bc5 21.Ra2 Nd6  
+22.Nxd6+ Rdxd6 23.Ne3 Rxd1 24.Kxd1 Bxe3 25.Bxe3 Nd7 26.Kc2 g6 27.c4 c5 28. 
+Kc3 a5 29.g4 hxg4 30.fxg4 g5 31.h4 gxh4 32.Rh2 Rd6 33.Kc2 b6 34.Rxh4 Kd8  
+35.Rh6 Ke7 36.Rh7+ Ke8 37.Rh8+ Kf7 38.Rd8 Ke7 39.Ra8 Kf7 40.Rd8 Ke7 41.Ra8 
+Kf7 42.Rd8 1/2-1/2 
+ 
+[Event "Czech GM Open A"] 
+[Site "Pardubice CZE"] 
+[Date "2011.07.29"] 
+[Round "8.65"] 
+[White "Kireev, Aleksei"] 
+[Black "Lorscheid, Gerhard"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2360"] 
+[BlackElo "2265"] 
+[ECO "A00"] 
+[EventDate "2011.07.22"] 
+ 
+1.g3 d5 2.d3 e5 3.e4 dxe4 4.dxe4 Qxd1+ 5.Kxd1 Bc5 6.f3 Ne7 7.Bh3 Bxh3 8. 
+Nxh3 h5 9.Ke2 h4 10.g4 Nbc6 11.c3 a5 12.a4 f6 13.Nd2 g5 14.Nc4 Kf7 15.Nf2  
+Bxf2 16.Kxf2 Rhd8 17.Be3 Ke6 18.Rhd1 b6 19.b3 Ng6 20.Rd2 Rxd2+ 21.Bxd2 Nf4 
+22.Bxf4 exf4 23.Rd1 Rd8 24.Rxd8 Nxd8 25.Ke2 Nc6 26.Kd3 Kd7 27.Kd2 Ke6 28. 
+Kc2 Kd7 29.Kb2 Ne5 30.Nxe5+ fxe5 31.b4 c5 32.Kb3 h3 33.Kc4 Kc6 1/2-1/2 
+ 
+[Event "USCL 2008"] 
+[Site "Internet Chess Club INT"] 
+[Date "2008.10.15"] 
+[Round "8"] 
+[White "Nakamura, Hikaru"] 
+[Black "Altounian, Levon"] 
+[Result "1-0"] 
+[WhiteElo "2697"] 
+[BlackElo "2454"] 
+[ECO "A00"] 
+[EventDate "2008.10.22"] 
+ 
+1.g3 d5 2.d3 e5 3.Bg2 Nf6 4.Nd2 Bd6 5.e4 c6 6.Nh3 Bg4 7.f3 Bxh3 8.Bxh3 Qb6 
+9.Qe2 Nbd7 10.Nf1 O-O 11.Ne3 Rfe8 12.O-O Nc5 13.Kh1 Bf8 14.a4 Rad8 15.Bd2  
+Ne6 16.Bc3 Nd4 17.Qd2 Qc7 18.Bxd4 exd4 19.Nf5 h6 20.Rae1 c5 21.Bg2 Re6 22. 
+f4 dxe4 23.dxe4 Qb6 24.c4 dxc3 25.Qxc3 g6 26.Nh4 Red6 27.e5 Rd3 28.Qc1 Nd5 
+29.e6 fxe6 30.Nxg6 Nb4 31.f5 exf5 32.Qc4+ Kg7 33.Ne5 Qf6 34.Nxd3 Nxd3 35. 
+Re3 Nxb2 36.Qb5 Qb6 37.Rb3 Qxb5 38.Rxb5 Nxa4 39.Rxb7+ Kg6 40.Rxa7 Nc3 41. 
+Bh3 Rd5 42.Ra6+ Kg5 43.Bxf5 Bd6 44.h4+ Kh5 45.Kg2 Ne2 46.Be6 Rd2 47.Rf5+  
+Kg6 48.h5+ 1-0 
+ 
+[Event "Open Cup"] 
+[Site "Olomouc CZE"] 
+[Date "2006.08.06"] 
+[Round "4"] 
+[White "Kireev, Aleksei"] 
+[Black "Prokuronov, Eduard"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2382"] 
+[BlackElo "2274"] 
+[ECO "A00"] 
+[EventDate "2006.08.03"] 
+ 
+1.g3 d5 2.d3 e5 3.e4 dxe4 4.dxe4 Qxd1+ 5.Kxd1 Bc5 6.f3 Ne7 7.Bh3 Bxh3 8. 
+Nxh3 Nd7 9.Ke2 h5 10.Nd2 h4 11.g4 Ng6 12.Nc4 Ngf8 13.c3 Be7 14.Rd1 Ne6 15. 
+a4 O-O-O 16.b4 f6 17.Be3 Kb8 18.Rd3 Ndf8 19.Rxd8+ Bxd8 20.g5 Ng6 21.gxf6  
+gxf6 22.Rg1 Ne7 23.Rg4 f5 24.exf5 Nxf5 25.Nxe5 Re8 26.Re4 Nd6 27.Rg4 Nf5  
+28.Nc4 Bf6 29.Kd3 a6 30.Bd2 b5 31.axb5 axb5 32.Ne3 Nd6 33.Nd5 Bd8 34.f4 c6 
+35.Ne3 Bb6 36.Ng5 Nc7 37.Nf1 Nf5 38.Nf7 Nd5 39.Rg5 Nde7 40.Ke4 Rf8 41.Ne5  
+Kb7 42.Ng6 Nd6+ 43.Kf3 Nxg6 44.Rxg6 Nc4 45.Rg7+ Bc7 46.Bc1 Rd8 47.Ke2 Kc8  
+48.Re7 Rg8 49.Be3 Rg2+ 50.Kf3 Rc2 51.Bd4 Rc1 52.Ne3 Nxe3 53.Rxe3 Rf1+ 54. 
+Ke2 Rxf4 55.Re8+ Kd7 56.Rh8 Bd8 57.Be3 Rf7 58.Bd4 Rf4 59.h3 Rf7 60.Rg8 Be7 
+61.Ke3 Rf1 62.Rg7 Ke6 63.Rg6+ Kd7 64.Rg7 1/2-1/2 
+ 
+[Event "Open"] 
+[Site "Balatonlelle HUN"] 
+[Date "2004.07.25"] 
+[Round "7"] 
+[White "Nagy, Ervin Dr"] 
+[Black "Schwicker, Francois"] 
+[Result "1-0"] 
+[WhiteElo "2340"] 
+[BlackElo "2251"] 
+[ECO "A00"] 
+[EventDate "2004.07.19"] 
+ 
+1.g3 d5 2.d3 e5 3.Nf3 Bd6 4.Bg2 Nf6 5.O-O O-O 6.Nc3 c6 7.e4 dxe4 8.dxe4  
+Bg4 9.h3 Bh5 10.Be3 Qc7 11.Qc1 Nbd7 12.Nh4 Rfe8 13.Nf5 Bf8 14.Qe1 Nc5 15. 
+f3 Ne6 16.Qf2 Nd7 17.Rfd1 Bc5 18.Rd2 Bg6 19.Rad1 Bxf5 20.Rxd7 Qb6 21.Bxc5  
+Nxc5 22.exf5 Nxd7 23.Rxd7 Qxb2 24.Qd2 Rad8 25.f6 gxf6 26.Ne4 Qb6+ 27.Kh2  
+c5 28.Qh6 Re6 29.Qd2 Rxd7 30.Qxd7 Qc6 31.Qd8+ Kg7 32.g4 Re8 33.Qd2 Qc7 34. 
+Bf1 Rd8 35.Qc3 b6 36.Kg2 Qd7 37.g5 Qd4 38.gxf6+ Kh8 39.Qxd4 Rxd4 40.Kf2  
+Ra4 41.Nd6 Rxa2 42.Nxf7+ Kg8 43.Nxe5 Rxc2+ 44.Ke3 Kf8 45.Ba6 Rc1 46.Kd2  
+Rb1 47.Bc4 Rb4 48.Nd7+ Ke8 49.f7+ Kxd7 50.f8=Q Rxc4 51.Qf7+ 1-0 

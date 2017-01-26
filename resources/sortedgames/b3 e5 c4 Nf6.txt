@@ -1,0 +1,15 @@
+ 
+[Event "90. ch-Marshall CC"] 
+[Site "New York, NY USA"] 
+[Date "2006.12.10"] 
+[Round "9"] 
+[White "Privman, Boris"] 
+[Black "Treger, Effim"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2266"] 
+[BlackElo "2232"] 
+[ECO "A01"] 
+[EventDate "2006.12.01"] 
+ 
+1.b3 e5 2.c4 Nf6 3.Bb2 Nc6 4.g3 Bc5 5.Bg2 d6 6.Nc3 Bf5 7.Nf3 Nd4 8.d3 Qc8  
+9.O-O Bh3 10.e3 Nxf3+ 11.Qxf3 c6 12.Bxh3 1/2-1/2 

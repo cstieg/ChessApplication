@@ -1,0 +1,25 @@
+ 
+[Event "11. EICC Men"] 
+[Site "Rijeka CRO"] 
+[Date "2010.03.10"] 
+[Round "5"] 
+[White "Rasulov, Vugar"] 
+[Black "Chudinovskikh, Alexander M"] 
+[Result "0-1"] 
+[WhiteElo "2457"] 
+[BlackElo "2314"] 
+[ECO "B44"] 
+[EventDate "2010.03.06"] 
+ 
+1.c4 c5 2.e4 e6 3.Nf3 Nc6 4.Nc3 Nf6 5.d4 cxd4 6.Nxd4 Bb4 7.Nxc6 dxc6 8. 
+Qxd8+ Kxd8 9.Bd2 e5 10.O-O-O Kc7 11.a3 Bc5 12.f3 a5 13.g4 h6 14.Be2 Be6  
+15.h4 b6 16.Kc2 Rad8 17.Rb1 Bf2 18.Nd1 Bg3 19.Bc3 Nd7 20.Ne3 g6 21.h5 a4  
+22.Ng2 g5 23.b4 axb3+ 24.Rxb3 Nc5 25.Rb4 f6 26.Rhb1 Rb8 27.Ne3 Bf2 28.Bd2  
+Rhd8 29.Nd1 Bd4 30.Nc3 Rb7 31.Bf1 Ra8 32.Bc1 Bf7 33.Ne2 Ne6 34.R4b3 Bc5  
+35.Bb2 Ra4 36.Rd1 Rxc4+ 37.Kb1 Ra4 38.Rbd3 Kc8 39.Ng3 Nd4 40.Nf5 Bc4 41. 
+Rxd4 exd4 42.Bxc4 Rxc4 43.Nxh6 Kd7 44.Nf5 Ke6 45.h6 Rh7 46.Bxd4 Bxd4 47. 
+Nxd4+ Ke5 48.Nf5 Rc3 49.Rf1 Kf4 50.Rh1 Rxf3 51.Nd4 Kxg4 52.Nxf3 Kxf3 53. 
+Rf1+ Kxe4 54.Rxf6 g4 55.Rxc6 g3 56.Rg6 Kf3 57.Rxb6 g2 58.Rf6+ Kg3 59.Rg6+  
+Kh2 60.Kc2 g1=Q 61.Rxg1 Kxg1 62.a4 Kf2 63.Kc3 Ke3 64.Kc4 Ke4 65.a5 Ke5 66. 
+Kb5 Kd6 67.Kb6 Kd7 68.Kb7 Kd8+ 69.Kb8 Rxh6 70.Kb7 Rh1 71.a6 Rb1+ 72.Ka8  
+Kc7 73.a7 Kb6 74.Kb8 Ka6+ 75.Ka8 Rh1 0-1 

@@ -1,0 +1,19 @@
+ 
+[Event "25. Czech Rapid G1 2014"] 
+[Site "Pardubice CZE"] 
+[Date "2014.07.17"] 
+[Round "9.22"] 
+[White "Villegas, Pierre"] 
+[Black "Teske, Henrik"] 
+[Result "0-1"] 
+[WhiteElo "2291"] 
+[BlackElo "2512"] 
+[ECO "A40"] 
+[EventDate "2014.07.16"] 
+ 
+1.d4 Na6 2.e4 c5 3.d5 d6 4.Nf3 g6 5.Bb5+ Bd7 6.a4 Bg7 7.O-O Nc7 8.Be2 Nf6  
+9.Nc3 O-O 10.h3 a6 11.Bf4 b5 12.axb5 axb5 13.Rxa8 Qxa8 14.e5 Nfxd5 15.exd6 
+Nxf4 16.dxc7 Bxc3 17.bxc3 Qc6 18.Qd2 Qxc7 19.Rd1 Bc6 20.Qe3 Nxe2+ 21.Qxe2  
+Rd8 22.Rxd8+ Qxd8 23.Ne5 Be8 24.Qe3 Qd1+ 25.Kh2 Qd6 26.g3 c4 27.Nf3 Bc6  
+28.Nd4 Bd7 29.f4 f6 30.Kg1 Bxh3 31.Qf3 Bd7 32.Qb7 e5 33.fxe5 fxe5 34.Ne2  
+Bg4 35.Qe4 Qd1+ 36.Kf2 Qxe2+ 37.Qxe2 Bxe2 38.Kxe2 Kf7 0-1 

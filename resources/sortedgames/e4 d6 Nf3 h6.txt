@@ -1,0 +1,14 @@
+ 
+[Event "I Vecindario GM"] 
+[Site "Vecindario ESP"] 
+[Date "2013.08.06"] 
+[Round "8.3"] 
+[White "Herrera Reyes, Jose Antonio"] 
+[Black "Bressac, Stephane"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2205"] 
+[BlackElo "2231"] 
+[ECO "B07"] 
+[EventDate "2013.08.01"] 
+ 
+1.e4 d6 2.Nf3 h6 3.d4 g5 4.h3 1/2-1/2 

@@ -1,0 +1,54 @@
+ 
+[Event "Ulan-Ude RUS, Buddhist Sangha 2010"] 
+[Site "Ulan-Ude RUS"] 
+[Date "2010.06.06"] 
+[Round "3"] 
+[White "Kuderinov, Kirill"] 
+[Black "Pushkarev, Dmitry"] 
+[Result "1-0"] 
+[WhiteElo "2459"] 
+[BlackElo "2432"] 
+[ECO "A00"] 
+[EventDate "2010.06.06"] 
+ 
+1.a3 g6 2.e4 Bg7 3.Nf3 d6 4.Bc4 c5 5.O-O Nc6 6.Nc3 e6 7.d3 Nge7 8.Bg5 h6  
+9.Bh4 g5 10.Bg3 f5 11.exf5 exf5 12.Re1 f4 13.Bxf4 gxf4 14.Nh4 Ne5 15.Qh5+  
+Kd7 16.d4 cxd4 17.Nb5 Bf6 18.Nf3 Qe8 19.Rxe5 Qxh5 20.Rxh5 d3 21.Bxd3 Bxb2  
+22.Rb1 Bg7 23.Re1 Re8 24.Rd1 Rf8 25.Be4 d5 26.Ne5+ Ke6 27.Nc7+ Kd6 28.Nxa8 
+Bxe5 29.Bxd5 Nxd5 30.c4 Be6 31.cxd5 Bg4 32.Rxh6+ 1-0 
+ 
+[Event "FSGM March"] 
+[Site "Budapest HUN"] 
+[Date "2007.03.06"] 
+[Round "4"] 
+[White "Varga, Csaba Zoltan"] 
+[Black "Bosiocic, Marin"] 
+[Result "0-1"] 
+[WhiteElo "2342"] 
+[BlackElo "2474"] 
+[ECO "A00"] 
+[EventDate "2007.03.03"] 
+ 
+1.a3 g6 2.e4 Bg7 3.d4 c6 4.Nf3 d5 5.e5 Nh6 6.h4 Bg4 7.h5 gxh5 8.Be2 Qb6 9. 
+Nc3 Nd7 10.Na4 Qc7 11.Bf4 Nf5 12.Qd2 e6 13.O-O-O b5 14.Nc3 Nf8 15.g3 Ng6  
+16.Bg5 h6 17.Bf6 Bxf6 18.exf6 Bxf3 19.Bxf3 Qd8 20.Rxh5 Qxf6 21.Bg4 Nd6 22. 
+f4 Ne7 23.Bf3 Nef5 24.Qe1 O-O-O 25.Ne2 Rdg8 26.Rd3 Nxg3 27.Rh3 Nxe2+ 28. 
+Bxe2 Qxf4+ 29.Kb1 Kb7 30.a4 a6 0-1 
+ 
+[Event "Tournament (team) (juniors)"] 
+[Site "Evpatoria UKR"] 
+[Date "2006.05.06"] 
+[Round "3"] 
+[White "Kislinsky, Alexey"] 
+[Black "Vovk, Yuri"] 
+[Result "0-1"] 
+[WhiteElo "2445"] 
+[BlackElo "2421"] 
+[ECO "A00"] 
+ 
+1.a3 g6 2.e4 Bg7 3.d4 d6 4.Nc3 Nf6 5.Bg5 c6 6.Qd2 O-O 7.f4 b5 8.Bd3 a5 9. 
+Nf3 Bg4 10.O-O Qb6 11.Ne2 Nbd7 12.Kh1 d5 13.e5 Ne4 14.Qe3 f6 15.Bh4 Rfe8  
+16.Bxe4 dxe4 17.Qxe4 Bf5 18.Qe3 Bxc2 19.Rac1 Bf5 20.Ng3 Be6 21.f5 Bc4 22. 
+fxg6 hxg6 23.Rf2 Nxe5 24.Nxe5 fxe5 25.Qe4 Kh7 26.Rf5 gxf5 27.Nxf5 Bd5 28. 
+Qg4 Bh6 29.Bg5 Rg8 30.Nxh6 Qxd4 31.Qh3 Rxg5 32.Nf5+ Kg8 33.Nxd4 exd4 34. 
+Rg1 Rf8 35.Qd3 Rf2 36.Qxd4 Rfxg2 37.Rxg2 Rxg2 38.Qa7 Rg4# 0-1 

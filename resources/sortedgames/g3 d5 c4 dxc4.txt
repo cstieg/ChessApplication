@@ -1,0 +1,114 @@
+ 
+[Event "Oslo GM Open"] 
+[Site "Oslo NOR"] 
+[Date "2011.10.03"] 
+[Round "2.5"] 
+[White "Moor, Roger"] 
+[Black "Rozentalis, Eduardas"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2402"] 
+[BlackElo "2575"] 
+[ECO "A09"] 
+[EventDate "2011.10.02"] 
+ 
+1.g3 d5 2.c4 dxc4 3.Nf3 b5 4.a4 b4 5.Bg2 Bb7 6.Qc2 Bd5 7.d3 cxd3 8.Qxd3  
+Nf6 9.O-O Nbd7 10.Bf4 e6 11.Nbd2 Nc5 12.Qc2 b3 13.Qc3 Be7 14.Qa5 c6 15.Bc7 
+Qc8 16.Be5 Qb7 17.Rfc1 Nce4 18.Nxe4 Nxe4 19.Nd4 Bb4 20.Qc7 Qxc7 21.Bxc7  
+Rc8 22.Bf4 f5 23.f3 Nf6 24.e4 fxe4 25.fxe4 Nxe4 26.Nxe6 Kf7 27.Nc7 Ba5 28. 
+Nxd5 cxd5 29.Be3 Bb6 30.Rf1+ Kg6 31.Bxb6 axb6 32.Rad1 Nf6 33.Bxd5 Rc2 34. 
+Bxb3 Rxb2 35.Be6 Re8 36.Bf5+ Kh6 37.Rf2 Ree2 1/2-1/2 
+ 
+[Event "TCh-ESP Selecciones Autonomicas"] 
+[Site "Gijon ESP"] 
+[Date "2011.04.29"] 
+[Round "1.3"] 
+[White "Garcia Castro, Pablo"] 
+[Black "Cenal Gutierrez, Ruben"] 
+[Result "1-0"] 
+[WhiteElo "2399"] 
+[BlackElo "2291"] 
+[ECO "A00"] 
+[EventDate "2011.04.29"] 
+ 
+1.g3 d5 2.c4 dxc4 3.Bg2 c6 4.Nf3 Nf6 5.Qc2 Qc7 6.Na3 e5 7.Nxc4 Nbd7 8.O-O  
+b5 9.Ncxe5 Bb7 10.d4 Bd6 11.Bf4 Nd5 12.Nxf7 Nxf4 13.Nxh8 Nxg2 14.Qxh7 Nf8  
+15.Qe4+ Qe7 16.Qxe7+ Kxe7 17.Kxg2 c5 18.dxc5 Be5 19.e4 Bxb2 20.Rab1 Bf6  
+21.c6 Bxc6 22.Rbc1 Rc8 23.e5 Bxe5 24.Rxc6 Rxc6 25.Nxe5 Ra6 26.Rb1 Rb6 27. 
+f4 Ne6 28.Rd1 a5 29.Rd7+ Ke8 30.Nhg6 a4 31.Ra7 Nc5 32.Ra8+ 1-0 
+ 
+[Event "Ch Finland (team) 2005/06"] 
+[Site "Finland"] 
+[Date "2006.03.11"] 
+[Round "8"] 
+[White "Natri, Antero"] 
+[Black "Norri, Joose"] 
+[Result "1-0"] 
+[WhiteElo "2226"] 
+[BlackElo "2370"] 
+[ECO "A00"] 
+ 
+1.g3 d5 2.c4 dxc4 3.Bg2 Nf6 4.Nf3 g6 5.Qc2 Bg7 6.Qxc4 O-O 7.Nc3 Nfd7 8.d3  
+e5 9.Bg5 Nb6 10.Bxd8 Nxc4 11.Bxc7 Nxb2 12.Bxe5 f6 13.Bd6 Re8 14.O-O f5 15. 
+Nd5 Na6 16.Ne7+ Kh8 17.Ng5 Bf6 18.Nxc8 Raxc8 19.Bxb7 Bxg5 20.Bxc8 Rxc8 21. 
+Be5+ Kg8 22.Bxb2 Rc2 23.Bd4 Rxe2 24.Bxa7 Nb4 25.a4 Nxd3 26.Rad1 Nb2 27.Rd4 
+Bf6 28.Rb4 Bc3 29.Rb8+ Kf7 30.a5 Bxa5 31.Rb7+ Ke6 32.Rxh7 Nd3 33.Rb7 g5  
+34.Rb3 Ne1 35.Re3+ Rxe3 36.Bxe3 g4 37.Kh1 Kd5 38.h4 gxh3 39.Kh2 Ke4 40. 
+Kxh3 Kf3 41.Rg1 Nd3 42.Rd1 Ke2 43.Rb1 Bb4 44.Rb3 Bd6 45.Rb5 Ne5 46.Bf4 1-0 
+ 
+[Event "TCh-FIN 2005-6"] 
+[Site "Espoo FIN"] 
+[Date "2006.03.11"] 
+[Round "8"] 
+[White "Natri, Antero"] 
+[Black "Norri, Joose"] 
+[Result "1-0"] 
+[WhiteElo "2226"] 
+[BlackElo "2370"] 
+[ECO "A00"] 
+[EventDate "2006.01.14"] 
+ 
+1.g3 d5 2.c4 dxc4 3.Bg2 Nf6 4.Nf3 g6 5.Qc2 Bg7 6.Qxc4 O-O 7.Nc3 Nfd7 8.d3  
+e5 9.Bg5 Nb6 10.Bxd8 Nxc4 11.Bxc7 Nxb2 12.Bxe5 f6 13.Bd6 Re8 14.O-O f5 15. 
+Nd5 Na6 16.Ne7+ Kh8 17.Ng5 Bf6 18.Nxc8 Raxc8 19.Bxb7 Bxg5 20.Bxc8 Rxc8 21. 
+Be5+ Kg8 22.Bxb2 Rc2 23.Bd4 Rxe2 24.Bxa7 Nb4 25.a4 Nxd3 26.Rad1 Nb2 27.Rd4 
+Bf6 28.Rb4 Bc3 29.Rb8+ Kf7 30.a5 Bxa5 31.Rb7+ Ke6 32.Rxh7 Nd3 33.Rb7 g5  
+34.Rb3 Ne1 35.Re3+ Rxe3 36.Bxe3 g4 37.Kh1 Kd5 38.h4 gxh3 39.Kh2 Ke4 40. 
+Kxh3 Kf3 41.Rg1 Nd3 42.Rd1 Ke2 43.Rb1 Bb4 44.Rb3 Bd6 45.Rb5 Ne5 46.Bf4 1-0 
+ 
+[Event "Curacao Open"] 
+[Site "Willemstad AHO"] 
+[Date "2003.10.31"] 
+[Round "6"] 
+[White "Gallegos, Carlos"] 
+[Black "Greenfeld, Alon"] 
+[Result "0-1"] 
+[WhiteElo "2460"] 
+[BlackElo "2527"] 
+[ECO "A00"] 
+[EventDate "2003.10.25"] 
+ 
+1.g3 d5 2.c4 dxc4 3.Bg2 c6 4.Na3 Be6 5.Qc2 g6 6.Nxc4 Bg7 7.Nf3 Nf6 8.O-O  
+O-O 9.d4 Na6 10.Ng5 Qxd4 11.Nxe6 fxe6 12.Rd1 Qc5 13.Be3 Qh5 14.Bf3 Ng4 15. 
+Bxg4 Qxg4 16.Rd7 b6 17.a3 Qf5 18.Qxf5 exf5 19.Rxe7 Rfd8 20.Ne5 Bxe5 21. 
+Rxe5 Kf7 22.Bg5 Re8 23.Rxe8 Rxe8 24.Rd1 Nc5 25.Be3 Ne4 26.Rd3 Nf6 27.Rd2  
+Ke6 28.f3 Re7 29.Bg5 Rd7 30.Rc2 c5 31.b4 Rd1+ 32.Kf2 Nd7 33.Rc3 Kd5 34.Re3 
+Ne5 35.bxc5 bxc5 36.Bf4 Nc6 37.Rb3 Ra1 38.Rd3+ Kc4 39.Be3 Nd4 40.Bxd4 cxd4 
+41.Rd2 Kc3 42.Rd3+ Kc4 43.Rd2 a5 44.Rc2+ Kb3 45.Rc7 Ra2 46.Rd7 Rxa3 47. 
+Rxd4 Kb2 48.Rd7 a4 49.Rxh7 Rb3 50.e4 fxe4 51.fxe4 0-1 
+ 
+[Event "chT"] 
+[Site "Bled SLO"] 
+[Date "2000.10.17"] 
+[Round "4"] 
+[White "Jeras, Iztok"] 
+[Black "Mikhalchishin, Adrian"] 
+[Result "0-1"] 
+[WhiteElo "2259"] 
+[BlackElo "2544"] 
+[ECO "A09"] 
+[EventDate "2000.10.14"] 
+ 
+1.g3 d5 2.c4 dxc4 3.Nf3 g6 4.Bg2 Bg7 5.O-O c6 6.a4 Nf6 7.Na3 Qd5 8.Qc2 Be6 
+9.Ne1 Qh5 10.Nf3 Qd5 11.Ne1 Qd4 12.e3 Qg4 13.e4 O-O 14.Nxc4 Rd8 15.d3 Qh5  
+16.Rb1 c5 17.f3 Nc6 18.Qf2 Nd4 19.e5 Bxc4 20.exf6 Ba2 21.Ra1 Nb3 22.Rxa2  
+Nxc1 23.Ra3 Bxf6 24.Qd2 Bd4+ 25.Rf2 Qe5 26.Qxc1 Qe2 0-1 

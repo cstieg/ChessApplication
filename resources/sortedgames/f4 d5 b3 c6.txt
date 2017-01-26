@@ -1,0 +1,41 @@
+ 
+[Event "5. Stadium Casablanca Open"] 
+[Site "Zaragoza ESP"] 
+[Date "2011.12.27"] 
+[Round "5"] 
+[White "Chueca Forcen, Alberto"] 
+[Black "Cifuentes Parada, Roberto"] 
+[Result "0-1"] 
+[WhiteElo "2350"] 
+[BlackElo "2523"] 
+[ECO "A03"] 
+[EventDate "2011.12.23"] 
+ 
+1.f4 d5 2.b3 c6 3.Bb2 Bg4 4.h3 Bh5 5.g4 Bg6 6.Bg2 e6 7.Nf3 Nd7 8.e3 Ngf6  
+9.d3 Qa5+ 10.Nbd2 Ba3 11.Bxa3 Qxa3 12.Nh4 Qc5 13.Ke2 h6 14.Nxg6 fxg6 15. 
+Nf3 Qd6 16.Qe1 O-O-O 17.Qc3 Qc7 18.Ne5 Nxe5 19.fxe5 Nd7 20.d4 Rdf8 21.Qd3  
+Qd8 22.Qxg6 Qh4 23.Rhf1 Qg3 24.Bf3 Qxh3 25.Rf2 Qg3 26.Qxe6 Re8 27.Qg6 Nxe5 
+28.dxe5 Rxe5 29.Rd1 Rhe8 30.Rd3 Qg1 31.Rc3 R5e6 32.Qf5 g6 33.Qf4 d4 34. 
+Qxd4 Rd8 35.Bd5 Red6 36.Rf1 Qh2+ 37.Rf2 Qh4 38.Qe4 Rxd5 39.Qe6+ Kb8 40.Rd3 
+Qg5 41.Rxd5 cxd5 42.Qf6 Qxg4+ 43.Kd2 Qd7 44.Qxg6 d4 45.Qg3+ Ka8 46.e4 Qe7  
+47.e5 Qb4+ 48.Kd1 a6 49.e6 d3 50.cxd3 Qe4 51.Kd2 Qxe6 52.Qe3 Qd6 53.Qe4  
+Qa3 54.Ke3 Qc1+ 55.Ke2 Rc8 56.Kf3 Qd1+ 57.Qe2 Rf8+ 58.Kg4 Rg8+ 59.Kf5 Qg1  
+60.Qb2 Qxf2+ 0-1 
+ 
+[Event "FSGM May"] 
+[Site "Budapest HUN"] 
+[Date "2011.05.10"] 
+[Round "5.2"] 
+[White "Chernyshov, Konstantin"] 
+[Black "Szabo, Ben"] 
+[Result "1-0"] 
+[WhiteElo "2564"] 
+[BlackElo "2350"] 
+[ECO "A03"] 
+[EventDate "2011.05.07"] 
+ 
+1.f4 d5 2.b3 c6 3.Bb2 Nf6 4.Nf3 Qc7 5.e3 Nbd7 6.c4 e6 7.Nc3 Be7 8.Rc1 O-O  
+9.Bd3 dxc4 10.bxc4 c5 11.O-O b6 12.Qe1 Bb7 13.Qh4 Rfe8 14.g4 Nf8 15.g5 Qd8 
+16.Bb1 N6d7 17.Qg3 Nb8 18.Ne4 Nbd7 19.Rf2 f5 20.gxf6 Nxf6 21.Rg2 g6 22. 
+Neg5 Nh5 23.Qh3 Bxg5 24.Rxg5 Ng7 25.Bc3 Nd7 26.Bxg6 hxg6 27.Rxg6 Re7 28. 
+Ng5 Nf8 29.Qh6 1-0 

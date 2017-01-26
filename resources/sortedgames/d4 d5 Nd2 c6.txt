@@ -1,0 +1,19 @@
+ 
+[Event "Open"] 
+[Site "Prague CZE"] 
+[Date "2010.01.09"] 
+[Round "2"] 
+[White "Drazic, Sinisa"] 
+[Black "Ganaus, Hannes"] 
+[Result "1-0"] 
+[WhiteElo "2540"] 
+[BlackElo "2282"] 
+[ECO "B12"] 
+[EventDate "2010.01.08"] 
+ 
+1.d4 d5 2.Nd2 c6 3.e4 h6 4.Ngf3 Nf6 5.e5 Nh5 6.Nb3 g6 7.h3 a5 8.a4 b6 9. 
+Be3 Ng7 10.g4 Ba6 11.Nfd2 e6 12.c3 Qc7 13.Bxa6 Nxa6 14.Qe2 Qd7 15.O-O Kd8  
+16.Nc1 Kc8 17.Nd3 h5 18.Rfc1 hxg4 19.hxg4 Kb7 20.Rab1 Be7 21.Qf3 Rh4 22. 
+Kf1 Qe8 23.Ke2 Qg8 24.b4 axb4 25.cxb4 Nb8 26.a5 b5 27.Nb3 Na6 28.Nbc5+  
+Nxc5 29.Nxc5+ Bxc5 30.Rxc5 Ne8 31.Rbc1 Ra6 32.Bf4 Rh7 33.Qc3 f6 34.Rxc6 g5 
+35.Rxa6 Kxa6 36.Qc6+ Ka7 37.Qb6+ Ka8 38.Rc8# 1-0 

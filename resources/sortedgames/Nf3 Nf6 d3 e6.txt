@@ -1,0 +1,62 @@
+ 
+[Event "18. Belgrade Trophy"] 
+[Site "Obrenovac SCG"] 
+[Date "2005.11.27"] 
+[Round "6"] 
+[White "Certic, Branimir"] 
+[Black "Rajkovic, Dusan"] 
+[Result "0-1"] 
+[WhiteElo "2406"] 
+[BlackElo "2484"] 
+[ECO "A05"] 
+[EventDate "2005.11.22"] 
+ 
+1.Nf3 Nf6 2.d3 e6 3.g3 b5 4.Bg2 Bb7 5.e4 d6 6.O-O Be7 7.a4 b4 8.c3 a5 9. 
+Nd4 Nfd7 10.Nd2 O-O 11.N2b3 Nc6 12.Be3 Nxd4 13.cxd4 Nb6 14.f4 Qd7 15.Nd2  
+f5 16.b3 Ba6 17.Qc2 fxe4 18.Nxe4 Nd5 19.Bf2 Rae8 20.Rfe1 Bd8 21.Rac1 Qf7  
+22.Qe2 Qg6 23.Rc6 Bb7 24.Rc2 Rf5 25.Kh1 Ref8 26.Bg1 Kh8 27.Qd1 h5 28.Bh3  
+h4 29.Qg4 Qh6 30.Rg2 Nf6 31.Nxf6 R8xf6 32.Rxe6 Rxe6 33.Qxf5 Re8 34.d5 Bf6  
+35.gxh4 Bc8 36.Qxc8 Rxc8 37.Bxc8 Qxf4 38.h5 Qf3 39.Be6 Kh7 40.h3 Qxd3 41. 
+Bf2 Qxb3 42.Rg3 Qb1+ 43.Kg2 Qe4+ 44.Rf3 b3 45.Bf7 Kh8 46.Bg6 Qxd5 47.Be3  
+b2 48.Kg3 Qd1 0-1 
+ 
+[Event "It (open) \"] 
+[Site "Obrenovac YUG"] 
+[Date "2005.11.??"] 
+[Round "6"] 
+[White "Certic, Branimir"] 
+[Black "Rajkovic, Dusan"] 
+[Result "0-1"] 
+[WhiteElo "2406"] 
+[BlackElo "2484"] 
+[ECO "A05"] 
+ 
+1.Nf3 Nf6 2.d3 e6 3.g3 b5 4.Bg2 Bb7 5.e4 d6 6.O-O Be7 7.a4 b4 8.c3 a5 9. 
+Nd4 Nfd7 10.Nd2 O-O 11.N2b3 Nc6 12.Be3 Nxd4 13.cxd4 Nb6 14.f4 Qd7 15.Nd2  
+f5 16.b3 Ba6 17.Qc2 fxe4 18.Nxe4 Nd5 19.Bf2 Rae8 20.Rfe1 Bd8 21.Rac1 Qf7  
+22.Qe2 Qg6 23.Rc6 Bb7 24.Rc2 Rf5 25.Kh1 Ref8 26.Bg1 Kh8 27.Qd1 h5 28.Bh3  
+h4 29.Qg4 Qh6 30.Rg2 Nf6 31.Nxf6 R8xf6 32.Rxe6 Rxe6 33.Qxf5 Re8 34.d5 Bf6  
+35.gxh4 Bc8 36.Qxc8 Rxc8 37.Bxc8 Qxf4 38.h5 Qf3 39.Be6 Kh7 40.h3 Qxd3 41. 
+Bf2 Qxb3 42.Rg3 Qb1+ 43.Kg2 Qe4+ 44.Rf3 b3 45.Bf7 Kh8 46.Bg6 Qxd5 47.Be3  
+b2 48.Kg3 Qd1 0-1 
+ 
+[Event "Open"] 
+[Site "Presov SVK"] 
+[Date "2001.08.18"] 
+[Round "8"] 
+[White "Titu, Maiorescu-Dorin"] 
+[Black "Maryasin, Boris"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2294"] 
+[BlackElo "2394"] 
+[ECO "C00"] 
+[EventDate "2001.08.11"] 
+ 
+1.Nf3 Nf6 2.d3 e6 3.e4 d5 4.Nbd2 Nc6 5.c3 Bd6 6.Be2 O-O 7.a3 a5 8.O-O b6  
+9.Re1 Bb7 10.Bf1 dxe4 11.dxe4 Ng4 12.h3 Nge5 13.Nd4 Ng6 14.N2f3 Nce5 15. 
+Bg5 Nxf3+ 16.Nxf3 f6 17.Bc1 e5 18.Qc2 Qe7 19.Rb1 Kh8 20.b4 axb4 21.axb4  
+Nf4 22.Nh4 g6 23.g3 Ne6 24.Be3 Ng5 25.Bxg5 fxg5 26.Ng2 Qe6 27.Kh2 Qf7 28. 
+Rb2 h5 29.Ne3 Bc8 30.Bg2 c6 31.Rd1 Bc7 32.c4 Be6 33.Qc3 Rad8 34.Rxd8 Rxd8  
+35.c5 b5 36.Rd2 Qf6 37.Rxd8+ Qxd8 38.Qa3 Qd7 39.Qa7 Kg7 40.Qb7 Kf7 41.Nc2  
+g4 42.hxg4 Bxg4 43.Ne1 Bd8 44.Qxd7+ Bxd7 45.Bh3 Be8 46.Nf3 Bf6 47.g4 hxg4  
+1/2-1/2 

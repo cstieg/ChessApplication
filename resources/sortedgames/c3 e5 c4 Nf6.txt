@@ -1,0 +1,35 @@
+ 
+[Event "Ch Netherlands Open"] 
+[Site "Dieren NED"] 
+[Date "2003.??.??"] 
+[Round "7"] 
+[White "Duijker, Rick"] 
+[Black "De Wit, Tex"] 
+[Result "1-0"] 
+[WhiteElo "2222"] 
+[BlackElo "2223"] 
+[ECO "A00"] 
+ 
+1.c3 e5 2.c4 Nf6 3.Nc3 d5 4.cxd5 Nxd5 5.Nf3 Nc6 6.d3 Bc5 7.e3 Be6 8.Be2  
+Qe7 9.O-O O-O-O 10.a3 Bb6 11.Qc2 Rhg8 12.b4 g5 13.Na4 g4 14.Nxb6+ axb6 15. 
+Nd2 Qh4 16.g3 Qh3 17.Re1 Rg6 18.Bf1 Qh5 19.Bg2 f5 20.b5 Nce7 21.Nf1 f4 22. 
+exf4 exf4 23.gxf4 Nf5 24.Re5 Qh6 25.Qa4 Kb8 26.Ng3 Nxg3 27.hxg3 Qg7 28.Bb2 
+Qf7 29.Qe4 Rf6 30.Re1 Bf5 31.Qc4 c6 32.Rxd5 cxd5 33.Be5+ Rfd6 34.Bxd5 Qd7  
+35.Be4 Be6 36.Qb4 Ka7 37.Qa4+ Kb8 38.Rc1 Bf5 1-0 
+ 
+[Event "Alushta"] 
+[Site "Alushta UKR"] 
+[Date "2000.??.??"] 
+[Round "6"] 
+[White "Belov, Vladimir"] 
+[Black "Sharapov, Evgeny"] 
+[Result "1-0"] 
+[WhiteElo "2389"] 
+[BlackElo "2387"] 
+[ECO "A00"] 
+ 
+1.c3 e5 2.c4 Nf6 3.d3 d5 4.cxd5 Nxd5 5.Nf3 Nc6 6.a3 f6 7.e3 Be6 8.b4 g5 9. 
+h3 Qd7 10.Nbd2 h5 11.b5 Na5 12.d4 O-O-O 13.dxe5 Bc5 14.Qc2 Bb6 15.exf6 Bf5 
+16.e4 Rhe8 17.Bb2 g4 18.hxg4 hxg4 19.Ne5 Qd6 20.O-O-O Bxf2 21.Ndc4 Nxc4  
+22.Bxc4 Rxe5 23.Qxf2 Bxe4 24.Bxe5 Qxe5 25.Qd4 Qg5+ 26.Kb2 Bxg2 27.Bxd5  
+Bxd5 28.Rh8 Kd7 29.Rh7+ Ke6 30.Re7+ Kd6 31.Qb4+ c5 32.bxc6+ Kxc6 1-0 

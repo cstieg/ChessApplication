@@ -1,0 +1,21 @@
+ 
+[Event "FIDE World Blitz 2013"] 
+[Site "Khanty-Mansiysk RUS"] 
+[Date "2013.06.09"] 
+[Round "2.24"] 
+[White "Akbaev, Kazbek"] 
+[Black "Potkin, Vladimir"] 
+[Result "0-1"] 
+[WhiteElo "2475"] 
+[BlackElo "2647"] 
+[ECO "C01"] 
+[EventDate "2013.06.09"] 
+ 
+1.Nf3 d5 2.e4 e6 3.exd5 exd5 4.d4 Nf6 5.Bd3 Be7 6.O-O O-O 7.Ne5 c5 8.c3  
+Nc6 9.Be3 cxd4 10.cxd4 Be6 11.Nc3 Rc8 12.f4 Qb6 13.Nxc6 Rxc6 14.Rb1 Bb4  
+15.Na4 Qd8 16.a3 Bd6 17.Nc3 Re8 18.Qf3 Bg4 19.Qg3 Bxa3 20.Bb5 Bb4 21.Bxc6  
+bxc6 22.h3 Bf5 23.Qf2 Bxb1 24.Rxb1 h6 25.f5 Qe7 26.Bf4 Ne4 27.Nxe4 Qxe4  
+28.Rc1 Qxf5 29.Qg3 Re6 30.Be5 Rg6 31.Qb3 a5 32.Rf1 Qe4 33.Qf3 Qxf3 34.Rxf3 
+Re6 35.Rg3 f6 36.Bf4 Kf7 37.Kh2 Re4 38.Bc7 Rxd4 39.Rf3 Re4 40.Rf1 Re7 41. 
+Bb6 Rb7 42.Bd4 c5 43.Be3 d4 44.Bf4 c4 45.g4 c3 46.bxc3 Bxc3 47.h4 a4 48.g5 
+hxg5 49.hxg5 a3 50.gxf6 gxf6 51.Kg3 a2 52.Kg4 a1=Q 53.Rxa1 Bxa1 0-1 

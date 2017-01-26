@@ -1,0 +1,20 @@
+ 
+[Event "44. Marcel Duchamp"] 
+[Site "Buenos Aires ARG"] 
+[Date "2013.03.24"] 
+[Round "3.6"] 
+[White "Perez Pietronave, Carlos"] 
+[Black "Garcia Palermo, Carlos"] 
+[Result "0-1"] 
+[WhiteElo "2203"] 
+[BlackElo "2460"] 
+[ECO "A02"] 
+[EventDate "2013.03.23"] 
+ 
+1.f4 b6 2.Nc3 Bb7 3.e4 e6 4.Nf3 Bb4 5.d3 d5 6.Bd2 dxe4 7.dxe4 Nf6 8.Bb5+  
+Nbd7 9.e5 Bxc3 10.Bxc3 Nd5 11.Bd2 a6 12.Be2 Nc5 13.c4 Ne7 14.Be3 Nf5 15. 
+Bxc5 bxc5 16.Qa4+ Qd7 17.Qxd7+ Kxd7 18.Kf2 Bxf3 19.Bxf3 Rab8 20.Rhd1+ Ke7  
+21.Rab1 Rb4 22.b3 Nd4 23.Be4 h5 24.h4 a5 25.Rd2 Rhb8 26.Rdd1 R8b6 27.Ke3  
+a4 28.bxa4 Rxa4 29.Rxb6 cxb6 30.Rb1 Ra3+ 31.Kf2 Rxa2+ 32.Kf1 Ra6 33.Bb7  
+Ra4 34.Rxb6 Rxc4 35.Be4 Nf5 36.Rb7+ Kd8 37.Bf3 Rxf4 38.Kg1 Nxh4 39.Bxh5 g6 
+40.g3 Re4 41.Rxf7 gxh5 42.gxh4 Rxh4 43.Rh7 Rg4+ 0-1 

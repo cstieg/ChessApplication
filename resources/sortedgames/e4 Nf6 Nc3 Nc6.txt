@@ -1,0 +1,47 @@
+ 
+[Event "TCh-ESP Premier North"] 
+[Site "Barcelona ESP"] 
+[Date "2005.08.12"] 
+[Round "2"] 
+[White "Navarrete Delgado, Sergio"] 
+[Black "Limeres Guiance, Cristobal"] 
+[Result "1-0"] 
+[WhiteElo "2207"] 
+[BlackElo "2272"] 
+[ECO "B00"] 
+[EventDate "2005.08.01"] 
+ 
+1.e4 Nf6 2.Nc3 Nc6 3.d4 d5 4.e5 Ne4 5.Nxe4 dxe4 6.Be3 Bf5 7.Bb5 a6 8.Bxc6+ 
+bxc6 9.Qd2 e6 10.Qc3 Qd5 11.Ne2 Rb8 12.O-O Be7 13.b3 O-O 14.Qd2 f6 15.c4  
+Qd7 16.Bf4 Bg4 17.Ng3 Rbd8 18.h3 Bf5 19.Rad1 Bg6 20.Qe3 f5 21.c5 Ra8 22. 
+Ne2 Bh5 23.f3 exf3 24.gxf3 a5 25.Nc3 Rf7 26.Kh2 h6 27.Rg1 Kh7 28.Qe2 g5  
+29.Be3 Rg8 30.Rg2 Qc8 31.Rdg1 Rg6 32.Qf2 Rfg7 33.Ne2 f4 34.Bd2 Qa6 35.Nc1  
+Rg8 36.Qf1 Ra8 37.Rf2 Qxf1 38.Rgxf1 a4 39.b4 Rgg8 40.Nd3 Bg6 41.Nc1 Bf5  
+42.Rg1 Rgd8 43.Bc3 Kg7 44.Rb2 Kf7 45.Rd2 Rg8 46.Nd3 h5 47.Nf2 Rg6 48.Kg2  
+Rag8 49.Kf1 Rb8 50.Rb2 Ke8 51.Ke2 Kd7 52.a3 Rb5 53.Be1 Kc8 54.Kd2 Kb7 55. 
+Kc3 Ka6 56.Kc4 Rb8 57.Bd2 Rd8 58.Bc3 Rb8 59.Bd2 Rgg8 60.Nd1 Bxh3 61.Nc3  
+Rgf8 62.b5+ cxb5+ 63.Nxb5 c6 64.Nc7+ Ka7 65.Rgb1 Bf5 66.Ba5 Bxb1 67.Bb6+  
+Kb7 68.Rxb1 Kc8 69.Nxe6 Rg8 70.d5 cxd5+ 71.Kxd5 Bd8 72.Kd6 Rg6 73.Kd5 Bxb6 
+74.cxb6 Rb7 75.Rc1+ Kb8 76.Nc5 Rgxb6 77.Nxb7 Rxb7 78.e6 g4 79.Ke5 gxf3 80. 
+Kf6 Rb3 81.e7 Re3 82.Rf1 Kc7 83.Rxf3 Re4 84.Kf7 Kd6 85.Rd3+ Kc5 86.e8=Q  
+Rxe8 87.Kxe8 h4 88.Rf3 h3 89.Rxf4 1-0 
+ 
+[Event "Nationale II 2002/03 FRA"] 
+[Site "FRA"] 
+[Date "2003.02.02"] 
+[Round "7.3"] 
+[White "Bastian, Herbert"] 
+[Black "Lisanti, Andre"] 
+[Result "1-0"] 
+[WhiteElo "2372"] 
+[BlackElo "2284"] 
+[ECO "B00"] 
+[EventDate "2002.10.13"] 
+ 
+1.e4 Nf6 2.Nc3 Nc6 3.d4 d5 4.e5 Ne4 5.Be3 Nxc3 6.bxc3 Bf5 7.Ne2 Qd7 8.Ng3  
+Bg4 9.f3 Be6 10.Bd3 Na5 11.f4 g6 12.Qf3 Bg4 13.Qf2 h5 14.f5 O-O-O 15.O-O  
+h4 16.Ne2 h3 17.g3 Nc4 18.fxg6 fxg6 19.Bg5 Qc6 20.Nf4 Bf5 21.Bxf5+ gxf5  
+22.Nd3 e6 23.Bxd8 Kxd8 24.Qf4 Na3 25.Qg5+ Be7 26.Qg7 Re8 27.Nf4 Nxc2 28. 
+Rac1 Ne3 29.Rf3 Ba3 30.Re1 Ng4 31.Nxh3 Qc4 32.Nf4 Qxa2 33.Re2 Qa1+ 34.Kg2  
+Bc1 35.Nxd5 exd5 36.e6 Qa4 37.Rxf5 Ne3+ 38.Rxe3 Bxe3 39.Rxd5+ Kc8 40.Qd7+  
+1-0 

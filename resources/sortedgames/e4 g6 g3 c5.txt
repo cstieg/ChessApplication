@@ -1,0 +1,19 @@
+ 
+[Event "XI Open A"] 
+[Site "Mislata ESP"] 
+[Date "2003.08.26"] 
+[Round "7"] 
+[White "Garcia Domingo, Jose Antonio"] 
+[Black "Manea, Alexandru"] 
+[Result "0-1"] 
+[WhiteElo "2206"] 
+[BlackElo "2299"] 
+[ECO "B20"] 
+[EventDate "2003.08.19"] 
+ 
+1.e4 g6 2.g3 c5 3.Bg2 Nc6 4.Ne2 Bg7 5.d3 Rb8 6.c3 h5 7.f4 h4 8.Be3 d6 9.d4 
+Bg4 10.e5 h3 11.Bxc6+ bxc6 12.b3 Nh6 13.dxc5 Nf5 14.Bd4 dxe5 15.Bxe5 Qxd1+ 
+16.Kxd1 Bxe5 17.fxe5 Rd8+ 18.Ke1 Rd5 19.Kf2 Rxc5 20.Na3 Rxe5 21.Rhe1 Rxe2+ 
+22.Rxe2 Bxe2 23.Kxe2 Nd6 24.Nc2 e5 25.Nb4 Kd7 26.Rd1 f5 27.c4 Ke6 28.Nxc6  
+g5 29.Rd5 Ne4 30.Rxe5+ Kd6 31.Rxe4 fxe4 32.Nxa7 Kc5 33.Ke3 Rf8 34.Kxe4 Rf2 
+35.b4+ Kxc4 36.Nc6 Rxh2 37.Ne5+ Kxb4 38.Kf5 Rxa2 39.Ng4 Rg2 0-1 

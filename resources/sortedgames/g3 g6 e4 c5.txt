@@ -1,0 +1,80 @@
+ 
+[Event "Sportaccord WMG Blindfold"] 
+[Site "Beijing CHN"] 
+[Date "2011.12.14"] 
+[Round "2"] 
+[White "Mamedyarov, Shakhriyar"] 
+[Black "Vachier-Lagrave, Maxime"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2733"] 
+[BlackElo "2710"] 
+[ECO "B20"] 
+[EventDate "2011.12.14"] 
+ 
+1.g3 g6 2.e4 c5 3.c3 Nc6 4.Bg2 Bg7 5.Ne2 e5 6.d3 Nge7 7.Be3 d6 8.O-O O-O  
+9.Nd2 b6 10.f4 d5 11.h3 exf4 12.gxf4 Re8 13.e5 Be6 14.d4 Qd7 15.Kh2 Nf5  
+16.Bf2 cxd4 17.Nxd4 Ncxd4 18.Bxd4 Nxd4 19.cxd4 Rac8 20.Rf2 f6 21.Qb3 fxe5  
+22.fxe5 Rf8 23.Raf1 Rxf2 24.Rxf2 Rf8 25.Rxf8+ Bxf8 26.Nb1 Qf7 27.Qe3 b5  
+28.Nc3 b4 29.Ne2 Be7 30.Nf4 Bg5 31.Kg3 h5 32.h4 Bxh4+ 33.Kxh4 g5+ 34.Kxg5  
+Qf5+ 35.Kh6 Qh7+ 36.Kg5 Qf5+ 37.Kh6 Qh7+ 38.Kg5 Qf5+ 1/2-1/2 
+ 
+[Event "Open"] 
+[Site "Reykjavik ISL"] 
+[Date "2009.03.30"] 
+[Round "7"] 
+[White "Leon Hoyos, Manuel"] 
+[Black "Caspi, Israel"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2542"] 
+[BlackElo "2402"] 
+[ECO "B20"] 
+[EventDate "2009.03.24"] 
+ 
+1.g3 g6 2.e4 c5 3.Bg2 Bg7 4.Ne2 Nc6 5.O-O d6 6.Na3 e5 7.c3 Nge7 8.Nc2 O-O  
+9.d4 cxd4 10.cxd4 exd4 11.Nexd4 Nxd4 12.Nxd4 d5 13.exd5 Nxd5 14.Nb3 Nb4  
+15.Qxd8 Rxd8 16.Bg5 Re8 17.Rae1 Be6 18.Bxb7 Rab8 19.Nc5 Bxa2 20.Nd7 Nd3  
+21.Re4 Rxe4 22.Bxe4 Rb5 23.h4 Nxb2 24.Rc1 Bc4 25.Bc6 Rf5 26.Be3 h5 27.Bxa7 
+Be6 28.Be3 Nc4 29.Bf4 Ra5 30.Rb1 Ra1 31.Rxa1 Bxa1 32.Nc5 Bf5 33.Bd5 Nb6  
+34.Bb3 Kg7 35.Nb7 Be4 36.Nd6 Bd5 37.Bc2 Be6 38.Be3 Nc4 39.Ne8+ Kf8 40.Nc7  
+Nxe3 41.Nxe6+ Ke7 42.fxe3 Kxe6 43.Kf2 Ke5 1/2-1/2 
+ 
+[Event "57. ch-Montenegro"] 
+[Site "Cetinje SCG"] 
+[Date "2005.07.11"] 
+[Round "4"] 
+[White "Milonjic, Mihajlo"] 
+[Black "Nikac, Predrag"] 
+[Result "0-1"] 
+[WhiteElo "2215"] 
+[BlackElo "2360"] 
+[ECO "B20"] 
+[EventDate "2005.07.08"] 
+ 
+1.g3 g6 2.e4 c5 3.Bg2 Bg7 4.Ne2 Nc6 5.d3 e6 6.h4 Nf6 7.Nbc3 Nd4 8.Nf4 h5  
+9.Nce2 e5 10.Nxd4 exf4 11.Ne2 fxg3 12.fxg3 d5 13.Bg5 Qb6 14.O-O dxe4 15. 
+Nc3 O-O 16.Bxf6 Bxf6 17.Nd5 Bd4+ 18.Kh2 Qd8 19.Bxe4 Bxb2 20.Rb1 Be5 21.Kg2 
+Bg4 22.Bf3 Be6 23.c4 Rb8 24.Qe2 Qd6 25.Qf2 b5 26.Rfe1 Bf5 27.Rb3 bxc4 28. 
+dxc4 Rxb3 29.axb3 Rb8 30.Bd1 Be6 31.Qe3 Bd4 32.Qe4 a5 33.Nf4 Bf5 34.Qd5  
+Qxd5+ 35.Nxd5 Kf8 36.Nc7 Bd7 37.Bc2 a4 38.bxa4 Rb2 39.Re2 Bg4 40.Rd2 Bf5  
+41.a5 Bxc2 42.Kh2 Rb7 43.Nb5 Ba4 44.a6 Rb8 45.Ra2 Bxb5 46.cxb5 c4 47.Ra4  
+Rxb5 48.Rxc4 Rb2+ 49.Kh1 Bf2 50.Ra4 Ba7 0-1 
+ 
+[Event "Ch Montenegro"] 
+[Site "Cetinje (Montenegro)"] 
+[Date "2005.07.??"] 
+[Round "4"] 
+[White "Milonjic, Mihajlo"] 
+[Black "Nikac, Predrag"] 
+[Result "0-1"] 
+[WhiteElo "2215"] 
+[BlackElo "2360"] 
+[ECO "B20"] 
+ 
+1.g3 g6 2.e4 c5 3.Bg2 Bg7 4.Ne2 Nc6 5.d3 e6 6.h4 Nf6 7.Nbc3 Nd4 8.Nf4 h5  
+9.Nce2 e5 10.Nxd4 exf4 11.Ne2 fxg3 12.fxg3 d5 13.Bg5 Qb6 14.O-O dxe4 15. 
+Nc3 O-O 16.Bxf6 Bxf6 17.Nd5 Bd4+ 18.Kh2 Qd8 19.Bxe4 Bxb2 20.Rb1 Be5 21.Kg2 
+Bg4 22.Bf3 Be6 23.c4 Rb8 24.Qe2 Qd6 25.Qf2 b5 26.Rfe1 Bf5 27.Rb3 bxc4 28. 
+dxc4 Rxb3 29.axb3 Rb8 30.Bd1 Be6 31.Qe3 Bd4 32.Qe4 a5 33.Nf4 Bf5 34.Qd5  
+Qxd5+ 35.Nxd5 Kf8 36.Nc7 Bd7 37.Bc2 a4 38.bxa4 Rb2 39.Re2 Bg4 40.Rd2 Bf5  
+41.a5 Bxc2 42.Kh2 Rb7 43.Nb5 Ba4 44.a6 Rb8 45.Ra2 Bxb5 46.cxb5 c4 47.Ra4  
+Rxb5 48.Rxc4 Rb2+ 49.Kh1 Bf2 50.Ra4 Ba7 0-1 

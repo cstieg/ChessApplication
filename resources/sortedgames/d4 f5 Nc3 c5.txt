@@ -1,0 +1,55 @@
+ 
+[Event "3. ch-GER Internet Blitz Candidates"] 
+[Site "playchess INT"] 
+[Date "2005.04.02"] 
+[Round "15"] 
+[White "Huch, Reiner"] 
+[Black "Lentrodt, Thomas"] 
+[Result "1-0"] 
+[WhiteElo "2325"] 
+[BlackElo "2292"] 
+[ECO "A43"] 
+[EventDate "2005.04.02"] 
+ 
+1.d4 f5 2.Nc3 c5 3.d5 g6 4.e4 d6 5.exf5 Bxf5 6.Bd3 Bxd3 7.Qxd3 Nf6 8.Nge2  
+Bg7 9.Nf4 O-O 10.Ne6 Qa5 11.Nxf8 Kxf8 12.O-O a6 13.Bg5 Nbd7 14.f4 b5 15.a3 
+Qb6 16.Kh1 c4 17.Qe2 Re8 18.Rad1 Nc5 19.Rfe1 a5 20.f5 b4 21.axb4 axb4 22. 
+Bxf6 Bxf6 23.Ne4 Nxe4 24.Qxe4 g5 25.Qxc4 Bxb2 26.Re6 Bf6 27.Rde1 Kf7 28. 
+Qg4 Qf2 29.Qh5+ 1-0 
+ 
+[Event "TCh-CHN 2015"] 
+[Site "China CHN"] 
+[Date "2015.10.29"] 
+[Round "17.6"] 
+[White "Ni, Hua"] 
+[Black "Liu, Qingnan"] 
+[Result "1-0"] 
+[WhiteElo "2704"] 
+[BlackElo "2510"] 
+[ECO "A80"] 
+[EventDate "2015.04.10"] 
+ 
+1.d4 f5 2.Nc3 c5 3.dxc5 Qa5 4.e4 fxe4 5.Bd2 Qxc5 6.Nxe4 Qd5 7.Bd3 Nc6 8. 
+Nf3 d6 9.Qe2 Kd8 10.h3 Bf5 11.O-O h6 12.Rfe1 Nf6 13.Nxf6 gxf6 14.Bc4 Qc5  
+15.Be3 Qa5 16.Rad1 Bd7 17.Bd5 Nb4 18.Bb3 Qh5 19.a3 Nc6 20.Bf4 Kc7 21.Be6  
+Rd8 22.c4 Rh7 23.c5 Bxe6 24.cxd6+ exd6 25.Qxe6 Qf7 26.Qf5 Qd7 27.Re6 Rf7  
+28.Nd4 Nxd4 29.Rxd4 Kb8 30.Rexd6 Bxd6 31.Rxd6 Qxd6 32.Bxd6+ Rxd6 33.Qf4  
+Rd7 34.Qxh6 Rb6 35.h4 a5 36.h5 Rb5 37.Qf4+ Ka7 38.g4 1-0 
+ 
+[Event "4NCL 2011-12"] 
+[Site "Hinkley ENG"] 
+[Date "2012.05.06"] 
+[Round "10.132"] 
+[White "Wells, Peter K"] 
+[Black "Slavin, Alexey"] 
+[Result "1-0"] 
+[WhiteElo "2492"] 
+[BlackElo "2400"] 
+[ECO "A80"] 
+[EventDate "2011.11.12"] 
+ 
+1.d4 f5 2.Nc3 c5 3.dxc5 Nf6 4.Bg5 e6 5.e4 h6 6.Bxf6 Qxf6 7.exf5 Qxf5 8.Bd3 
+Qe5+ 9.Ne4 Bxc5 10.Nf3 Qxb2 11.O-O Be7 12.Rb1 Qxa2 13.Ne5 O-O 14.Qh5 Nc6  
+15.Ng4 Rf5 16.Qe8+ Bf8 17.Nd6 Rf4 18.Bg6 Qa4 19.c4 Kh8 20.Bf7 Rxf7 21. 
+Nxf7+ Kg8 22.Nfxh6+ Kh7 23.Qxf8 Qb4 24.Qg8+ Kg6 25.Qf7+ Kg5 26.f4+ Kh4 27. 
+g3+ Kh3 28.Nf2# 1-0 

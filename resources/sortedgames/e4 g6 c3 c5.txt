@@ -1,0 +1,16 @@
+ 
+[Event "Grand Prix CCAS"] 
+[Site "Cap d'Agde FRA"] 
+[Date "2008.10.31"] 
+[Round "8"] 
+[White "Deslandes, Pascal"] 
+[Black "Brochet, Philippe"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2299"] 
+[BlackElo "2377"] 
+[ECO "B22"] 
+[EventDate "2008.10.25"] 
+ 
+1.e4 g6 2.c3 c5 3.d4 cxd4 4.cxd4 d5 5.e5 Nc6 6.Nc3 Nh6 7.Nf3 Bg7 8.Be2 O-O 
+9.O-O f6 10.exf6 exf6 11.Qb3 Nf5 12.Rd1 g5 13.Be3 g4 14.Ne1 Nxe3 15.fxe3  
+Ne7 16.e4 Kh8 1/2-1/2 

@@ -1,0 +1,41 @@
+ 
+[Event "Zimski Winter Open"] 
+[Site "Belgrade SRB"] 
+[Date "2005.01.29"] 
+[Round "7"] 
+[White "Tasic, Zoran T"] 
+[Black "Jovicic, Radosav"] 
+[Result "1-0"] 
+[WhiteElo "2245"] 
+[BlackElo "2246"] 
+[ECO "A00"] 
+[EventDate "2005.01.22"] 
+ 
+1.e3 Nf6 2.b3 e5 3.Nf3 e4 4.Nh4 d5 5.g3 Nc6 6.Bb2 d4 7.Bb5 g5 8.Ng2 Bg4 9. 
+Qc1 Bf3 10.Kf1 Bc5 11.h4 Rg8 12.b4 Bb6 13.c4 Ng4 14.Bxc6+ bxc6 15.c5 dxe3  
+16.dxe3 Bxc5 17.bxc5 Qd3+ 18.Kg1 Rb8 19.Nc3 Qd7 20.hxg5 Ne5 21.Nf4 Bxh1  
+22.Kxh1 Qg4 23.Nce2 Qf3+ 24.Kg1 Ng4 25.Nh3 Qxe2 26.Bd4 Rxg5 27.Qd1 Qxd1+  
+28.Rxd1 Rd5 29.Nf4 Rdd8 30.Kg2 Rb4 31.f3 exf3+ 32.Kxf3 Nh6 33.Rh1 Ng8 34. 
+Rxh7 Ne7 35.Nh5 Nd5 36.Bf6 Rc8 37.g4 Ra4 38.Bd4 Rxa2 39.Be5 a5 40.Ke4 Ra4+ 
+41.Kf3 Ra2 42.e4 Ra3+ 43.Kf2 Ke7 44.exd5 cxd5 45.Rh6 Rd3 46.c6 Rb8 47.Bf6+ 
+Kd6 48.Bd4+ f6 49.Rxf6+ Ke7 50.Bc5+ 1-0 
+ 
+[Event "4NCL"] 
+[Site "West Bromwich ENG"] 
+[Date "2004.10.18"] 
+[Round "1"] 
+[White "House, Glenn L"] 
+[Black "Rogers, Jonathan W"] 
+[Result "1-0"] 
+[WhiteElo "2267"] 
+[BlackElo "2340"] 
+[ECO "A00"] 
+[EventDate "2004.10.18"] 
+ 
+1.e3 Nf6 2.b3 e5 3.c4 g6 4.Bb2 d6 5.Nf3 Bg7 6.d3 O-O 7.Be2 a6 8.O-O Re8 9. 
+Nc3 Nc6 10.a3 h6 11.Qc2 Be6 12.b4 d5 13.cxd5 Nxd5 14.Rfe1 Nxc3 15.Bxc3 Qe7 
+16.Qb2 Bf5 17.Nd2 Rad8 18.Ne4 Bc8 19.Rac1 f5 20.Nd2 Nd4 21.Bxd4 exd4 22.e4 
+Kh8 23.exf5 Bxf5 24.Ne4 Bxe4 25.Bf3 Bxd3 26.Rxe7 Rxe7 27.Qd2 Bb5 28.h4  
+Rde8 29.h5 g5 30.Kh2 b6 31.Qd1 Bd7 32.Qd3 g4 33.Bc6 Bxc6 34.Rxc6 Rf8 35. 
+Rc2 Re5 36.Rxc7 Rxh5+ 37.Kg1 Re8 38.g3 Rg5 39.Qxa6 Re1+ 40.Kg2 Ra1 41.Rc8+ 
+1-0 

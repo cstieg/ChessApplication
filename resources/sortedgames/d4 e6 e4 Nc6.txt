@@ -1,0 +1,35 @@
+ 
+[Event "Hanoi VIE, Ch U11 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.12"] 
+[Round "1.28"] 
+[White "Phan, Nguyen Quoc Hung"] 
+[Black "Tran, Trung Nguyen"] 
+[Result "1-0"] 
+[WhiteElo "2574"] 
+[BlackElo "2540"] 
+[ECO "C00"] 
+[EventDate "2012.07.12"] 
+ 
+1.d4 e6 2.e4 Nc6 3.Nf3 Nf6 4.d5 exd5 5.exd5 Nxd5 6.Qxd5 Bb4+ 7.Bd2 Bxd2+  
+8.Qxd2 O-O 9.Be2 d6 10.O-O Ne5 11.Nxe5 dxe5 12.Qxd8 Rxd8 13.Nc3 Rd6 14. 
+Rad1 Rxd1 15.Rxd1 Bf5 16.Bd3 e4 17.Bxe4 Bxe4 18.Nxe4 Re8 19.f4 h6 20.Re1  
+Kf8 21.Kf2 f5 22.Ng3 g6 23.Rxe8+ Kxe8 24.h4 1-0 
+ 
+[Event "Stek Cup"] 
+[Site "Tula RUS"] 
+[Date "2004.11.16"] 
+[Round "1"] 
+[White "Khanov, Vjacheslav"] 
+[Black "Gorbunov, O1."] 
+[Result "1-0"] 
+[WhiteElo "2216"] 
+[BlackElo "2266"] 
+[ECO "C00"] 
+[EventDate "2004.11.16"] 
+ 
+1.d4 e6 2.e4 Nc6 3.Nf3 d5 4.e5 h6 5.Be3 Be7 6.c3 f6 7.exf6 Nxf6 8.Bd3 Ne4  
+9.Nbd2 O-O 10.Nxe4 dxe4 11.Bxe4 Bf6 12.O-O e5 13.Bxc6 bxc6 14.dxe5 Qxd1  
+15.Raxd1 Be7 16.Nd4 Bd7 17.f4 Rab8 18.b3 c5 19.Nf3 Bc6 20.Rd2 Rbd8 21.Rfd1 
+a6 22.Rxd8 Rxd8 23.Rxd8+ Bxd8 24.Bxc5 Bxf3 25.gxf3 Kf7 26.f5 Bg5 27.Kf2  
+Bf4 28.e6+ Ke8 29.h3 1-0 

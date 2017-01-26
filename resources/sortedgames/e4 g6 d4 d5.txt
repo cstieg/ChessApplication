@@ -1,0 +1,56 @@
+ 
+[Event "38. Badalona Open A"] 
+[Site "Badalona ESP"] 
+[Date "2012.08.04"] 
+[Round "4.9"] 
+[White "Lorenzo de la Riva, Lazaro"] 
+[Black "Pogorelov, Ruslan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2444"] 
+[BlackElo "2405"] 
+[ECO "B06"] 
+[EventDate "2012.08.01"] 
+ 
+1.e4 g6 2.d4 d5 3.e5 Bf5 4.h4 h6 5.g4 Bd7 6.h5 c5 7.c3 e6 8.f4 Qb6 9.Nf3  
+Ne7 10.Rh2 Nec6 11.Qd3 cxd4 12.cxd4 Na5 13.Nc3 Na6 14.b3 Rc8 15.Bd2 Ba3  
+16.Rb1 Bb4 17.Rc1 Ba3 18.Rb1 Bb4 19.Rc1 1/2-1/2 
+ 
+[Event "Hamburg GER, St. Pauli Open-A"] 
+[Site "Hamburg GER"] 
+[Date "2011.07.10"] 
+[Round "2.22"] 
+[White "Schroeder, Kai Uwe"] 
+[Black "Schmidt-Brauns, Joachim Dr"] 
+[Result "0-1"] 
+[WhiteElo "2284"] 
+[BlackElo "2284"] 
+[ECO "B06"] 
+[EventDate "2011.07.09"] 
+ 
+1.e4 g6 2.d4 d5 3.exd5 Qxd5 4.Nc3 Qd8 5.Bf4 Bg7 6.Be5 Nf6 7.Nf3 O-O 8.Nb5  
+Na6 9.c3 Bh6 10.Bc4 c6 11.Na3 b5 12.Be2 Nd5 13.Bg3 Nf4 14.Bf1 Qd5 15.Nc2  
+Qe6+ 16.Ne3 Nd5 17.Ne5 f6 18.N5g4 Bg7 19.Qe2 Nb6 20.h3 f5 21.Be5 fxg4 22. 
+Bxg7 Kxg7 23.hxg4 Nc7 24.O-O-O Ncd5 25.Qd2 Nxe3 26.fxe3 Qxg4 27.Bd3 Qg5  
+28.g3 Bg4 29.Qh2 h5 30.Rde1 Rf3 31.Qg2 Nd5 0-1 
+ 
+[Event "IM"] 
+[Site "Saint Lo FRA"] 
+[Date "2009.07.09"] 
+[Round "3"] 
+[White "Lagarde, Maxime"] 
+[Black "Poley, Vladimir"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2352"] 
+[BlackElo "2312"] 
+[ECO "B06"] 
+[EventDate "2009.07.08"] 
+ 
+1.e4 g6 2.d4 d5 3.exd5 Qxd5 4.Nf3 Nh6 5.Be2 Bg7 6.O-O Nf5 7.c3 O-O 8.Nbd2  
+c5 9.c4 Qd8 10.d5 Nd7 11.Ne4 Qc7 12.Rb1 Ne5 13.a3 Nxf3+ 14.Bxf3 Nd4 15.Nc3 
+Nxf3+ 16.Qxf3 Qe5 17.Be3 Bf5 18.Rbe1 Qc7 19.Nb5 Qc8 20.d6 Bg4 21.Qg3 exd6  
+22.Nxd6 Qc6 23.Nxb7 Be6 24.Nd6 Bxb2 25.Bf4 Rfd8 26.Rd1 Rd7 27.h4 Rad8 28. 
+Rd2 Bd4 29.Nb5 Bg7 30.Nd6 Bd4 31.Nb5 Bg7 32.Rxd7 Rxd7 33.Nd6 h6 34.Rb1 Rd8 
+35.Kh2 Kh7 36.Re1 a6 37.Re2 Bf8 38.Rd2 Be7 39.Be5 Rd7 40.Bf4 Rd8 41.Be5  
+Rd7 42.h5 Bxd6 43.Rxd6 Rxd6 44.hxg6+ fxg6 45.Bxd6 Bxc4 46.Bf8 Qd5 47.Qc7+  
+Qf7 48.Qxc5 Qf4+ 49.g3 Qf7 50.Bd6 Qd5 51.Qa7+ Qf7 52.Qe3 Qe6 53.Be5 Qf5  
+54.Bc3 Qh5+ 55.Kg1 Qd1+ 56.Kh2 Qh5+ 57.Kg1 1/2-1/2 

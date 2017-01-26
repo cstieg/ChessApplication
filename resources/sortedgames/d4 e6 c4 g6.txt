@@ -1,0 +1,102 @@
+ 
+[Event "105 Jahre FC St. Pauli Op"] 
+[Site "Hamburg GER"] 
+[Date "2015.07.21"] 
+[Round "5.6"] 
+[White "Ringoir, Tanguy"] 
+[Black "Stenner, Patrick"] 
+[Result "1-0"] 
+[WhiteElo "2522"] 
+[BlackElo "2254"] 
+[ECO "A40"] 
+[EventDate "2015.07.18"] 
+ 
+1.d4 e6 2.c4 g6 3.Nc3 Bg7 4.e4 Ne7 5.Nf3 O-O 6.Be2 d5 7.cxd5 exd5 8.e5 f6  
+9.O-O Nbc6 10.exf6 Bxf6 11.Bh6 Re8 12.Bg5 Bxg5 13.Nxg5 Nf5 14.Nf3 a6 15. 
+Bd3 Qd6 16.Qb3 Nfxd4 17.Nxd4 Nxd4 18.Qxd5+ Be6 19.Qxd6 cxd6 20.Rad1 Nc6  
+21.Be4 Rad8 22.f3 Re7 23.b3 Nb4 24.Rd4 Nc6 25.Bxc6 bxc6 26.Rb4 c5 27.Rb6  
+c4 28.Rd1 cxb3 29.axb3 Rc8 30.Ne4 Bf5 31.Nxd6 Rc2 32.Nxf5 gxf5 33.Kh1 Rd2  
+34.Rg1 Ra2 35.h3 Kg7 36.Rc1 Rf7 37.Rc4 Rf6 38.Rc7+ Rf7 39.Rc4 Rf6 40.Rc7+  
+Rf7 41.Rcc6 Ra7 42.Rc4 Rf7 43.b4 Rf6 44.Rb7+ Kg6 45.Rcc7 h6 46.Kh2 Kg5 47. 
+Rc4 Rg6 48.Rf7 h5 49.Kg3 h4+ 50.Kh2 Rb2 51.Rd4 Re6 52.Rg7+ Kf6 53.Rg8 Kf7  
+54.Rdd8 Rxb4 55.Rdf8+ Ke7 56.Rxf5 Kd6 57.Rg4 Rxg4 58.hxg4 Re5 59.Rf6+ Re6  
+60.Rf4 Kc5 61.Kh3 a5 62.Kxh4 Ra6 63.Ra4 Kb5 64.Ra1 Kc5 65.g5 Kd5 66.Ra4  
+Ke5 67.Kg4 1-0 
+ 
+[Event "TCh-SWE Elitserien 2013-14"] 
+[Site "Sweden SWE"] 
+[Date "2014.03.09"] 
+[Round "9.4"] 
+[White "Johansson, Jan"] 
+[Black "Fries-Nielsen, Jens Ove"] 
+[Result "1-0"] 
+[WhiteElo "2375"] 
+[BlackElo "2416"] 
+[ECO "A40"] 
+[EventDate "2013.11.22"] 
+ 
+1.d4 e6 2.c4 g6 3.Nc3 Bg7 4.Nf3 Ne7 5.Bf4 d6 6.Qd2 h6 7.e4 Nd7 8.O-O-O a6  
+9.h4 b6 10.Be2 Bb7 11.Rhe1 e5 12.Be3 f5 13.dxe5 dxe5 14.Qc2 f4 15.Bd2 c5  
+16.Rg1 O-O 17.g3 Qe8 18.Nd5 Nxd5 19.exd5 e4 20.gxf4 exf3 21.Bd3 Qe7 22. 
+Rxg6 Rf6 23.Rg4 Rf7 24.Rdg1 Nf6 25.Rg6 h5 26.Bc3 Ng4 27.Rg5 Nf6 28.Bg6  
+Raf8 29.Bxh5 Bc8 30.Bxf3 Ne8 31.Be4 Rxf4 32.d6 Qxg5 33.Rxg5 Rxf2 34.Bd5+  
+1-0 
+ 
+[Event "Polonia Cup GM"] 
+[Site "Wroclaw POL"] 
+[Date "2012.12.12"] 
+[Round "9"] 
+[White "Michalik, Peter"] 
+[Black "Carlstedt, Jonathan"] 
+[Result "0-1"] 
+[WhiteElo "2508"] 
+[BlackElo "2356"] 
+[ECO "A40"] 
+[EventDate "2012.12.07"] 
+ 
+1.d4 e6 2.c4 g6 3.e4 Bg7 4.Nf3 Ne7 5.Be2 d5 6.e5 b6 7.O-O h6 8.Nc3 Bb7 9. 
+cxd5 Nxd5 10.Bb5+ Nd7 11.Nxd5 Bxd5 12.Qa4 a6 13.Bc6 Bxc6 14.Qxc6 Ra7 15. 
+Be3 Qa8 16.Rac1 Qxc6 17.Rxc6 Nb8 18.Rc3 Kd7 19.Nd2 Nc6 20.Ne4 Ne7 21.Bd2  
+Rd8 22.Rfc1 Nf5 23.Be3 Ne7 24.Rb3 Ke8 25.g4 Nd5 26.a4 Bf8 27.Bd2 Bg7 28. 
+Rh3 g5 29.Rd3 Ne7 30.Rcc3 Nd5 31.Rb3 f6 32.exf6 Nxf6 33.Nxf6+ Bxf6 34.Be3  
+Rd5 35.Kg2 Rb7 36.Kf3 Ra5 37.Rb4 Kd7 38.Bd2 Rd5 39.Ke4 Rb8 40.Rc4 Rd8 41. 
+Rf3 b5 42.axb5 axb5 43.Rb4 Ke7 44.Bc3 Kf7 45.Re3 Be7 46.Rb3 b4 47.Be1  
+Rxd4+ 48.Kf3 c5 49.Re4 Rxe4 50.Kxe4 Rd1 51.Re3 c4 0-1 
+ 
+[Event "Polonia Cup GM"] 
+[Site "Wroclaw POL"] 
+[Date "2012.12.08"] 
+[Round "2"] 
+[White "Grabarczyk, Miroslaw"] 
+[Black "Carlstedt, Jonathan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2455"] 
+[BlackElo "2356"] 
+[ECO "A40"] 
+[EventDate "2012.12.07"] 
+ 
+1.d4 e6 2.c4 g6 3.Nf3 Bg7 4.g3 Ne7 5.Bg2 d5 6.O-O Nbc6 7.e3 O-O 8.Nc3 a6  
+9.cxd5 exd5 10.b3 Bf5 11.Ba3 Re8 12.Rc1 a5 13.Qd2 Nc8 14.Ne1 N6e7 15.Nd3  
+c6 16.Na4 Nd6 17.Nac5 Rc8 18.Rfd1 Bh6 19.Qe2 Rc7 20.Ne5 f6 21.Ned3 Bc8 22. 
+Qc2 Nb5 23.Bb2 Nf5 24.Bc3 Rce7 25.Bd2 Kh8 26.Qb2 Nbd6 27.Qa3 b6 28.Na4 Bb7 
+29.Nc3 Ba6 30.Bf1 Bb7 31.Bg2 Ba6 32.Bf1 Bb7 33.Bg2 1/2-1/2 
+ 
+[Event "St. Pauli Open 2012"] 
+[Site "Hamburg GER"] 
+[Date "2012.07.13"] 
+[Round "7.4"] 
+[White "Colpe, Malte"] 
+[Black "Carlstedt, Jonathan"] 
+[Result "1-0"] 
+[WhiteElo "2284"] 
+[BlackElo "2352"] 
+[ECO "A40"] 
+[EventDate "2012.07.07"] 
+ 
+1.d4 e6 2.c4 g6 3.e4 Bg7 4.Nc3 Ne7 5.Nf3 d5 6.e5 Nbc6 7.Be2 h6 8.O-O b6 9. 
+b3 a6 10.Ba3 dxc4 11.bxc4 Bb7 12.Qd2 Nxd4 13.Nxd4 Bxe5 14.Nd5 exd5 15.Qe3  
+Bf6 16.c5 O-O 17.Qf4 Bg7 18.Rac1 b5 19.c6 Bc8 20.Bd3 Re8 21.Rfe1 Rb8 22. 
+Bb4 Nf5 23.Nxf5 Bxf5 24.Rxe8+ Qxe8 25.Bxf5 gxf5 26.Qxc7 Rc8 27.Qb7 Bb2 28. 
+Rc2 d4 29.Rxb2 Rxc6 30.Rb1 d3 31.g3 Qe4 32.Qb8+ Kh7 33.Qf8 d2 34.Qxf7+ Kh8 
+35.Qf8+ Kh7 36.Rf1 Qd5 37.Qe7+ Kg6 38.Bxd2 Re6 39.Qb4 Re2 40.Be3 Rxa2 41. 
+Qf4 a5 42.Qxh6+ Kf7 43.Qh7+ Ke8 44.Bg5 Qe6 45.Rd1 1-0 

@@ -1,0 +1,38 @@
+ 
+[Event "Open A"] 
+[Site "Pardubice CZE"] 
+[Date "2005.07.23"] 
+[Round "2"] 
+[White "Janturin, Artur"] 
+[Black "Lampe, Dirk"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2417"] 
+[BlackElo "2212"] 
+[ECO "A01"] 
+[EventDate "2005.07.22"] 
+ 
+1.b3 e5 2.e3 d6 3.Bb2 Nc6 4.c4 g6 5.d4 Bg7 6.dxe5 Bf5 7.Bd3 Bxd3 8.Qxd3  
+Nxe5 9.Bxe5 dxe5 10.Qxd8+ Rxd8 11.Nc3 f5 1/2-1/2 
+ 
+[Event "10. Chigorin Memorial"] 
+[Site "St Petersburg RUS"] 
+[Date "2002.11.02"] 
+[Round "8"] 
+[White "Janturin, Artur"] 
+[Black "Solovjov, Sergey I"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2394"] 
+[BlackElo "2467"] 
+[ECO "A01"] 
+[EventDate "2002.10.25"] 
+ 
+1.b3 e5 2.e3 d6 3.d4 Nc6 4.Nf3 Bg4 5.Be2 Qf6 6.Nc3 Nge7 7.d5 e4 8.Bb2 exf3 
+9.gxf3 Nxd5 10.Qxd5 Be6 11.Qd2 O-O-O 12.O-O-O Qh4 13.Nd5 Bxd5 14.Qxd5 Qxf2 
+15.Rhe1 Be7 16.Ba6 Qxc2+ 17.Kxc2 Nb4+ 18.Kb1 Nxd5 19.Rxd5 bxa6 20.Bxg7  
+Rhg8 21.Bb2 Rg5 22.Rxg5 Bxg5 23.e4 Kd7 24.h4 Bf4 25.Rg1 Ke6 26.Rg7 h6 27. 
+Kc2 c6 28.Kd3 d5 29.Rh7 a5 30.Bg7 dxe4+ 31.Kxe4 Bc1 32.f4 f5+ 33.Kf3 Rd3+  
+34.Ke2 Rd2+ 35.Kf3 Rd3+ 36.Ke2 Rh3 37.Rxh6+ Kd5 38.Be5 Re3+ 39.Kd1 Rxe5  
+40.Kxc1 Re4 41.Kd2 Rxf4 42.Ke3 Re4+ 43.Kf3 a4 44.Rh7 axb3 45.axb3 Rb4 46. 
+h5 Ke5 47.Re7+ Kf6 48.Rxa7 Rxb3+ 49.Kf4 Rb4+ 50.Kf3 Kg5 51.Rh7 Rb3+ 52.Ke2 
+Rb8 53.Kf3 Rb3+ 54.Ke2 Rc3 55.Rh8 Kf4 56.h6 Rc2+ 57.Ke1 Rh2 58.h7 c5 59. 
+Rc8 Rxh7 60.Rxc5 Kg4 61.Rc3 Ra7 62.Kf1 f4 63.Rb3 f3 64.Rb8 1/2-1/2 

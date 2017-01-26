@@ -1,0 +1,16 @@
+ 
+[Event "Caissa IM New Year 2014"] 
+[Site "Kecskemet HUN"] 
+[Date "2014.01.03"] 
+[Round "8.3"] 
+[White "Sarosi, Zoltan"] 
+[Black "Meszaros, Andras"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2240"] 
+[BlackElo "2275"] 
+[ECO "A04"] 
+[EventDate "2013.12.27"] 
+ 
+1.Nf3 Nc6 2.g3 g6 3.Bg2 Bg7 4.d4 Nf6 5.d5 Nb4 6.c4 O-O 7.O-O d6 8.Nc3 c5  
+9.e4 Bd7 10.a3 Na6 11.Re1 Ng4 12.h3 Ne5 13.Nxe5 Bxe5 14.f4 Bd4+ 15.Be3 Bg7 
+16.Qf3 1/2-1/2 

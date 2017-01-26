@@ -1,0 +1,90 @@
+ 
+[Event "FSGM December 2015"] 
+[Site "Budapest HUN"] 
+[Date "2015.12.14"] 
+[Round "8.4"] 
+[White "Smith, Axel"] 
+[Black "Mindlin, Alon"] 
+[Result "1-0"] 
+[WhiteElo "2480"] 
+[BlackElo "2409"] 
+[ECO "A00"] 
+[EventDate "2015.12.05"] 
+ 
+1.e3 d5 2.c4 e6 3.Nf3 Nf6 4.b3 Be7 5.Bb2 O-O 6.d4 b6 7.Bd3 Bb7 8.O-O Nbd7  
+9.Nc3 Ne4 10.Qc2 f5 11.Ne2 Bd6 12.Ne5 Bxe5 13.dxe5 Nec5 14.Rfd1 Qe7 15. 
+cxd5 Bxd5 16.Nf4 Bb7 17.Bc4 a5 18.Ba3 Nxe5 19.Bxc5 bxc5 20.Bxe6+ Kh8 21. 
+Bd5 c6 22.Bc4 a4 23.bxa4 Ba6 24.Bxa6 Rxa6 25.Nd3 Nxd3 26.Rxd3 Raa8 27.Rc3  
+Qf6 28.Rc1 Rab8 29.g3 g6 30.Rxc5 Rb2 31.Qc4 Rc8 32.a5 Kg7 33.a4 Kh6 34. 
+Rxc6 Rxc6 35.Qxc6 Qxc6 36.Rxc6 Rb4 37.a6 Rxa4 38.Kg2 Kh5 39.Rc7 h6 40.a7  
+g5 41.h3 1-0 
+ 
+[Event "18. HIT Open A 2013"] 
+[Site "Nova Gorica SLO"] 
+[Date "2013.01.30"] 
+[Round "8.1"] 
+[White "Drazic, Sinisa"] 
+[Black "Korneev, Oleg"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2471"] 
+[BlackElo "2610"] 
+[ECO "A00"] 
+[EventDate "2013.01.25"] 
+ 
+1.e3 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Be7 5.b3 O-O 6.Bb2 Nbd7 7.Be2 b6 8.O-O Bb7 
+9.Rc1 c5 1/2-1/2 
+ 
+[Event "Czech Open G Rapid"] 
+[Site "Pardubice CZE"] 
+[Date "2011.07.21"] 
+[Round "8.2"] 
+[White "Totsky, Leonid"] 
+[Black "Navara, David"] 
+[Result "0-1"] 
+[WhiteElo "2484"] 
+[BlackElo "2722"] 
+[ECO "A13"] 
+[EventDate "2011.07.20"] 
+ 
+1.e3 d5 2.c4 e6 3.b3 Nf6 4.Bb2 c5 5.Nf3 Nc6 6.cxd5 exd5 7.Bb5 Bd6 8.Ne5  
+Qc7 9.Nxc6 bxc6 10.Be2 Bxh2 11.Bxf6 gxf6 12.Qc2 Be5 13.Nc3 d4 14.f4 dxc3  
+15.fxe5 cxd2+ 16.Kxd2 Qxe5 17.Bf3 Bf5 18.e4 O-O-O+ 19.Ke2 Rhe8 20.Rac1  
+Bxe4 21.Bxe4 Qf4 0-1 
+ 
+[Event "18. TCh"] 
+[Site "Sibenik CRO"] 
+[Date "2009.09.28"] 
+[Round "8"] 
+[White "Klaric, Zlatko"] 
+[Black "Kovacevic, Vlatko"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2405"] 
+[BlackElo "2505"] 
+[ECO "A00"] 
+[EventDate "2009.09.21"] 
+ 
+1.e3 d5 2.c4 e6 3.b3 a5 4.Bb2 Nf6 5.f4 Be7 6.Nf3 O-O 7.Qc2 Na6 8.a3 Nc5 9. 
+b4 axb4 10.axb4 Rxa1 11.Bxa1 Na6 12.b5 Nb4 13.Qc3 c5 14.Na3 b6 15.d3 Bb7  
+16.Be2 Qa8 17.Bb2 Rd8 18.O-O Bf8 19.Nc2 1/2-1/2 
+ 
+[Event "Belgian Interteams 2000-1"] 
+[Site "BEL"] 
+[Date "2001.03.11"] 
+[Round "10"] 
+[White "Luminet, Denis"] 
+[Black "Van Schaardenburg, Mark"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2280"] 
+[BlackElo "2258"] 
+[ECO "A00"] 
+[EventDate "2001.01.18"] 
+ 
+1.e3 d5 2.c4 e6 3.Nf3 Nf6 4.b3 Be7 5.Bb2 O-O 6.Be2 Nbd7 7.O-O b6 8.cxd5  
+Nxd5 9.Nc3 Bb7 10.d4 Nxc3 11.Bxc3 Bf6 12.Rc1 Rc8 13.Qd2 c5 14.Rfd1 Qe7 15. 
+dxc5 Nxc5 16.Bxf6 Qxf6 17.Qd4 Rfd8 18.Qxf6 Rxd1+ 19.Bxd1 gxf6 20.b4 Nd3  
+21.Rxc8+ Bxc8 22.a3 e5 23.Bc2 Nb2 24.Nd2 Ba6 25.f4 Bd3 26.Bb3 Kg7 27.Kf2  
+a5 28.bxa5 bxa5 29.Kf3 a4 30.Bd5 Bb5 31.Ne4 f5 32.Nd6 e4+ 33.Kg3 Bd7 34. 
+Bxf7 Nd1 35.Be8 Bxe8 36.Nxe8+ Kf8 37.Nd6 Nxe3 38.Kf2 Nc2 39.Nxf5 Nxa3 40. 
+Nd6 Nb1 41.Nxe4 a3 42.Nc5 Nd2 43.Ne6+ Ke7 44.Nd4 a2 45.Nc2 Nb3 46.Ke3 a1=R 
+47.Nxa1 Nxa1 48.g4 Kf6 49.h4 Nb3 50.Ke4 Nd2+ 51.Ke3 Nc4+ 52.Kd4 Nd6 53.f5  
+Nb5+ 54.Ke4 Nd6+ 55.Kf4 Nf7 1/2-1/2 

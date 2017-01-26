@@ -1,0 +1,46 @@
+ 
+[Event "13. OIBM"] 
+[Site "Bad Wiessee GER"] 
+[Date "2009.11.04"] 
+[Round "6"] 
+[White "Chernyshov, Konstantin"] 
+[Black "Sharma, Dinesh K"] 
+[Result "1-0"] 
+[WhiteElo "2536"] 
+[BlackElo "2335"] 
+[ECO "A02"] 
+[EventDate "2009.10.31"] 
+ 
+1.f4 Nh6 2.Nf3 g6 3.e4 d5 4.e5 Bg7 5.d4 O-O 6.Be3 f6 7.c4 c6 8.Nc3 e6 9. 
+Bd3 Nd7 10.cxd5 exd5 11.O-O Nb6 12.h3 fxe5 13.fxe5 Bf5 14.Be2 Nf7 15.b3  
+Qe7 16.Qd2 Nd7 17.Ng5 Nxg5 18.Bxg5 Qe8 19.Rf2 Be6 20.Raf1 Rxf2 21.Rxf2 a6  
+22.Bf3 Nb6 23.Ne2 Nd7 24.Nf4 Nf8 25.Qb4 Qd7 26.Nxe6 Nxe6 27.Bg4 Re8 28.h4  
+Qc7 29.Bf6 Bf8 30.Qc3 Qb6 31.Bxe6+ Rxe6 32.h5 Qc7 33.hxg6 hxg6 34.Qh3 Qf7  
+35.Qh8# 1-0 
+ 
+[Event "It Open"] 
+[Site "Villeneuve-Tolosane FRA"] 
+[Date "2006.02.27"] 
+[Round "1"] 
+[White "Martinez Lopez, Ivan"] 
+[Black "Okhotnik, Vladimir"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2201"] 
+[BlackElo "2470"] 
+[ECO "A02"] 
+ 
+1.f4 Nh6 2.Nf3 g6 3.e3 Bg7 4.Be2 c5 5.d3 Nc6 6.O-O d6 7.e4 O-O 8.c3 e5 9. 
+Na3 f6 10.h3 Nf7 11.Be3 b6 12.d4 Qe7 13.fxe5 fxe5 14.d5 Nb8 15.Qd2 Nd7 16. 
+Ng5 Nxg5 17.Bxg5 Bf6 18.Bh6 Bg7 19.Rxf8+ Nxf8 20.Bg5 Bf6 21.h4 Bxg5 22. 
+hxg5 a6 23.Nc4 Qd8 24.a4 Ra7 25.Qe3 Rf7 26.Rf1 Rxf1+ 27.Kxf1 Kg7 28.Kf2  
+Qc7 29.Kg3 b5 30.axb5 axb5 31.Na3 b4 32.Nb5 Qe7 33.cxb4 cxb4 34.Na7 Bd7  
+35.Bb5 Bxb5 36.Nxb5 Nd7 37.Na7 Nc5 38.Nc6 Qf8 39.Nxb4 Qb8 40.Nc6 Qxb2 41. 
+Qf3 Qb3 42.Kg4 Qxf3+ 43.gxf3 Kf7 44.Kg3 Ke8 45.Kg4 Nd3 46.Kg3 Nf4 47.Kg4  
+Ne2 48.Kh4 Kd7 49.Kg4 Nf4 50.Nb8+ Kc7 51.Nc6 Nh5 52.Ne7 Kd7 53.Nc6 Ke8 54. 
+Nb8 Nf4 55.Nc6 Ne2 56.Kh4 Kf8 57.Kg4 Nc3 58.Na7 Ke8 59.Nc6 Ne2 60.Kh4 Kf8  
+61.Kg4 Nc1 62.Nd8 Nd3 63.Ne6+ Ke7 64.Kg3 Nc1 65.Kg4 Nb3 66.Kg3 Na5 67.Kg4  
+Nc4 68.Kg3 Na5 69.Kg4 Nc4 70.Kg3 Nb6 71.Kg4 Nd7 72.Kg3 Nb8 73.Kg4 Na6 74. 
+Kg3 Nb4 75.Kg4 Na2 76.Kg3 Nc1 77.Kg4 Ne2 78.Kh4 Kf7 79.Kg4 Kg8 80.Kh4 Nc3  
+81.Kg4 Nb5 82.Kg3 Na3 83.Kg4 Nc4 84.Kg3 h5 85.gxh6 Kh7 86.Kg4 Kxh6 87.Kh4  
+Nd2 88.Kg4 Nc4 89.Kh4 Nb6 90.Kg4 Nd7 91.Kh4 Nf6 92.Ng5 Kg7 93.Ne6+ Kh6 94. 
+Ng5 Kg7 95.Ne6+ Kh6 96.Ng5 1/2-1/2 

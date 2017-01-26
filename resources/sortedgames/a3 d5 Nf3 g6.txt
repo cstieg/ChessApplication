@@ -1,0 +1,39 @@
+ 
+[Event "ch-PriFO A"] 
+[Site "Tolyatti RUS"] 
+[Date "2011.03.14"] 
+[Round "5.6"] 
+[White "Frolov, Artiom"] 
+[Black "Shukh, Nikolai"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2445"] 
+[BlackElo "2418"] 
+[ECO "A00"] 
+[EventDate "2011.03.10"] 
+ 
+1.a3 d5 2.Nf3 g6 3.c4 c6 4.e3 Bg7 5.d4 Nf6 6.Nc3 O-O 7.h3 Nbd7 8.Bd3 c5 9. 
+cxd5 cxd4 10.Nxd4 Nb6 11.O-O Nfxd5 12.Nxd5 Qxd5 13.Qe2 Rd8 14.Bc2 Qc4 15. 
+Bd3 Qd5 16.Bc2 Qg5 17.Bb3 e5 18.e4 Qe7 19.Nb5 Bf6 20.Be3 Bg5 21.Nxa7 Bxe3  
+22.Qxe3 Rxa7 23.Qxb6 Ra6 24.Qe3 Rad6 25.Rad1 Be6 26.Rxd6 Rxd6 27.Rd1 Rd4  
+28.Bc2 Qc5 29.Rxd4 exd4 30.Qd2 Bc4 31.b3 Ba6 32.b4 Qc4 33.Bd1 d3 34.a4 b5  
+35.a5 Qxe4 36.Bf3 Qd4 37.g4 Bc8 38.Kf1 Be6 39.Ke1 Bc4 40.Kf1 h6 41.Kg2 Kg7 
+1/2-1/2 
+ 
+[Event "10. EICC"] 
+[Site "Budva MNE"] 
+[Date "2009.03.16"] 
+[Round "10"] 
+[White "Deviatkin, Andrei"] 
+[Black "Lysyj, Igor"] 
+[Result "0-1"] 
+[WhiteElo "2566"] 
+[BlackElo "2620"] 
+[ECO "A00"] 
+[EventDate "2009.03.06"] 
+ 
+1.a3 d5 2.Nf3 g6 3.c4 d4 4.e3 Nc6 5.b4 Bg7 6.Bb2 e5 7.b5 Nce7 8.d3 c5 9. 
+Nbd2 b6 10.exd4 exd4 11.g3 Bb7 12.Bg2 Nf6 13.O-O O-O 14.Nh4 Bxg2 15.Nxg2  
+h6 16.Nf4 Qd7 17.Re1 g5 18.Nh5 Nxh5 19.Qxh5 Ng6 20.Nf3 Rfe8 21.h4 g4 22. 
+Nh2 Ne5 23.Bc1 Nxd3 24.Rxe8+ Rxe8 25.Bxh6 Re5 26.Qxg4 Qxg4 27.Nxg4 Bxh6  
+28.Nxh6+ Kg7 29.f4 Re2 30.Ng4 Nb2 31.Kf1 d3 32.Nf2 Rc2 33.Re1 Rxf2+ 34. 
+Kxf2 d2 0-1 

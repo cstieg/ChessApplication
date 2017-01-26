@@ -1,0 +1,42 @@
+ 
+[Event "Hilton Schachfestival"] 
+[Site "Basel SUI"] 
+[Date "2009.01.02"] 
+[Round "2"] 
+[White "Melkumjanc, Nikolaj"] 
+[Black "Filipovic, Branko"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2314"] 
+[BlackElo "2433"] 
+[ECO "A10"] 
+[EventDate "2009.01.01"] 
+ 
+1.Nf3 b6 2.c4 e6 3.g3 Bb7 4.Bg2 f5 5.O-O Nf6 6.d4 g6 7.d5 Bg7 8.dxe6 dxe6  
+9.Qxd8+ Kxd8 10.Nc3 Kc8 11.Bf4 Ne4 12.Nxe4 Bxe4 13.Be5 Bxe5 14.Nxe5 Bxg2  
+15.Kxg2 Nd7 16.Nd3 e5 17.Rfd1 Re8 18.Rac1 c5 19.Ne1 Kc7 20.Nc2 Nf6 21.h3  
+Rad8 22.f3 h5 23.Kf2 Kc6 24.b4 Rxd1 25.b5+ Kc7 26.Rxd1 Re6 27.a4 Rd6 28. 
+Rc1 Kb7 29.Ke1 Ne8 30.Rd1 Rxd1+ 31.Kxd1 Nd6 32.Na3 g5 33.Ke1 Kc7 34.Kf2  
+Kd7 35.e3 Ke6 36.Ke2 g4 37.hxg4 hxg4 38.Kf2 gxf3 39.Kxf3 Kf6 40.g4 Kg5 41. 
+gxf5 Kxf5 42.Kf2 Kg4 43.Kg2 e4 44.Kf2 Kh3 45.Kf1 Kg3 46.Ke2 Kg2 47.Nb1  
+Nxc4 48.Nc3 Nd6 49.Nd5 Kg3 50.Ne7 Kg4 51.Nc6 Nc8 52.a5 bxa5 53.Nxa5 Nd6  
+54.Nb3 Nxb5 55.Nxc5 Kf5 56.Kd2 Ke5 57.Kc2 Kd5 58.Nd7 Kc4 59.Ne5+ Kb4 60. 
+Nc6+ Kc5 61.Na5 Nd6 62.Kc3 Nb5+ 63.Kb3 Nc7 64.Nb7+ Kc6 65.Na5+ Kb5 1/2-1/2 
+ 
+[Event "SWE Ch B"] 
+[Site "Goteb�rg SWE"] 
+[Date "2004.07.18"] 
+[Round "8.5"] 
+[White "Eriksson, Anders"] 
+[Black "Andreasson, Ingvar"] 
+[Result "0-1"] 
+[WhiteElo "2317"] 
+[BlackElo "2326"] 
+[ECO "A30"] 
+ 
+1.Nf3 b6 2.c4 e6 3.Nc3 Bb7 4.g3 c5 5.Bg2 Nf6 6.O-O Be7 7.Re1 Ne4 8.Nxe4  
+Bxe4 9.d3 Bb7 10.e4 O-O 11.d4 cxd4 12.Nxd4 d6 13.Qg4 Nd7 14.b3 Bf6 15.Bb2  
+a6 16.Qe2 Qc7 17.Rac1 Rac8 18.Rc2 Qb8 19.Rd2 Nc5 20.Qd1 Qa8 21.Qb1 Rfe8  
+22.Rde2 Be7 23.Ba1 Bf8 24.a4 e5 25.Nf5 g6 26.Nh4 Be7 27.Nf3 Bc6 28.Nd2 Qb7 
+29.Nf1 f5 30.Nd2 Rf8 31.Bh3 Rce8 32.exf5 Qc8 33.b4 Nxa4 34.f4 gxf5 35.fxe5 
+d5 36.Rf2 dxc4 37.Nxc4 Ba8 38.Bxf5 Qxc4 39.Bxh7+ Kh8 40.e6+ Nc3 41.Ref1  
+Rxf2 42.Rxf2 Rc8 43.Qg6 Qd4 44.Bxc3 Qxc3 45.Qf7 Qe1+ 46.Rf1 Qe3+ 0-1 

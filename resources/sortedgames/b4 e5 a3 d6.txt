@@ -1,0 +1,58 @@
+ 
+[Event "Summer Open"] 
+[Site "Pirot SCG"] 
+[Date "2004.07.27"] 
+[Round "4"] 
+[White "Tosic, Miroslav"] 
+[Black "Petrovic, Ma"] 
+[Result "1-0"] 
+[WhiteElo "2481"] 
+[BlackElo "2227"] 
+[ECO "A00"] 
+[EventDate "2004.07.25"] 
+ 
+1.b4 e5 2.a3 d6 3.Bb2 f5 4.d4 Nc6 5.dxe5 Nxe5 6.e3 Nf6 7.Nd2 Be7 8.Ngf3  
+Nf7 9.c4 O-O 10.Bd3 a5 11.Qc2 axb4 12.axb4 Rxa1+ 13.Bxa1 d5 14.c5 Ne4 15. 
+Nb3 b6 16.O-O bxc5 17.bxc5 c6 18.Nfd4 Ne5 19.Be2 Qc7 20.f3 Nf6 21.Nxf5  
+Bxf5 22.Qxf5 Ned7 23.Bd4 Rf7 24.Ra1 Bf8 25.Qe6 Qb8 26.Na5 Nxc5 27.Qxc6 Qb4 
+28.Qb5 Qxb5 29.Bxb5 Ne6 30.Bb6 Nd7 31.Bxd7 Rxd7 32.Kf1 g5 33.Nc6 Rb7 34. 
+Bd4 Nxd4 35.Nxd4 Bd6 36.g3 Be5 37.Ra5 Rd7 38.Nc6 Bf6 39.Ke2 Kf7 40.Kd3 Rb7 
+41.Rxd5 Rb2 42.Rd7+ Kg6 43.e4 Rf2 44.e5 Rxf3+ 45.Ke4 Rc3 46.Rd6 1-0 
+ 
+[Event "Essent Open"] 
+[Site "Hoogeveen NED"] 
+[Date "2002.10.18"] 
+[Round "8"] 
+[White "Filipek, Jakub"] 
+[Black "Hulshof, Peter"] 
+[Result "1-0"] 
+[WhiteElo "2374"] 
+[BlackElo "2223"] 
+[ECO "A00"] 
+[EventDate "2002.10.11"] 
+ 
+1.b4 e5 2.a3 d6 3.Bb2 f5 4.e3 Nf6 5.Nf3 Be7 6.Bc4 d5 7.Ba2 e4 8.Nd4 Nc6 9. 
+c4 Ne5 10.O-O Nxc4 11.Bxc4 dxc4 12.Qe2 Qd5 13.Nc3 Qf7 14.f3 exf3 15.Rxf3  
+Bd7 16.Nxf5 O-O-O 17.Nxe7+ Qxe7 18.Qxc4 Be6 19.Qf4 Rxd2 20.Na4 Rhd8 21. 
+Bxf6 Qxf6 22.Qxf6 gxf6 23.Nc5 Bc4 24.Rf4 b5 25.h4 Re2 26.Rxf6 Rg8 27.Rf2  
+Rxe3 28.a4 Bd5 29.Raf1 Kd8 30.axb5 Ke7 31.Rd1 c6 32.bxc6 Bxc6 33.Ra2 a6  
+34.Nxa6 Ra8 35.Rdd2 Re1+ 36.Kf2 Re4 37.Re2 Rxe2+ 38.Rxe2+ Kd6 39.Nc5 Rb8  
+40.Re6+ Kd5 41.Re4 h5 42.Rf4 Rg8 43.g3 Ra8 44.Rf5+ Kc4 45.Rxh5 Ra1 46.g4  
+Ra2+ 47.Kg3 Ra3+ 48.Kf4 Kxb4 49.Ne4 Ra4 50.Re5 1-0 
+ 
+[Event "Open"] 
+[Site "Novosibirsk RUS"] 
+[Date "2001.07.22"] 
+[Round "4"] 
+[White "Nebylitsin, Nikolai"] 
+[Black "Spirin, A."] 
+[Result "1/2-1/2"] 
+[WhiteElo "2228"] 
+[BlackElo "2312"] 
+[ECO "A00"] 
+[EventDate "2001.07.18"] 
+ 
+1.b4 e5 2.a3 d6 3.c4 Bf5 4.Nc3 Nf6 5.Bb2 Nc6 6.b5 Nd4 7.d3 Qd7 8.e3 Ne6 9. 
+Nge2 Be7 10.Ng3 Bg6 11.Be2 O-O 12.O-O Ne8 13.Nd5 c6 14.Nxe7+ Qxe7 15.a4  
+N8c7 16.Ba3 c5 17.Bf3 Rab8 18.Bb2 a5 19.Qd2 b6 20.Ne2 f5 21.Nc3 Ng5 22.Bc6 
+Be8 23.Bd5+ Bf7 24.Bc6 Be8 25.Nd5 Nxd5 26.Bxd5+ Bf7 27.Bc6 Be8 1/2-1/2 

@@ -1,0 +1,43 @@
+ 
+[Event "TCh-CAT 2012"] 
+[Site "Catalunya ESP"] 
+[Date "2012.01.28"] 
+[Round "1.3"] 
+[White "Valdes Romero, Leonardo"] 
+[Black "Baches Garcia, Guillermo"] 
+[Result "0-1"] 
+[WhiteElo "2393"] 
+[BlackElo "2379"] 
+[ECO "A29"] 
+[EventDate "2012.01.28"] 
+ 
+1.Nf3 Nc6 2.c4 Nf6 3.Nc3 e5 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.d3  
+O-O 9.a3 Re8 10.b4 Bf8 11.Bb2 a5 12.b5 Nd4 13.Nd2 c6 14.bxc6 Nxc6 15.Rb1  
+Be6 16.Bc1 Rb8 17.Nde4 f6 18.Be3 Nd4 19.Nb5 Nxb5 20.Rxb5 Nd5 21.Bd2 b6 22. 
+Qa1 Ne7 23.Rfb1 Nf5 24.Bxa5 Nd4 25.Rxb6 Nxe2+ 26.Kh1 Rxb6 27.Bxb6 Qxd3 28. 
+Nc5 Bxc5 29.Bxc5 Bd5 30.Rd1 Bxg2+ 31.Kxg2 Qe4+ 32.f3 Qc2 33.Bf2 e4 34.Qb1  
+exf3+ 35.Kf1 Qc4 36.Qd3 Qg4 37.Qd5+ Re6 38.Qd8+ Kf7 39.Rd7+ Kg6 40.Ke1  
+Nxg3+ 41.Kd1 Ne4 42.Be3 f2+ 0-1 
+ 
+[Event "28. Rapid Open"] 
+[Site "Aubervilliers FRA"] 
+[Date "2003.01.26"] 
+[Round "6"] 
+[White "Pelletier, Yannick"] 
+[Black "Okhotnik, Vladimir"] 
+[Result "1-0"] 
+[WhiteElo "2624"] 
+[BlackElo "2453"] 
+[ECO "A04"] 
+[EventDate "2003.01.25"] 
+ 
+1.Nf3 Nc6 2.c4 Nf6 3.Nc3 e6 4.e4 e5 5.Be2 Bc5 6.Nxe5 Nxe5 7.d4 Bb4 8.dxe5  
+Nxe4 9.Qd4 Nxc3 10.bxc3 Be7 11.Qg4 g6 12.Bh6 d6 13.Qd4 dxe5 14.Qxe5 f6 15. 
+Qe3 Qd6 16.Bf3 Qe6 17.Qxe6 Bxe6 18.Bxb7 Rb8 19.Bc6+ Kf7 20.O-O Bxc4 21. 
+Rfe1 Rb6 22.Bf3 Re6 23.Be3 Ra6 24.a4 Rb8 25.a5 Rb3 26.Ra4 Be6 27.Be2 Rc6  
+28.Bxa7 Rcxc3 29.Bd4 Ra3 30.Rxa3 Rxa3 31.a6 c5 32.Ra1 Rxa6 33.Rxa6 cxd4  
+34.Bd3 f5 35.Kf1 h5 36.g3 h4 37.Ke2 hxg3 38.hxg3 Bd5 39.Ra4 Bf6 40.Bc4  
+Bxc4+ 41.Rxc4 g5 42.f3 Be5 43.g4 fxg4 44.fxg4 Ke6 45.Kd3 Kd5 46.Ra4 Bc7  
+47.Rxd4+ Ke5 48.Re4+ Kd5 49.Re8 Bf4 50.Rf8 Ke5 51.Rf5+ Ke6 52.Ke4 Bd2 53. 
+Rb5 Bc1 54.Rb6+ Kf7 55.Kf5 Kg7 56.Rg6+ Kf7 57.Rc6 Bf4 58.Rb6 Kg7 59.Rb7+  
+Kh6 60.Kf6 Bd2 61.Rc7 Be3 62.Rd7 Bf4 63.Rd3 Kh7 64.Kf7 1-0 

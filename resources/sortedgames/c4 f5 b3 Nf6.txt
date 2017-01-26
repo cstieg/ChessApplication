@@ -1,0 +1,96 @@
+ 
+[Event "10. American Continental"] 
+[Site "Montevideo URU"] 
+[Date "2015.05.16"] 
+[Round "2.8"] 
+[White "Felgaer, Ruben"] 
+[Black "Pereira, Silvio Cunha"] 
+[Result "1-0"] 
+[WhiteElo "2582"] 
+[BlackElo "2284"] 
+[ECO "A10"] 
+[EventDate "2015.05.15"] 
+ 
+1.c4 f5 2.b3 Nf6 3.Bb2 g6 4.Bxf6 exf6 5.g3 d5 6.cxd5 Qxd5 7.Nf3 Nc6 8.Bg2  
+Be6 9.O-O Qd7 10.e3 h5 11.d4 Ne7 12.Nc3 Nd5 13.Nxd5 Bxd5 14.Nh4 Kf7 15. 
+Bxd5+ Qxd5 16.Qc2 Bd6 17.Rad1 Rhe8 18.Rfe1 Re4 19.f3 Rxh4 20.Qc4 c6 21. 
+gxh4 b5 22.Qxd5+ cxd5 23.Rc1 a5 24.Rc6 Bf8 25.Rc7+ Ke6 26.Rec1 a4 27.Rb7  
+axb3 28.axb3 b4 29.Rc6+ Bd6 30.Rbb6 Rd8 31.Rxb4 Kf7 32.Rb7+ Kg8 33.Kg2 g5  
+34.Ra6 f4 35.exf4 Bxf4 36.Rxf6 Rc8 37.hxg5 Rc2+ 38.Kf1 Bxh2 39.Ra6 Rc1+  
+40.Kg2 Rc2+ 41.Kh1 1-0 
+ 
+[Event "Bad Zwesten Open 7th"] 
+[Site "Bad Zwesten GER"] 
+[Date "2003.??.??"] 
+[Round "6"] 
+[White "Bischoff, Klaus"] 
+[Black "Galdunts, Sergey"] 
+[Result "1-0"] 
+[WhiteElo "2564"] 
+[BlackElo "2487"] 
+[ECO "A10"] 
+ 
+1.c4 f5 2.b3 Nf6 3.Bb2 e6 4.g3 Be7 5.Bg2 O-O 6.e3 c6 7.Nc3 d5 8.Nf3 Bd6 9. 
+O-O Nbd7 10.cxd5 exd5 11.Ne2 Qe7 12.Qc2 Ng4 13.a3 Nde5 14.Nxe5 Nxe5 15.f4  
+Ng4 16.Nd4 Bd7 17.Nf3 Rfe8 18.Rfe1 Nf6 19.b4 a5 20.Be5 axb4 21.Bxd6 Qxd6  
+22.axb4 Qxb4 23.Rab1 Qd6 24.Rxb7 Reb8 25.Rxb8+ Rxb8 26.Ne5 g6 27.Rc1 Rb6  
+28.h3 Be8 29.Qc3 h5 30.Bf3 Rb7 31.Kf2 Kf8 32.Ra1 c5 33.Ra5 Rc7 34.Qa1 d4  
+35.Ra6 dxe3+ 36.Kxe3 Qe7 37.Rxf6+ 1-0 
+ 
+[Event "Ron Banwell Masters"] 
+[Site "London ENG"] 
+[Date "2001.08.18"] 
+[Round "1"] 
+[White "McNab, Colin A"] 
+[Black "Dhar-Barua, Saheli"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2437"] 
+[BlackElo "2248"] 
+[ECO "A10"] 
+[EventDate "2001.08.18"] 
+ 
+1.c4 f5 2.b3 Nf6 3.Bb2 g6 4.Bxf6 exf6 5.g3 d5 6.cxd5 Qxd5 7.Nf3 c6 8.Bg2  
+Be6 9.O-O Qd7 10.d4 Na6 11.Nc3 Bb4 12.Qd3 O-O 13.Rfd1 Nc7 14.a3 Be7 15.Nd2 
+Rad8 16.Nc4 Nd5 17.e3 Nxc3 18.Qxc3 Bd5 19.b4 Rfe8 20.Rac1 Bf8 21.Na5 Bxg2  
+22.Kxg2 Qd5+ 23.Kg1 Rd7 24.Qc4 Qxc4 25.Rxc4 g5 26.Kg2 f4 27.exf4 gxf4 28. 
+g4 Re2 29.Kf3 Ra2 30.Rc3 Bd6 31.Rcd3 Bb8 32.Nc4 Rd5 33.R3d2 Rxd2 34.Rxd2  
+Bc7 35.Ke4 Kf7 36.Rd3 Kg6 37.Rh3 Rg5 38.Rh4 Rb5 39.Nb2 a5 40.Nd3 axb4 41. 
+axb4 Bd6 42.Rh3 Bc7 43.Rf3 Bd6 44.h4 h5 45.Nxf4+ Bxf4 46.gxh5+ Kxh5 47. 
+Rxf4 Rxb4 48.Rxf6 Kxh4 49.f4 c5 50.Rh6+ Kg4 51.Rg6+ Kh4 52.Rh6+ 1/2-1/2 
+ 
+[Event "RUS-Cup"] 
+[Site "Tula RUS"] 
+[Date "2001.??.??"] 
+[Round "3"] 
+[White "Kornev, Alexei"] 
+[Black "Kholmov, Ratmir D"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2486"] 
+[BlackElo "2420"] 
+[ECO "A10"] 
+ 
+1.c4 f5 2.b3 Nf6 3.Bb2 e6 4.Nf3 d5 5.e3 c6 6.Be2 Bd6 7.O-O O-O 8.Nc3 Qe7  
+9.Qc2 Nbd7 10.Rac1 Ne5 11.Nxe5 Bxe5 12.Na4 Bd6 13.f4 Bd7 14.c5 Bc7 15.Be5  
+Be8 16.Qb2 h6 17.Qd4 Rc8 18.Nb2 Nd7 19.Bxc7 Rxc7 20.Nd3 Nf6 21.Ne5 g5 22. 
+fxg5 hxg5 23.g4 Qh7 24.Rf3 fxg4 25.Nxg4 Nxg4 26.Rxf8+ Kxf8 27.Bxg4 Qh4 28. 
+Rf1+ Bf7 29.Bxe6 Qxd4 30.exd4 Kg7 31.Rxf7+ Rxf7 32.Bxf7 Kxf7 33.b4 Kg6 34. 
+Kf2 g4 35.Kg3 Kg5 36.a4 a6 37.a5 Kf5 38.Kh4 Kf4 39.Kh5 Kf5 40.Kh4 1/2-1/2 
+ 
+[Event "4NCL"] 
+[Site "Birmingham ENG"] 
+[Date "2000.09.24"] 
+[Round "2"] 
+[White "McNab, Colin A"] 
+[Black "Levitt, Jonathan P"] 
+[Result "1-0"] 
+[WhiteElo "2416"] 
+[BlackElo "2438"] 
+[ECO "A10"] 
+[EventDate "2000.09.23"] 
+ 
+1.c4 f5 2.b3 Nf6 3.Bb2 d6 4.e3 g6 5.Bxf6 exf6 6.Nc3 f4 7.exf4 Bg7 8.Nf3  
+O-O 9.Be2 Bh6 10.g3 Bh3 11.Nd5 Nd7 12.Ne3 Nc5 13.Qc2 Re8 14.b4 Nd7 15.Ng1  
+Be6 16.f5 Bxf5 17.Nxf5 gxf5 18.Qxf5 a5 19.Qh5 Bg7 20.b5 f5 21.Rb1 Nf6 22. 
+Qxf5 Re5 23.Qd3 Ne4 24.f4 Nc5 25.Qf3 Re4 26.Nh3 Qd7 27.Nf2 Rae8 28.Nxe4  
+Nxe4 29.O-O c6 30.Rbd1 Qh3 31.Qg4 Qh6 32.Bf3 Nf6 33.Qg5 Qh3 34.Rfe1 Rxe1+  
+35.Rxe1 h6 36.Qg6 Kf8 37.Bg4 1-0 

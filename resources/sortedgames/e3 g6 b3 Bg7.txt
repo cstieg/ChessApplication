@@ -1,0 +1,17 @@
+ 
+[Event "It Open"] 
+[Site "Oberhausen GER"] 
+[Date "2006.04.16"] 
+[Round "6"] 
+[White "Peters, Alex"] 
+[Black "Henrichs, Thomas"] 
+[Result "0-1"] 
+[WhiteElo "2211"] 
+[BlackElo "2462"] 
+[ECO "A00"] 
+ 
+1.e3 g6 2.b3 Bg7 3.d4 Nf6 4.Bb2 O-O 5.Nf3 c5 6.Be2 b6 7.O-O Bb7 8.Nbd2 d6  
+9.c4 e6 10.Qc2 Nbd7 11.Rad1 a6 12.Qb1 Qc7 13.Ng5 Rfe8 14.Bf3 d5 15.dxc5  
+bxc5 16.Nh3 a5 17.Rc1 Qb6 18.Nf4 Bh6 19.cxd5 exd5 20.Nd3 Rac8 21.Rfd1 Ba6  
+22.g3 a4 23.Nf4 Bb7 24.bxa4 Qa7 25.Nb3 d4 26.Bxb7 Qxb7 27.exd4 Bxf4 28. 
+gxf4 Qf3 29.Rc3 Qxf4 30.Qc1 Qh4 31.f3 Re2 0-1 

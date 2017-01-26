@@ -1,0 +1,17 @@
+ 
+[Event "Petroff Mem Open"] 
+[Site "St Petersburg RUS"] 
+[Date "2000.02.16"] 
+[Round "9"] 
+[White "Pridorozhni, Aleksei"] 
+[Black "Zhukov, V."] 
+[Result "1-0"] 
+[WhiteElo "2348"] 
+[BlackElo "2239"] 
+[ECO "A00"] 
+[EventDate "2000.02.05"] 
+ 
+1.Na3 g6 2.c3 Bg7 3.Nc2 c5 4.g3 Nc6 5.Bg2 e5 6.e4 Nge7 7.Ne2 d6 8.d4 cxd4  
+9.cxd4 O-O 10.d5 Nb8 11.O-O f5 12.f3 Qb6+ 13.Kh1 fxe4 14.fxe4 Rxf1+ 15. 
+Qxf1 Na6 16.Nc3 Bd7 17.Qg1 Nc5 18.b4 Na4 19.Nxa4 Qxg1+ 20.Kxg1 Bxa4 21.Na3 
+Rc8 22.Bh3 Rc3 23.Be6+ Kf8 24.Bb2 Rf3 25.Nc4 Bc2 26.Nxd6 Bh6 27.Kg2 1-0 

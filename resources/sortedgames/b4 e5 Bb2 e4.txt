@@ -1,0 +1,38 @@
+ 
+[Event "World Seniors"] 
+[Site "Condino ITA"] 
+[Date "2009.10.28"] 
+[Round "2"] 
+[White "Vasiukov, Evgeni"] 
+[Black "Van den Berg, Ad"] 
+[Result "1-0"] 
+[WhiteElo "2485"] 
+[BlackElo "2220"] 
+[ECO "A00"] 
+[EventDate "2009.11.07"] 
+ 
+1.b4 e5 2.Bb2 e4 3.c4 Nf6 4.a3 a5 5.b5 Bc5 6.e3 O-O 7.Nc3 Re8 8.g4 d6 9.g5 
+Nfd7 10.Qc2 f5 11.gxf6 Nxf6 12.O-O-O Bf5 13.Nge2 Nbd7 14.f4 Nb6 15.Ng3 Qd7 
+16.Nxf5 Qxf5 17.Rg1 Re7 18.Ne2 Rf8 19.Rg5 Qe6 20.Ng3 h6 21.Rg6 Nbd7 22.Bg2 
+Qf7 23.Nf5 Qxg6 24.Nxe7+ Kh7 25.Nf5 Qf7 1-0 
+ 
+[Event "FSGM August"] 
+[Site "Budapest HUN"] 
+[Date "2007.08.09"] 
+[Round "4"] 
+[White "Lapshun, Yury"] 
+[Black "Papp, Gellert"] 
+[Result "0-1"] 
+[WhiteElo "2479"] 
+[BlackElo "2425"] 
+[ECO "A00"] 
+[EventDate "2007.08.06"] 
+ 
+1.b4 e5 2.Bb2 e4 3.c4 Nf6 4.a3 a5 5.b5 Bc5 6.e3 O-O 7.Nc3 Re8 8.Nge2 d6 9. 
+Ng3 Nbd7 10.Qc2 Qe7 11.Be2 c6 12.f3 exf3 13.gxf3 Ne5 14.Nce4 Nxe4 15.Qxe4  
+Qd8 16.Qc2 Qh4 17.O-O-O Ng6 18.bxc6 bxc6 19.Ne4 Bf5 20.Qc3 f6 21.d4 Bxe4  
+22.fxe4 Bb6 23.Bf3 Qh3 24.Rhf1 Rab8 25.e5 dxe5 26.Bxc6 exd4 27.exd4 Re3  
+28.Qc2 Bc7 29.Rfe1 Rxa3 30.Re8+ Rxe8 31.Bxe8 Rb3 32.Ba4 Rb4 33.c5 Nf4 34. 
+Qe4 Be5 35.Bc2 a4 36.Re1 Kf7 37.c6 a3 38.Ba1 Rc4 39.Kb1 a2+ 40.Kxa2 Rb4  
+41.Bb2 Qe6+ 42.Ka1 Qc4 43.Qf5 Rxb2 44.Qd7+ Kf8 45.Qd8+ Kf7 46.Rxe5 Qa2#  
+0-1 

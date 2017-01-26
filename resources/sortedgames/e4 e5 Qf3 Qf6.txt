@@ -1,0 +1,42 @@
+ 
+[Event "Hanoi VIE, Ch U9 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.16"] 
+[Round "7.37"] 
+[White "Le, Kha Duy"] 
+[Black "Nguyen, Manh Kha"] 
+[Result "1-0"] 
+[WhiteElo "2543"] 
+[BlackElo "2540"] 
+[ECO "C20"] 
+[EventDate "2012.07.12"] 
+ 
+1.e4 e5 2.Qf3 Qf6 3.Bc4 Qxf3 4.Nxf3 Nf6 5.Nxe5 h6 6.Nxf7 Rh7 7.Ne5 Nxe4 8. 
+Bf7+ Ke7 9.Bg6 Rh8 10.Bxe4 d6 11.Ng6+ Kf7 12.Nxh8+ Kg8 13.Ng6 Bd7 14.Bd5+  
+Kh7 15.Nxf8+ Kh8 16.Bxb7 Bc6 17.Bxa8 Bxa8 1-0 
+ 
+[Event "9. EICC"] 
+[Site "Plovdiv BUL"] 
+[Date "2008.04.25"] 
+[Round "5"] 
+[White "Dimitrov, Pavel"] 
+[Black "Vlashki, Nino"] 
+[Result "1-0"] 
+[WhiteElo "2414"] 
+[BlackElo "2206"] 
+[ECO "C20"] 
+[EventDate "2008.04.21"] 
+ 
+1.e4 e5 2.Qf3 Qf6 3.Bc4 Bc5 4.c3 d6 5.d3 Be6 6.Bb3 Nc6 7.Nd2 Nce7 8.Ne2  
+Ng6 9.Qxf6 Nxf6 10.Nf3 h6 11.h3 Bb6 12.Bc2 O-O 13.O-O d5 14.Ng3 Rad8 15. 
+Re1 Rfe8 16.Nf5 dxe4 17.dxe4 Bc4 18.Ba4 c6 19.Bc2 Bd3 20.Bxd3 Rxd3 21.a4  
+a6 22.a5 Bc5 23.Ra4 Red8 24.Rc4 Bf8 25.Be3 Ne8 26.Kf1 Nd6 27.Ra4 f6 28. 
+Nxd6 R3xd6 29.g3 Kf7 30.Ke2 R6d7 31.h4 h5 32.Bb6 Re8 33.Raa1 Bd6 34.Red1  
+Nf8 35.Nd2 Bc7 36.Nb3 Bd6 37.Nd2 Bc7 38.Nb3 Bd6 39.Be3 Ne6 40.Bb6 Ke7 41. 
+Rd3 Bc7 42.Bxc7 Rxc7 43.Rad1 Rh8 44.R3d2 g5 45.Rh1 Rd7 46.Rxd7+ Kxd7 47. 
+Nd2 gxh4 48.Rxh4 Nf8 49.Rh1 Kd6 50.Nf3 Kc5 51.Rd1 Rh7 52.Rd8 Ne6 53.Re8  
+Kd6 54.Ke3 Nc5 55.b4 Na4 56.Kd3 c5 57.Rf8 Ke7 58.Rc8 Kd7 59.Rb8 Kd6 60. 
+Rd8+ Ke7 61.Rd5 cxb4 62.cxb4 Ke6 63.Rxe5+ fxe5 64.Ng5+ Ke7 65.Nxh7 Nb2+  
+66.Kc2 Nc4 67.Ng5 Kf6 68.Nf3 b5 69.Kd3 Nb2+ 70.Ke2 Nc4 71.Nd2 Nd6 72.f4 h4 
+73.fxe5+ Kxe5 74.gxh4 Kd4 75.h5 Nf7 76.Kf3 Kd3 77.Kf4 Kxd2 78.e5 Kd3 79.e6 
+Nd8 80.Ke5 1-0 

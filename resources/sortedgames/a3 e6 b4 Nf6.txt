@@ -1,0 +1,15 @@
+ 
+[Event "30. Schwarzacher Open"] 
+[Site "Schwarzach AUT"] 
+[Date "2015.08.28"] 
+[Round "8.1"] 
+[White "Stevic, Hrvoje"] 
+[Black "Zelcic, Robert"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2606"] 
+[BlackElo "2501"] 
+[ECO "A00"] 
+[EventDate "2015.08.22"] 
+ 
+1.a3 e6 2.b4 Nf6 3.Bb2 d5 4.Nf3 c5 5.b5 Be7 6.e3 O-O 7.Be2 a6 8.a4 axb5 9. 
+Bxb5 Nc6 10.O-O Bd7 11.d3 1/2-1/2 

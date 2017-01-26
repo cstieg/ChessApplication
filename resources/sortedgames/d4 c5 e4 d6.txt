@@ -1,0 +1,62 @@
+ 
+[Event "10. EICC playoff"] 
+[Site "Budva MNE"] 
+[Date "2009.03.18"] 
+[Round "3.2"] 
+[White "Inarkiev, Ernesto"] 
+[Black "Malakhov, V."] 
+[Result "1/2-1/2"] 
+[WhiteElo "2656"] 
+[BlackElo "2692"] 
+[ECO "B60"] 
+[EventDate "2009.03.18"] 
+ 
+1.d4 c5 2.e4 d6 3.Nf3 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 h6 7.Qd2 Bd7 8.Bxf6  
+gxf6 9.Nb3 f5 10.Bd3 fxe4 11.Bxe4 Bg7 12.f4 Rc8 13.O-O Na5 14.Rae1 Nc4 15. 
+Qe2 Nxb2 16.Nd5 e6 17.Ne3 O-O 18.f5 d5 19.Ng4 exf5 20.Bxf5 Bxf5 21.Rxf5  
+Re8 22.Qf2 Rxe1+ 23.Qxe1 Rxc2 24.h3 Qb6+ 25.Kh1 Qe6 26.Qg3 Rc3 27.Nf6+ Kh8 
+28.Rf3 Nd3 29.Nh5 Qe1+ 30.Qxe1 Nxe1 31.Rxf7 Be5 32.Rxb7 Rc2 33.Re7 Nd3 34. 
+Rxa7 Rb2 35.g3 Nf2+ 36.Kg2 Ng4+ 37.Kg1 Rb1+ 38.Kg2 Rb2+ 39.Kf3 Nh2+ 40.Ke3 
+Nf1+ 41.Kf3 Nh2+ 42.Ke3 Nf1+ 43.Kd3 Nxg3 44.Nxg3 Bxg3 45.Nd4 Rh2 46.Nf5  
+Bf2 47.Rb7 Rxh3+ 48.Ke2 Bc5 49.Rb5 Ba3 50.Rxd5 Rh2+ 51.Kf3 Rxa2 52.Ra5 Ra1 
+53.Nxh6 Bb2 54.Rxa1 1/2-1/2 
+ 
+[Event "Oceania zt"] 
+[Site "Auckland NZL"] 
+[Date "2005.01.31"] 
+[Round "2"] 
+[White "Kulashko, Aleksei"] 
+[Black "Smith, Robert W"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2377"] 
+[BlackElo "2233"] 
+[ECO "B90"] 
+[EventDate "2005.01.30"] 
+ 
+1.d4 c5 2.e4 d6 3.Nf3 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be6 8.Be3 Be7 
+9.Nd5 Bxd5 10.exd5 Nbd7 11.Qd2 a5 12.a4 O-O 13.Bb5 Qc7 14.Rc1 Nc5 15.O-O  
+Rfc8 16.Rfd1 Nfd7 17.Na1 Qd8 18.b3 f5 19.Bxd7 Qxd7 20.c4 Bf6 21.Bxc5 Rxc5  
+22.Re1 Rcc8 23.Qd3 b6 24.Nc2 Re8 25.Re2 Re7 26.Rce1 Rae8 27.Na3 Qc8 28.Nb5 
+Qc5+ 29.Qe3 Rd8 30.Qf2 Kf7 31.Kf1 Qxf2+ 32.Kxf2 Red7 33.Ke3 h5 34.Kd3 g5  
+35.h3 Rg8 36.g4 Kg6 37.Nc3 hxg4 38.hxg4 Rh8 39.Nd1 Rh3 40.gxf5+ Kxf5 41. 
+Ne3+ Kg6 42.Rf1 Rf7 43.c5 bxc5 44.Nc4 Bd8 45.Nxd6 Rfxf3+ 46.Rxf3 Rxf3+ 47. 
+Kc4 Bf6 48.Ne4 Kf5 49.Nxc5 Be7 50.Ne4 Rf4 51.Kd3 Bb4 52.Ng3+ Kg4 53.Ne4  
+Kf5 54.Ng3+ Kg4 55.Ne4 1/2-1/2 
+ 
+[Event "Asian Juniors"] 
+[Site "Bikaner IND"] 
+[Date "2004.12.27"] 
+[Round "7"] 
+[White "Akshayraj, Kore"] 
+[Black "Sriram, Sarja"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2400"] 
+[BlackElo "2260"] 
+[ECO "B97"] 
+[EventDate "2004.12.22"] 
+ 
+1.d4 c5 2.e4 d6 3.Nf3 Nf6 4.Nc3 cxd4 5.Nxd4 a6 6.Bg5 e6 7.f4 Qb6 8.Qd2 Nc6 
+9.Nb3 Ng4 10.Bd3 h6 11.Bh4 g5 12.h3 Qe3+ 13.Ne2 Qxd2+ 14.Kxd2 gxh4 15.hxg4 
+Be7 16.Ke3 e5 17.f5 Bg5+ 18.Kf3 Ne7 19.Nc3 b6 20.Rad1 Bb7 21.Be2 Rd8 22. 
+Nd5 Nxd5 23.exd5 Ke7 24.Ke4 Rc8 25.c3 Rcg8 26.Nd2 Bf6 27.Rh2 Kd8 28.Nc4  
+Kc7 1/2-1/2 

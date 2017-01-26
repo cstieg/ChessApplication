@@ -1,0 +1,19 @@
+ 
+[Event "Ch Chess Union (cat.5)"] 
+[Site "Kiev UKR"] 
+[Date "2005.10.11"] 
+[Round "4"] 
+[White "Galinsky, Timofey"] 
+[Black "Grinev, Valeriy"] 
+[Result "1-0"] 
+[WhiteElo "2426"] 
+[BlackElo "2241"] 
+[ECO "A00"] 
+ 
+1.d3 d5 2.Nd2 g6 3.g3 Bg7 4.Bg2 Nf6 5.e4 O-O 6.exd5 Nxd5 7.Ngf3 Nc6 8.O-O  
+e5 9.Re1 Re8 10.Ne4 h6 11.Bd2 b6 12.Qc1 Kh7 13.Nc3 Nde7 14.b4 Bb7 15.b5  
+Nd4 16.Nxd4 Bxg2 17.Ne6 Qd7 18.Nxg7 Qh3 19.Re3 Kxg7 20.Rxe5 Nf5 21.Rxf5  
+gxf5 22.Bxh6+ Qxh6 23.Qxh6+ Kxh6 24.Kxg2 Rad8 25.Rb1 Re5 26.Kf3 Kg6 27.Ne2 
+a6 28.a4 a5 29.h4 Kf6 30.Nf4 Ke7 31.c3 Kd6 32.h5 Rde8 33.h6 Re1 34.Rxe1  
+Rxe1 35.Nh5 Kc5 36.h7 Re8 37.Nf6 Rh8 38.Kf4 c6 39.d4+ Kd6 40.c4 cxb5 41. 
+cxb5 1-0 

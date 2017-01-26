@@ -1,0 +1,107 @@
+ 
+[Event "Brno CZE, Open Duras-A 2012"] 
+[Site "Brno CZE"] 
+[Date "2012.06.25"] 
+[Round "4.1"] 
+[White "Jansen, Christof"] 
+[Black "Malinovsky, Karel"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2261"] 
+[BlackElo "2373"] 
+[ECO "A00"] 
+[EventDate "2012.06.23"] 
+ 
+1.d3 e5 2.g3 Nf6 3.Bg2 d5 4.e4 Bc5 5.Nc3 c6 6.Nge2 dxe4 7.Nxe4 Nxe4 8.Bxe4 
+Nd7 9.c3 Nf6 10.Bg2 Bf5 11.d4 exd4 12.Nxd4 Bxd4 13.Qxd4 Qxd4 14.cxd4 Be4  
+15.f3 Bd5 16.Kf2 O-O 17.Bg5 Nd7 18.Bh3 Nb6 19.Rhe1 f6 20.Bf4 Rfe8 21.b3  
+Kf7 22.Bc7 Be6 23.Bxe6+ Rxe6 24.Rxe6 Kxe6 25.Bxb6 axb6 26.a4 Kd5 27.Ke3 c5 
+28.dxc5 bxc5 29.Rd1+ Kc6 30.Rd3 Re8+ 31.Kd2 h5 32.Re3 Rd8+ 33.Kc3 Rd7 34. 
+Re8 Rd1 35.Rc8+ Kb6 36.Rh8 Rc1+ 37.Kb2 Rf1 38.Rxh5 Rxf3 39.Rh7 g5 40.Rh6  
+Ka5 41.Rh7 b6 42.Ka3 Ka6 43.Kb2 f5 44.Ka2 f4 45.gxf4 gxf4 46.Rf7 Ka5 47. 
+Ka3 b5 48.axb5 Kxb5 49.Kb2 c4 50.bxc4+ Kxc4 51.Kc2 Rf2+ 52.Kd1 Kd3 53.Ke1  
+Ke3 54.Ra7 Kf3 55.h4 Rb2 56.h5 Rb1+ 57.Kd2 Rh1 58.Rh7 Kf2 59.h6 f3 60.Rh8  
+Kf1 61.Rf8 f2 62.Rf6 Rh3 63.Rg6 Rh2 64.Rf6 Kg1 65.Rg6+ Kf1 66.Rf6 Rh3 67. 
+Rg6 Rh5 68.Ra6 Re5 69.h7 Rh5 70.Ra7 Rd5+ 71.Ke3 Rd8 72.Kf3 Rf8+ 73.Ke3  
+Re8+ 74.Kf3 Rf8+ 75.Ke3 Re8+ 1/2-1/2 
+ 
+[Event "CGT Magistral"] 
+[Site "Buenos Aires ARG"] 
+[Date "2003.12.14"] 
+[Round "4"] 
+[White "Rodriguez Vila, Andres"] 
+[Black "Crosa, M."] 
+[Result "1-0"] 
+[WhiteElo "2498"] 
+[BlackElo "2403"] 
+[ECO "A00"] 
+[EventDate "2003.12.11"] 
+ 
+1.d3 e5 2.g3 Nf6 3.Bg2 d5 4.Nd2 Nc6 5.a3 Bc5 6.e3 Bb6 7.Ne2 h5 8.h3 Bf5 9. 
+b4 a5 10.b5 Na7 11.a4 c6 12.Bb2 Qe7 13.Ba3 Qd7 14.bxc6 Nxc6 15.Qb1 Nb4 16. 
+Bxb4 axb4 17.Qxb4 Ba5 18.Qc5 b6 19.Qb5 O-O 20.Qxd7 Bxd7 21.Kd1 Bb4 22.f4  
+Rfe8 23.Rf1 Bxa4 24.fxe5 Rxe5 25.Nc4 dxc4 26.Bxa8 Ra5 27.Be4 Nxe4 28.dxe4  
+Bc6 29.Rxa5 bxa5 30.c3 Bd6 31.Rf5 a4 32.Ra5 a3 33.e5 Bc7 34.Rxa3 Bxe5 35. 
+Ra5 f6 36.Kd2 g5 37.h4 gxh4 38.gxh4 Be8 39.Ra8 Kf8 40.Rc8 Ke7 41.Rxc4 Bd7  
+42.Nf4 Be8 43.Rc5 Kd6 44.Rd5+ Ke7 45.Kd3 Bc6 46.Ra5 Bc7 47.Nd5+ 1-0 
+ 
+[Event "Mendoza ARG, 2. Manuel Puebla Memorial"] 
+[Site "Mendoza ARG"] 
+[Date "2003.12.10"] 
+[Round "6"] 
+[White "Rodriguez Marque, Andres"] 
+[Black "Monje Peinado, Roberto"] 
+[Result "1-0"] 
+[WhiteElo "2498"] 
+[BlackElo "2405"] 
+[ECO "A00"] 
+[EventDate "2003.12.06"] 
+ 
+1.d3 e5 2.g3 Nf6 3.Bg2 d5 4.Nd2 Nc6 5.e4 dxe4 6.dxe4 Bc5 7.h3 O-O 8.Ne2  
+Be6 9.O-O Qd7 10.Kh2 Rfd8 11.c3 a5 12.a4 Qd3 13.Qe1 Rd7 14.Ng1 Rad8 15. 
+Ngf3 h6 16.Rg1 Qc2 17.Bf1 Bg4 18.hxg4 Nxg4+ 19.Kg2 Nxf2 20.Qe2 Nd3 21.Nc4  
+Qxe2+ 22.Bxe2 Bxg1 23.Kxg1 Nxc1 24.Rxc1 f6 25.Ne1 g6 26.Bg4 Rg7 27.Be6+  
+Kf8 28.Bd5 Ra8 29.Nd3 Nd8 30.Nc5 Ra7 31.Rd1 Re7 32.Ne3 b6 33.Bc4 Ra8 34. 
+Nd7+ Kg7 35.Nxf6 c6 36.Nd7 Nb7 37.Nxb6 Rf8 38.Rd7 Rxd7 39.Nxd7 Re8 40.b4  
+Nd6 41.Bd3 axb4 42.cxb4 Re7 43.Nb8 Rc7 44.a5 h5 45.a6 Kh7 46.Nc4 Nxc4 47. 
+Bxc4 Kg7 48.a7 1-0 
+ 
+[Event "2. Manuel Pereyra Puebla Memorial"] 
+[Site "Mendoza ARG"] 
+[Date "2003.12.10"] 
+[Round "6"] 
+[White "Rodriguez Vila, Andres"] 
+[Black "Monier, Raul"] 
+[Result "1-0"] 
+[WhiteElo "2498"] 
+[BlackElo "2405"] 
+[ECO "A00"] 
+[EventDate "2003.12.06"] 
+ 
+1.d3 e5 2.g3 Nf6 3.Bg2 d5 4.Nd2 Nc6 5.e4 dxe4 6.dxe4 Bc5 7.h3 O-O 8.Ne2  
+Be6 9.O-O Qd7 10.Kh2 Rfd8 11.c3 a5 12.a4 Qd3 13.Qe1 Rd7 14.Ng1 Rad8 15. 
+Ngf3 h6 16.Rg1 Qc2 17.Bf1 Bg4 18.hxg4 Nxg4+ 19.Kg2 Nxf2 20.Qe2 Nd3 21.Nc4  
+Qxe2+ 22.Bxe2 Bxg1 23.Kxg1 Nxc1 24.Rxc1 f6 25.Ne1 g6 26.Bg4 Rg7 27.Be6+  
+Kf8 28.Bd5 Ra8 29.Nd3 Nd8 30.Nc5 Ra7 31.Rd1 Re7 32.Ne3 b6 33.Bc4 Ra8 34. 
+Nd7+ Kg7 35.Nxf6 c6 36.Nd7 Nb7 37.Nxb6 Rf8 38.Rd7 Rxd7 39.Nxd7 Re8 40.b4  
+Nd6 41.Bd3 axb4 42.cxb4 Re7 43.Nb8 Rc7 44.a5 h5 45.a6 Kh7 46.Nc4 Nxc4 47. 
+Bxc4 Kg7 48.a7 1-0 
+ 
+[Event "World Seniors"] 
+[Site "Rowy POL"] 
+[Date "2000.09.14"] 
+[Round "4"] 
+[White "Karasev, Vladimir I"] 
+[Black "Bylino, Oleg"] 
+[Result "1-0"] 
+[WhiteElo "2358"] 
+[BlackElo "2264"] 
+[ECO "A07"] 
+[EventDate "2000.09.11"] 
+ 
+1.d3 e5 2.g3 Nf6 3.Bg2 d5 4.Nf3 Nc6 5.O-O Be7 6.c4 dxc4 7.Qa4 Bd7 8.Qxc4  
+O-O 9.a3 Be6 10.Qc2 a5 11.b3 Qd7 12.Bb2 Bd6 13.Nbd2 Bh3 14.Qc4 Bxg2 15. 
+Kxg2 Rfe8 16.Rac1 Qe7 17.a4 Bb4 18.Ne4 Nxe4 19.Qxe4 Rad8 20.h4 Qe6 21.Ng5  
+Qd5 22.Rc4 f5 23.Qxd5+ Rxd5 24.Rfc1 h6 25.Nf3 e4 26.dxe4 fxe4 27.Nd4 Nxd4  
+28.Rxd4 Rxd4 29.Bxd4 c6 30.h5 Rd8 31.Be3 Rd5 32.Rc4 Rxh5 33.Rxe4 Rd5 34. 
+Re8+ Kf7 35.Rb8 Rd7 36.Bb6 Kg6 37.f4 Rd2 38.Rxb7 Rxe2+ 39.Kf3 Rb2 40.Rxg7+ 
+Kh5 41.Bd8 Rxb3+ 42.Ke4 1-0 

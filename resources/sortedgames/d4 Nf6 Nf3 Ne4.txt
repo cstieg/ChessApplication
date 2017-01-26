@@ -1,0 +1,65 @@
+ 
+[Event "IM Closed"] 
+[Site "Martinenc ESP"] 
+[Date "2001.01.09"] 
+[Round "2"] 
+[White "Granados Gomez, Manuel"] 
+[Black "Buecker, Stefan"] 
+[Result "1-0"] 
+[WhiteElo "2408"] 
+[BlackElo "2346"] 
+[ECO "A46"] 
+[EventDate "2001.01.08"] 
+ 
+1.d4 Nf6 2.Nf3 Ne4 3.g3 d5 4.Bg2 c5 5.c4 Qa5+ 6.Nfd2 cxd4 7.cxd5 Nd6 8.O-O 
+Nf5 9.a3 g6 10.b4 Qb6 11.Nc4 Qa6 12.Qd3 Bg7 13.Bb2 O-O 14.a4 Nd7 15.d6  
+Nxd6 16.b5 Nxb5 17.axb5 Qf6 18.Nbd2 Nc5 19.Qa3 Nd7 20.e3 e5 21.exd4 exd4  
+22.Qd6 Qf5 23.b6 a5 24.Bxd4 Bh6 25.Ne4 a4 26.Ne3 Qe6 27.Nd5 Bg7 28.Bxg7  
+Kxg7 29.Qxe6 fxe6 30.Nc7 Nxb6 31.Nxa8 Nxa8 32.Rxa4 Nb6 33.Raa1 1-0 
+ 
+[Event "Visma IMA 2014"] 
+[Site "Vaxjo SWE"] 
+[Date "2014.06.27"] 
+[Round "5.1"] 
+[White "Livner, Anders"] 
+[Black "Wiander, Michael"] 
+[Result "1-0"] 
+[WhiteElo "2310"] 
+[BlackElo "2209"] 
+[ECO "E10"] 
+[EventDate "2014.06.25"] 
+ 
+1.d4 Nf6 2.Nf3 Ne4 3.c4 e6 4.g3 d5 5.Bg2 Be7 6.O-O O-O 7.Qc2 f5 8.b3 Nc6  
+9.Bb2 Bd7 10.a3 a5 11.Nc3 Be8 12.Rfd1 Bg6 13.Qc1 Bf6 14.Na4 f4 15.gxf4 Bh4 
+16.Rf1 Qf6 17.e3 Rad8 18.Nc5 Nxc5 19.dxc5 Qe7 20.cxd5 exd5 21.b4 axb4 22. 
+Nxh4 Qxh4 23.axb4 Rf5 24.Qc3 d4 25.exd4 Nxd4 26.Rae1 Bh5 27.Qc4+ Bf7 28. 
+Qd3 Rxf4 29.Qg3 Bc4 30.Qxh4 Rxh4 31.Re7 Bxf1 32.Kxf1 c6 33.Rxb7 Rh6 34.b5  
+cxb5 35.Bxd4 Rxd4 36.c6 Re6 37.Bf3 Re8 38.c7 1-0 
+ 
+[Event "Deltalift Open 2014"] 
+[Site "Halmstad SWE"] 
+[Date "2014.05.29"] 
+[Round "4.3"] 
+[White "Brynell, Stellan"] 
+[Black "Wiander, Michael"] 
+[Result "1-0"] 
+[WhiteElo "2464"] 
+[BlackElo "2204"] 
+[ECO "E10"] 
+[EventDate "2014.03.29"] 
+ 
+1.d4 Nf6 2.Nf3 Ne4 3.c4 e6 4.Nbd2 d5 5.g3 Be7 6.Bg2 O-O 7.O-O f5 8.Qc2 c6  
+9.b3 Qe8 10.Ne5 Nxd2 11.Bxd2 Nd7 12.Nd3 Kh8 13.Rad1 Bf6 14.Bc3 dxc4 15. 
+bxc4 e5 16.e3 f4 17.dxe5 Nxe5 18.Nxf4 Bg4 19.f3 Be6 20.Bb4 Rg8 21.Nxe6  
+Qxe6 22.c5 Nc4 23.Rfe1 Rad8 24.Rxd8 Rxd8 25.Qb3 Qd5 26.f4 Qg8 27.Kh1 a5  
+28.Bf1 Nxe3 29.Bxa5 Qxb3 30.axb3 Re8 31.Bd2 Bd4 32.b4 Kg8 33.Bh3 Kf8 34. 
+Bd7 Re7 35.Bc8 b6 36.cxb6 Bxb6 37.h3 Ke8 38.Bc3 Kd8 39.Ba6 Ra7 40.Ra1 Nf5  
+41.Kg2 Bd4 42.Bxd4 Nxd4 43.Rd1 Rxa6 44.Rxd4+ Ke7 45.Kf3 Ra3+ 46.Kg4 Ra4  
+47.Rc4 c5 48.Rxc5 Rxb4 49.Rc7+ Kf6 50.h4 Rb6 51.h5 h6 52.Ra7 Rc6 53.Kh4  
+Rd6 54.g4 Rd4 55.Kg3 Rd3+ 56.Kf2 Rb3 57.Rd7 Ra3 58.Rd4 Rb3 59.Re4 Ra3 60. 
+Re3 Ra2+ 61.Kf3 Ra4 62.Rb3 Ra6 63.Rd3 Re6 64.Ra3 Rb6 65.Ra4 Re6 66.Ra5 Rb6 
+67.Rf5+ Ke6 68.Rf8 Rb3+ 69.Kf2 Rb2+ 70.Kg3 Rb3+ 71.Kh4 Rb1 72.Re8+ Kf7 73. 
+Re3 Rb4 74.Kg3 Kf6 75.Kf3 Ra4 76.Rd3 Rb4 77.Ke3 Rb1 78.Rd6+ Kf7 79.Ke4  
+Re1+ 80.Kf5 Re7 81.g5 hxg5 82.fxg5 Ra7 83.Rd5 g6+ 84.hxg6+ Kg7 85.Rd6 Ra5+ 
+86.Kg4 Ra7 87.Kh5 Re7 88.Rf6 Re1 89.Rf7+ Kg8 90.Ra7 Re4 91.g7 Rf4 92.Kg6  
+1-0 

@@ -1,0 +1,36 @@
+ 
+[Event "Asian Clubs 2014"] 
+[Site "Al-Ain UAE"] 
+[Date "2014.06.26"] 
+[Round "5.1"] 
+[White "Saad, A I Sarsam"] 
+[Black "Illingworth, Max"] 
+[Result "0-1"] 
+[WhiteElo "2393"] 
+[BlackElo "2442"] 
+[ECO "C20"] 
+[EventDate "2014.06.21"] 
+ 
+1.e4 d5 2.d3 e5 3.Nd2 Nf6 4.Ngf3 Nc6 5.c3 a5 6.Be2 Bc5 7.O-O O-O 8.h3 b6  
+9.Qc2 Bb7 10.Re1 Re8 11.Nh2 Ne7 12.Ng4 Ng6 13.g3 a4 14.Rb1 h5 15.Nxf6+  
+Qxf6 16.Nf3 h4 17.Kg2 dxe4 18.dxe4 Nf4+ 19.Bxf4 exf4 20.g4 Bxe4 21.Bd3 Bc6 
+22.Be4 Rxe4 23.Rxe4 Qg6 24.Rbe1 Be3 25.fxe3 Bxe4 26.Qf2 Qf6 27.Kg1 a3 28. 
+Nd2 Bc6 29.bxa3 Rxa3 30.Nb3 f3 31.e4 Qf4 32.Nd4 Bxe4 33.Qxh4 f6 34.Qf2 c5  
+35.Ne2 Qd2 36.Nc1 Qxf2+ 37.Kxf2 Bd5 38.Rd1 Bc4 39.Kxf3 Rxc3+ 40.Kf4 Rxh3  
+41.Rd2 Kf7 42.Rc2 Bd5 43.g5 Rf3+ 44.Kg4 f5+ 45.Kh4 Rf4+ 46.Kh3 Kg6 47.Rd2  
+Rd4 48.Rb2 Kxg5 49.Rxb6 Rd1 0-1 
+ 
+[Event "Plovdiv BUL, Tringov Mem 2009"] 
+[Site "Plovdiv BUL"] 
+[Date "2009.02.02"] 
+[Round "3.19"] 
+[White "Vlashki, Nino"] 
+[Black "Milchev, Nikolay"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2200"] 
+[BlackElo "2377"] 
+[ECO "C44"] 
+[EventDate "2009.02.01"] 
+ 
+1.e4 d5 2.d3 e5 3.Nf3 Nc6 4.exd5 Qxd5 5.Nc3 Qe6 6.Be2 Bd7 7.d4 exd4 8.Nxd4 
+Nxd4 9.Qxd4 Qd6 10.Qe4+ Be7 11.Bf4 1/2-1/2 

@@ -1,0 +1,116 @@
+ 
+[Event "26. Czech Open A 2015"] 
+[Site "Pardubice CZE"] 
+[Date "2015.07.30"] 
+[Round "7.63"] 
+[White "Lugovskoy, Maxim"] 
+[Black "Severina, Maria"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2432"] 
+[BlackElo "2276"] 
+[ECO "A03"] 
+[EventDate "2015.07.24"] 
+ 
+1.f4 d5 2.g3 h5 3.Bg2 h4 4.c4 dxc4 5.Na3 hxg3 6.hxg3 Rxh1 7.Bxh1 e5 8.Nf3  
+exf4 9.gxf4 Qf6 10.d4 cxd3 11.Qxd3 Bf5 12.e4 Bxa3 13.exf5 Bb4+ 14.Kf1 Nd7  
+15.Be3 O-O-O 16.Rc1 Ne7 17.Nd4 Nb6 18.Rxc7+ Kxc7 19.Nb5+ Kc8 20.Nxa7+ Kc7  
+21.Nb5+ Kc8 22.Na7+ Kc7 23.Nb5+ Kc8 24.Na7+ 1/2-1/2 
+ 
+[Event "BEL Ch 2015"] 
+[Site "Schelle BEL"] 
+[Date "2015.07.11"] 
+[Round "8.5"] 
+[White "Beukema, Stefan"] 
+[Black "Hautot, Stephane"] 
+[Result "0-1"] 
+[WhiteElo "2363"] 
+[BlackElo "2359"] 
+[ECO "A03"] 
+[EventDate "2015.07.04"] 
+ 
+1.f4 d5 2.g3 h5 3.Bg2 h4 4.Nc3 Nf6 5.d3 Nc6 6.e4 Bg4 7.Qd2 h3 8.Bf3 e6 9. 
+Bxg4 Nxg4 10.Qe2 Nf6 11.Nf3 Bc5 12.e5 Ng4 13.d4 Bb6 14.Be3 Nxe3 15.Qxe3  
+Qe7 16.a3 O-O-O 17.b4 f6 18.O-O Qf7 19.Ne2 Qg6 20.c3 Qe4 21.Qf2 fxe5 22. 
+fxe5 Rdf8 23.Nf4 Nxe5 24.Nxe5 g5 25.Rae1 Qh7 26.Neg6 gxf4 27.Nxf8 Rxf8 28. 
+Qe2 Re8 29.Rxf4 c6 30.Qf2 Re7 31.Rh4 Qd3 32.Qe3 Qf5 33.Qe5 Qc2 34.Rxh3  
+Qxc3 35.Rh4 Kd7 36.Kg2 Qxa3 37.Rh6 Qb2+ 38.Re2 Bxd4 39.Qh5 Qxb4 40.Rh7  
+Rxh7 41.Qxh7+ Qe7 42.Qg8 b5 43.Re1 Qe8 44.Qh7+ Kd6 45.Rf1 Qh8 46.Qf7 a5  
+47.Qb7 a4 48.Rf7 Qd8 49.Rf3 e5 50.Qg7 e4 51.Qh6+ Kc5 52.Rf8 Qe7 53.Rc8 Qd7 
+54.Qf8+ Kc4 55.h4 e3 56.Qf1+ Kc5 57.Qf8+ Kc4 58.Qf1+ Kb4 59.Qb1+ Kc5 60. 
+Rb8 Qe6 61.Qc1+ Kd6 62.Qf1 Qf6 63.Qd3 Qf2+ 64.Kh3 e2 65.Qg6+ Kc5 66.Qc2+  
+Kb4 67.Qb1+ Kc3 68.Qc1+ Kb4 69.Qb1+ Kc3 70.Qa1+ Kc2 71.Qa2+ Bb2 72.Rc8  
+Qf5+ 73.g4 Qxc8 74.h5 e1=Q 75.h6 Qe2 0-1 
+ 
+[Event "X Mario Covas"] 
+[Site "Santos BRA"] 
+[Date "2011.11.30"] 
+[Round "7.3"] 
+[White "Rodriguez Vila, Andres"] 
+[Black "Fusco, Leonardo"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2481"] 
+[BlackElo "2383"] 
+[ECO "A03"] 
+[EventDate "2011.11.26"] 
+ 
+1.f4 d5 2.g3 h5 3.Bg2 h4 4.Nc3 Nf6 5.d3 Nc6 6.gxh4 Bg4 7.Nf3 d4 8.Ne4 Nxe4 
+9.dxe4 Bxf3 10.exf3 e5 11.fxe5 Qxh4+ 12.Kf1 O-O-O 13.Qe1 Qh5 14.Qe2 Qxe5  
+15.f4 Qc5 16.a3 Kb8 17.b4 Qc3 18.Rb1 d3 19.cxd3 Rxd3 20.Bb2 Qb3 21.Kf2 Be7 
+22.Rhd1 Rxd1 23.Qxd1 Qe6 24.Bxg7 Rxh2 25.Qf3 f6 26.Rh1 Qa2+ 27.Kg3 Rxh1  
+28.Bxh1 a5 29.bxa5 Nd4 30.Qd3 Qg8 31.Qxd4 Qxg7+ 32.Kf3 Qh6 33.Bg2 Qh5+ 34. 
+Kg3 Qxa5 35.a4 Qe1+ 1/2-1/2 
+ 
+[Event "4. Mumbai Mayors Cup"] 
+[Site "Mumbai IND"] 
+[Date "2011.09.18"] 
+[Round "4"] 
+[White "Navin, Kanna T U"] 
+[Black "Deviatkin, Andrei"] 
+[Result "0-1"] 
+[WhiteElo "2342"] 
+[BlackElo "2580"] 
+[ECO "A03"] 
+[EventDate "2011.09.16"] 
+ 
+1.f4 d5 2.g3 h5 3.Nf3 h4 4.Nxh4 e5 5.Ng2 exf4 6.Nxf4 Bd6 7.e3 g5 8.Ne2 Bg4 
+9.Bg2 c6 10.b3 Qf6 11.Nbc3 Rh5 12.d4 Qh6 13.Kd2 Rxh2 14.Rxh2 Qxh2 15.Qh1  
+Qxh1 16.Bxh1 f5 17.Bb2 Nf6 18.Rf1 Ke7 19.Nd1 Nbd7 20.Nf2 Bxe2 21.Kxe2 Nh5  
+22.Rg1 Nxg3+ 23.Ke1 Ke6 24.Bg2 Rh8 25.Nh3 g4 26.Nf4+ Bxf4 27.exf4 Rh2 28. 
+Bc1 Nf6 29.Be3 Nfe4 30.c4 Nc3 31.Kf2 Nge4+ 32.Kf1 Nxa2 33.Bd2 b5 34.cxb5  
+cxb5 35.Ke2 b4 36.Be1 Nc1+ 37.Ke3 a5 38.Bxe4 Re2# 0-1 
+ 
+[Event "Saint Affrique FRA, 15. Open"] 
+[Site "Saint Affrique FRA"] 
+[Date "2007.??.??"] 
+[Round "5.6"] 
+[White "Dussol, Pierre"] 
+[Black "Flear, Glenn C"] 
+[Result "0-1"] 
+[WhiteElo "2247"] 
+[BlackElo "2479"] 
+[ECO "A03"] 
+[EventDate "2007.07.21"] 
+ 
+1.f4 d5 2.g3 h5 3.Nf3 h4 4.Bg2 Nc6 5.d3 hxg3 6.hxg3 Rxh1+ 7.Bxh1 Nf6 8.Nc3 
+Bg4 9.Ne5 Bh5 10.Nxc6 bxc6 11.Be3 Qd7 12.Qd2 Qh3 13.O-O-O Qxg3 14.Rg1 Qh2  
+15.Qe1 g6 16.Nd1 Bh6 17.Qb4 Kd7 18.Rf1 a5 19.Qa4 Qxe2 20.Rg1 Bf3 21.Bd2  
+Bxh1 22.Rxh1 Nh5 23.Re1 Qh2 24.Re5 e6 25.Rxh5 gxh5 26.Qd4 Qg3 27.Nc3 Rg8  
+28.Be3 Rg4 0-1 
+ 
+[Event "ECC"] 
+[Site "Rethymnon GRE"] 
+[Date "2003.10.01"] 
+[Round "4"] 
+[White "Fahrner, Kurt"] 
+[Black "Polzin, Rainer"] 
+[Result "0-1"] 
+[WhiteElo "2369"] 
+[BlackElo "2464"] 
+[ECO "A03"] 
+[EventDate "2003.09.28"] 
+ 
+1.f4 d5 2.g3 h5 3.Nf3 Bg4 4.Bg2 Nd7 5.Nc3 c6 6.d3 Ngf6 7.O-O Qc7 8.e4 dxe4 
+9.dxe4 e5 10.h3 Bc5+ 11.Kh1 h4 12.Qe1 Bxf3 13.Rxf3 Nh5 14.gxh4 Nxf4 15. 
+Bxf4 exf4 16.e5 Be3 17.Nd1 Nxe5 18.Rf1 Bb6 19.Rxf4 O-O-O 20.Re4 Ng6 21.Nc3 
+f5 22.Rc4 Rde8 23.Qd2 Nxh4 24.Nb5 Qg3 25.Nd6+ Kb8 26.Nxe8 Nxg2 27.Qd6+  
+Qxd6 28.Nxd6 Ne3 29.Rc3 Rxh3+ 30.Kg1 Nxc2+ 31.Kf1 Rxc3 32.Nxf5 Rf3+ 0-1 

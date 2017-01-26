@@ -1,0 +1,21 @@
+ 
+[Event "BL2-West 9900"] 
+[Site "GER"] 
+[Date "2000.04.09"] 
+[Round "9.7"] 
+[White "Niklasch, Oliver"] 
+[Black "Buecker, Stefan"] 
+[Result "1-0"] 
+[WhiteElo "2363"] 
+[BlackElo "2342"] 
+[ECO "D06"] 
+ 
+1.d4 d5 2.c4 a6 3.cxd5 Nf6 4.Nf3 g6 5.g3 Bg7 6.Bg2 O-O 7.O-O Nxd5 8.e4 Nb6 
+9.h3 c5 10.d5 e6 11.Nc3 Nc4 12.Bg5 Qa5 13.Qa4 Qxa4 14.Nxa4 Nd7 15.Rac1  
+Nxb2 16.Nxc5 Nxc5 17.Rxc5 Na4 18.Rc7 Nc3 19.Be7 Re8 20.d6 Nb5 21.Rfc1 Nxc7 
+22.Rxc7 b5 23.e5 Rb8 24.Nd4 Bxe5 25.Nc6 Bxd6 26.Bxd6 Rb7 27.Ne7+ Rxe7 28. 
+Rxc8+ Kg7 29.Bxe7 Rxe7 30.Ra8 Rc7 31.Rxa6 Rc1+ 32.Bf1 b4 33.Kg2 Rc3 34.Rb6 
+Rc2 35.Rxb4 Rxa2 36.Rb7 Rc2 37.Bb5 Kf8 38.g4 h6 39.h4 Rc3 40.f3 Rb3 41.g5  
+Rb2+ 42.Kg3 hxg5 43.hxg5 Rb1 44.f4 Rb3+ 45.Kg4 Rc3 46.Be2 Re3 47.Bf3 Rc3  
+48.Rb5 Rc4 49.Ra5 Rb4 50.Rc5 Ra4 51.Be2 Ra3 52.Bc4 Rc3 53.Rc8+ Ke7 54.Bxe6 
+Re3 55.Ba2 Ra3 56.Rc7+ Kd8 57.Rxf7 1-0 

@@ -1,0 +1,58 @@
+ 
+[Event "Zagreb CRO, Open A 08"] 
+[Site "Zagreb CRO"] 
+[Date "2008.05.17"] 
+[Round "7.14"] 
+[White "Krstic, Uros"] 
+[Black "Kalajzic, Ivan"] 
+[Result "0-1"] 
+[WhiteElo "2385"] 
+[BlackElo "2204"] 
+[ECO "A07"] 
+[EventDate "2008.05.12"] 
+ 
+1.g3 Nc6 2.Bg2 Nf6 3.Nf3 e5 4.d3 d5 5.a3 Bg4 6.b4 e4 7.Nfd2 Nd4 8.f3 exf3  
+9.exf3 Be6 10.c3 Nf5 11.Nb3 h5 12.d4 h4 13.g4 h3 14.Bf1 Nd6 15.Bf4 Nc4 16. 
+Ra2 Bd6 17.Bg3 Bxg3+ 18.hxg3 Qd6 19.Kf2 Bxg4 20.Re2+ Kf8 21.Qd3 Bd7 22.Nc5 
+g6 23.Nxb7 Qc6 24.Nc5 Bf5 25.Qd1 a5 26.a4 axb4 27.cxb4 Qd6 28.Nc3 Nh5 29. 
+Re5 Nxe5 30.dxe5 Qxe5 31.Ne2 Re8 32.Qd2 Nf6 33.Qd4 Nd7 34.g4 Qxd4+ 35.Nxd4 
+Nxc5 36.bxc5 Be6 37.Bb5 Ra8 38.Kg3 h2 39.Rxh2 Rxh2 40.Kxh2 Ke7 41.Kg3 Bd7  
+42.c6 Bc8 43.Kf4 Kd6 44.Kg5 Ke5 45.Nc2 Ba6 46.f4+ Ke4 0-1 
+ 
+[Event "Regionalliga NO 0102"] 
+[Site "Bayern"] 
+[Date "2002.03.17"] 
+[Round "7.2"] 
+[White "Mozes, Ervin"] 
+[Black "Chytilek, Roman"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2383"] 
+[BlackElo "2396"] 
+[ECO "A00"] 
+ 
+1.g3 Nc6 2.Bg2 Nf6 3.Nf3 d5 4.O-O e5 5.d4 e4 6.Ne5 Bd6 7.c4 Nxe5 8.dxe5  
+Bxe5 9.cxd5 Bf5 10.Qa4+ Qd7 11.Qxd7+ Kxd7 12.Rd1 Rad8 13.Na3 Kc8 14.Nc4  
+Rhe8 15.f3 exf3 16.Bxf3 Be4 17.Bxe4 Nxe4 18.Be3 Nf6 19.d6 Bxd6 20.Nxd6+  
+Rxd6 21.Rxd6 cxd6 22.Bxa7 Rxe2 23.Bd4 Ng4 24.Bxg7 Nxh2 25.Rd1 Nf3+ 26.Kf1  
+Rd2 27.Rc1+ Kd7 28.Rc4 Nh2+ 29.Kg1 Nf3+ 30.Kf1 Ne5 31.Rb4 Kc6 32.a4 Ng6  
+33.Rc4+ Kd7 34.Rb4 Kc7 35.Rc4+ Kd7 1/2-1/2 
+ 
+[Event "Open A"] 
+[Site "Zagreb CRO"] 
+[Date "2009.03.24"] 
+[Round "4"] 
+[White "Popchev, Milko"] 
+[Black "Kalajzic, Ivan"] 
+[Result "1-0"] 
+[WhiteElo "2444"] 
+[BlackElo "2224"] 
+[ECO "E62"] 
+[EventDate "2009.03.21"] 
+ 
+1.g3 Nc6 2.Bg2 Nf6 3.d4 e5 4.d5 Ne7 5.c4 d6 6.Nc3 g6 7.Nf3 Bg7 8.O-O O-O  
+9.e4 Ne8 10.Ne1 f5 11.exf5 Nxf5 12.Nd3 Nd4 13.Be3 Bf5 14.Bxd4 exd4 15.Ne4  
+Bxe4 16.Bxe4 Nf6 17.Bg2 Nd7 18.h4 Ne5 19.Rc1 Nxd3 20.Qxd3 Qf6 21.Rce1 Rae8 
+22.Be4 Kh8 23.Re2 g5 24.hxg5 Qxg5 25.Kg2 Rf6 26.Rh1 Rh6 27.Rxh6 Qxh6 28. 
+Re1 Qf6 29.Rh1 h6 30.Rh4 Rf8 31.Qd2 Re8 32.Bb1 Re5 33.Qd3 Kg8 34.Rf4 Qxf4  
+35.gxf4 Re1 36.Qg6 Kf8 37.Bf5 Re7 38.Be6 d3 39.f5 d2 40.f6 d1=Q 41.fxe7+  
+1-0 

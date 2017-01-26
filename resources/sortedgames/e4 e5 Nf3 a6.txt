@@ -1,0 +1,64 @@
+ 
+[Event "It (cat.4)"] 
+[Site "Bruges BEL"] 
+[Date "2006.02.28"] 
+[Round "5"] 
+[White "Zozulia, Anna"] 
+[Black "Leenhouts, Koen"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2366"] 
+[BlackElo "2398"] 
+[ECO "C95"] 
+ 
+1.e4 e5 2.Nf3 a6 3.Bb5 Nc6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 d6  
+9.c3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.Nf1 Bf8 14.Ng3 g6 15.b3 c6  
+16.Be3 Qc7 17.Qd2 Bg7 18.Rad1 Rad8 19.Bf4 Bh6 20.Be3 Bg7 21.Bh6 Bh8 22.Nf5 
+Nf8 23.Bxf8 Kxf8 24.dxe5 dxe5 25.Qh6+ Kg8 26.Rxd8 Rxd8 27.Qg5 Nh5 28.Nh6+  
+Kf8 29.Ng4 f6 30.Qh6+ Qg7 31.Qe3 Nf4 32.Qb6 Qe7 33.b4 Rd7 34.Kh2 Bg7 35. 
+Bb3 Ke8 36.a4 Qd8 37.Qxd8+ Kxd8 38.Ra1 Nd3 39.axb5 axb5 40.Ne1 h5 41.Be6  
+Nxe1 42.Bxd7 Kxd7 43.Ne3 Nxg2 44.Kxg2 Bf8 45.f3 Kc7 46.h4 Bc8 47.Kf2 Be6  
+48.Ra7+ Kd6 49.Nc2 Be7 50.Kg2 f5 51.Ne1 Bc4 52.Kh3 Bf1+ 53.Ng2 Be2 54.Ne1  
+Bc4 55.Nc2 Bd3 56.Ne3 fxe4 57.fxe4 Bxe4 58.Nf1 Bf5+ 59.Kg3 g5 60.hxg5 Bxg5 
+61.Ra8 h4+ 62.Kf2 h3 63.Ng3 Bh4 64.Rh8 Bxg3+ 65.Kxg3 Kd5 66.Rh4 Be6 67.Kf3 
+Bf5 68.Ke3 e4 69.Rh5 Ke5 70.Rh6 Kd5 71.Rh5 Ke5 72.Rh6 Bg4 73.Rh8 Kf5 74. 
+Rg8 Bf3 75.Rh8 Kg4 76.Kf2 Bg2 77.Rg8+ Kf4 78.Rf8+ Ke5 79.Rh8 Kd5 80.Ke3  
+Kc4 81.Kd2 e3+ 82.Kxe3 Kxc3 83.Rh4 Bf1 84.Rh6 Kxb4 85.Rxc6 Bg2 86.Rh6 Kc3  
+87.Rh8 b4 88.Rc8+ Kb2 89.Rh8 b3 90.Kd2 Ka2 91.Rh6 Bf1 92.Rh8 Bg2 93.Rh6  
+Bf1 94.Rh8 Ka3 95.Kc3 Bg2 96.Rh7 Ka4 97.Ra7+ Kb5 98.Kxb3 Bd5+ 99.Kc3 h2  
+100.Rh7 1/2-1/2 
+ 
+[Event "4. Rohde Open"] 
+[Site "Sautron FRA"] 
+[Date "2004.10.27"] 
+[Round "5"] 
+[White "Fedorchuk, Sergey A"] 
+[Black "Maiorov, Nikita BLR"] 
+[Result "1-0"] 
+[WhiteElo "2557"] 
+[BlackElo "2452"] 
+[ECO "C94"] 
+[EventDate "2004.10.23"] 
+ 
+1.e4 e5 2.Nf3 a6 3.Bb5 Nc6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O  
+9.h3 Nb8 10.d3 Nbd7 11.Nbd2 Bb7 12.Nf1 Nc5 13.Bc2 Re8 14.Ng3 Bf8 15.b4  
+Ncd7 16.a4 d5 17.Be3 Qc8 18.Qb1 Rb8 19.axb5 c6 20.Ra5 axb5 21.d4 exd4 22. 
+Bxd4 dxe4 23.Nxe4 Nxe4 24.Rxe4 Rxe4 25.Bxe4 g6 26.Ng5 Qe8 27.Ra7 Bg7 28. 
+Bf3 Bxd4 29.cxd4 Nf6 30.Qc1 h6 31.Qf4 Kg7 32.Nxf7 Kxf7 33.d5 cxd5 34.Bxd5+ 
+Kg7 35.Bxb7 g5 36.Be4+ Nd7 37.Rxd7+ 1-0 
+ 
+[Event "3. Rohde Open"] 
+[Site "Sautron FRA"] 
+[Date "2003.10.30"] 
+[Round "6"] 
+[White "Geller, Jakov"] 
+[Black "Korobov, Anton"] 
+[Result "1-0"] 
+[WhiteElo "2486"] 
+[BlackElo "2558"] 
+[ECO "C73"] 
+[EventDate "2003.10.25"] 
+ 
+1.e4 e5 2.Nf3 a6 3.Bb5 Nc6 4.Ba4 d6 5.Bxc6+ bxc6 6.d4 exd4 7.Nxd4 c5 8.Nc6 
+Qd7 9.Na5 Qa4 10.Qd5 c6 11.Nc3 cxd5 12.Nxa4 dxe4 13.Bf4 Bd7 14.Nb6 Rb8 15. 
+Nbc4 Nh6 16.O-O-O Nf5 17.Rhe1 Be6 18.Rxe4 Kd7 19.Nb3 Kc6 20.g4 Bd5 21.Ncd2 
+Bxb3 22.Nxb3 c4 23.Nc5 g5 24.Rxc4 Kb6 25.b3 Kb5 1-0 

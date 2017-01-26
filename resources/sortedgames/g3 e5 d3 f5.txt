@@ -1,0 +1,20 @@
+ 
+[Event "Czech Open A"] 
+[Site "Pardubice CZE"] 
+[Date "2006.07.24"] 
+[Round "4"] 
+[White "Kireev, Aleksei"] 
+[Black "Tereick, Benjamin"] 
+[Result "1-0"] 
+[WhiteElo "2382"] 
+[BlackElo "2262"] 
+[ECO "A00"] 
+[EventDate "2006.07.21"] 
+ 
+1.g3 e5 2.d3 f5 3.e4 Nf6 4.exf5 d5 5.g4 Bc5 6.Bg2 O-O 7.Be3 Bxe3 8.fxe3 c6 
+9.h3 Qb6 10.Qc1 h5 11.g5 Qb4+ 12.Ke2 Ne8 13.e4 dxe4 14.dxe4 Nd6 15.Qe3  
+Qxb2 16.Qb3+ Qxb3 17.axb3 Na6 18.Nc3 g6 19.f6 Nc5 20.Ke3 b5 21.Rd1 Nf7 22. 
+Nf3 Ne6 23.h4 Nf4 24.Rd2 Nxg2+ 25.Rxg2 a5 26.Ra1 Bg4 27.Ne1 a4 28.bxa4 b4  
+29.Nb1 Ra5 30.Nd3 Rfa8 31.Nxb4 Rxa4 32.Rxa4 Rxa4 33.Nxc6 Nd6 34.Nd2 Ra3+  
+35.Kf2 Nf7 36.Rg3 Ra1 37.Nc4 Ra4 38.N6xe5 Be6 39.Nxf7 Rxc4 40.Nh6+ Kf8 41. 
+Ra3 Rxc2+ 42.Ke3 1-0 

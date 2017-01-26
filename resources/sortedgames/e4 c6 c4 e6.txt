@@ -1,0 +1,36 @@
+ 
+[Event "23. Kavala Open 2014"] 
+[Site "Kavala GRE"] 
+[Date "2014.08.08"] 
+[Round "8.6"] 
+[White "Stella, Andrea"] 
+[Black "Charkhalashvili, Inga"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2427"] 
+[BlackElo "2325"] 
+[ECO "B10"] 
+[EventDate "2014.08.02"] 
+ 
+1.e4 c6 2.c4 e6 3.d4 d5 4.cxd5 cxd5 5.e5 Bb4+ 6.Nc3 Ne7 7.a3 Ba5 8.Bd3  
+Nbc6 9.Qg4 h5 10.Qf4 Nf5 11.Bxf5 exf5 12.h4 Bxc3+ 13.bxc3 Na5 14.Qg3 g6  
+15.Bg5 Qc7 16.Ne2 Be6 17.Bf6 Rg8 18.O-O Nc4 19.Qg5 Kd7 20.a4 Rge8 21.Rfb1  
+b6 22.Kh2 Rac8 23.Rb4 Na5 24.Rc1 Qb7 25.Nf4 Rc4 26.Qh6 Qc6 27.Rxc4 Nxc4  
+28.Qg7 Kc8 29.f3 Kb8 1/2-1/2 
+ 
+[Event "XXVI Elekes Mem GM"] 
+[Site "Budapest HUN"] 
+[Date "2001.05.28"] 
+[Round "8"] 
+[White "Horvath, Jo"] 
+[Black "Csom, Istvan"] 
+[Result "1-0"] 
+[WhiteElo "2551"] 
+[BlackElo "2431"] 
+[ECO "B10"] 
+[EventDate "2001.05.21"] 
+ 
+1.e4 c6 2.c4 e6 3.Nc3 Ne7 4.d4 d5 5.Nf3 dxe4 6.Nxe4 Ng6 7.h4 h5 8.Bd3 Ne7  
+9.Bg5 f6 10.Nxf6+ gxf6 11.Bxf6 Rh6 12.Bg5 Nd7 13.Qd2 Rf6 14.Bxf6 Nxf6 15. 
+Qg5 Neg8 16.O-O Qc7 17.Bg6+ Kd8 18.Ne5 Bh6 19.Qg3 Bd7 20.Bxh5 Be8 21.Bxe8  
+Kxe8 22.Qh3 Ke7 23.Rfe1 Re8 24.Qa3+ Kd8 25.Qxa7 Kc8 26.Nf3 Re7 27.Re2 Qf4  
+28.Re3 Rg7 29.Qa8+ Kc7 30.Rb3 1-0 

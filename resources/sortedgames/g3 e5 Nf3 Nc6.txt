@@ -1,0 +1,145 @@
+ 
+[Event "Aeroflot Open A 2015"] 
+[Site "Moscow RUS"] 
+[Date "2015.03.30"] 
+[Round "4.29"] 
+[White "Rapport, Richard"] 
+[Black "Bogdanovich, Stanislav"] 
+[Result "1-0"] 
+[WhiteElo "2709"] 
+[BlackElo "2581"] 
+[ECO "A00"] 
+[EventDate "2015.03.27"] 
+ 
+1.g3 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nxd4 5.Qxd4 Qf6 6.Qe3+ Qe6 7.Bg2 Nf6 8. 
+c4 Bb4+ 9.Nc3 O-O 10.Qd3 d6 11.Bd2 Re8 12.Nd5 Nxd5 13.cxd5 Qg4 14.h3 Bxd2+ 
+15.Qxd2 Qc4 16.e3 Bf5 17.b3 Qb5 18.Rc1 a5 19.Rc4 a4 20.Rb4 Qd7 21.g4 axb3  
+22.axb3 Bg6 23.O-O c5 24.dxc6 bxc6 25.f4 f5 26.Rc1 d5 27.gxf5 Bxf5 28.Rxc6 
+Kh8 29.Qxd5 Qxd5 30.Bxd5 Rxe3 31.Rcb6 Rae8 32.Rb8 h6 33.Rxe8+ Rxe8 34.h4  
+Kh7 35.Kf2 Rd8 36.Rb5 Kg6 37.b4 Bd3 38.Rc5 Rb8 39.Ke3 Bf1 40.h5+ Kf6 41. 
+Rc7 Rf8 42.Rb7 g5 43.hxg6 Kxg6 44.b5 Kf5 45.Be4+ Ke6 46.b6 Kd6 47.Rh7 Re8  
+48.Kd4 1-0 
+ 
+[Event "Moscow Open Students 2015"] 
+[Site "Moscow RUS"] 
+[Date "2015.01.31"] 
+[Round "1.1"] 
+[White "Paravyan, David"] 
+[Black "Predke, Alexandr"] 
+[Result "0-1"] 
+[WhiteElo "2435"] 
+[BlackElo "2537"] 
+[ECO "A07"] 
+[EventDate "2015.01.31"] 
+ 
+1.g3 e5 2.Nf3 Nc6 3.d3 d5 4.Bg2 Nf6 5.O-O Be7 6.Nc3 O-O 7.e4 dxe4 8.Nxe4  
+Nxe4 9.dxe4 Qxd1 10.Rxd1 Bg4 11.c3 f5 12.h3 Bh5 13.Rd7 Rad8 14.Rxd8 Rxd8  
+15.exf5 Rd1+ 16.Kh2 Bc5 17.b4 Bxf2 18.g4 Bf7 19.b5 Ne7 20.Nxe5 Bd5 21.Bf3  
+Bxf3 22.Nxf3 Nd5 23.Bb2 Rd3 24.Kg2 Bc5 25.Bc1 Rd1 26.Bb2 Rd3 27.Bc1 Rd1  
+28.Bb2 Nf4+ 29.Kg3 Ne2+ 30.Kg2 Rd3 31.h4 Nf4+ 32.Kg3 Ne2+ 33.Kg2 h5 34.g5  
+Nf4+ 35.Kg3 Nd5 36.Re1 Ne3 37.f6 gxf6 38.gxf6 Bd6+ 39.Kf2 Nd1+ 40.Ke2 Nxb2 
+41.Rb1 Rxc3 42.Rxb2 Rc4 43.Kd3 Rf4 44.Rg2+ Kf7 45.Ng5+ Kxf6 46.Ne4+ Kf7  
+47.Nxd6+ cxd6 48.Rc2 Ke6 49.Rc7 Rf7 50.Rc8 Rf3+ 51.Ke2 Rf5 52.a4 Rf4 53.a5 
+Rxh4 54.Rh8 Re4+ 55.Kd3 Re5 56.Rh6+ Kd5 57.Rh7 b6 58.Rxa7 bxa5 59.Rc7 Re4  
+60.Rh7 Rh4 61.b6 Kc6 62.b7 Rb4 63.Rxh5 d5 64.Rh6+ Kxb7 65.Kc3 Rc4+ 66.Kb3  
+Kc7 67.Rg6 a4+ 68.Ka3 d4 69.Rg4 Kd6 70.Rh4 Kd5 71.Rh5+ Ke4 72.Rh4+ Kd3 73. 
+Rh3+ Kc2 74.Rh2+ Kc3 0-1 
+ 
+[Event "10. Balagne Rapid KO"] 
+[Site "Calvi FRA"] 
+[Date "2013.04.14"] 
+[Round "2.1"] 
+[White "Rapport, Richard"] 
+[Black "Skripchenko, Almira"] 
+[Result "1-0"] 
+[WhiteElo "2654"] 
+[BlackElo "2430"] 
+[ECO "A00"] 
+[EventDate "2013.04.14"] 
+ 
+1.g3 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Bg2 g6 6.O-O Bg7 7.c4 O-O 8.Nc3  
+Re8 9.Nxc6 bxc6 10.Qd2 Rb8 11.b3 d5 12.Ba3 Bf5 13.cxd5 cxd5 14.Rac1 c6 15. 
+e3 Qa5 16.Bd6 Rbd8 17.b4 Qa6 18.Bc5 Ne4 19.Nxe4 Bxe4 20.Rfd1 h5 21.Bd4  
+Bxd4 22.Qxd4 Rb8 23.Rd2 Bxg2 24.Kxg2 Re4 25.Qf6 Re6 26.Qf4 Rb6 27.Rdc2 Qa4 
+28.a3 Qxa3 29.b5 Rxb5 30.Rxc6 Rxc6 31.Rxc6 Qe7 32.Rc8+ Kh7 33.Rc7 Qe4+ 34. 
+Qxe4 dxe4 35.Rxf7+ Kh6 36.Re7 Rb4 37.Rxa7 Kg5 38.Ra5+ Kf6 39.h3 Rc4 40. 
+Ra6+ Kf5 41.Ra5+ Kf6 42.g4 h4 43.Ra6+ Kg5 44.Re6 Ra4 45.Rd6 Ra5 46.Kf1  
+Ra1+ 47.Kg2 Ra5 48.Rd4 Re5 49.Ra4 Kf6 50.Kf1 Kg5 51.Kg2 Ra5 52.Rd4 Re5 53. 
+Ra4 Kf6 54.Kf1 Ke6 55.Kg2 Ra5 56.Rd4 Re5 57.Ra4 Kf6 58.Kf1 1-0 
+ 
+[Event "32. Open"] 
+[Site "Arco ITA"] 
+[Date "2010.10.24"] 
+[Round "9"] 
+[White "Baeta, Marcio Netto"] 
+[Black "Delaunay, Sebastien"] 
+[Result "0-1"] 
+[WhiteElo "2221"] 
+[BlackElo "2348"] 
+[ECO "A00"] 
+[EventDate "2010.10.16"] 
+ 
+1.g3 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qf6 5.c3 Nxd4 6.cxd4 Bb4+ 7.Nc3 Qc6 8. 
+d5 Bxc3+ 9.bxc3 Qxc3+ 10.Bd2 Qd4 11.Bg2 Ne7 12.e4 b6 13.O-O Ba6 14.Re1 O-O 
+15.Rc1 c5 16.d6 Qxd6 17.e5 Qc7 18.Bxa8 Rxa8 19.Bg5 Nc6 20.Qd6 Qxd6 21.exd6 
+Nd4 22.Re7 Nf3+ 23.Kg2 Nxg5 24.Rxd7 Bb5 25.Re7 Kf8 26.f4 Bc6+ 27.Kf2 Ne4+  
+0-1 
+ 
+[Event "SuperLiga-ROM"] 
+[Site "Eforie Nord ROM"] 
+[Date "2008.09.05"] 
+[Round "5"] 
+[White "Mozes, Ervin"] 
+[Black "Butunoi, Alexandru-Victor"] 
+[Result "0-1"] 
+[WhiteElo "2321"] 
+[BlackElo "2382"] 
+[ECO "A00"] 
+[EventDate "2008.09.01"] 
+ 
+1.g3 e5 2.Nf3 Nc6 3.c3 e4 4.Nd4 Nxd4 5.cxd4 d5 6.d3 exd3 7.Qxd3 Bd6 8.Nc3  
+c6 9.Bg2 Nf6 10.O-O O-O 11.Bg5 h6 12.Bd2 Bg4 13.Rfe1 Qd7 14.f3 Bf5 15.e4  
+Bg6 16.Qf1 dxe4 17.fxe4 Bc5 18.dxc5 Qxd2 19.Re2 Qd4+ 20.Qf2 Qc4 21.Rc2 Ng4 
+22.Nd1 Qd3 23.Qe2 Qd4+ 24.Kh1 Nf6 25.Nf2 Rad8 26.Re1 Rfe8 27.Rc4 Qd2 28. 
+Kg1 Qa5 29.b4 Qa3 30.Rb1 Rd7 31.Rb3 Qa6 32.Bf1 b6 33.cxb6 Qxb6 34.Qe3 Qd8  
+35.Rxc6 Bxe4 36.Nxe4 Nxe4 37.Rd3 Ng5 38.Rxd7 Qxd7 39.Qc3 Ne4 40.Qc2 Nd2  
+41.Bd3 Nf3+ 42.Kf2 Ne1 0-1 
+ 
+[Event "Revolution Memorial"] 
+[Site "Bucharest ROU"] 
+[Date "2004.12.16"] 
+[Round "2"] 
+[White "Popescu, Da"] 
+[Black "Nemeth, Francisc"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2209"] 
+[BlackElo "2403"] 
+[ECO "A00"] 
+[EventDate "2004.12.15"] 
+ 
+1.g3 e5 2.Nf3 Nc6 3.d3 d5 4.Bg2 Nge7 5.O-O g6 6.c4 Bg7 7.cxd5 Nxd5 8.Nc3  
+Nde7 9.Nd2 O-O 10.Nc4 Rb8 11.Be3 Nd4 12.Rc1 Bg4 13.h3 Be6 14.b4 Nd5 15. 
+Bxd4 exd4 16.Nxd5 Bxd5 17.Bxd5 Qxd5 18.Qb3 Qh5 19.Kg2 Rfe8 20.Rc2 Rxe2 21. 
+Rxe2 Qxe2 22.Na5 c6 23.b5 Qe5 24.a4 a6 25.Rb1 axb5 26.axb5 h5 27.h4 Qc5  
+28.Nc4 Qd5+ 29.Kg1 Re8 30.bxc6 bxc6 31.Nd2 Qxb3 32.Rxb3 Re1+ 33.Kg2 Rc1  
+34.Ne4 Bf8 35.Rb8 Kg7 36.Kf3 Be7 37.Re8 Bb4 38.Rb8 Be7 39.Re8 Bb4 40.Rc8  
+Rd1 41.Ke2 Re1+ 42.Kf3 Rd1 43.Ke2 Re1+ 44.Kf3 1/2-1/2 
+ 
+[Event "Saipa Cup"] 
+[Site "Tehran IRI"] 
+[Date "2003.09.14"] 
+[Round "2"] 
+[White "Minasian, Ara"] 
+[Black "Moradiabadi, Elshan"] 
+[Result "1-0"] 
+[WhiteElo "2473"] 
+[BlackElo "2354"] 
+[ECO "A00"] 
+[EventDate "2003.09.13"] 
+ 
+1.g3 e5 2.Nf3 Nc6 3.c3 e4 4.Nd4 Nf6 5.Bg2 Bc5 6.Nb3 Bb6 7.O-O d5 8.d4 Be6  
+9.a4 a5 10.Na3 Qd7 11.Nc2 O-O-O 12.Nc5 Bxc5 13.dxc5 Bh3 14.b4 axb4 15.cxb4 
+Bxg2 16.Kxg2 d4 17.b5 Ne5 18.Bb2 h5 19.Qxd4 Rhe8 20.c6 Qxd4 21.cxb7+ Kxb7  
+22.Bxd4 Rd5 23.Bxe5 Rexe5 24.Ne3 Rc5 25.Rfc1 Ng4 26.Nc4 Rf5 27.h3 Nf6 28. 
+Na5+ Kb6 29.Nb3 Rxc1 30.Rxc1 Nd7 31.a5+ Kb7 32.a6+ Kc8 33.a7 Nb6 34.Rc6  
+Kb7 35.Nc5+ Kxa7 36.Rxc7+ Kb8 37.Rc6 Ka7 38.Nxe4 Nd5 39.Nd6 Re5 40.e4 1-0 

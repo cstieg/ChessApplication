@@ -1,0 +1,20 @@
+ 
+[Event "Beograd SRB, City Ch 2010"] 
+[Site "Beograd SRB"] 
+[Date "2010.01.30"] 
+[Round "8.8"] 
+[White "Chelushkina, Irina"] 
+[Black "Radlovacki, Jovan"] 
+[Result "0-1"] 
+[WhiteElo "2326"] 
+[BlackElo "2376"] 
+[ECO "A00"] 
+[EventDate "2010.01.23"] 
+ 
+1.g3 c6 2.Nf3 Nf6 3.Bg2 d6 4.O-O e5 5.a4 a5 6.d4 e4 7.Ne1 d5 8.f3 exf3 9. 
+Nxf3 h6 10.Ne5 Be6 11.Nd3 Bd6 12.Nc3 Nbd7 13.Nf4 Bg4 14.h3 Bxf4 15.Bxf4  
+Be6 16.Bd6 Nb6 17.Be5 Nc4 18.Bxf6 gxf6 19.Qc1 f5 20.b3 Nd6 21.Qf4 Qe7 22. 
+Na2 Kd7 23.c4 dxc4 24.bxc4 Bxc4 25.Nc3 Rae8 26.d5 Qe3+ 27.Qxe3 Rxe3 28. 
+dxc6+ bxc6 29.Rf3 Rhe8 30.Kf2 R3e5 31.Bf1 Rb8 32.Rd1 Rb4 33.Rf4 Bb3 34.Rd3 
+Bc2 35.Rd2 Rxf4+ 36.gxf4 Rc5 37.Rxc2 Rxc3 38.Rxc3 Ne4+ 39.Ke3 Nxc3 40.Kd4  
+Nxa4 41.e3 Kd6 42.Bd3 c5+ 0-1 

@@ -1,0 +1,18 @@
+ 
+[Event "ch-NR"] 
+[Site "Novosibirsk RUS"] 
+[Date "2001.11.15"] 
+[Round "3"] 
+[White "Bespalov, Alexey"] 
+[Black "Maletin, Pavel"] 
+[Result "0-1"] 
+[WhiteElo "2296"] 
+[BlackElo "2296"] 
+[ECO "A30"] 
+[EventDate "2001.11.13"] 
+ 
+1.c4 c5 2.e3 e5 3.d4 cxd4 4.exd4 Bb4+ 5.Bd2 Qe7 6.dxe5 Bxd2+ 7.Nxd2 d6 8. 
+Be2 dxe5 9.Ne4 Nc6 10.Nd6+ Kf8 11.Nf3 e4 12.Nxc8 Rxc8 13.Nd2 Nf6 14.O-O g6 
+15.Re1 Kg7 16.Bf3 Rhd8 17.Qc1 Ne5 18.Bxe4 Qb4 19.Nf3 Rxc4 20.Qg5 Neg4 21. 
+h3 h6 22.Qh4 Nxf2 23.Qxf2 Nxe4 24.Qxa7 Nd2 25.Ne5 Rc5 26.Kh1 Rdd5 27.Qb8  
+Qf4 28.Qxb7 Rxe5 29.Rxe5 Rxe5 30.a4 Nf1 0-1 

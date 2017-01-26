@@ -1,0 +1,24 @@
+ 
+[Event "Capablanca Mem Mixto"] 
+[Site "Havana CUB"] 
+[Date "2002.05.14"] 
+[Round "8"] 
+[White "Frometa Castillo, Zirka"] 
+[Black "Arribas Robaina, Maritza"] 
+[Result "0-1"] 
+[WhiteElo "2213"] 
+[BlackElo "2290"] 
+[ECO "A41"] 
+[EventDate "2002.05.06"] 
+ 
+1.d4 d6 2.e3 e5 3.c4 exd4 4.exd4 d5 5.cxd5 Qxd5 6.Nc3 Bb4 7.a3 Bxc3+ 8. 
+bxc3 Nf6 9.Nf3 O-O 10.Be2 Bf5 11.O-O Nbd7 12.Nh4 Nb6 13.Nxf5 Qxf5 14.Bd3  
+Qd5 15.Rb1 Rad8 16.Rb5 Qd6 17.Bg5 h6 18.Bh4 Nbd5 19.Qb3 b6 20.Bg3 Qd7 21. 
+Qc2 Nh5 22.Bh4 g5 23.Bg3 Nhf4 24.c4 c6 25.Bf5 Qd6 26.Rb3 Ne7 27.Rd1 Qf6  
+28.Bxf4 Qxf5 29.Qxf5 Nxf5 30.Be3 c5 31.d5 Rfe8 32.Rc3 Re4 33.a4 Nd6 34. 
+Rdc1 Rde8 35.g3 f5 36.Kg2 f4 37.gxf4 gxf4 38.Bd2 Rd4 39.Be1 Kf7 40.f3 Re2+ 
+41.Kh3 Kg6 42.Bh4 Rdd2 43.Rh1 Kf5 44.Rcc1 Rd3 45.Rhf1 Rdd2 46.Rh1 Nf7 47. 
+Rce1 Ne5 48.Rxe2 Rxe2 49.Be7 Nxc4 50.d6 Rd2 51.Rc1 Nxd6 52.a5 Nf7 53.axb6  
+axb6 54.Rb1 Re2 55.Bh4 Re6 56.Bf2 Ne5 57.Rb3 Nc4 58.Rc3 Ne3 59.Rc1 Rc6 60. 
+Rb1 c4 61.Rb5+ Ke6 62.Be1 Kd6 63.Bb4+ Kc7 64.Rh5 c3 65.Bxc3 Rxc3 66.Rxh6  
+b5 67.Rf6 Rc4 68.Rf7+ Kc6 69.Rf8 b4 70.Rb8 Kd5 0-1 

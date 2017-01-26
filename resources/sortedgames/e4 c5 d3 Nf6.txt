@@ -1,0 +1,79 @@
+ 
+[Event "TCh-AUT 2. Ost 2013-14"] 
+[Site "Vienna AUT"] 
+[Date "2014.01.25"] 
+[Round "6.2"] 
+[White "Kostic, Vladimir G"] 
+[Black "Papp, Gabor"] 
+[Result "0-1"] 
+[WhiteElo "2436"] 
+[BlackElo "2583"] 
+[ECO "B20"] 
+[EventDate "2013.10.05"] 
+ 
+1.e4 c5 2.d3 Nf6 3.f4 d5 4.e5 Ng8 5.Nf3 Nc6 6.c3 Bg4 7.Nbd2 e6 8.h3 Bxf3  
+9.Nxf3 Nge7 10.Be3 d4 11.Bf2 Nd5 12.Qd2 dxc3 13.bxc3 Qa5 14.Rc1 Rd8 15.Be2 
+c4 16.O-O Ba3 17.Rc2 O-O 18.d4 b5 19.Ng5 h6 20.Ne4 b4 21.Bxc4 bxc3 22.Qe1  
+Ncb4 23.Rxc3 Nxc3 24.Qxc3 Nc6 25.Qd3 Be7 26.Bb3 Qa3 27.g4 a5 28.Qc4 Rc8  
+29.Qb5 Rfd8 30.Rd1 a4 31.Qxa4 Qxa4 32.Bxa4 Nxd4 33.Bxd4 Rc4 34.Bb3 Rdxd4  
+35.Nd2 Rc3 36.f5 exf5 37.gxf5 Rcd3 38.Rc1 Rxd2 39.Rc7 Re4 40.Kf1 Rxe5 0-1 
+ 
+[Event "15. TCh-Eur Senior"] 
+[Site "Dresden GER"] 
+[Date "2013.07.28"] 
+[Round "9"] 
+[White "Pedersen, Sven1"] 
+[Black "Fatalibekova, Elena"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2225"] 
+[BlackElo "2272"] 
+[ECO "B20"] 
+[EventDate "2013.07.20"] 
+ 
+1.e4 c5 2.d3 Nf6 3.g3 d5 4.Nd2 Nc6 5.Bg2 dxe4 6.dxe4 e5 7.Ngf3 Be7 8.O-O  
+O-O 9.c3 b6 10.Qe2 a5 11.Nc4 Ba6 12.a4 Qc7 13.Re1 Ne8 14.Nfd2 Nd6 15.Bf1  
+Bg5 16.f4 Nxc4 17.Nxc4 Bxc4 18.Qxc4 exf4 19.e5 Nxe5 20.Rxe5 Qxe5 21.gxf4  
+Qe1 22.fxg5 Rad8 23.g6 hxg6 24.Qe2 Qd1 25.b4 Rfe8 26.Qxd1 Rxd1 27.Bb2 Rxa1 
+28.Bxa1 cxb4 29.Kf2 Rc8 30.cxb4 axb4 31.Bd3 g5 32.Ke3 Kf8 33.Bf5 Rc6 34. 
+Bd4 Rd6 35.Be5 Rc6 36.Kd4 b3 37.Kd5 g6 38.Bd3 Ke7 39.Bc4 f6 40.Bd4 Rd6+  
+41.Ke4 f5+ 42.Ke5 Kd7 43.Bxb3 g4 44.Bc4 f4 45.Bb5+ 1/2-1/2 
+ 
+[Event "TCh-AUT 2006-7"] 
+[Site "Leoben AUT"] 
+[Date "2007.01.20"] 
+[Round "6"] 
+[White "Freitag, Manfred"] 
+[Black "Baumegger, Siegfried"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2402"] 
+[BlackElo "2418"] 
+[ECO "B20"] 
+[EventDate "2007.01.18"] 
+ 
+1.e4 c5 2.d3 Nf6 3.f4 d5 4.Nd2 Nc6 5.e5 Ng4 6.Ndf3 Nh6 7.c3 d4 8.c4 g6 9. 
+Ne2 Bg7 10.Ng3 O-O 11.Be2 f6 12.exf6 exf6 13.Nd2 f5 14.O-O Qd6 15.a3 a5  
+16.Rb1 Bd7 17.b3 Rae8 18.Rf2 Re7 19.Ndf1 Rfe8 20.Bd2 Nf7 21.Bf3 h5 22.Bd5  
+Kh8 23.Kh1 Nh6 24.h3 Ng8 25.Bf3 Nf6 26.Re2 Bh6 27.Rxe7 Rxe7 28.Ne2 b6 29. 
+b4 axb4 30.axb4 Nxb4 31.Bxb4 cxb4 32.Qb3 Ne4 33.Qxb4 Qxb4 34.Rxb4 Nf2+ 35. 
+Kg1 Nxd3 36.Rxb6 Nxf4 37.Nxd4 Bg7 38.Nb3 Be6 39.Nfd2 Kg8 40.h4 Kf7 41.g3  
+Nd3 42.Rd6 Rd7 1/2-1/2 
+ 
+[Event "Open A"] 
+[Site "Le Touquet FRA"] 
+[Date "2006.10.28"] 
+[Round "1"] 
+[White "Taddei, Benoit"] 
+[Black "Kveinys, Aloyzas"] 
+[Result "0-1"] 
+[WhiteElo "2288"] 
+[BlackElo "2540"] 
+[ECO "B20"] 
+[EventDate "2006.10.28"] 
+ 
+1.e4 c5 2.d3 Nf6 3.f4 g6 4.Nf3 Bg7 5.Be2 O-O 6.O-O Nc6 7.c3 d6 8.Qe1 Nd7  
+9.Bd1 b5 10.Bb3 e6 11.Ng5 Nb6 12.f5 c4 13.dxc4 bxc4 14.Bc2 Ne5 15.Qg3 Qe7  
+16.Nd2 Nbd7 17.Kh1 Bb7 18.Ndf3 h6 19.Nh3 exf5 20.Nxe5 Bxe5 21.Qe1 fxe4 22. 
+Bxe4 Bxc3 23.bxc3 Qxe4 24.Qxe4 Bxe4 25.Bxh6 Rfe8 26.Ng5 f6 27.Nxe4 Rxe4  
+28.Rad1 Re6 29.Rd4 Rc8 30.h4 Kf7 31.Bf4 Ne5 32.Rb1 Rc6 33.a4 Re7 34.Rb4  
+Rec7 35.Rb5 Ke6 36.Rbd5 Rb7 37.g4 Rb3 38.g5 fxg5 39.hxg5 Rxc3 40.Ra5 Rd3  
+0-1 

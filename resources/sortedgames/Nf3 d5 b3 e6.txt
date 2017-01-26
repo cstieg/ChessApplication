@@ -1,0 +1,125 @@
+ 
+[Event "LXI Mexican Open 2015"] 
+[Site "Monterrey MEX"] 
+[Date "2015.04.03"] 
+[Round "5.7"] 
+[White "Cordova, Emilio"] 
+[Black "Diaz Rosas, Julio Cesar"] 
+[Result "1-0"] 
+[WhiteElo "2629"] 
+[BlackElo "2313"] 
+[ECO "A06"] 
+[EventDate "2015.03.31"] 
+ 
+1.Nf3 d5 2.b3 e6 3.Bb2 Nf6 4.e3 Be7 5.d4 O-O 6.Bd3 b6 7.O-O c5 8.Nbd2 Bb7  
+9.Qe2 Nbd7 10.Rad1 Qc7 11.c4 cxd4 12.exd4 dxc4 13.bxc4 Rfe8 14.h3 Bf8 15. 
+Rc1 Rad8 16.Bb1 g6 17.Qe3 Bg7 18.Rfe1 Nh5 19.Ba3 Qf4 20.Ne4 Bxe4 21.Bxe4  
+e5 22.Bc6 Qxe3 23.fxe3 exd4 24.exd4 Rxe1+ 25.Rxe1 Bf8 26.Bxf8 Kxf8 27.Re3  
+Nb8 28.Ba4 Nf4 29.Kf2 Ne6 30.Re4 h5 31.g4 hxg4 32.hxg4 Kg7 33.g5 Rc8 34. 
+Bb3 Re8 35.Ke3 Kf8 36.Kd2 Ng7 37.Rf4 Nh5 38.Rg4 Nc6 39.Ba4 Rc8 40.Kc3 Ne7  
+41.Kb4 Rc7 42.Ne5 Nf5 43.Bc6 Nhg7 44.d5 Ke7 45.Re4 Kd6 46.Kb5 Nd4+ 47.Rxd4 
+Kxe5 48.Rd1 Kd6 49.a4 Rc8 50.Ka6 Nf5 51.Kxa7 Kc5 52.Rb1 Nd6 53.Rxb6 Rc7+  
+54.Ka6 Nxc4 55.Rb1 Ne5 56.Rc1+ Kd6 57.a5 Nd3 58.Rc4 Nc5+ 59.Kb5 Nd3 60.a6  
+Ne5 61.Ra4 1-0 
+ 
+[Event "3. Jugando en Concreto Open 2014"] 
+[Site "Villahermosa MEX"] 
+[Date "2014.04.18"] 
+[Round "5.2"] 
+[White "Ramirez Alvarez, Alejandro"] 
+[Black "Nogueiras Santiago, Jesus"] 
+[Result "1-0"] 
+[WhiteElo "2595"] 
+[BlackElo "2501"] 
+[ECO "A06"] 
+[EventDate "2014.04.15"] 
+ 
+1.Nf3 d5 2.b3 e6 3.Bb2 Nf6 4.g3 Be7 5.Bg2 O-O 6.c4 a5 7.Nc3 b6 8.O-O Bb7  
+9.e3 Nbd7 10.d4 Ne4 11.Nd2 Nxc3 12.Bxc3 Nf6 13.Qc2 c5 14.Rfd1 Qc7 15.dxc5  
+bxc5 16.Rac1 Ra6 17.Bxf6 Bxf6 18.cxd5 exd5 19.Nf1 c4 20.Bxd5 c3 21.e4 Bc8  
+22.Ne3 Qc5 23.Bc4 Rd6 24.Rxd6 Qxd6 25.Nd5 Bg5 26.f4 Bd8 27.Qxc3 Bg4 28.Ne3 
+Bb6 29.Kg2 Bc8 30.Bd5 Ba7 31.Qxc8 Bxe3 32.Rc6 Qe7 33.Rc7 Qf6 34.Kf3 Bg1  
+35.Rxf7 1-0 
+ 
+[Event "24. Staufer-Open"] 
+[Site "Schwaebisch Gmuend GER"] 
+[Date "2012.01.03"] 
+[Round "3"] 
+[White "Meijers, Viesturs"] 
+[Black "Naumann, Axel"] 
+[Result "1-0"] 
+[WhiteElo "2477"] 
+[BlackElo "2200"] 
+[ECO "A06"] 
+[EventDate "2012.01.02"] 
+ 
+1.Nf3 d5 2.b3 e6 3.Bb2 f5 4.c4 c6 5.g3 Nf6 6.Bg2 Bd6 7.O-O Qe7 8.a3 O-O 9. 
+Nc3 a6 10.d3 e5 11.e3 b6 12.b4 Bb7 13.Qb3 Kh8 14.c5 Bc7 15.cxb6 Bxb6 16. 
+Na4 Bc7 17.Nc5 Bc8 18.Qc3 Re8 19.Rfc1 Bd6 20.Nb3 Ra7 21.Rc2 f4 22.exf4  
+exf4 23.Nbd4 fxg3 24.hxg3 Rc7 25.Re2 Qf8 26.Rxe8 Qxe8 27.Re1 Qh5 28.Ne6  
+Bxe6 29.Rxe6 Be7 30.Qe5 1-0 
+ 
+[Event "Paracin SRB, 2. Open"] 
+[Site "Paracin SRB"] 
+[Date "2009.08.23"] 
+[Round "6.13"] 
+[White "Rossi, Aldo"] 
+[Black "Dimitrijevic, Radmilo"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2311"] 
+[BlackElo "2228"] 
+[ECO "A06"] 
+[EventDate "2009.08.19"] 
+ 
+1.Nf3 d5 2.b3 e6 3.Bb2 Nf6 4.e3 c5 5.Ne5 Bd6 6.Bb5+ Nbd7 7.O-O O-O 8.Bxd7  
+Nxd7 9.Nxd7 Bxd7 10.d3 Qc7 11.h3 f5 12.Nd2 Rae8 13.c4 Bc6 14.Rc1 Qf7 15. 
+cxd5 Bxd5 16.e4 fxe4 17.Nxe4 Bxe4 18.dxe4 Rd8 19.Qg4 h5 20.Qe2 Bf4 21.Rcd1 
+Qg6 22.Rd3 Rxd3 23.Qxd3 Bg5 24.Bc1 Bxc1 25.Rxc1 Qf6 26.Qe3 b6 27.Rd1 Rd8  
+28.Qe2 Rxd1+ 29.Qxd1 g6 30.Qd6 1/2-1/2 
+ 
+[Event "Capablanca Memorial Open"] 
+[Site "Havana CUB"] 
+[Date "2006.11.26"] 
+[Round "6"] 
+[White "Ramon Pita, Vivian"] 
+[Black "Elliott, Warren"] 
+[Result "1-0"] 
+[WhiteElo "2223"] 
+[BlackElo "2286"] 
+[ECO "A06"] 
+[EventDate "2006.11.21"] 
+ 
+1.Nf3 d5 2.b3 e6 3.Bb2 Nf6 4.e3 Bd6 5.d4 O-O 6.Bd3 Nbd7 7.O-O Ne4 8.Nbd2  
+f5 9.Ne5 Qh4 10.f4 Qe7 11.a3 Ndf6 12.Ndf3 Bd7 13.c4 c6 14.c5 Bc7 15.b4 a5  
+16.Qe2 b5 17.Rfc1 Rfb8 18.Qe1 Ra7 19.Bc3 Rba8 20.h3 Be8 21.g4 Nxc3 22.Qxc3 
+Ne4 23.Qe1 Bxe5 24.dxe5 g6 25.g5 Qc7 26.Bxe4 fxe4 27.Nd4 Bd7 28.Nb3 a4 29. 
+Nd4 Rf8 30.Ra2 Qc8 31.Rg2 Be8 32.h4 Rff7 33.Qg3 Rg7 34.Qh3 Bf7 35.Kf2 Re7  
+36.Ne2 Be8 37.Ng3 Qd7 38.Rd1 Qc8 39.Ke2 Qb7 40.Nh1 Qc8 41.Nf2 Ref7 42.Ng4  
+Kh8 43.Nf6 Rc7 44.Kd2 Rce7 45.Kc3 Bf7 46.Kd4 Qc7 47.Qg3 Qa7 48.Rh1 Qc7 49. 
+Rh3 Qa7 50.Qh2 Qb7 51.h5 Qa7 52.hxg6 Bxg6 53.Rh6 Qb7 54.Qh1 Qc7 55.Rgh2  
+Qb7 56.Nxh7 Bxh7 57.g6 Kg8 58.gxh7+ Rxh7 59.Rg6+ Kh8 60.Rhh6 Qd7 61.Qh4  
+Rf7 62.Qg5 Rg7 63.Rxh7+ Kxh7 64.Qh6+ Kg8 65.Rxe6 Rg1 66.Rg6+ Rxg6 67.Qxg6+ 
+Qg7 68.Qxc6 Qg1 69.Qxd5+ Kg7 70.Qd7+ Kf8 71.e6 Qd1+ 72.Kxe4 Qc2+ 73.Ke5  
+Qc3+ 74.Kd6 Kg8 75.Kc7 Qxe3 76.e7 Qxf4+ 77.Kc8 1-0 
+ 
+[Event "Open A"] 
+[Site "Djakovo CRO"] 
+[Date "2006.04.30"] 
+[Round "1"] 
+[White "Kovacevic, Blazimir"] 
+[Black "Bender, Ivan"] 
+[Result "1-0"] 
+[WhiteElo "2468"] 
+[BlackElo "2312"] 
+[ECO "A06"] 
+[EventDate "2006.04.30"] 
+ 
+1.Nf3 d5 2.b3 e6 3.Bb2 Nf6 4.e3 Bd6 5.c4 Nbd7 6.Nc3 a6 7.d4 b6 8.cxd5 exd5 
+9.g3 O-O 10.Bg2 b5 11.O-O Re8 12.Rc1 Nb6 13.Ne5 Bf5 14.Ne2 Ng4 15.Nd3 Qg5  
+16.Nef4 Qh6 17.h3 Nf6 18.g4 Be4 19.Ne5 Bxg2 20.Kxg2 Ne4 21.Rc2 f6 22.Ned3  
+Ng5 23.Bc1 Ne6 24.f3 Nxf4+ 25.Nxf4 g6 26.Nd3 Qg7 27.Bd2 f5 28.f4 fxg4 29. 
+hxg4 Nd7 30.g5 Rac8 31.Qf3 c6 32.Rxc6 Rxc6 33.Qxd5+ Qf7 34.Qxc6 Qf5 35.Nf2 
+Bxf4 36.exf4 Re2 37.Bc1 Qg4+ 38.Kh1 Qh4+ 39.Kg1 Nb6 40.Qf3 Rxa2 41.d5 h6  
+42.f5 gxf5 43.gxh6 Qf6 44.Kh1 Kh7 45.Nh3 Rc2 46.Be3 Rc3 47.Rd1 Nd7 48.Qf4  
+Rxb3 49.Rg1 Ne5 50.Ng5+ Kh8 51.Qxe5 Qxe5 52.Nf7+ Kh7 53.Nxe5 Rxe3 54.Nf7  
+Rh3+ 55.Kg2 Rh4 56.Kf2 Rg4 57.Rxg4 fxg4 58.d6 1-0 

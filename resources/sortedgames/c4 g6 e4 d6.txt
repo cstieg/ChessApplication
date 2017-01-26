@@ -1,0 +1,116 @@
+ 
+[Event "Bundesliga 2014-15"] 
+[Site "Bremen GER"] 
+[Date "2014.10.18"] 
+[Round "1.2"] 
+[White "Dubov, Daniil"] 
+[Black "Szelag, Marcin"] 
+[Result "1-0"] 
+[WhiteElo "2627"] 
+[BlackElo "2456"] 
+[ECO "A41"] 
+[EventDate "2014.10.18"] 
+ 
+1.c4 g6 2.e4 d6 3.d4 Nf6 4.f3 Bg7 5.Ne2 O-O 6.Be3 a6 7.Nec3 e5 8.dxe5 dxe5 
+9.Qxd8 Rxd8 10.Nd5 Nxd5 11.cxd5 c6 12.Bb6 Re8 13.Nc3 Nd7 14.Be3 c5 15.g4  
+b6 16.g5 Bf8 17.h4 Bd6 18.h5 Rd8 19.Kd2 Bb7 20.a4 Rac8 21.Bc4 Nf8 22.Rh4  
+Be7 23.Kc2 Rd6 24.hxg6 Nxg6 25.Rh5 f6 26.gxf6 Bxf6 27.Ne2 Rf8 28.Rg1 Bg7  
+29.Ng3 Bc8 30.Nf5 Bxf5 31.exf5 Ne7 32.Bh6 Nxf5 33.Rxf5 Rxf5 34.Rxg7+ Kh8  
+35.Rg5 Rf7 36.Rh5 Rxf3 37.Bd2 b5 38.axb5 axb5 39.Bxb5 Rxd5 40.Bc6 Rxd2+  
+41.Kxd2 Rb3 42.Kc2 Re3 43.Rh4 Kg7 44.Re4 Rh3 45.Rxe5 Rh2+ 46.Kc3 Rh3+ 47. 
+Kc4 Rh2 48.Rg5+ Kf6 49.Rg2 Rh5 50.Bd5 1-0 
+ 
+[Event "AUS Masters GM"] 
+[Site "Melbourne AUS"] 
+[Date "2013.12.17"] 
+[Round "4.2"] 
+[White "Johansen, Darryl K"] 
+[Black "Illingworth, Max"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2409"] 
+[BlackElo "2430"] 
+[ECO "A42"] 
+[EventDate "2013.12.14"] 
+ 
+1.c4 g6 2.e4 d6 3.d4 e5 4.Ne2 Nc6 5.Nbc3 Bg7 6.Be3 Nh6 7.d5 Ne7 8.f3 f5 9. 
+Qd2 Nf7 10.O-O-O O-O 11.Kb1 a6 12.c5 f4 13.Bf2 dxc5 14.Bxc5 Nd6 15.Nc1 Bd7 
+16.Bd3 Rf7 17.Qe2 g5 18.Nb3 Bf8 19.Bf2 c6 20.Bc5 Rf6 21.Bxd6 Rxd6 22.Nc5  
+Bc8 23.Bc4 Kh8 24.Bb3 b5 25.Ne6 Bxe6 26.dxe6 Rd4 27.Qc2 c5 28.Bd5 Rc8 29. 
+Bb7 Rb8 30.Bd5 Rc8 31.Bb7 Rb8 32.Bd5 Rc8 1/2-1/2 
+ 
+[Event "Bundesliga (2nd) South 2001/02"] 
+[Site "GER"] 
+[Date "2002.??.??"] 
+[Round "7"] 
+[White "Kratochwil, Christian"] 
+[Black "Pfrommer, Christoph"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2246"] 
+[BlackElo "2290"] 
+[ECO "A42"] 
+ 
+1.c4 g6 2.e4 d6 3.d4 e5 4.Nf3 Bg7 5.Nc3 Bg4 6.d5 a5 7.Be3 Na6 8.Be2 Bxf3  
+9.Bxf3 Kf8 10.Qd2 h5 11.b3 Bh6 1/2-1/2 
+ 
+[Event "IHEM"] 
+[Site "Hamburg GER"] 
+[Date "2000.06.11"] 
+[Round "2"] 
+[White "Hochgraefe, Markus Dr"] 
+[Black "Engelbert, Christoph"] 
+[Result "1-0"] 
+[WhiteElo "2365"] 
+[BlackElo "2209"] 
+[ECO "A41"] 
+[EventDate "2000.06.10"] 
+ 
+1.c4 g6 2.e4 d6 3.d4 e5 4.Nf3 Nc6 5.Bg5 Be7 6.Be3 Bg4 7.d5 Bxf3 8.gxf3 Nb8 
+9.f4 exf4 10.Bxf4 Bg5 11.Qd4 Qf6 12.Qxf6 Bxf6 13.Nc3 Bxc3+ 14.bxc3 Nd7 15. 
+Kd2 Ngf6 16.Re1 O-O 17.Bg5 Rfe8 18.Bg2 Nh5 19.Bf3 f6 20.Be3 Ng7 21.Bd4 b6  
+22.h4 Ne5 23.Be2 f5 24.f4 Nd7 25.h5 fxe4 26.hxg6 hxg6 27.Reg1 Kf7 28.Rh7  
+Nf6 29.Bxf6 Kxf6 30.Rh6 Kf7 31.Rgxg6 Rg8 32.Bg4 Rh8 33.Rf6+ Ke7 34.Ke3  
+Rxh6 35.Rxh6 a6 36.a4 Rb8 37.Kxe4 b5 38.axb5 axb5 39.cxb5 Rxb5 40.Rh8 Rc5  
+41.Kd4 Kf6 42.Rf8+ Ke7 43.Rc8 Kf6 44.c4 Nf5+ 45.Kd3 Ne7 46.Rf8+ Kg7 47.Re8 
+Kf6 48.Bf3 Ra5 49.Be4 Ra3+ 50.Kd4 Rh3 51.Rf8+ Kg7 52.Rd8 Kf6 53.Rd7 Rh4  
+54.Ke3 Rh3+ 55.Kf2 Rc3 56.Rxc7 Ng6 57.Bxg6 Kxg6 58.Ke2 Kf5 59.Kd2 Rh3 60. 
+Rd7 Rh6 61.Ke3 1-0 
+ 
+[Event "Chinese Teams 2013"] 
+[Site "Tianjin CHN"] 
+[Date "2013.12.24"] 
+[Round "22.2"] 
+[White "Harika, Dronavalli"] 
+[Black "Ju, Wenjun"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2484"] 
+[BlackElo "2518"] 
+[ECO "E90"] 
+[EventDate "2013.04.30"] 
+ 
+1.c4 g6 2.e4 d6 3.d4 Nf6 4.Nc3 Bg7 5.h3 O-O 6.Nf3 e5 7.d5 a5 8.g4 Na6 9. 
+Be3 Nd7 10.a3 Nac5 11.Be2 a4 12.Nd2 Bf6 13.Qc2 Bg5 14.Bxg5 Qxg5 15.Nb5 Qd8 
+16.O-O-O Nb6 17.h4 h6 18.Kb1 Kg7 19.Rdg1 c6 20.Nc3 Bd7 21.g5 h5 22.Rg3 Qe7 
+23.Qd1 cxd5 24.cxd5 Rac8 25.Qf1 Be8 26.Qd1 Rh8 27.Rf1 Rf8 28.Rfg1 Rh8 29. 
+Rf1 Rf8 30.Rfg1 Rh8 1/2-1/2 
+ 
+[Event "20. World Seniors"] 
+[Site "Arco ITA"] 
+[Date "2010.11.05"] 
+[Round "10"] 
+[White "Ermenkov, Evgenij"] 
+[Black "Hammar, Bengt"] 
+[Result "0-1"] 
+[WhiteElo "2442"] 
+[BlackElo "2240"] 
+[ECO "E70"] 
+[EventDate "2010.10.26"] 
+ 
+1.c4 g6 2.e4 d6 3.d4 Nf6 4.Nc3 Bg7 5.Bg5 c5 6.d5 h6 7.Bh4 e6 8.dxe6 Bxe6  
+9.Bd3 O-O 10.f4 Re8 11.Nf3 Qb6 12.Bxf6 Bxf6 13.Qd2 Nc6 14.O-O Bg7 15.f5  
+Bd7 16.Nd5 Qd8 17.Kh1 Ne5 18.Nxe5 Rxe5 19.Rf3 Bc6 20.Raf1 gxf5 21.exf5  
+Bxd5 22.cxd5 Qf6 23.Bc4 a6 24.a4 Rae8 25.h3 h5 26.b3 Bh6 27.Qc3 Bg7 28.Rg3 
+Kf8 29.Qf3 Re1 30.Qf2 Rxf1+ 31.Bxf1 Re5 32.Bc4 Re4 33.Rf3 h4 34.Rf4 Qa1+  
+35.Bf1 Rxf4 36.Qxf4 Be5 37.Qf3 Ke7 38.Qd3 Qe1 39.Qf3 Kd7 40.f6 Kc7 41.Kg1  
+Kb6 42.Kh1 Ka5 43.Kg1 Bd4+ 44.Kh1 Qf2 45.Qxf2 Bxf2 46.g4 hxg3 47.Kg2 Kb4  
+48.Bc4 b5 49.axb5 axb5 50.Bd3 Kxb3 51.Bg6 Bd4 52.Bxf7 Bxf6 53.Kxg3 c4 54. 
+Be8 c3 55.Bxb5 c2 56.Ba4+ Kxa4 0-1 

@@ -1,0 +1,56 @@
+ 
+[Event "TCh-CZE Liga 1 Zapad"] 
+[Site "Czech Rep CZE"] 
+[Date "2011.11.27"] 
+[Round "4.3"] 
+[White "Vavra, Pavel1"] 
+[Black "Vrana, Jan"] 
+[Result "1-0"] 
+[WhiteElo "2389"] 
+[BlackElo "2290"] 
+[ECO "A03"] 
+[EventDate "2011.10.02"] 
+ 
+1.b3 d5 2.f4 Nf6 3.Nf3 c5 4.Bb2 e6 5.e3 Be7 6.g3 O-O 7.Bg2 Nc6 8.O-O b5 9. 
+Qe2 Qb6 10.a4 b4 11.d3 Ba6 12.Nbd2 Rac8 13.Ne5 Nxe5 14.fxe5 Nd7 15.Qg4 c4  
+16.Bd4 Bc5 17.Bxc5 Qxc5 18.d4 Qe7 19.bxc4 Bxc4 20.Rf2 f5 21.exf6 Nxf6 22. 
+Qh4 Qd6 23.g4 Ba6 24.Bf1 Rc7 25.g5 Nd7 26.g6 hxg6 27.Nf3 Nf6 28.Ne5 Nh5  
+29.Rxf8+ Kxf8 30.Nxg6+ 1-0 
+ 
+[Event "St. Veit AUT, 27. Open"] 
+[Site "St. Veit AUT"] 
+[Date "2008.07.07"] 
+[Round "3"] 
+[White "Praznik, Niko"] 
+[Black "Genser, Harald"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2378"] 
+[BlackElo "2342"] 
+[ECO "A03"] 
+[EventDate "2008.07.05"] 
+ 
+1.b3 d5 2.f4 Nf6 3.Bb2 g6 4.Nf3 Bg7 5.e3 O-O 6.Be2 c5 7.O-O Nc6 8.Qe1 e6  
+9.h3 Ne4 10.Bxg7 Kxg7 11.d3 Qf6 12.c3 Nd6 13.d4 cxd4 14.cxd4 Bd7 15.Nc3  
+Rac8 16.Rc1 Qe7 17.g4 f5 18.g5 Ne4 19.Bb5 Nxc3 20.Rxc3 Nb8 21.Bxd7 Nxd7  
+22.Qd2 Rxc3 23.Qxc3 Nb6 24.Qa5 Qc7 25.Qa3 Rc8 26.Ne5 a6 27.Nd3 Kf7 28.Qb4  
+Nd7 29.Rc1 Qb8 30.Rxc8 Qxc8 31.Qd6 Qc6 32.Qxc6 bxc6 33.Kf2 Ke7 34.Nc5 Nxc5 
+35.dxc5 e5 36.Ke2 exf4 37.exf4 a5 38.Kd3 Kd7 39.a4 1/2-1/2 
+ 
+[Event "Czech Open A"] 
+[Site "Pardubice CZE"] 
+[Date "2006.07.24"] 
+[Round "4"] 
+[White "Bucinskas, Valdas"] 
+[Black "Kozak, Milos"] 
+[Result "1-0"] 
+[WhiteElo "2333"] 
+[BlackElo "2239"] 
+[ECO "A03"] 
+[EventDate "2006.07.21"] 
+ 
+1.b3 d5 2.f4 Nf6 3.Nf3 g6 4.Bb2 Bg7 5.e3 O-O 6.Be2 c5 7.O-O Nc6 8.h3 a6 9. 
+Qe1 d4 10.Qh4 Nd5 11.e4 Nxf4 12.Qxf4 d3 13.Bxg7 dxe2 14.Bxf8 exf1=Q+ 15. 
+Kxf1 Qxf8 16.Nc3 Qd8 17.Nd5 f6 18.c3 Kg7 19.Qe3 b6 20.d4 cxd4 21.cxd4 a5  
+22.Rc1 Nb4 23.Nxb4 axb4 24.Qd2 Bb7 25.d5 Qd6 26.Nd4 Bc8 27.Nc6 Bd7 28.Nxb4 
+Qh2 29.Rc2 f5 30.Qd4+ Kg8 31.e5 f4 32.d6 Bb5+ 33.Nd3 Qg3 34.Qd5+ Kg7 35. 
+Qxb5 f3 36.dxe7 1-0 

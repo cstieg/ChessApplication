@@ -1,0 +1,17 @@
+ 
+[Event "Chigorin Memorial"] 
+[Site "St Petersburg RUS"] 
+[Date "2005.10.23"] 
+[Round "9"] 
+[White "Karasev, Vladimir I"] 
+[Black "Chehlov, Aleksander"] 
+[Result "1-0"] 
+[WhiteElo "2383"] 
+[BlackElo "2207"] 
+[ECO "A00"] 
+[EventDate "2005.10.15"] 
+ 
+1.e3 Nf6 2.b3 d6 3.Bb2 Nbd7 4.d4 g6 5.f4 d5 6.Nd2 Bg7 7.Ngf3 O-O 8.Bd3 c5  
+9.Qe2 a6 10.O-O b6 11.f5 Bb7 12.fxg6 hxg6 13.Ng5 Bh6 14.h4 cxd4 15.exd4  
+Nb8 16.Ndf3 Nh5 17.Nxf7 Rxf7 18.Bxg6 Nf6 19.Bxf7+ Kxf7 20.Ng5+ Kg6 21.h5+  
+1-0 

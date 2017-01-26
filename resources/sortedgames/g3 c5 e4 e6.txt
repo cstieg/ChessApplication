@@ -1,0 +1,44 @@
+ 
+[Event "4. Forni di Sopra"] 
+[Site "Forli di Sopra ITA"] 
+[Date "2013.06.21"] 
+[Round "8"] 
+[White "Lazic, Miroljub"] 
+[Black "Hambleton, Aman"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2467"] 
+[BlackElo "2461"] 
+[ECO "A08"] 
+[EventDate "2013.06.15"] 
+ 
+1.g3 c5 2.e4 e6 3.d3 d5 4.Nd2 Nc6 5.Ngf3 Bd6 6.Bg2 Nge7 7.O-O O-O 8.b3 Qc7 
+9.Bb2 Bd7 10.Re1 d4 11.c3 dxc3 12.Bxc3 e5 13.Nc4 b5 14.Nxd6 Qxd6 15.Rc1 f6 
+16.Re2 Rfc8 17.Rec2 a5 18.Bd2 Nd8 19.Be3 Nb7 20.Nh4 g6 21.f4 a4 22.Rf2  
+axb3 23.Qxb3+ c4 24.dxc4 Na5 25.Rd1 Qc7 26.Qb4 Bg4 27.Rdf1 Nxc4 28.Bc1 Nc6 
+29.Qe1 Nd4 30.fxe5 Nxe5 31.Qe3 Qc3 32.h3 Be2 33.Rxe2 Qxe3+ 34.Rxe3 Rxa2  
+35.Ree1 g5 36.Nf5 Rcc2 37.Ne3 Rc3 38.Kh1 Ne2 39.Nf5 Nd3 40.e5 Nexc1 41. 
+Bd5+ Kf8 42.e6 Nxe1 43.e7+ Ke8 44.Bxa2 Ncd3 45.Bg8 Rc1 46.Bxh7 Ne5 47.h4  
+gxh4 48.gxh4 N1d3 49.Rxc1 Nxc1 50.h5 Ne2 51.Bg6+ Nxg6 52.hxg6 Ng3+ 53.Nxg3 
+Kxe7 54.Kg2 Kf8 55.Nf5 b4 56.Nd4 Kg7 57.Kf3 Kxg6 58.Ke4 1/2-1/2 
+ 
+[Event "4. Forni di Sopra"] 
+[Site "Forni di Sopra ITA"] 
+[Date "2013.06.21"] 
+[Round "8"] 
+[White "Lazic, Miroljub"] 
+[Black "Hambleton, Aman"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2467"] 
+[BlackElo "2461"] 
+[ECO "A08"] 
+[EventDate "2013.06.15"] 
+ 
+1.g3 c5 2.e4 e6 3.d3 d5 4.Nd2 Nc6 5.Ngf3 Bd6 6.Bg2 Nge7 7.O-O O-O 8.b3 Qc7 
+9.Bb2 Bd7 10.Re1 d4 11.c3 dxc3 12.Bxc3 e5 13.Nc4 b5 14.Nxd6 Qxd6 15.Rc1 f6 
+16.Re2 Rfc8 17.Rec2 a5 18.Bd2 Nd8 19.Be3 Nb7 20.Nh4 g6 21.f4 a4 22.Rf2  
+axb3 23.Qxb3+ c4 24.dxc4 Na5 25.Rd1 Qc7 26.Qb4 Bg4 27.Rdf1 Nxc4 28.Bc1 Nc6 
+29.Qe1 Nd4 30.fxe5 Nxe5 31.Qe3 Qc3 32.h3 Be2 33.Rxe2 Qxe3+ 34.Rxe3 Rxa2  
+35.Ree1 g5 36.Nf5 Rcc2 37.Ne3 Rc3 38.Kh1 Ne2 39.Nf5 Nd3 40.e5 Nexc1 41. 
+Bd5+ Kf8 42.e6 Nxe1 43.e7+ Ke8 44.Bxa2 Ncd3 45.Bg8 Rc1 46.Bxh7 Ne5 47.h4  
+gxh4 48.gxh4 N1d3 49.Rxc1 Nxc1 50.h5 Ne2 51.Bg6+ Nxg6 52.hxg6 Ng3+ 53.Nxg3 
+Kxe7 54.Kg2 Kf8 55.Nf5 b4 56.Nd4 Kg7 57.Kf3 Kxg6 58.Ke4 1/2-1/2 

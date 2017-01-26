@@ -1,0 +1,15 @@
+ 
+[Event "ch-2013"] 
+[Site "Riga LAT"] 
+[Date "2013.04.18"] 
+[Round "7.6"] 
+[White "Meskovs, Nikita"] 
+[Black "Kantans, Toms"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2328"] 
+[BlackElo "2356"] 
+[ECO "A03"] 
+[EventDate "2013.04.13"] 
+ 
+1.f4 d5 2.Nf3 b6 3.b3 Bb7 4.Bb2 Nf6 5.e3 g6 6.Be2 Bg7 7.O-O O-O 8.Qe1 c5  
+9.Nc3 Nc6 1/2-1/2 

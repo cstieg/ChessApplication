@@ -1,0 +1,20 @@
+ 
+[Event "Open"] 
+[Site "Cappelle la Grande FRA"] 
+[Date "2003.02.27"] 
+[Round "7"] 
+[White "Kennaugh, Charles W"] 
+[Black "Shirazi, Kamran"] 
+[Result "0-1"] 
+[WhiteElo "2290"] 
+[BlackElo "2438"] 
+[ECO "C30"] 
+[EventDate "2003.02.22"] 
+ 
+1.e4 e5 2.f4 f5 3.exf5 e4 4.Qh5+ Ke7 5.d3 Nf6 6.Qg5 h6 7.Qh4 d5 8.g4 Kf7  
+9.dxe4 h5 10.e5 hxg4 11.Qg5 Nbd7 12.Be2 Rh5 13.Qg6+ Kg8 14.exf6 Nxf6 15. 
+Bxg4 Rh6 16.Qg5 Be7 17.Bf3 Ne4 18.Qg2 Bh4+ 19.Kf1 Bxf5 20.Be3 Qf6 21.c3  
+Re8 22.Nd2 Nxc3 23.bxc3 Rxe3 24.Ne2 Rg6 25.Ng3 Bd3+ 26.Kg1 Qb6 27.Qf2 Bxg3 
+28.hxg3 Rxg3+ 29.Kh2 Rexf3 30.Qxb6 Rh3+ 31.Kg2 Rfg3+ 32.Kf2 cxb6 33.Rxh3  
+Rxh3 34.Re1 Rh2+ 35.Ke3 Bf5 36.a3 Rh3+ 37.Kd4 Kf7 38.Kxd5 Rxc3 39.Nc4 Be6+ 
+40.Rxe6 Rxc4 41.f5 Rc5+ 42.Ke4 Ra5 0-1 

@@ -1,0 +1,14 @@
+ 
+[Event "4. IECC"] 
+[Site "Istanbul TUR"] 
+[Date "2003.06.13"] 
+[Round "13"] 
+[White "Marcelin, Cyril"] 
+[Black "Izoria, Zviad"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2503"] 
+[BlackElo "2569"] 
+[ECO "A29"] 
+[EventDate "2003.05.30"] 
+ 
+1.Nf3 Nf6 2.c4 e5 3.Nc3 Nc6 4.g3 g6 5.Bg2 Bg7 6.O-O O-O 7.d3 1/2-1/2 

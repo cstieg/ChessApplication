@@ -1,0 +1,49 @@
+ 
+[Event "WYb18"] 
+[Site "Kemer TUR"] 
+[Date "2007.11.20"] 
+[Round "3"] 
+[White "Polyakov, Maxim"] 
+[Black "Rohit, Gogineni"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2296"] 
+[BlackElo "2491"] 
+[ECO "A18"] 
+[EventDate "2007.11.18"] 
+ 
+1.e4 Nf6 2.c4 e6 3.Nc3 Bb4 4.g3 d5 5.Bg2 O-O 6.Nf3 dxc4 7.O-O Nc6 8.Qa4  
+Nd5 9.Qc2 Be7 10.Rd1 Rb8 11.Ne5 Nxe5 12.exd5 c6 13.Qa4 b5 14.Qxa7 Rb7 15. 
+Qa4 1/2-1/2 
+ 
+[Event "Gibtelecom Masters"] 
+[Site "Catalan Bay ENG"] 
+[Date "2007.01.26"] 
+[Round "4"] 
+[White "Mohota, Nisha"] 
+[Black "Smerdon, David"] 
+[Result "0-1"] 
+[WhiteElo "2261"] 
+[BlackElo "2460"] 
+[ECO "A18"] 
+[EventDate "2007.01.23"] 
+ 
+1.e4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.a3 Bxc3 6.Qxc3 Nxe4 7.Qc2 e5 8.cxd5  
+Bf5 9.Qa4+ Nd7 10.Nf3 O-O 11.d4 exd4 12.Nxd4 Qh4 13.Qc2 Bg6 14.Nf3 Qf6 15. 
+Qd1 Rfd8 16.Qd4 Qf5 17.b4 Ndf6 18.Bc4 b5 19.Bb3 Bh5 20.Qe5 Qg6 21.Nd2 Qxg2 
+22.Rf1 Re8 23.Qf4 g5 24.Qf5 Bg4 25.Nxe4 Nxe4 0-1 
+ 
+[Event "It (open) \"] 
+[Site "Gibraltar ENG"] 
+[Date "2007.01.26"] 
+[Round "4"] 
+[White "Mohota, Nisha"] 
+[Black "Smerdon, David"] 
+[Result "0-1"] 
+[WhiteElo "2261"] 
+[BlackElo "2460"] 
+[ECO "A18"] 
+ 
+1.e4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.a3 Bxc3 6.Qxc3 Nxe4 7.Qc2 e5 8.cxd5  
+Bf5 9.Qa4+ Nd7 10.Nf3 O-O 11.d4 exd4 12.Nxd4 Qh4 13.Qc2 Bg6 14.Nf3 Qf6 15. 
+Qd1 Rfd8 16.Qd4 Qf5 17.b4 Ndf6 18.Bc4 b5 19.Bb3 Bh5 20.Qe5 Qg6 21.Nd2 Qxg2 
+22.Rf1 Re8 23.Qf4 g5 24.Qf5 Bg4 25.Nxe4 Nxe4 0-1 

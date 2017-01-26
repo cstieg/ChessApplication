@@ -1,0 +1,22 @@
+ 
+[Event "Hanoi VIE, Ch U7 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.16"] 
+[Round "7.36"] 
+[White "Duong, Thanh Tung"] 
+[Black "Le, Tri Kien"] 
+[Result "0-1"] 
+[WhiteElo "2528"] 
+[BlackElo "2555"] 
+[ECO "A00"] 
+[EventDate "2012.07.12"] 
+ 
+1.d3 d6 2.Nd2 Nf6 3.e4 g6 4.Ngf3 Bg7 5.Be2 O-O 6.c3 e5 7.b3 Bg4 8.Qc2 Bxf3 
+9.Nxf3 Nc6 10.O-O d5 11.Bg5 dxe4 12.dxe4 h6 13.Rad1 Qe7 14.Bxf6 Qxf6 15.h3 
+a6 16.a4 Rad8 17.b4 Rd6 18.Rxd6 cxd6 19.b5 axb5 20.axb5 Ne7 21.c4 Rc8 22. 
+Qd3 Qe6 23.Rc1 d5 24.exd5 Nxd5 25.cxd5 Rxc1+ 26.Bf1 Qd6 27.Qd2 Rc5 28.Qb4  
+Rxd5 29.Qxd6 Rxd6 30.Nh4 e4 31.f3 g5 32.Nf5 Rd5 33.Ne7+ Kf8 34.Nxd5 Bd4+  
+35.Kh2 Be5+ 36.Kh1 exf3 37.gxf3 f5 38.Nc7 Bxc7 39.Kg2 h5 40.Bd3 f4 41.Be4  
+b6 42.Bg6 h4 43.Kf1 Kg7 44.Be4 Kf6 45.Ke2 Ke5 46.Kd3 Kd6 47.Kc4 Ke5 48.Bd3 
+Bd6 49.Bh7 Bc5 50.Be4 g4 51.hxg4 h3 52.g5 h2 53.g6 h1=Q 54.g7 Qg1 55.g8=Q  
+Qxg8+ 0-1 

@@ -1,0 +1,17 @@
+ 
+[Event "12. Open A"] 
+[Site "Bosnjaci CRO"] 
+[Date "2006.01.03"] 
+[Round "1"] 
+[White "Cvitan, Ognjen"] 
+[Black "Ivekovic, Mario"] 
+[Result "1-0"] 
+[WhiteElo "2527"] 
+[BlackElo "2330"] 
+[ECO "D94"] 
+[EventDate "2006.01.03"] 
+ 
+1.c4 g6 2.d4 c6 3.Nc3 d5 4.e3 Nf6 5.Nf3 Bg7 6.Be2 O-O 7.O-O b6 8.Qc2 Bg4  
+9.Qb3 e6 10.h3 Bxf3 11.Bxf3 Nbd7 12.Bd2 Rc8 13.cxd5 exd5 14.Rfc1 Qe7 15. 
+Rc2 Ne4 16.Nxe4 dxe4 17.Bg4 c5 18.Rac1 Rcd8 19.Bxd7 Rxd7 20.dxc5 bxc5 21. 
+Bc3 Rb7 22.Qa3 Bxc3 23.Rxc3 Qf6 1-0 

@@ -1,0 +1,36 @@
+ 
+[Event "TCh-CAT 2012"] 
+[Site "Catalunya ESP"] 
+[Date "2012.02.11"] 
+[Round "3.2"] 
+[White "Gonzalez Rodriguez, Jorge A"] 
+[Black "Moskalenko, Viktor"] 
+[Result "1-0"] 
+[WhiteElo "2385"] 
+[BlackElo "2532"] 
+[ECO "A01"] 
+[EventDate "2012.01.28"] 
+ 
+1.b3 e5 2.e3 Nc6 3.Bb2 Nf6 4.Nf3 d6 5.d4 e4 6.Nfd2 Bg4 7.Be2 Bxe2 8.Qxe2  
+d5 9.a3 Bd6 10.c4 O-O 11.Nc3 dxc4 12.bxc4 Re8 13.O-O Qd7 14.Rae1 Qf5 15.f3 
+exf3 16.Nxf3 Qh5 17.g3 Ng4 18.e4 Rad8 19.Nd5 Ne7 20.Nxe7+ Bxe7 21.Ne5 Nf6  
+22.Qxh5 Nxh5 23.Nxf7 Rd7 24.e5 Bc5 25.e6 Rxd4 26.Bxd4 Bxd4+ 27.Kg2 Nf6 28. 
+h3 Bc5 29.a4 Re7 30.Nh6+ gxh6 31.Rxf6 h5 32.Re5 Kg7 33.Rf7+ Rxf7 34.exf7  
+Bf8 35.Rxh5 1-0 
+ 
+[Event "AUT, 2. Bundesliga Ost 2003/04"] 
+[Site "AUT"] 
+[Date "2003.12.08"] 
+[Round "7"] 
+[White "Blatny, Pavel"] 
+[Black "Lau, Ralf"] 
+[Result "1-0"] 
+[WhiteElo "2452"] 
+[BlackElo "2497"] 
+[ECO "A01"] 
+[EventDate "2004.02.28"] 
+ 
+1.b3 e5 2.e3 Nc6 3.Bb2 d6 4.g3 g6 5.Bg2 Bg7 6.d3 Nge7 7.Nd2 Be6 8.Ne2 Qd7  
+9.Nf4 O-O 10.Nxe6 Qxe6 11.a3 a5 12.Qe2 f5 13.h4 h6 14.Kf1 Rae8 15.Kg1 Qf7  
+16.Bh3 d5 17.Rh2 Bf6 18.Kh1 Kg7 19.Rg1 g5 20.f3 Rh8 21.e4 gxh4 22.gxh4+  
+Kh7 23.f4 Reg8 24.Rxg8 Rxg8 25.Nf3 fxe4 26.Nxe5 Nxe5 27.fxe5 Bxh4 1-0 

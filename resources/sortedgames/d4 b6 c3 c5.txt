@@ -1,0 +1,14 @@
+ 
+[Event "34. Olympiad"] 
+[Site "Istanbul TUR"] 
+[Date "2000.10.29"] 
+[Round "2"] 
+[White "Magai, Vladimir"] 
+[Black "Van der Stricht, Geert"] 
+[Result "0-1"] 
+[WhiteElo "2546"] 
+[BlackElo "2369"] 
+[ECO "A40"] 
+[EventDate "2000.10.28"] 
+ 
+1.d4 b6 2.c3 c5 3.dxc5 d6 4.cxd6 exd6 5.Qxd6 Nc6 6.Qxc6+ 0-1 

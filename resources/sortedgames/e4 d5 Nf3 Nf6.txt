@@ -1,0 +1,15 @@
+ 
+[Event "World Open"] 
+[Site "Philadelphia, PA USA"] 
+[Date "2008.07.03"] 
+[Round "2"] 
+[White "Ftacnik, Lubomir"] 
+[Black "Ludwig, Daniel"] 
+[Result "1-0"] 
+[WhiteElo "2544"] 
+[BlackElo "2394"] 
+[ECO "A06"] 
+[EventDate "2008.07.02"] 
+ 
+1.e4 d5 2.Nf3 Nf6 3.Bb5+ c6 4.d3 Bg4 5.O-O Bxf3 6.b4 dxe4 7.Nd2 e5 8.Nb3  
+Qe7 9.Qe2 g6 10.c4 Qc7 11.Nc5 h5 12.g4 Bg7 13.h4 1-0 

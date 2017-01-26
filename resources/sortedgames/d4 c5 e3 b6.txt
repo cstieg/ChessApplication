@@ -1,0 +1,38 @@
+ 
+[Event "TCh-SWE Elitserien 2013-14"] 
+[Site "Sweden SWE"] 
+[Date "2014.01.18"] 
+[Round "4.3"] 
+[White "Bellon Lopez, Juan Manuel"] 
+[Black "Andersson, Bjorn2"] 
+[Result "1-0"] 
+[WhiteElo "2381"] 
+[BlackElo "2236"] 
+[ECO "A43"] 
+[EventDate "2013.11.22"] 
+ 
+1.d4 c5 2.e3 b6 3.Nf3 Bb7 4.Bd3 e6 5.O-O f5 6.c4 Nf6 7.Nc3 Ne4 8.Bxe4 fxe4 
+9.Nd2 cxd4 10.exd4 Bd6 11.Qh5+ g6 12.Qg4 Nc6 13.Ndxe4 Be7 14.d5 Ne5 15.Qe2 
+O-O 16.Bh6 Rf5 17.Ng3 Nf7 18.Nxf5 exf5 19.Bf4 Bf6 20.Nb5 d6 21.Rad1 a6 22. 
+Nd4 g5 23.Bc1 Bxd4 24.Rxd4 Qf6 25.Rdd1 Ne5 26.f4 gxf4 27.Bxf4 Re8 28.Rde1  
+Re7 29.Bxe5 dxe5 30.Qg4+ 1-0 
+ 
+[Event "Challengers"] 
+[Site "Hastings ENG"] 
+[Date "2002.12.31"] 
+[Round "4"] 
+[White "Hein, Andreas1"] 
+[Black "Cherniaev, Alexander"] 
+[Result "0-1"] 
+[WhiteElo "2240"] 
+[BlackElo "2506"] 
+[ECO "A43"] 
+[EventDate "2002.12.28"] 
+ 
+1.d4 c5 2.e3 b6 3.Nf3 Bb7 4.Bd3 Nf6 5.Nbd2 g6 6.O-O Bg7 7.b3 O-O 8.Bb2 d6  
+9.c4 e6 10.Rc1 Nbd7 11.Qe2 a6 12.e4 cxd4 13.Bxd4 e5 14.Bb2 Nh5 15.g3 f5  
+16.Ba3 Nc5 17.Bxc5 bxc5 18.Rcd1 f4 19.g4 Nf6 20.h3 Bc8 21.Nh2 Ne8 22.Ndf3  
+a5 23.Bc2 Rf7 24.Qd3 Be6 25.Kh1 h6 26.Rg1 Rb7 27.a4 Rd7 28.Nf1 Nc7 29.N1d2 
+Na6 30.Nb1 Nb4 31.Qe2 Kf7 32.Nc3 Nc6 33.Nd5 Bf6 34.Rg2 Be7 35.Rdg1 Rb7 36. 
+Qd3 Bh4 37.g5 Bxg5 38.Rxg5 hxg5 39.Nxg5+ Qxg5 40.Rxg5 Rh8 41.Kg2 Nd4 42. 
+Rg4 Bxg4 43.hxg4 Rh4 44.Nc3 Kf8 45.Nb5 f3+ 0-1 

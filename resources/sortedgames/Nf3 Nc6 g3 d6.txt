@@ -1,0 +1,15 @@
+ 
+[Event "TCh"] 
+[Site "Murska Sobota SLO"] 
+[Date "2008.12.14"] 
+[Round "9"] 
+[White "Basagic, Zlatko"] 
+[Black "Kos, Toni"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2346"] 
+[BlackElo "2328"] 
+[ECO "A04"] 
+[EventDate "2008.12.06"] 
+ 
+1.Nf3 Nc6 2.g3 d6 3.Bg2 Nf6 4.O-O Bg4 5.d3 e5 6.h3 Bh5 7.Nbd2 Be7 8.c3 O-O 
+9.b4 a6 10.a4 1/2-1/2 

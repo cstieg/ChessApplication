@@ -1,0 +1,15 @@
+ 
+[Event "12. ch-CRO"] 
+[Site "Opatija CRO"] 
+[Date "2012.01.21"] 
+[Round "5.5"] 
+[White "Zelcic, Robert"] 
+[Black "Palac, Mladen"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2558"] 
+[BlackElo "2572"] 
+[ECO "A10"] 
+[EventDate "2012.01.17"] 
+ 
+1.c4 f5 2.e3 Nf6 3.d4 e6 4.Nf3 Bb4+ 5.Bd2 Bxd2+ 6.Qxd2 O-O 7.Nc3 b6 8.Be2  
+Bb7 9.O-O-O Na6 10.Kb1 Qe7 1/2-1/2 

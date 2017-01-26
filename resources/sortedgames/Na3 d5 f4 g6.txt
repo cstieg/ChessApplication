@@ -1,0 +1,23 @@
+ 
+[Event "XVI Open"] 
+[Site "Porto San Giorgio ITA"] 
+[Date "2004.08.29"] 
+[Round "9"] 
+[White "Trent, Lawrence"] 
+[Black "Chiaretti, Roberto"] 
+[Result "1-0"] 
+[WhiteElo "2400"] 
+[BlackElo "2207"] 
+[ECO "A00"] 
+[EventDate "2004.08.21"] 
+ 
+1.Na3 d5 2.f4 g6 3.c4 c6 4.Nf3 Bg7 5.g3 Nf6 6.Bg2 O-O 7.O-O Nbd7 8.e3 Nc5  
+9.Ne5 Be6 10.b3 dxc4 11.bxc4 Nd3 12.Nxd3 Qxd3 13.Rb1 Rab8 14.Rb3 Qd7 15. 
+Bb2 b5 16.Be5 Rbd8 17.Rb2 bxc4 18.Qa4 Qd3 19.Bxc6 Ng4 20.Bxg7 Kxg7 21.Re1  
+c3 22.dxc3 Qxc3 23.Rbe2 Bxa2 24.Bf3 Bb3 25.Qxa7 Bd1 26.Nb5 Qb4 27.Bxg4  
+Bxe2 28.Qa1+ Kg8 29.Bxe2 Rd2 30.Qc3 Qxc3 31.Nxc3 Rb8 32.Kf2 Rc2 33.Ne4 h6  
+34.Kf3 Kg7 35.h4 Rd8 36.h5 f5 37.Nf2 g5 38.fxg5 hxg5 39.g4 e6 40.Bf1 Rc3  
+41.Rd1 Rxd1 42.Nxd1 Ra3 43.Nf2 Kf6 44.Bd3 Ke5 45.Be2 Kf6 46.Nd3 Ra4 47.Kf2 
+fxg4 48.Kg3 Re4 49.Nc5 Rxe3+ 50.Kf2 Ra3 51.Bxg4 Ke5 52.Bf3 Kf5 53.Be4+ Kf4 
+54.h6 Ra2+ 55.Kg1 Kg3 56.Kf1 Rh2 57.h7 Kf4 58.Bd3 e5 59.Ne6+ Ke3 60.Bf5 g4 
+61.Kg1 g3 62.Ng5 Rh5 63.Nf7 Rxf5 64.h8=Q Rxf7 65.Qxe5+ Kd2 66.Qd5+ 1-0 

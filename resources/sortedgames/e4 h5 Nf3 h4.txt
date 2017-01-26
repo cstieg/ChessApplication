@@ -1,0 +1,20 @@
+ 
+[Event "European Blitz 2015"] 
+[Site "Minsk BLR"] 
+[Date "2015.12.18"] 
+[Round "8.31"] 
+[White "Meribanov, Vitaly"] 
+[Black "Dzhumagaliev, Yan"] 
+[Result "0-1"] 
+[WhiteElo "2392"] 
+[BlackElo "2400"] 
+[ECO "B00"] 
+[EventDate "2015.12.18"] 
+ 
+1.e4 h5 2.Nf3 h4 3.h3 c6 4.d4 d5 5.exd5 cxd5 6.Bd3 e6 7.c3 Be7 8.O-O Nf6  
+9.Bg5 Ne4 10.Bxe7 Qxe7 11.Nbd2 Nd6 12.Re1 O-O 13.Nf1 Nc6 14.Ne3 Qd8 15.Bc2 
+f5 16.Ne5 Nxe5 17.dxe5 Ne4 18.Qh5 Bd7 19.Rad1 Be8 20.Qe2 Qb6 21.Bb3 a5 22. 
+c4 d4 23.Nf1 a4 24.Bc2 Bc6 25.Nd2 Nxd2 26.Rxd2 Rad8 27.Red1 Qc5 28.Bd3 b6  
+29.f4 Rf7 30.Qf2 g5 31.fxg5 Qxe5 32.g6 Rg7 33.Qxh4 Rf8 34.Re1 Qd6 35.Rde2  
+Rxg6 36.Qh5 Rff6 37.Rf2 Qg3 38.Bf1 Kg7 39.Rd1 Rg5 40.Qe2 Qe3 41.Qc2 Qxh3  
+42.Rxd4 Rh6 43.Rd7+ Bxd7 44.Qc3+ Qxc3 0-1 

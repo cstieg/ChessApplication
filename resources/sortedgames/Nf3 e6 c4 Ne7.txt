@@ -1,0 +1,18 @@
+ 
+[Event "Visma IMB 2015"] 
+[Site "Vaxjo SWE"] 
+[Date "2015.06.28"] 
+[Round "9.5"] 
+[White "Christiansen, Johan-Sebastian"] 
+[Black "Fries-Nielsen, Jens Ove"] 
+[Result "1-0"] 
+[WhiteElo "2398"] 
+[BlackElo "2442"] 
+[ECO "A13"] 
+[EventDate "2015.06.24"] 
+ 
+1.Nf3 e6 2.c4 Ne7 3.g3 Nbc6 4.d4 d5 5.Bg2 Nf5 6.O-O Be7 7.e3 O-O 8.Nc3  
+dxc4 9.Qe2 Na5 10.Rd1 Nd6 11.e4 Bd7 12.d5 exd5 13.Nxd5 Re8 14.e5 Nc8 15. 
+Nxe7+ Qxe7 16.Bg5 f6 17.Bh4 c3 18.Qd3 cxb2 19.Rab1 Nb6 20.exf6 gxf6 21.Qc3 
+Nac4 22.Bxf6 Qf7 23.Ng5 Qg6 24.Bf1 Nd6 25.Qb3+ Kf8 26.Rxd6 cxd6 27.Bd3 Ba4 
+28.Qa3 Nc4 29.Qc3 1-0 

@@ -1,0 +1,17 @@
+ 
+[Event "Hanoi VIE, Ch U7 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.12"] 
+[Round "1.10"] 
+[White "Le, Quang Khai"] 
+[Black "Pham, Thien Loc"] 
+[Result "0-1"] 
+[WhiteElo "2591"] 
+[BlackElo "2553"] 
+[ECO "C40"] 
+[EventDate "2012.07.12"] 
+ 
+1.e4 e5 2.Nf3 Bc5 3.Nxe5 Nh6 4.Bc4 O-O 5.O-O Nc6 6.Nxc6 dxc6 7.Nc3 b5 8. 
+Be2 Rb8 9.d3 Qd4 10.Be3 Qb4 11.a3 Qxb2 12.Bxc5 Re8 13.Bxa7 Rb7 14.Be3 Qxc3 
+15.Bxh6 Kh8 16.Bd2 Qe5 17.Qe1 Re6 18.Bc3 Qg5 19.Bd2 Qh4 20.g3 Qh3 21.Bf4  
+Kg8 22.Be5 Rh6 23.g4 f6 24.Bb2 Qxh2# 0-1 

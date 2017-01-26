@@ -1,0 +1,121 @@
+ 
+[Event "European Rapid Championship"] 
+[Site "Warsaw POL"] 
+[Date "2010.12.19"] 
+[Round "11"] 
+[White "Bartel, Mateusz"] 
+[Black "Rublevsky, Sergei"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2617"] 
+[BlackElo "2678"] 
+[ECO "A03"] 
+[EventDate "2010.12.18"] 
+ 
+1.g3 d5 2.f4 Nc6 3.Bg2 e5 4.fxe5 Nxe5 5.d4 Ng6 6.Nc3 c6 7.e4 dxe4 8.Nxe4  
+Nf6 9.Nxf6+ Qxf6 10.Nf3 Bb4+ 11.c3 Be7 12.O-O O-O 13.Ng5 Qd6 14.Ne4 Qc7  
+15.Qd3 f5 16.Ng5 Bxg5 17.Bxg5 Be6 18.Rae1 Qd7 19.c4 h6 20.d5 Bxd5 21.Bxh6  
+Be6 22.Qxd7 Bxd7 23.Bg5 Rae8 24.Rd1 Be6 25.b3 Ne5 26.Rfe1 Ng4 27.Rd6 Kf7  
+28.h3 Nh6 29.Bf3 Ng8 30.Kf2 g6 31.h4 Bc8 32.h5 Rxe1 33.hxg6+ Kg7 34.Kxe1  
+Nf6 35.Be3 a6 36.Bd4 Kxg6 37.Kd2 Kg5 38.Be3+ Kg6 39.Bd4 Kg5 40.Be3+ Kg6  
+41.Kd3 Kf7 42.Kd4 Ne4 43.Bxe4 fxe4 44.Kxe4 Re8+ 45.Kd4 Re6 46.Rd8 Re8 47. 
+Rxe8 Kxe8 48.Ke5 Bg4 49.Kd6 Kd8 50.Bg5+ Kc8 51.c5 Bf5 52.Bf6 Bg4 53.Bc3  
+Bd1 54.Ba5 Be2 55.Ke6 Bg4+ 56.Ke7 Bd1 57.Kd6 Be2 58.Bd2 Bd1 59.Be3 Be2 60. 
+Bc1 Bd1 61.Bb2 Be2 62.Ke6 Bg4+ 63.Ke5 Kd7 64.Kf4 Bd1 65.g4 Ke6 66.b4  
+1/2-1/2 
+ 
+[Event "36. Open"] 
+[Site "Badalona ESP"] 
+[Date "2010.08.08"] 
+[Round "7"] 
+[White "Karlsson, Lars"] 
+[Black "Perez Mitjans, Orelvis"] 
+[Result "1-0"] 
+[WhiteElo "2449"] 
+[BlackElo "2424"] 
+[ECO "A03"] 
+[EventDate "2010.08.02"] 
+ 
+1.g3 d5 2.f4 Nc6 3.Nf3 Bg4 4.Bg2 Qd7 5.c4 e6 6.Nc3 d4 7.Ne4 Bxf3 8.Bxf3  
+Be7 9.b4 Nxb4 10.Rb1 Rb8 11.Ba3 a5 12.Bxb4 axb4 13.c5 f5 14.c6 bxc6 15.Nf2 
+Nf6 16.Nd3 Bd6 17.Qc2 O-O 18.Bxc6 Qe7 19.Qc4 Rb6 20.Rc1 Rd8 21.Rc2 Kh8 22. 
+O-O Ne4 23.Bxe4 fxe4 24.Nf2 e3 25.dxe3 e5 26.f5 b3 27.axb3 dxe3 28.Nd3  
+Rdb8 29.Rc3 Qf6 30.Qe4 h6 31.b4 R8b7 32.Rc6 Rxc6 33.Qxc6 Rb6 34.Qe4 Rb5  
+35.Qg4 Kh7 36.Rc1 Rb7 37.Rf1 Ra7 38.Rf3 1-0 
+ 
+[Event "9. Amplico Life Rapid"] 
+[Site "Warsaw POL"] 
+[Date "2009.12.20"] 
+[Round "9"] 
+[White "Bartel, Mateusz"] 
+[Black "Rozentalis, Eduardas"] 
+[Result "1-0"] 
+[WhiteElo "2618"] 
+[BlackElo "2611"] 
+[ECO "A03"] 
+[EventDate "2009.12.19"] 
+ 
+1.g3 d5 2.f4 Nc6 3.Bg2 e5 4.fxe5 Nxe5 5.d4 Ng4 6.Nc3 c6 7.Nf3 Bd6 8.e4  
+dxe4 9.Nxe4 Be7 10.O-O N8f6 11.Nc3 Nd5 12.Qd3 O-O 13.a3 h6 14.Ne2 Ngf6 15. 
+c4 Nc7 16.Nc3 Bg4 17.Be3 Qc8 18.Rae1 Re8 19.Ne5 Bh3 20.Bxh6 Bxg2 21.Kxg2  
+gxh6 22.Nxf7 Kxf7 23.Qh7+ Kf8 24.Ne4 Qd8 25.Qxh6+ Kg8 26.Qg6+ 1-0 
+ 
+[Event "SWE Ch"] 
+[Site "Vaxjo SWE"] 
+[Date "2008.07.07"] 
+[Round "9"] 
+[White "Karlsson, Lars"] 
+[Black "Hector, Jonny"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2475"] 
+[BlackElo "2532"] 
+[ECO "A03"] 
+[EventDate "2008.06.28"] 
+ 
+1.g3 d5 2.f4 Nc6 3.Nf3 Bg4 4.Bg2 Bxf3 5.Bxf3 e5 6.c4 dxc4 7.Qa4 Qd7 8.Bxc6 
+bxc6 9.fxe5 f6 10.Qxc4 fxe5 11.Rf1 Nf6 12.Nc3 Rb8 13.a3 Be7 14.d3 Rf8 15. 
+b4 Ng4 16.Rxf8+ Kxf8 17.Ne4 Nxh2 18.Be3 a5 19.Nc5 Qh3 20.Kd2 axb4 21.Rh1  
+Nf3+ 22.Kc2 Qxh1 23.Nd7+ Ke8 24.Nxb8 Ne1+ 25.Kd2 Qd5 26.Kxe1 bxa3 27.Bc1  
+a2 28.Qxd5 cxd5 29.Bb2 Ba3 30.Bxe5 c5 31.Ba1 Bb4+ 32.Kd1 d4 33.Kc2 Bc3 34. 
+Bb2 Ke7 35.Nc6+ Kd6 36.Nd8 a1=Q 37.Bxa1 Bxa1 38.Nb7+ Kd5 39.Na5 Bc3 40.e4+ 
+Ke6 41.Nb7 Bb4 42.Nd8+ Ke7 43.Nc6+ Kd6 44.Nd8 Be1 45.g4 Ke5 46.Kd1 Bb4 47. 
+Nc6+ Kd6 48.Nd8 h6 49.Ke2 Ba3 50.Nb7+ Kc6 51.Na5+ Kb5 52.Nc4 Bc1 53.Kf3  
+Kc6 54.Na5+ Kd7 55.e5 Bd2 56.Nc4 Be1 57.Ke4 Ke6 58.Nd6 Ba5 59.Nf5 g6 60. 
+Nxh6 Bc7 61.Nf5 Bxe5 62.Nh4 g5 63.Nf3 Bf4 64.Ne1 Kd6 65.Nc2 Bc1 66.Na1 Kc6 
+67.Nb3 Bf4 68.Na5+ Kb5 69.Nc4 Bc7 70.Kf3 Kb4 71.Ke2 Kc3 72.Nd2 Bf4 73.Nc4  
+1/2-1/2 
+ 
+[Event "UKR Ch sf"] 
+[Site "Alushta UKR"] 
+[Date "2006.05.19"] 
+[Round "7"] 
+[White "Khaetsky, Roman"] 
+[Black "Skliar, Andrey"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2408"] 
+[BlackElo "2361"] 
+[ECO "A03"] 
+[EventDate "2006.05.13"] 
+ 
+1.g3 d5 2.f4 Nc6 3.d4 f6 4.Bg2 Bg4 5.Nh3 e5 6.Nf2 Be6 7.fxe5 fxe5 8.dxe5  
+Nxe5 9.e4 Nf6 10.Qe2 Bd6 11.exd5 Bd7 12.Bg5 O-O 13.Nc3 h6 14.Bxf6 Qxf6 15. 
+Nce4 Qg6 16.O-O-O Rae8 17.Kb1 Ng4 18.Qd2 Nxf2 19.Nxf2 Bb4 20.Qd4 Re2 21. 
+Nd3 Bd6 22.Bf1 Re4 23.Qc3 Bg4 24.Re1 Bf3 25.Rg1 Rxe1+ 26.Qxe1 Bxd5 27.Bg2  
+Bxg2 1/2-1/2 
+ 
+[Event "Villa Ballester CAVB 70 Open"] 
+[Site "Villa Ballester ARG"] 
+[Date "2001.??.??"] 
+[Round "5"] 
+[White "Fiorito, Fabian"] 
+[Black "Ginzburg, Maximiliano"] 
+[Result "1-0"] 
+[WhiteElo "2448"] 
+[BlackElo "2406"] 
+[ECO "A03"] 
+ 
+1.g3 d5 2.f4 Nc6 3.Bg2 e5 4.fxe5 Nxe5 5.d4 Ng6 6.c4 dxc4 7.Qa4+ c6 8.Qxc4  
+Nf6 9.Nc3 Be7 10.Nf3 O-O 11.e4 b5 12.Qd3 b4 13.Ne2 Qa5 14.Nd2 Ba6 15.Nc4  
+Qb5 16.b3 Rad8 17.Qf3 c5 18.Bb2 cxd4 19.Nxd4 Qc5 20.Nf5 Bxc4 21.bxc4 Nxe4  
+22.Qxe4 Bg5 23.Bd4 Qxc4 24.Bf1 Rxd4 25.Qxd4 Qe6+ 26.Be2 Bf6 27.Qg4 Bxa1  
+28.O-O Bc3 29.Bc4 Qb6+ 30.Kg2 h5 31.Qe4 Qd8 32.Ne3 Ne5 33.Bd5 g6 34.Nc4  
+Qg5 35.h4 Qg4 36.Rf4 1-0 

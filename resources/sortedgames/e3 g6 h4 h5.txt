@@ -1,0 +1,39 @@
+ 
+[Event "St Pauli Open"] 
+[Site "Hamburg GER"] 
+[Date "2011.07.15"] 
+[Round "8.1"] 
+[White "Fries-Nielsen, Jens Ove"] 
+[Black "Rogozenco, Dorian"] 
+[Result "0-1"] 
+[WhiteElo "2394"] 
+[BlackElo "2557"] 
+[ECO "A00"] 
+[EventDate "2011.07.09"] 
+ 
+1.e3 g6 2.h4 h5 3.d4 Bg7 4.c4 d6 5.Nc3 Nf6 6.Nf3 O-O 7.Be2 Bg4 8.Ng5 Bxe2  
+9.Qxe2 e6 10.Bd2 d5 11.cxd5 exd5 12.Qb5 b6 13.Rc1 c6 14.Qb3 Nbd7 15.Kf1  
+Qe7 16.Rh3 Ng4 17.Kg1 Qd6 18.Ne2 c5 19.Qa3 Rfc8 20.Nf4 Bf8 21.Qa6 Re8 22. 
+Qb7 Ngf6 23.Rf3 a5 24.dxc5 bxc5 25.Qb3 Ne5 26.Rg3 Neg4 27.f3 c4 28.Qc2  
+Nxe3 29.Bxe3 Rxe3 30.Nxf7 Kxf7 31.Qxg6+ Ke7 32.Qg5 Kd7 33.Qf5+ Kc6 34.Rg6  
+Be7 35.Rd1 Re5 36.Qc2 Kb7 37.Kh1 Rc8 38.Rg7 Rc7 39.Ng6 Re6 40.Qf5 Bd8 41. 
+Nf4 Re5 42.Qg6 Rxg7 43.Qxg7+ Bc7 0-1 
+ 
+[Event "HZ Open"] 
+[Site "Vlissingen NED"] 
+[Date "2003.08.07"] 
+[Round "7"] 
+[White "Ernst, Sipke"] 
+[Black "Roeder, Matthias"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2468"] 
+[BlackElo "2451"] 
+[ECO "A00"] 
+[EventDate "2003.08.02"] 
+ 
+1.e3 g6 2.h4 h5 3.c4 Bg7 4.Nc3 c6 5.b4 Nf6 6.Bb2 O-O 7.Nf3 d5 8.d4 Bg4 9. 
+Qb3 Bxf3 10.gxf3 e6 11.f4 Nbd7 12.Be2 a5 13.a3 axb4 14.axb4 Rxa1+ 15.Bxa1  
+dxc4 16.Bxc4 Nb6 17.Bd3 Nbd5 18.Ke2 b5 19.Ne4 Nxe4 20.Bxe4 Qd6 21.Bc3 Ra8  
+22.Bd2 Bf8 23.Rc1 Ra6 24.Rg1 Kh7 25.Qc2 f5 26.Bf3 Be7 27.Qd1 Qd7 28.Kf1  
+Qe8 29.Qb1 Qa8 30.Kg2 Ra2 31.Qc1 Bxh4 32.Rh1 Bf6 33.e4 fxe4 34.Bxe4 Kg7  
+35.f5 exf5 36.Bxd5 cxd5 37.Qc7+ Kg8 1/2-1/2 

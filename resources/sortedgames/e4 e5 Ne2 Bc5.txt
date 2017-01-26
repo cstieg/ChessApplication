@@ -1,0 +1,19 @@
+ 
+[Event "Goodbye Summer Open"] 
+[Site "Omis CRO"] 
+[Date "2006.10.05"] 
+[Round "2"] 
+[White "Pavkovic, Mario"] 
+[Black "Orak, Ljubomir"] 
+[Result "0-1"] 
+[WhiteElo "2200"] 
+[BlackElo "2298"] 
+[ECO "C20"] 
+[EventDate "2006.10.04"] 
+ 
+1.e4 e5 2.Ne2 Bc5 3.d4 exd4 4.Nxd4 Qf6 5.Be3 Ne7 6.Be2 Nbc6 7.c3 d6 8.O-O  
+Bd7 9.Qd2 Qg6 10.Re1 O-O 11.Nb5 Ne5 12.Kh1 Bxe3 13.Qxe3 Bxb5 14.Bxb5 f5  
+15.Nd2 f4 16.Qh3 Qg5 17.Bd7 Rf6 18.Nf3 Nxf3 19.Qxf3 Qe5 20.Rad1 Rd8 21.Ba4 
+h5 22.Rd4 Kh7 23.Red1 c6 24.Bc2 Kh6 25.c4 a5 26.a3 g5 27.b4 b6 28.Bb1 Ng6  
+29.Qd3 f3 30.g3 h4 31.b5 hxg3 32.hxg3 Kg7 33.bxc6 Rh8+ 34.Kg1 Qe6 35.Qf1  
+Nf4 36.Rxd6 Ne2+ 37.Qxe2 Rh1+ 0-1 

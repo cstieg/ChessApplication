@@ -1,0 +1,131 @@
+ 
+[Event "37. Nezhmetdinov Cup"] 
+[Site "Kazan RUS"] 
+[Date "2015.06.07"] 
+[Round "8.20"] 
+[White "Dmitriev, Igor"] 
+[Black "Yagupov, Igor"] 
+[Result "0-1"] 
+[WhiteElo "2229"] 
+[BlackElo "2392"] 
+[ECO "A13"] 
+[EventDate "2015.05.31"] 
+ 
+1.c4 e6 2.e3 d5 3.Nf3 Nf6 4.a3 c6 5.Nc3 Bd6 6.Qc2 O-O 7.b3 e5 8.cxd5 cxd5  
+9.Nb5 Nc6 10.Nxd6 Qxd6 11.Bb2 Bg4 12.h3 Bxf3 13.gxf3 Rac8 14.Qf5 d4 15.Rd1 
+Rfd8 16.Rg1 g6 17.Qg5 Kg7 18.Bc4 h6 19.Qg2 Na5 20.f4 Nxc4 21.bxc4 Rxc4 22. 
+fxe5 Qxe5 23.Qxb7 Rd7 24.Qb3 Rc6 25.Qa4 Qh2 26.Rf1 Rcd6 27.Rc1 Qxh3 28.Rc6 
+d3 29.Rxd6 Rxd6 30.Qxa7 Qf3 0-1 
+ 
+[Event "3. Mediterranean Open"] 
+[Site "Terrasini ITA"] 
+[Date "2012.06.28"] 
+[Round "3"] 
+[White "Meijers, Viesturs"] 
+[Black "Sbarra, Marco"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2485"] 
+[BlackElo "2271"] 
+[ECO "A13"] 
+[EventDate "2012.06.24"] 
+ 
+1.c4 e6 2.e3 d5 3.b3 c5 4.Bb2 Nc6 5.Nf3 Nf6 6.g3 d4 7.exd4 cxd4 8.Bg2 Bc5  
+9.O-O O-O 10.d3 e5 11.a3 a5 12.Nbd2 h6 13.Ne1 Bg4 14.f3 Bf5 15.Ne4 Be7 16. 
+Bc1 Bh7 17.f4 exf4 18.Nxf6+ Bxf6 19.Bxf4 Bg5 20.Qd2 Bxf4 21.Rxf4 Qb6 22. 
+Rb1 g5 23.Rf6 Kg7 24.Qf2 Qd8 25.Bxc6 Qxf6 26.Bxb7 Rab8 27.Bd5 Qxf2+ 28. 
+Kxf2 Rfe8 29.Bg2 Rxe1 30.Kxe1 Bxd3 31.Rb2 Bxc4 32.b4 axb4 33.axb4 Re8+ 34. 
+Kf2 Ba6 35.Bf1 d3 36.Rd2 Re4 37.Bxd3 Bxd3 38.Rxd3 Rxb4 39.Rd2 h5 40.Kg2 h4 
+41.Kh3 Kg6 42.Rd8 Kf5 43.Rd5+ Kf6 44.Ra5 Re4 45.Rb5 Re5 1/2-1/2 
+ 
+[Event "1. Fermo Festival"] 
+[Site "Porto San Giorgio ITA"] 
+[Date "2010.08.23"] 
+[Round "3"] 
+[White "Meijers, Viesturs"] 
+[Black "Popa, Claudio"] 
+[Result "1-0"] 
+[WhiteElo "2474"] 
+[BlackElo "2211"] 
+[ECO "A13"] 
+[EventDate "2010.08.21"] 
+ 
+1.c4 e6 2.e3 d5 3.b3 Nf6 4.Bb2 Be7 5.Nf3 O-O 6.g3 Nbd7 7.Bg2 Ne4 8.O-O Bf6 
+9.d4 c6 10.Ne5 Qc7 11.Nxd7 Bxd7 12.Bxe4 dxe4 13.Nc3 Be7 14.Nxe4 f5 15.Nc3  
+Rad8 16.Qc2 Be8 17.Rad1 Bh5 18.f3 Bg5 19.Qc1 Rfe8 20.Kg2 Bf7 21.Ne2 Qb6  
+22.h4 Bf6 23.Nf4 a5 24.Rd3 Rd7 25.Rfd1 a4 26.e4 axb3 27.e5 Bd8 28.axb3 h6  
+29.d5 cxd5 30.cxd5 exd5 31.Ba1 Qc6 32.Qb2 Be6 33.b4 b5 34.Rc1 Qb7 35.Qb3  
+Bb6 36.Nxe6 Rxe6 37.Rcd1 Kh7 38.Rxd5 Rxd5 39.Qxd5 Qc6 40.Qd3 g6 41.h5 Qe8  
+42.hxg6+ Kxg6 43.g4 Qf7 44.Rh1 Rc6 45.gxf5+ Kh7 46.e6 Qg8+ 47.Kh3 Qd8 48. 
+Qxd8 Bxd8 49.Rd1 1-0 
+ 
+[Event "Zonal 4.1"] 
+[Site "Taza MAR"] 
+[Date "2005.06.24"] 
+[Round "5"] 
+[White "Sebih, Kamel"] 
+[Black "Doghri, Nabil"] 
+[Result "0-1"] 
+[WhiteElo "2318"] 
+[BlackElo "2338"] 
+[ECO "A13"] 
+[EventDate "2005.06.21"] 
+ 
+1.c4 e6 2.e3 d5 3.b3 c5 4.Nf3 d4 5.d3 Nc6 6.exd4 cxd4 7.a3 a5 8.g3 Be7 9. 
+Bg2 g5 10.h4 g4 11.Ng5 h6 12.Ne4 f5 13.Ned2 Nf6 14.Qe2 Nh5 15.Nf1 Bd6 16. 
+c5 Bc7 17.Bb2 O-O 18.Nbd2 e5 19.f3 e4 20.dxe4 Nxg3 21.Qc4+ Kh7 22.Nxg3  
+Bxg3+ 23.Kd1 Qe7 24.fxg4 fxg4 25.e5 Nxe5 26.Qxd4 Bf5 27.Rf1 Nf3 28.Bxf3  
+gxf3 29.Qc3 Rfe8 30.Qg7+ 0-1 
+ 
+[Event "Zonal"] 
+[Site "Taza (Morocco)"] 
+[Date "2005.06.24"] 
+[Round "5"] 
+[White "Sebih, Kamel"] 
+[Black "Doghri, Nabil"] 
+[Result "0-1"] 
+[WhiteElo "2318"] 
+[BlackElo "2338"] 
+[ECO "A13"] 
+ 
+1.c4 e6 2.e3 d5 3.b3 c5 4.Nf3 d4 5.d3 Nc6 6.exd4 cxd4 7.a3 a5 8.g3 Be7 9. 
+Bg2 g5 10.h4 g4 11.Ng5 h6 12.Ne4 f5 13.Ned2 Nf6 14.Qe2 Nh5 15.Nf1 Bd6 16. 
+c5 Bc7 17.Bb2 O-O 18.Nbd2 e5 19.f3 e4 20.dxe4 Nxg3 21.Qc4+ Kh7 22.Nxg3  
+Bxg3+ 23.Kd1 Qe7 24.fxg4 fxg4 25.e5 Nxe5 26.Qxd4 Bf5 27.Rf1 Nf3 28.Bxf3  
+gxf3 29.Qc3 Rfe8 30.Qg7+ 0-1 
+ 
+[Event "4. Open"] 
+[Site "Marseille FRA"] 
+[Date "2003.07.03"] 
+[Round "8"] 
+[White "Janev, Evgeni"] 
+[Black "Amigues, Emmanuel"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2456"] 
+[BlackElo "2275"] 
+[ECO "D40"] 
+[EventDate "2003.06.28"] 
+ 
+1.c4 e6 2.e3 d5 3.Nf3 c5 4.d4 Nf6 5.Nc3 cxd4 6.exd4 Nc6 7.a3 Be7 8.Bd3  
+dxc4 9.Bxc4 O-O 10.O-O Nd5 11.Qd3 a6 12.Bb3 b6 13.Re1 Ra7 14.h4 Bf6 15.Bg5 
+Nce7 16.Ne4 Bxg5 17.Nexg5 Nf6 18.Rac1 h6 19.Bc2 Nf5 20.Ne5 Qxd4 21.Nc6  
+Qxd3 22.Bxd3 Rd7 23.Bxf5 exf5 24.Ne7+ Rxe7 25.Rxe7 hxg5 26.hxg5 Nd5 27.Re5 
+Be6 28.Rc6 g6 29.a4 a5 30.Rd6 1/2-1/2 
+ 
+[Event "Open"] 
+[Site "Cappelle la Grande FRA"] 
+[Date "2003.02.28"] 
+[Round "8"] 
+[White "Janev, Evgeni"] 
+[Black "Burmakin, Vladimir"] 
+[Result "0-1"] 
+[WhiteElo "2465"] 
+[BlackElo "2575"] 
+[ECO "D37"] 
+[EventDate "2003.02.22"] 
+ 
+1.c4 e6 2.e3 d5 3.d4 Nf6 4.Nc3 Be7 5.Nf3 O-O 6.Bd3 b6 7.O-O Bb7 8.b3 Ne4  
+9.Bb2 Nxc3 10.Bxc3 dxc4 11.bxc4 c5 12.Qc2 h6 13.Rfd1 Qc7 14.d5 exd5 15. 
+cxd5 Nd7 16.Bh7+ Kh8 17.Bf5 Rad8 18.e4 Bf6 19.d6 Qc6 20.Bxf6 Nxf6 21.e5  
+Nd7 22.Re1 Rfe8 23.Be4 Qc8 24.Re3 Bxe4 25.Qxe4 Re6 26.Qf5 Rg8 27.Nd2 c4  
+28.f4 Qc5 29.Re1 Nf6 30.Kh1 Rxd6 31.Rg3 c3 32.Nf3 c2 33.Qh3 Ne4 34.Rxe4  
+c1=Q+ 35.Re1 Rd1 0-1 

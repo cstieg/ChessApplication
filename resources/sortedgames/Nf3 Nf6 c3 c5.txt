@@ -1,0 +1,24 @@
+ 
+[Event "Serbia Cup"] 
+[Site "Zlatibor SRB"] 
+[Date "2008.06.21"] 
+[Round "6"] 
+[White "Certic, Branimir"] 
+[Black "Miljkovic, Miroslav D"] 
+[Result "0-1"] 
+[WhiteElo "2376"] 
+[BlackElo "2418"] 
+[ECO "A05"] 
+[EventDate "2008.06.16"] 
+ 
+1.Nf3 Nf6 2.c3 c5 3.d3 g6 4.Bg5 Bg7 5.e3 O-O 6.Be2 Nc6 7.Nbd2 d5 8.O-O h6  
+9.Bh4 e5 10.Qb3 b6 11.d4 exd4 12.exd4 g5 13.Bg3 cxd4 14.Nxd4 Nxd4 15.cxd4  
+Ne4 16.Nxe4 dxe4 17.Rfd1 Bb7 18.Bc4 Qe7 19.d5 Qf6 20.Rd2 Qf5 21.d6 Bc6 22. 
+Rc1 Rac8 23.Re1 Qa5 24.Qe3 Rfd8 25.Bb3 Bf6 26.Red1 Qf5 27.h3 Qd7 28.Rc1  
+Bb7 29.Re1 Rc5 30.Red1 Re8 31.a3 Bc6 32.Re1 Rd8 33.Qe2 Qf5 34.Bc4 Qd7 35. 
+b4 Rf5 36.Red1 a5 37.Qe3 axb4 38.axb4 Qb7 39.b5 Bxb5 40.Bd5 Bc6 41.Qxe4  
+Rxd5 42.Rxd5 Bxd5 43.Rxd5 Qd7 44.Rf5 Bg7 45.Qd5 Qe6 46.Qd3 Rd7 47.Rb5 Rb7  
+48.f4 gxf4 49.Bxf4 Kf8 50.Kh2 Kg8 51.Rb4 f5 52.Qa6 Rd7 53.Qd3 Be5 54.Qg3+  
+Rg7 55.Bxe5 Rxg3 56.Bxg3 Qd5 57.Rxb6 Kf7 58.Rb4 h5 59.h4 Ke6 60.Rb8 Qd4  
+61.Re8+ Kd7 62.Re7+ Kd8 63.Rf7 Qg4 64.Rb7 Qd4 65.d7 Qd5 66.Ra7 Qe4 67.Bd6  
+Qxh4+ 0-1 

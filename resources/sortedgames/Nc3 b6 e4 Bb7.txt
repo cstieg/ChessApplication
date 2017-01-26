@@ -1,0 +1,60 @@
+ 
+[Event "Copenhagen CC 2015"] 
+[Site "Ballerup DEN"] 
+[Date "2015.04.30"] 
+[Round "2.7"] 
+[White "Rewitz, Poul"] 
+[Black "Fries-Nielsen, Jens Ove"] 
+[Result "0-1"] 
+[WhiteElo "2257"] 
+[BlackElo "2457"] 
+[ECO "A00"] 
+[EventDate "2015.04.29"] 
+ 
+1.Nc3 b6 2.e4 Bb7 3.d4 d6 4.Bg5 Nd7 5.d5 c6 6.Nf3 Ngf6 7.dxc6 Bxc6 8.Nd4  
+Bb7 9.Bd3 g6 10.Qd2 Rc8 11.O-O Bg7 12.Bh6 Bxh6 13.Qxh6 Rc5 14.f3 Rh5 15. 
+Qd2 a6 16.b4 Qc7 17.Nce2 e5 18.g4 Rh4 19.Qg5 Rh3 20.Kg2 exd4 21.Kxh3 h5  
+22.Kg2 hxg4 23.Ng3 gxf3+ 24.Rxf3 Ng8 25.Raf1 Ne5 26.Rf4 f6 27.Rxf6 Nxf6  
+28.Qxf6 Rxh2+ 29.Kg1 Rh7 30.Qe6+ Qe7 31.Qxe7+ Kxe7 32.Ne2 d5 33.exd5 Bxd5  
+34.Nf4 Bb7 35.Re1 Kf6 36.Be4 Bxe4 37.Rxe4 Kf5 0-1 
+ 
+[Event "POR Team Ch 1. Div Final"] 
+[Site "Vila Nova de Gaia POR"] 
+[Date "2010.07.26"] 
+[Round "3.2"] 
+[White "Luch, Michal"] 
+[Black "Camacho Collados, Marcos"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2387"] 
+[BlackElo "2292"] 
+[ECO "A00"] 
+[EventDate "2010.07.24"] 
+ 
+1.Nc3 b6 2.e4 Bb7 3.d4 e6 4.Nge2 Nf6 5.e5 Nd5 6.Nxd5 Bxd5 7.Nf4 Bb7 8.Qg4  
+g6 9.Bd3 Nc6 10.Ne2 Nb4 11.Nf4 Nxd3+ 12.Nxd3 h5 13.Qh3 g5 14.O-O f5 15. 
+exf6 Qxf6 16.Qe3 Rg8 17.Qe5 Qxe5 18.dxe5 O-O-O 19.Re1 Be7 20.Bd2 Rdf8 21. 
+c4 h4 22.Re2 Rf5 23.Rf1 g4 24.Bf4 Rgf8 25.g3 Bf3 26.Re3 Rh8 27.Rc1 hxg3  
+28.fxg3 Bc6 29.Rc2 Rhf8 30.Re1 a5 31.b3 R8f7 32.a4 Bf3 33.Rf2 Bc6 34.Rc1  
+Bf8 35.Rcc2 Bf3 36.Rf1 Bc6 37.Re2 Bg7 38.Ref2 Bf8 39.Re2 1/2-1/2 
+ 
+[Event "Christmas Open"] 
+[Site "Zadar CRO"] 
+[Date "2001.12.20"] 
+[Round "6"] 
+[White "Mestrovic, Zvonimir"] 
+[Black "Filipovic, Branko"] 
+[Result "0-1"] 
+[WhiteElo "2419"] 
+[BlackElo "2462"] 
+[ECO "A00"] 
+[EventDate "2001.12.15"] 
+ 
+1.Nc3 b6 2.e4 Bb7 3.d4 e6 4.Bd3 Nf6 5.Nf3 Bb4 6.Nd2 d5 7.e5 Ne4 8.Qg4 Kf8  
+9.h4 h5 10.Qf4 Nxd2 11.Bxd2 Ba6 12.Bg6 Qe8 13.Rh3 Kg8 14.Bd3 Bxd3 15.Rxd3  
+Be7 16.O-O-O c5 17.Rf3 Nc6 18.Nb5 Nxd4 19.Nxd4 cxd4 20.Qxd4 Rc8 21.Rc3  
+Rxc3 22.Bxc3 Rh6 23.Bb4 Rg6 24.Bxe7 Qxe7 25.g3 Rg4 26.Qc3 Rc4 27.Qd2 Qc7  
+28.f4 b5 29.Kb1 b4 30.Qf2 a5 31.Rd3 Qc5 32.Qxc5 Rxc5 33.Kc1 Kh7 34.Kd2 Kg6 
+35.c3 Rc4 36.b3 Rc5 37.cxb4 axb4 38.Rd4 Rb5 39.Ke3 Kf5 40.Kf3 Rb7 41.Rd3  
+Rc7 42.Rd4 Rb7 43.Rd2 f6 44.exf6 gxf6 45.Rc2 Ra7 46.Rc8 Rxa2 47.Rh8 Rb2  
+48.Rxh5+ Kg6 49.g4 Rxb3+ 50.Kg2 Rb2+ 51.Kg3 b3 52.f5+ Kf7 53.Rh7+ Kg8 54. 
+Rd7 exf5 55.Rxd5 Rb1 56.Rd2 b2 57.Rg2 f4+ 58.Kh2 f3 59.Rf2 Re1 0-1 

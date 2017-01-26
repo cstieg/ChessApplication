@@ -1,0 +1,63 @@
+ 
+[Event "8. Batavia Blitz 2016"] 
+[Site "Amsterdam NED"] 
+[Date "2016.02.18"] 
+[Round "7.5"] 
+[White "Nijboer, Friso"] 
+[Black "Van Foreest, Lucas"] 
+[Result "1-0"] 
+[WhiteElo "2545"] 
+[BlackElo "2350"] 
+[ECO "A02"] 
+[EventDate "2016.02.18"] 
+ 
+1.f4 Nh6 2.Nf3 d5 3.d3 e6 4.e3 c5 5.Be2 Nc6 6.O-O Be7 7.Qe1 O-O 8.Bd1 f6  
+9.Nc3 Nf7 10.e4 d4 11.Ne2 e5 12.f5 b5 13.g4 a5 14.Ng3 Ba6 15.h4 c4 16.Kh2  
+cxd3 17.cxd3 Nb4 18.Qe2 Rc8 19.a3 Nc6 20.Bb3 Rc7 21.g5 fxg5 22.Nxg5 Bxg5  
+23.hxg5 g6 24.Bd2 a4 25.Be6 Bc8 26.Ba2 Kh8 27.Qg4 Rg8 28.Rac1 Qe8 29.Bd5  
+Bd7 30.fxg6 Bxg4 31.gxf7 Rxf7 32.Bxf7 Qd7 33.Bxg8 Kxg8 34.Rf6 Ne7 35.Ba5  
+Qa7 36.Bb6 Qa6 37.Rc7 Ng6 38.Nf5 b4 39.Nh6+ Kh8 40.Ra7 Qxd3 41.Ra8+ 1-0 
+ 
+[Event "17. Godesberg Open"] 
+[Site "Bonn GER"] 
+[Date "2013.08.09"] 
+[Round "7.1"] 
+[White "Rotstein, Jefim"] 
+[Black "Winterberg, Lukas"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2340"] 
+[BlackElo "2242"] 
+[ECO "A02"] 
+[EventDate "2013.08.03"] 
+ 
+1.f4 Nh6 2.Nf3 d5 3.e3 g6 4.Be2 Bg7 5.O-O O-O 6.d3 Nc6 7.d4 Bg4 8.c4 e6 9. 
+Nc3 Ne7 10.Qb3 b6 11.h3 Bxf3 12.Bxf3 c6 13.a4 Rc8 14.a5 dxc4 15.Qxc4 c5  
+16.dxc5 Rxc5 17.Qa6 Rxa5 18.Rxa5 bxa5 19.Qxa7 Nc8 20.Qc5 Qb6 21.Qxb6 Nxb6  
+22.g4 f5 23.Rd1 Nf7 24.e4 Rd8 25.gxf5 gxf5 26.Rxd8+ Nxd8 27.e5 Bf8 28.Kf1  
+Kf7 29.Ke2 Bc5 30.b3 Ke7 31.Na4 Nxa4 32.bxa4 Kd7 33.Bd2 Bb6 34.Kd3 Nc6 35. 
+Kc4 Kc7 36.Bh5 Na7 37.Bc1 Kd7 38.Ba3 Nc6 39.Bc5 Bxc5 40.Kxc5 Nb4 41.Kb5  
+Nd3 42.Kxa5 Kc7 43.Kb5 Nxf4 44.Bf7 Ng6 45.Bxe6 f4 46.Kc5 Nxe5 47.Kd4 Nf3+  
+48.Kd3 Ng5 49.Bf5 Kb6 50.h4 Nf3 51.h5 Ng5 52.Kd4 h6 53.Bd3 Ne6+ 54.Ke5 Ng7 
+55.Kxf4 Nxh5+ 56.Ke5 Ka5 1/2-1/2 
+ 
+[Event "4NCL 2011-12"] 
+[Site "Hinkley ENG"] 
+[Date "2012.03.31"] 
+[Round "7.57"] 
+[White "Townsend, M Paul"] 
+[Black "Osborne, Marcus E"] 
+[Result "1-0"] 
+[WhiteElo "2255"] 
+[BlackElo "2246"] 
+[ECO "A02"] 
+[EventDate "2011.11.12"] 
+ 
+1.f4 Nh6 2.Nf3 d5 3.g3 g6 4.Bg2 Bg7 5.O-O Nf5 6.d3 c6 7.Nc3 Qb6+ 8.Kh1 Ne3 
+9.Na4 Nxd1 10.Nxb6 axb6 11.Rxd1 Nd7 12.c3 Nc5 13.Bd2 O-O 14.Nd4 Bg4 15.Bf3 
+Bxf3+ 16.Nxf3 Ra4 17.Be3 Rfa8 18.a3 Nb3 19.Rab1 c5 20.Nd2 Nxd2 21.Bxd2 b5  
+22.Be3 b6 23.Kg2 f5 24.Kf3 Kf7 25.h3 e5 26.fxe5 Bxe5 27.d4 cxd4 28.cxd4  
+Bf6 29.b3 Rxa3 30.Rdc1 Bd8 31.Bf4 Ke7 32.Rc6 b4 33.Rd6 g5 34.Be5 Rc8 35. 
+Rh6 Rc3+ 36.Kf2 Bc7 37.Rxh7+ Kd8 38.Bxc7+ Rxc7 39.Rh8+ Kd7 40.Rh7+ Kc8 41. 
+Rxc7+ Kxc7 42.h4 gxh4 43.gxh4 Kd7 44.h5 Ke6 45.Kf3 Ra2 46.h6 Kf7 47.Rg1  
+Ra8 48.h7 Rh8 49.Rh1 b5 50.Kf4 Kg7 51.Kxf5 Rf8+ 52.Ke5 Kh8 53.Kxd5 Rc8 54. 
+e4 Rc3 55.e5 Rxb3 56.Re1 Rc3 57.e6 1-0 

@@ -1,0 +1,39 @@
+ 
+[Event "TCh-AUT 2005-6"] 
+[Site "Austria AUT"] 
+[Date "2006.03.24"] 
+[Round "9"] 
+[White "Stangl, Markus"] 
+[Black "Srienz, Christian"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2469"] 
+[BlackElo "2233"] 
+[ECO "A15"] 
+[EventDate "2006.01.12"] 
+ 
+1.c4 Nf6 2.g3 a6 3.Nf3 e6 4.a4 c5 5.Bg2 Nc6 6.O-O Be7 7.d4 d5 8.cxd5 exd5  
+9.Nc3 O-O 10.Bg5 cxd4 11.Nxd4 h6 12.Be3 Re8 13.Qb3 Nb4 14.Rfd1 Qa5 15.Rac1 
+Bf8 16.Nc2 Be6 17.Bd4 Ne4 18.Nxb4 Bxb4 19.Na2 Bc5 20.Bxc5 Nxc5 21.Qb4 Qxa4 
+22.Bxd5 Bxd5 23.Rxd5 Qxa2 24.Rdxc5 Rxe2 25.Qxb7 Rae8 26.Rc8 Qa5 27.Qd7 Qb5 
+28.Qxb5 axb5 29.Rxe8+ Rxe8 30.Rc5 Rb8 31.Kf1 Kf8 32.Ke2 Ke7 33.Rc7+ Ke6  
+34.Ke3 Rd8 35.f4 g6 36.g4 Rd1 37.f5+ gxf5 38.gxf5+ Kxf5 39.Rxf7+ Kg4 40. 
+Rf4+ Kh3 41.Rf5 Kxh2 42.Rxb5 Kg3 43.b4 Rd8 44.Rb6 Re8+ 45.Kd4 1/2-1/2 
+ 
+[Event "Bundesliga 2005/06"] 
+[Site "Austria"] 
+[Date "2006.03.24"] 
+[Round "9"] 
+[White "Stangl, Markus"] 
+[Black "Srienz, Christian"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2469"] 
+[BlackElo "2233"] 
+[ECO "A15"] 
+ 
+1.c4 Nf6 2.g3 a6 3.Nf3 e6 4.a4 c5 5.Bg2 Nc6 6.O-O Be7 7.d4 d5 8.cxd5 exd5  
+9.Nc3 O-O 10.Bg5 cxd4 11.Nxd4 h6 12.Be3 Re8 13.Qb3 Nb4 14.Rfd1 Qa5 15.Rac1 
+Bf8 16.Nc2 Be6 17.Bd4 Ne4 18.Nxb4 Bxb4 19.Na2 Bc5 20.Bxc5 Nxc5 21.Qb4 Qxa4 
+22.Bxd5 Bxd5 23.Rxd5 Qxa2 24.Rdxc5 Rxe2 25.Qxb7 Rae8 26.Rc8 Qa5 27.Qd7 Qb5 
+28.Qxb5 axb5 29.Rxe8+ Rxe8 30.Rc5 Rb8 31.Kf1 Kf8 32.Ke2 Ke7 33.Rc7+ Ke6  
+34.Ke3 Rd8 35.f4 g6 36.g4 Rd1 37.f5+ gxf5 38.gxf5+ Kxf5 39.Rxf7+ Kg4 40. 
+Rf4+ Kh3 41.Rf5 Kxh2 42.Rxb5 Kg3 43.b4 Rd8 44.Rb6 Re8+ 45.Kd4 1/2-1/2 

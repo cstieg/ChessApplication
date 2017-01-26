@@ -1,0 +1,24 @@
+ 
+[Event "11. EICC Men"] 
+[Site "Rijeka CRO"] 
+[Date "2010.03.09"] 
+[Round "4"] 
+[White "Pogosian, Vladimir"] 
+[Black "Barle, Janez"] 
+[Result "0-1"] 
+[WhiteElo "2204"] 
+[BlackElo "2415"] 
+[ECO "A10"] 
+[EventDate "2010.03.06"] 
+ 
+1.c4 Nc6 2.a3 e5 3.e3 Nf6 4.b4 d6 5.Qc2 g6 6.Bb2 Bg7 7.Ne2 O-O 8.d3 b6 9. 
+Ng3 Bb7 10.h4 h5 11.Be2 a5 12.b5 Ne7 13.e4 Nd7 14.Nd2 Nc5 15.a4 c6 16.Nf3  
+cxb5 17.axb5 Ne6 18.Nf1 f5 19.Ng5 Nxg5 20.hxg5 Nc8 21.Bc1 Ne7 22.Ng3 Rf7  
+23.Qa2 Qd7 24.Ba3 Raf8 25.Bf3 f4 26.Nxh5 gxh5 27.Bxh5 Qe6 28.Bxf7+ Rxf7  
+29.Qe2 Ng6 30.f3 Bf8 31.Qf2 Qe7 32.Rh5 Qd8 33.O-O-O Be7 34.Rdh1 Bxg5 35. 
+Qg1 Rg7 36.Qh2 Bc8 37.Rh7 Bf6 38.Qh5 Kf7 39.Rxg7+ Bxg7 40.Qh7 Be6 41.Rg1  
+Qg5 42.Qh2 Qf6 43.Qh5 Kg8 44.Bb2 Bf7 45.Qh3 Qd8 46.Ba3 Qc7 47.Kd2 Nf8 48. 
+g3 fxg3 49.Rxg3 Ne6 50.Qh6 a4 51.Rxg7+ Nxg7 52.Bxd6 Qa7 53.Bxe5 Be8 54. 
+Qxg7+ Qxg7 55.Bxg7 Kxg7 56.Kc3 Kf6 57.f4 Ke6 58.Kb4 Bh5 59.d4 Bf3 60.d5+  
+Kd7 61.e5 Be2 62.c5 bxc5+ 63.Kxa4 Bf3 64.d6 Be4 65.Kb3 Bd3 66.b6 Kc6 67.d7 
+Kxd7 68.Kc3 Be4 69.f5 Kc6 70.e6 Bxf5 0-1 

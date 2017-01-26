@@ -1,0 +1,38 @@
+ 
+[Event "Zonal 3.3"] 
+[Site "Ho Chi Minh City VIE"] 
+[Date "2009.07.23"] 
+[Round "1"] 
+[White "Ton, That Nhu Tung"] 
+[Black "Bui, Vinh"] 
+[Result "1-0"] 
+[WhiteElo "2227"] 
+[BlackElo "2517"] 
+[ECO "A40"] 
+[EventDate "2009.07.23"] 
+ 
+1.d4 b6 2.Bg5 h6 3.Bh4 Bb7 4.Nd2 c5 5.c3 g5 6.Bg3 Bg7 7.dxc5 bxc5 8.e4 Nf6 
+9.e5 Ne4 10.Nxe4 Bxe4 11.Qe2 Bg6 12.h4 Nc6 13.hxg5 hxg5 14.Rxh8+ Bxh8 15. 
+Nf3 Qa5 16.Nd2 Nd8 17.Nc4 Qc7 18.Qe3 Ne6 19.Be2 Rb8 20.Bf3 Bg7 21.Bd5 Kf8  
+22.Rd1 Kg8 23.Bxe6 dxe6 24.Qxg5 Qb7 25.f3 Qa6 26.Qh4 Qxa2 27.Rd2 Qa1+ 28. 
+Ke2 Bf8 29.Bf2 Rc8 30.Be3 Qa4 31.Kf2 Bg7 32.Bg5 Bf8 33.Ne3 Qe8 34.Ng4 Rd8  
+35.Re2 Rd7 36.Re1 Bg7 37.Rh1 Qb8 38.Nf6+ exf6 39.Bxf6 Rd2+ 40.Ke1 1-0 
+ 
+[Event "National Open"] 
+[Site "Las Vegas, NV USA"] 
+[Date "2004.06.19"] 
+[Round "3"] 
+[White "Mendelian, Vahe"] 
+[Black "Johnson, A."] 
+[Result "1-0"] 
+[WhiteElo "2206"] 
+[BlackElo "2201"] 
+[ECO "A40"] 
+[EventDate "2004.06.18"] 
+ 
+1.d4 b6 2.Bg5 h6 3.Bh4 g6 4.e3 Bb7 5.Nd2 Bg7 6.f4 Bf6 7.Bxf6 Nxf6 8.Ngf3  
+d6 9.Bd3 e6 10.Qe2 Nd5 11.c3 a6 12.g3 Nd7 13.e4 Ne7 14.f5 g5 15.fxe6 fxe6  
+16.O-O Nf8 17.e5 d5 18.Ne1 Kd7 19.Nc2 h5 20.Rf7 h4 21.Raf1 hxg3 22.hxg3  
+Qe8 23.Ne3 Rd8 24.Bxa6 Kc8 25.Bb5 Bc6 26.Bxc6 Nxc6 27.Qb5 Rh7 28.Rxf8 Qh5  
+29.Rxd8+ Nxd8 30.Nf3 Qh3 31.Qe2 g4 32.Qg2 gxf3 33.Qxh3 Rxh3 34.Rxf3 Kd7  
+35.Kg2 Rh7 36.g4 Ke7 37.Kg3 Nf7 38.Kf4 Rh2 39.g5 Kf8 40.g6 Nh6 41.Kg3+ 1-0 

@@ -1,0 +1,35 @@
+ 
+[Event "Open"] 
+[Site "Pula CRO"] 
+[Date "2001.05.24"] 
+[Round "7"] 
+[White "Pavasovic, Dusko"] 
+[Black "Sermek, Drazen"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2515"] 
+[BlackElo "2525"] 
+[ECO "B02"] 
+[EventDate "2001.05.18"] 
+ 
+1.e4 Nf6 2.Nc3 c5 3.e5 Ng8 4.g3 b6 5.Bg2 Nc6 6.Nf3 Bb7 7.O-O g6 8.Re1 Bg7  
+9.d3 1/2-1/2 
+ 
+[Event "FSIMA March"] 
+[Site "Budapest HUN"] 
+[Date "2001.03.06"] 
+[Round "3"] 
+[White "Tian, Tian"] 
+[Black "Kahn, Evarth Dr"] 
+[Result "1-0"] 
+[WhiteElo "2224"] 
+[BlackElo "2288"] 
+[ECO "B02"] 
+[EventDate "2001.03.03"] 
+ 
+1.e4 Nf6 2.Nc3 c5 3.g3 Nc6 4.Bg2 h5 5.Nf3 d6 6.h3 Bd7 7.d3 Nd4 8.Nxd4 cxd4 
+9.Ne2 Qb6 10.c3 dxc3 11.bxc3 e6 12.Be3 Qa6 13.O-O Rc8 14.Rb1 b6 15.f4 d5  
+16.e5 Ba4 17.Qd2 Nd7 18.d4 Bb5 19.Rxb5 Qxb5 20.f5 exf5 21.Rxf5 Ba3 22.Rf1  
+Nf8 23.Nf4 Qb2 24.Qd1 Rxc3 25.Nxd5 Rc2 26.Be4 Re2 27.Qa4+ Nd7 28.Nc7+ Kd8  
+29.Nd5 Rxe3 30.Nxe3 Qc3 31.Kf2 Bc1 32.Nd5 Qd2+ 33.Kf3 g5 34.Qc4 g4+ 35. 
+hxg4 hxg4+ 36.Kxg4 Rg8+ 37.Kf3 Rxg3+ 38.Kxg3 Qg5+ 39.Kf3 Qh5+ 40.Kf2 Qh4+  
+41.Ke2 Qxe4+ 42.Kd1 Nc5 43.Kxc1 Nd3+ 44.Kd2 Qg2+ 45.Kxd3 1-0 

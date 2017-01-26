@@ -1,0 +1,166 @@
+ 
+[Event "Mitropa Cup 2012"] 
+[Site "Sibenik CRO"] 
+[Date "2012.06.08"] 
+[Round "9"] 
+[White "Doric, Darko"] 
+[Black "Aguettaz, Maxime"] 
+[Result "1-0"] 
+[WhiteElo "2513"] 
+[BlackElo "2443"] 
+[ECO "A40"] 
+[EventDate "2012.05.31"] 
+ 
+1.d4 b6 2.Bg5 Bb7 3.Nd2 h6 4.Bh4 g5 5.Bg3 Bg7 6.e3 Nf6 7.h4 gxh4 8.Bxh4 d6 
+9.Ngf3 Nbd7 10.Bd3 c5 11.c3 Qc7 12.Qc2 h5 13.O-O-O Bh6 14.Kb1 Rg8 15.Bg3  
+Bxe3 16.Nc4 cxd4 17.cxd4 Nd5 18.Nxe3 1-0 
+ 
+[Event "VIE Ch Men"] 
+[Site "Da Lat VIE"] 
+[Date "2011.03.24"] 
+[Round "7.4"] 
+[White "Pham, Chuong"] 
+[Black "Bui, Vinh"] 
+[Result "0-1"] 
+[WhiteElo "2378"] 
+[BlackElo "2438"] 
+[ECO "A40"] 
+[EventDate "2011.03.20"] 
+ 
+1.d4 b6 2.Bg5 Bb7 3.Nd2 d6 4.e4 h6 5.Bh4 c5 6.c3 Nd7 7.Qe2 Qc7 8.Ngf3 e6  
+9.Qe3 Be7 10.Bg3 Ngf6 11.h3 cxd4 12.Nxd4 a6 13.Be2 O-O 14.O-O Rac8 15.Kh1  
+Rfe8 16.f4 Nc5 17.Bf3 e5 18.Nf5 Bf8 19.Rae1 exf4 20.Qxf4 Nd3 21.Nxh6+ gxh6 
+22.Qxf6 Bg7 23.Qh4 Nxe1 24.Rxe1 Qd8 25.Qg4 Qg5 26.Bf4 Qxg4 27.Bxg4 Rcd8  
+28.Be3 b5 29.Bb6 Ra8 30.a4 Bc6 31.Bf5 d5 32.a5 dxe4 33.Kg1 Re5 34.g4 Rae8  
+35.Nb3 Rd5 36.Nd4 Bxd4+ 37.Bxd4 b4 38.Kf2 bxc3 39.Bxc3 Rd3 40.Re3 Red8 41. 
+h4 Rxe3 42.Kxe3 Rd3+ 43.Kf4 Rf3+ 44.Ke5 e3 45.Bd3 Bb7 46.Kd4 Rf4+ 47.Kxe3  
+Rxg4 48.Bf6 Ra4 49.Bd8 Kg7 50.b3 Rg4 51.h5 f6 52.Be7 Rh4 53.b4 Rxh5 54.Kd4 
+Rg5 55.Kc3 h5 56.Bd6 h4 57.Bf4 h3 58.b5 axb5 59.a6 Bxa6 60.Bxg5 fxg5 61. 
+Bf5 h2 62.Be4 Kf6 0-1 
+ 
+[Event "1. Open"] 
+[Site "Cento ITA"] 
+[Date "2011.02.06"] 
+[Round "2"] 
+[White "David, Alberto"] 
+[Black "De Santis, Alessio"] 
+[Result "1-0"] 
+[WhiteElo "2580"] 
+[BlackElo "2289"] 
+[ECO "A40"] 
+[EventDate "2011.02.05"] 
+ 
+1.d4 b6 2.Bg5 Bb7 3.c4 h6 4.Bh4 Nf6 5.Bxf6 exf6 6.a3 f5 7.Nc3 g6 8.e3 Bg7  
+9.Nf3 O-O 10.g3 d6 11.Bg2 Nd7 12.O-O Nf6 13.Nd2 Bxg2 14.Kxg2 a6 15.Qf3 Ra7 
+16.Rfd1 Re8 17.a4 Qa8 18.Nd5 Nd7 19.a5 bxa5 20.Nb3 c6 21.Nc3 c5 22.Nxa5  
+Qxf3+ 23.Kxf3 cxd4 24.exd4 Rc8 25.b4 Nf8 26.Rac1 Ne6 27.d5 Nd8 28.Ne2 Kf8  
+29.Nd4 Bxd4 30.Rxd4 Nb7 31.Nc6 Raa8 32.Ra1 a5 33.bxa5 Nc5 34.Rdd1 Ra6 35. 
+Rdb1 Rca8 36.Rb5 Ne6 37.Rab1 Rxc6 38.dxc6 Nd4+ 39.Kg2 Nxc6 40.Rb6 Nxa5 41. 
+Ra1 Ra7 42.Rb8+ Kg7 43.Rb5 Nc6 44.Rxa7 Nxa7 45.Rb6 1-0 
+ 
+[Event "VIE Ch"] 
+[Site "Ho Chi Minh City VIE"] 
+[Date "2010.03.27"] 
+[Round "3"] 
+[White "Ton, That Nhu Tung"] 
+[Black "Bui, Vinh"] 
+[Result "1-0"] 
+[WhiteElo "2279"] 
+[BlackElo "2480"] 
+[ECO "A40"] 
+[EventDate "2010.03.26"] 
+ 
+1.d4 b6 2.Bg5 Bb7 3.Nd2 h6 4.Bh4 c5 5.c3 d6 6.e4 Nd7 7.Ngf3 g5 8.Bg3 Bg7  
+9.e5 d5 10.e6 fxe6 11.Ne5 Ngf6 12.Ng6 Rg8 13.h4 g4 14.Qe2 cxd4 15.cxd4 Rc8 
+16.Qxe6 Rc6 17.Qe3 Kf7 18.Ne5+ Nxe5 19.dxe5 Nh5 20.Bd3 Rf8 21.O-O Kg8 22. 
+Nb3 Nxg3 23.Qxg3 Re6 24.Rae1 Qb8 25.Qxg4 Rxe5 26.Nd4 Bc8 27.Qg6 Rf6 28.Qg3 
+Rfe6 29.Nf5 1-0 
+ 
+[Event "SUI Ch"] 
+[Site "Graechen SUI"] 
+[Date "2009.07.11"] 
+[Round "3"] 
+[White "Bigg, Andrew J"] 
+[Black "Filipovic, Branko"] 
+[Result "0-1"] 
+[WhiteElo "2289"] 
+[BlackElo "2422"] 
+[ECO "A40"] 
+[EventDate "2009.07.09"] 
+ 
+1.d4 b6 2.Bg5 Bb7 3.c4 f6 4.Bf4 e6 5.Nc3 f5 6.Nf3 Nf6 7.e3 Bb4 8.Be2 Ne4  
+9.Qb3 Bxc3+ 10.bxc3 Nc6 11.c5 Na5 12.Qa3 O-O 13.h4 d6 14.cxd6 cxd6 15.Ng5  
+e5 16.Nxe4 exf4 17.Nxd6 Qe7 18.Nc4 Qxa3 19.Nxa3 fxe3 20.fxe3 Bxg2 21.Rg1  
+Bd5 22.c4 Bb7 23.Kd2 f4 24.Raf1 fxe3+ 25.Kxe3 Rfe8+ 26.Kd3 Be4+ 27.Kd2  
+Rad8 28.d5 a6 29.Bd3 Bxd3 30.Kxd3 b5 31.Re1 bxc4+ 32.Kd4 Nc6+ 33.Kxc4 Ne5+ 
+34.Kb3 Rxd5 0-1 
+ 
+[Event "8. Hilton Schachfestival"] 
+[Site "Basel SUI"] 
+[Date "2006.01.05"] 
+[Round "5"] 
+[White "Djuric, Stefan"] 
+[Black "Filipovic, Branko"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2460"] 
+[BlackElo "2412"] 
+[ECO "A40"] 
+[EventDate "2006.01.01"] 
+ 
+1.d4 b6 2.Bg5 Bb7 3.Nc3 Nf6 4.d5 e6 5.e4 Be7 6.h4 h6 7.Bf4 Bb4 8.dxe6 fxe6 
+9.e5 Nd5 10.Qh5+ Kf8 11.Bd2 Nxc3 12.bxc3 Bc5 13.Rh3 Qe8 14.Qe2 Qg6 15.Rg3  
+1/2-1/2 
+ 
+[Event "TCh-BEL 2002-3"] 
+[Site "Belgium BEL"] 
+[Date "2002.10.20"] 
+[Round "2"] 
+[White "Vandevoort, Pascal"] 
+[Black "Jadoul, Michel"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2348"] 
+[BlackElo "2379"] 
+[ECO "A40"] 
+[EventDate "2002.10.06"] 
+ 
+1.d4 b6 2.Bg5 Bb7 3.e3 g6 4.c4 Bg7 5.Nc3 Nf6 6.Nf3 d6 7.Be2 Nbd7 8.O-O O-O 
+9.Qc2 h6 10.Bh4 e6 11.Rad1 g5 1/2-1/2 
+ 
+[Event "Christmas Open"] 
+[Site "Zadar CRO"] 
+[Date "2001.12.23"] 
+[Round "9"] 
+[White "Kovacevic, Blazimir"] 
+[Black "Filipovic, Branko"] 
+[Result "1-0"] 
+[WhiteElo "2434"] 
+[BlackElo "2462"] 
+[ECO "A47"] 
+[EventDate "2001.12.15"] 
+ 
+1.d4 b6 2.Bg5 Bb7 3.Nf3 Nf6 4.Bxf6 gxf6 5.e3 e6 6.g3 d6 7.Bg2 Nd7 8.c4 f5  
+9.Nc3 Bg7 10.O-O O-O 11.Rc1 Qe7 12.d5 Bxc3 13.Rxc3 a5 14.Nd4 Nc5 15.Rc1  
+Kh8 16.Qc2 Qf6 17.Nb5 Rac8 18.Qc3 Kg7 19.Nd4 e5 20.Ne2 h5 21.f4 Rce8 22. 
+fxe5 Qxe5 23.Nd4 Bc8 24.Rce1 Ne4 25.Qc2 Kh8 26.Rf4 Rg8 27.Rh4 Rg7 28.Rxh5+ 
+Rh7 29.Rxh7+ Kxh7 30.Bxe4 fxe4 31.Rf1 f5 32.Rf4 Kg6 33.Rh4 Bd7 34.Qg2 Rh8  
+35.Qh3 Rxh4 36.Qxh4 Qf6 37.Qf4 Qe5 38.Kf2 Be8 39.Qxe5 dxe5 40.Ne6 c6 41. 
+Nc7 Bd7 42.dxc6 Bxc6 43.Nd5 Be8 44.Nxb6 Kf7 45.Nd5 Bc6 46.b3 Ke6 47.h4 1-0 
+ 
+[Event "It"] 
+[Site "Montecatini Terme ITA"] 
+[Date "2001.02.19"] 
+[Round "8"] 
+[White "Chatalbashev, Boris"] 
+[Black "Lovric, Branko"] 
+[Result "0-1"] 
+[WhiteElo "2499"] 
+[BlackElo "2357"] 
+[ECO "A40"] 
+[EventDate "2001.02.12"] 
+ 
+1.d4 b6 2.Bg5 Bb7 3.Nd2 g6 4.e4 Bg7 5.Ngf3 d6 6.Bd3 Nd7 7.O-O f6 8.Bh4 e5  
+9.c4 c5 10.b4 exd4 11.bxc5 bxc5 12.Rb1 Bc6 13.Bg3 Qc7 14.Nh4 Nh6 15.f4 O-O 
+16.Nhf3 Rae8 17.Re1 Nb6 18.f5 g5 19.Nxd4 cxd4 20.c5 Na4 21.Bxd6 Qd7 22. 
+Bc4+ Kh8 23.Be6 Rxe6 24.fxe6 Qxe6 25.Bxf8 Bxf8 26.Rb8 Kg7 27.Nb3 Qe5 28. 
+Rc8 Nc3 29.Qh5 d3 30.Rxc6 d2 31.Nxd2 Qd4+ 32.Kh1 Qxd2 33.Rf1 Nxe4 34.Rc7+  
+Kg8 35.Qf3 Ng4 36.Qf5 Nef2+ 37.Kg1 Nh3+ 38.gxh3 Qxh2# 0-1 

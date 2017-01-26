@@ -1,0 +1,19 @@
+ 
+[Event "Team"] 
+[Site "Smolensk RUS"] 
+[Date "2000.04.16"] 
+[Round "2"] 
+[White "Dmitriev, I."] 
+[Black "Arkhipov, S."] 
+[Result "0-1"] 
+[WhiteElo "2375"] 
+[BlackElo "2527"] 
+[ECO "A05"] 
+[EventDate "2000.04.15"] 
+ 
+1.Nf3 c5 2.d3 g6 3.g3 Bg7 4.Bg2 Nf6 5.O-O O-O 6.c3 Nc6 7.a3 d6 8.Ne1 Ne8  
+9.Nc2 Be6 10.d4 cxd4 11.Nxd4 Bd7 12.e3 Rc8 13.Nd2 a6 14.a4 Qc7 15.Qe2 Nf6  
+16.h3 Rfd8 17.Kh2 e5 18.N4f3 Na5 19.Ra3 d5 20.b4 Nc6 21.Bb2 e4 22.Nd4 Nxd4 
+23.exd4 Re8 24.Re1 Bf8 25.Raa1 Nh5 26.Nf1 f5 27.f4 Bd6 28.Kg1 Be6 29.b5  
+axb5 30.axb5 Qf7 31.Ba3 Bb8 32.Bc5 g5 33.fxg5 f4 34.gxf4 Nxf4 35.Qd2 Bxh3  
+36.Bh1 Qh5 37.Re3 Bg4 38.Ng3 Qh4 39.Qa2 Nh3+ 40.Kh2 Bxg3+ 0-1 

@@ -1,0 +1,62 @@
+ 
+[Event "XLI Rilton Cup 2011-12"] 
+[Site "Stockholm SWE"] 
+[Date "2012.01.02"] 
+[Round "6"] 
+[White "Holving, Rasmus"] 
+[Black "Mack, Wolfgang"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2221"] 
+[BlackElo "2293"] 
+[ECO "A02"] 
+[EventDate "2011.12.27"] 
+ 
+1.f4 g6 2.e3 Bg7 3.Nf3 d6 4.d4 c5 5.c3 Nd7 6.Bd3 Ngf6 7.O-O O-O 8.Qe1 e5  
+9.Bc2 b6 10.Qh4 Ba6 11.Re1 Re8 12.dxe5 dxe5 13.e4 exf4 14.Bxf4 Nh5 15.Bg5  
+Bf6 16.Bxf6 Qxf6 17.Qxf6 Nhxf6 18.Nbd2 Rad8 19.Rad1 Bb5 20.h3 Ne5 21.Nxe5  
+Rxe5 22.Kf2 Rde8 23.Re3 R5e7 24.c4 Bc6 25.Rde1 Nd7 26.b3 Ne5 27.Nb1 Rd7  
+28.Nc3 Rd4 29.Nd5 Kg7 30.a4 f6 31.Rd1 Rxd1 32.Bxd1 Bxd5 33.exd5 Kf7 34.Bc2 
+Rb8 35.Re1 Ke7 36.Ke3 Kd6 37.Kd2 a6 38.Kc3 Ra8 39.Ra1 Ra7 40.g4 a5 41.Rf1  
+Rf7 42.Kd2 Nd7 43.h4 Ne5 44.h5 Nxg4 45.hxg6 hxg6 46.Bxg6 Rf8 47.Bf5 Ne5  
+48.Be6 Nc6 49.Bf5 Nd4 50.Bc2 f5 51.Bd1 Rh8 52.Rg1 Rh6 53.Rg8 Ke5 54.Re8+  
+Kf4 55.Rd8 Rh2+ 56.Ke1 Ke3 57.Re8+ Kd3 58.d6 Rh1+ 59.Kf2 Rxd1 60.d7 Nc6  
+61.Rc8 Kc3 62.Rxc6 Kxb3 63.Rxb6+ Kxc4 64.Rb7 Rd4 65.Ke3 Kc3 66.Rb5 c4 67. 
+Rxa5 Rxd7 68.Rxf5 Re7+ 69.Kf2 1/2-1/2 
+ 
+[Event "AUT, 2. Bundesliga Ost 2003/04"] 
+[Site "AUT"] 
+[Date "2004.02.29"] 
+[Round "11"] 
+[White "Blatny, Pavel"] 
+[Black "Pingitzer, Harald"] 
+[Result "1-0"] 
+[WhiteElo "2452"] 
+[BlackElo "2381"] 
+[ECO "A02"] 
+[EventDate "2004.02.28"] 
+ 
+1.f4 g6 2.e3 Bg7 3.Nf3 d6 4.d4 c5 5.c3 Nf6 6.dxc5 dxc5 7.Qxd8+ Kxd8 8.Nbd2 
+Nc6 9.Bc4 e6 10.a4 b6 11.e4 Bb7 12.O-O Na5 13.Bd3 c4 14.Bc2 Bf8 15.Ne5  
+Bc5+ 16.Kh1 Ke7 17.Re1 Ba6 18.Ndf3 Rad8 19.f5 Nd7 20.fxg6 hxg6 21.Bg5+ f6  
+22.Nxg6+ Ke8 23.Nxh8 fxg5 24.e5 g4 25.Ng5 Nf8 26.Rad1 Rxd1 27.Bxd1 g3 28. 
+hxg3 Bf2 29.Rf1 Bxg3 30.Bh5+ Kd7 31.Rf7+ Kc6 1-0 
+ 
+[Event "38. American Open"] 
+[Site "Los Angeles, CA USA"] 
+[Date "2002.11.29"] 
+[Round "3"] 
+[White "Blatny, Pavel"] 
+[Black "Yermolinsky, Alex"] 
+[Result "1-0"] 
+[WhiteElo "2479"] 
+[BlackElo "2575"] 
+[ECO "A02"] 
+[EventDate "2002.11.28"] 
+ 
+1.f4 g6 2.e3 Bg7 3.Be2 d6 4.Nf3 Nf6 5.b3 Nfd7 6.Nc3 e5 7.Bb2 Nc6 8.O-O O-O 
+9.Qe1 exf4 10.exf4 Re8 11.Qf2 Nf6 12.Rae1 Bf5 13.Bd1 Qd7 14.Qh4 Rxe1 15. 
+Rxe1 Re8 16.Rxe8+ Nxe8 17.Na4 Qe7 18.Bxg7 Kxg7 19.g4 Qxh4 20.Nxh4 Bd7 21. 
+Nc3 h6 22.Kf2 g5 23.Ng2 f5 24.gxf5 Bxf5 25.Ne3 Bd7 26.Kg3 Ne7 27.fxg5 hxg5 
+28.a4 Nf5+ 29.Kf2 Nxe3 30.Kxe3 Nf6 31.Kd4 a5 32.Bf3 b6 33.Kc4 Kf8 34.Nb5  
+Bxb5+ 35.Kxb5 Ke7 36.c3 Kd8 37.Bc6 Ng4 38.b4 Nxh2 39.bxa5 bxa5 40.Kxa5 Nf1 
+41.Ka6 1-0 

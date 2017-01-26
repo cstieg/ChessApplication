@@ -1,0 +1,38 @@
+ 
+[Event "2. Chennai Open"] 
+[Site "Chennai IND"] 
+[Date "2010.02.02"] 
+[Round "10"] 
+[White "Visweswaran, Kameswaran"] 
+[Black "Praveen Kumar, C"] 
+[Result "0-1"] 
+[WhiteElo "2297"] 
+[BlackElo "2421"] 
+[ECO "A00"] 
+[EventDate "2010.01.25"] 
+ 
+1.g4 d5 2.Bg2 c5 3.c4 d4 4.d3 Nc6 5.h3 e5 6.e3 Nge7 7.Nf3 Ng6 8.Na3 Be7 9. 
+Nc2 O-O 10.b4 cxb4 11.exd4 exd4 12.O-O f5 13.g5 f4 14.Bb2 Bc5 15.Re1 Bf5  
+16.Kh2 Kh8 17.Qd2 a5 18.Re2 Qd6 19.Rae1 a4 20.Rd1 b3 21.axb3 axb3 22.Na1  
+Nce5 23.Nxb3 Nxf3+ 24.Bxf3 Nh4 25.Bd5 f3+ 26.Kh1 fxe2 27.Qxe2 Bb6 28.Rg1  
+Bc7 29.f3 Bxd3 30.Qf2 Nxf3 0-1 
+ 
+[Event "Stepchev Memorial"] 
+[Site "Kiev UKR"] 
+[Date "2004.12.29"] 
+[Round "9"] 
+[White "Vovk, Orest"] 
+[Black "Karnaukh, Anatolij"] 
+[Result "1-0"] 
+[WhiteElo "2296"] 
+[BlackElo "2248"] 
+[ECO "A00"] 
+[EventDate "2004.12.21"] 
+ 
+1.g4 d5 2.Bg2 c5 3.h3 Nc6 4.c4 e6 5.Nc3 Nge7 6.cxd5 Nxd5 7.d3 Be7 8.Nxd5  
+exd5 9.Nf3 O-O 10.O-O Be6 11.Bf4 Rc8 12.Qd2 b5 13.Ng5 Qd7 14.Nxe6 fxe6 15. 
+Bg3 b4 16.f4 a5 17.e4 dxe4 18.Bxe4 Nd4 19.Qg2 Bd6 20.Kh2 Qc7 21.f5 Bxg3+  
+22.Qxg3 Qxg3+ 23.Kxg3 e5 24.Bd5+ Kh8 25.Rae1 g6 26.Rxe5 gxf5 27.gxf5 Rf6  
+28.Kg4 h6 29.Rfe1 Rc7 30.Re8+ Kh7 31.R1e7+ Rxe7 32.Rxe7+ Kh8 33.Be6 a4 34. 
+Kf4 Rf8 35.Ke4 a3 36.bxa3 bxa3 37.Rc7 Nxe6 38.fxe6 Rf2 39.e7 Re2+ 40.Kf3  
+1-0 

@@ -1,0 +1,15 @@
+ 
+[Event "2. ch-Vojvodina"] 
+[Site "Novi Sad SRB"] 
+[Date "2011.07.28"] 
+[Round "7.2"] 
+[White "Sertic, Rudolf"] 
+[Black "Drazic, Sinisa"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2406"] 
+[BlackElo "2501"] 
+[ECO "E33"] 
+[EventDate "2011.07.24"] 
+ 
+1.Nf3 Nc6 2.c4 e6 3.Nc3 Nf6 4.d4 Bb4 5.Qc2 d6 6.e3 O-O 7.Be2 e5 8.dxe5  
+Nxe5 9.Nxe5 dxe5 10.O-O c6 11.b3 Qe7 12.Bb2 1/2-1/2 

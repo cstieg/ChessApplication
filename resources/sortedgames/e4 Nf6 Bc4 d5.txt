@@ -1,0 +1,18 @@
+ 
+[Event "Sao Paulo BRA, 1. Batalha Closed"] 
+[Site "Sao Paulo BRA"] 
+[Date "2014.02.24"] 
+[Round "2.5"] 
+[White "Cunha, Eduardo Arruda Da G"] 
+[Black "Juer, Jayme Jacob E"] 
+[Result "1-0"] 
+[WhiteElo "2248"] 
+[BlackElo "2215"] 
+[ECO "B01"] 
+[EventDate "2014.02.24"] 
+ 
+1.e4 Nf6 2.Bc4 d5 3.exd5 Nxd5 4.Qf3 e6 5.d3 Nb6 6.Bb3 Bd7 7.c3 c5 8.Nh3  
+Bd6 9.Ng5 O-O 10.Qe4 g6 11.Qh4 h5 12.g4 Kg7 13.gxh5 Rh8 14.h6+ Kg8 15.Nd2  
+Bc6 16.Nde4 Bxe4 17.Qxe4 c4 18.dxc4 N8d7 19.Be3 Qe7 20.O-O-O Bc5 21.h7+  
+Kg7 22.Rhg1 Bxe3+ 23.fxe3 Rab8 24.Rdf1 Nc5 25.Qe5+ f6 26.Qxc5 Qxc5 27. 
+Nxe6+ 1-0 

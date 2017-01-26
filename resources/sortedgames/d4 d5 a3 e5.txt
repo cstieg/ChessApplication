@@ -1,0 +1,16 @@
+ 
+[Event "Ch France (accession)"] 
+[Site "Val d'Isere FRA"] 
+[Date "2004.08.??"] 
+[Round "5"] 
+[White "Prie, Eric"] 
+[Black "Guadalpi, David"] 
+[Result "1-0"] 
+[WhiteElo "2441"] 
+[BlackElo "2329"] 
+[ECO "D00"] 
+ 
+1.d4 d5 2.a3 e5 3.dxe5 Nc6 4.e4 dxe4 5.Qxd8+ Kxd8 6.Nc3 Bf5 7.Bf4 Nge7 8. 
+O-O-O+ Kc8 9.Re1 Ng6 10.Bg3 Ngxe5 11.Nxe4 Bg6 12.f4 Nd7 13.Nf3 Nc5 14.Nc3  
+Bd6 15.Nb5 Ne4 16.Nh4 f5 17.Bd3 Nxg3 18.hxg3 Rf8 19.Nxg6 hxg6 20.Nxd6+  
+cxd6 21.Rh7 a6 22.Rxg7 b5 23.Re6 1-0 

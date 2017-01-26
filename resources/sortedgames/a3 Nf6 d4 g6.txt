@@ -1,0 +1,43 @@
+ 
+[Event "IND Ch U19 44th"] 
+[Site "Mumbai IND"] 
+[Date "2014.07.13"] 
+[Round "6"] 
+[White "Aravindh, Chithambaram V R"] 
+[Black "Patil, Pratik"] 
+[Result "1-0"] 
+[WhiteElo "2443"] 
+[BlackElo "2217"] 
+[ECO "A00"] 
+[EventDate "2014.07.10"] 
+ 
+1.a3 Nf6 2.d4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d5 6.O-O b6 7.Nbd2 Bb7 8.c4 c6  
+9.b3 Nbd7 10.Bb2 Rc8 11.Rc1 c5 12.dxc5 Nxc5 13.b4 Ncd7 14.Ne5 Ba8 15.Nxd7  
+Qxd7 16.c5 bxc5 17.bxc5 Qb5 18.Bd4 Nd7 19.Bxg7 Kxg7 20.Nb3 e5 21.Bxd5 Nxc5 
+22.Nd4 exd4 23.Bxa8 Rxa8 24.Qxd4+ Kg8 25.Qxc5 Qxe2 26.Rfe1 Qf3 27.Re7 Rac8 
+28.Qxc8 Rxc8 29.Rxc8+ Kg7 30.Rcc7 Qd1+ 31.Kg2 Qd5+ 32.f3 Qd2+ 33.Kh3 Qh6+  
+34.Kg4 Qh5+ 35.Kf4 Qh6+ 36.Ke4 Qxh2 37.Rxf7+ Kg8 38.Rg7+ Kf8 39.Rxh7 Qe2+  
+40.Kf4 Qd2+ 41.Kg4 Qd4+ 42.Kh3 Kg8 43.Rhg7+ Kf8 44.Rgd7 1-0 
+ 
+[Event "Plovdiv BUL, 72. Men Ch semi-final"] 
+[Site "Plovdiv BUL"] 
+[Date "2008.02.14"] 
+[Round "3.7"] 
+[White "Ivanov, Stoijan"] 
+[Black "Stoinev, Metodi"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2295"] 
+[BlackElo "2336"] 
+[ECO "A00"] 
+[EventDate "2008.02.13"] 
+ 
+1.a3 Nf6 2.d4 g6 3.Nf3 Bg7 4.Nc3 d5 5.h3 O-O 6.Bf4 Ne4 7.e3 c5 8.Nxe4 dxe4 
+9.Ne5 Nc6 10.Nxc6 bxc6 11.c3 cxd4 12.exd4 Qb6 13.b4 Rd8 14.Qb3 Be6 15.Bc4  
+Bd5 16.O-O a5 17.Rfb1 a4 18.Qa2 e6 19.Qe2 Re8 20.Ba2 e5 21.dxe5 Bxe5 22. 
+Bxe5 Rxe5 23.c4 Be6 24.c5 Qc7 25.Bxe6 Rxe6 26.Rd1 Rae8 27.Rd4 e3 28.Rad1  
+exf2+ 29.Qxf2 Re2 30.Qf4 Qxf4 31.Rxf4 Ra2 32.Rf2 Rxa3 33.Rd7 f5 34.Ra7  
+Re1+ 35.Kh2 Rd3 36.Rxa4 h5 37.Raa2 Kf7 38.Rfd2 Rxd2 39.Rxd2 Re4 40.Rb2 h4  
+41.b5 cxb5 42.Rxb5 Rc4 43.Rb7+ Kf6 44.Rc7 Rc1 45.c6 Kg5 46.Rc8 Kf4 47.Rc7  
+g5 48.Rc8 Rc5 49.Rc7 Rc2 50.Rc8 Rc4 51.Rc7 Rc3 52.Rc8 Rc2 53.Rc7 Ke5 54. 
+Rc8 Rc1 55.Re8+ Kf6 56.Rc8 Rc2 57.Rf8+ Ke5 58.Rc8 f4 59.Kg1 f3 60.Re8+ Kd6 
+61.gxf3 Rxc6 62.Kf2 Rc5 63.Rd8+ Ke7 64.Rd4 Kf6 65.f4 Rc2+ 66.Kg1 1/2-1/2 

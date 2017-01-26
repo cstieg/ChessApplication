@@ -1,0 +1,19 @@
+ 
+[Event "Sentjur SLO, 10. Ipavec Memorial"] 
+[Site "Sentjur SLO"] 
+[Date "2010.09.23"] 
+[Round "9"] 
+[White "Rukavina, Josip"] 
+[Black "Volf, Ziga"] 
+[Result "1-0"] 
+[WhiteElo "2423"] 
+[BlackElo "2210"] 
+[ECO "A04"] 
+[EventDate "2010.09.17"] 
+ 
+1.Nf3 f5 2.b4 e6 3.a3 Nf6 4.e3 a5 5.b5 d5 6.c4 Bd6 7.Bb2 O-O 8.Be2 c6 9. 
+Nc3 Nbd7 10.bxc6 bxc6 11.Nd4 Nc5 12.Nxc6 Qb6 13.Nd4 Qxb2 14.Rb1 Qxa3 15. 
+Ndb5 Nd3+ 16.Bxd3 Qc5 17.Qe2 Ba6 18.O-O Rfc8 19.Na4 Qc6 20.Nxd6 Qxd6 21.c5 
+Bxd3 22.Qxd3 Qa6 23.Qxa6 Rxa6 24.d4 e5 25.Rb6 Ra7 26.Re6 exd4 27.exd4 Rb8  
+28.Nb6 Kf7 29.Re5 g6 30.Re3 a4 31.Ra3 Ne4 32.Rd1 Ra5 33.f3 Nxc5 34.dxc5  
+Rxc5 35.Nd7 1-0 

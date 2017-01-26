@@ -1,0 +1,22 @@
+ 
+[Event "PWPW S.A Chess Cup"] 
+[Site "Warsaw POL"] 
+[Date "2004.06.21"] 
+[Round "10"] 
+[White "Michna, Marta"] 
+[Black "Rajlich, Iweta"] 
+[Result "0-1"] 
+[WhiteElo "2411"] 
+[BlackElo "2444"] 
+[ECO "A00"] 
+[EventDate "2004.06.19"] 
+ 
+1.e3 b6 2.Nf3 Bb7 3.b3 Nf6 4.Bb2 e6 5.a3 Be7 6.d4 c5 7.Nbd2 d6 8.Bd3 Nbd7  
+9.Qe2 cxd4 10.exd4 Nd5 11.g3 Rc8 12.c4 N5f6 13.O-O O-O 14.b4 Qc7 15.Rfc1  
+Qb8 16.a4 Rfe8 17.a5 bxa5 18.Rxa5 Bxf3 19.Nxf3 Bd8 20.Ra4 e5 21.dxe5 dxe5  
+22.Bf5 Bc7 23.c5 Rcd8 24.Qc4 h6 25.Bg6 Re7 26.Nh4 Nf8 27.Re1 Nxg6 28.Nxg6  
+Re6 29.f4 exf4 30.Rxe6 Rd1+ 31.Kg2 Rd2+ 32.Re2 Qa8+ 33.Kf2 Ng4+ 34.Ke1  
+Rxb2 35.Rxb2 Qe8+ 36.Qe2 Qxa4 37.Ne7+ Kf8 38.Rb1 Qd7 39.Nd5 Qxd5 40.Qxg4  
+Qe4+ 41.Kd2 f5 42.Qd1 fxg3 43.hxg3 Bxg3 44.Kc3 Be5+ 45.Kb3 f4 46.Qd8+ Kf7  
+47.Rd1 f3 48.Rd7+ Kg6 49.Qe8+ Kh7 50.Rf7 a6 51.Rf8 Qb1+ 52.Kc4 Qa2+ 53.Kd3 
+Qe2# 0-1 

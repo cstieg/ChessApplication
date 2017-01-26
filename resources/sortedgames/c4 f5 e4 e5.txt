@@ -1,0 +1,16 @@
+ 
+[Event "4NCL"] 
+[Site "Birmingham ENG"] 
+[Date "2000.11.26"] 
+[Round "4"] 
+[White "Johnstone, Paul E"] 
+[Black "Williams, S."] 
+[Result "1-0"] 
+[WhiteElo "2299"] 
+[BlackElo "2353"] 
+[ECO "A10"] 
+[EventDate "2000.09.23"] 
+ 
+1.c4 f5 2.e4 e5 3.exf5 Nf6 4.Nc3 Bc5 5.g4 d5 6.Bg2 dxc4 7.Qa4+ c6 8.Qxc4  
+b6 9.b4 Bd4 10.h3 Nd5 11.Nge2 Ba6 12.b5 Bxb5 13.Nxb5 Bxa1 14.Ba3 e4 15. 
+Qxe4+ Ne7 16.Nd6+ Kd7 17.Nf7 Qe8 18.Qe6+ Kc7 19.Bd6+ Kb7 20.Bxe7 1-0 

@@ -1,0 +1,37 @@
+ 
+[Event "19. Donau Open"] 
+[Site "Aschach AUT"] 
+[Date "2010.12.31"] 
+[Round "7"] 
+[White "Piskur, Mitja"] 
+[Black "Neuman, Petr"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2292"] 
+[BlackElo "2476"] 
+[ECO "B10"] 
+[EventDate "2010.12.26"] 
+ 
+1.d3 d5 2.e4 c6 3.Nf3 dxe4 4.dxe4 Qxd1+ 5.Kxd1 Nf6 6.Nfd2 Ng4 7.Ke1 e5 8. 
+Nb3 Nd7 9.f3 Ngf6 10.Be3 Bd6 11.N1d2 Ke7 12.a4 a5 13.Nc4 Bc7 14.Bd3 b6 15. 
+Ke2 Rb8 16.Bd2 Nf8 17.Bc3 N6d7 18.Ne3 g6 19.g3 Ne6 20.Bc4 f6 21.Kf2 Bd6  
+22.Rhd1 Ndc5 23.Rd2 Rd8 24.Nxc5 Bxc5 25.Rxd8 Kxd8 26.Bd2 Ke7 27.c3 Bd7 28. 
+Ke2 Be8 29.Rf1 Bf7 30.Ra1 Rd8 31.Rc1 h5 32.h4 Ke8 33.Rd1 Bf8 34.Be1 Rxd1  
+35.Kxd1 Be7 36.Kc2 Kd7 37.Bd2 Bd8 38.Bc1 Be8 39.b3 Nc5 40.Ba3 Be7 41.Bc1  
+Nb7 42.Be2 Bc5 43.Nd1 Bf7 44.Ne3 Nd6 45.Bd2 f5 46.Bd3 fxe4 47.Bxe4 Nxe4  
+48.fxe4 b5 49.axb5 cxb5 50.b4 Bxe3 51.Bxe3 a4 52.Bc1 Bc4 1/2-1/2 
+ 
+[Event "TCh"] 
+[Site "Murska Sobota SLO"] 
+[Date "2008.12.10"] 
+[Round "5"] 
+[White "Piskur, Mitja"] 
+[Black "Zupe, Miran"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2305"] 
+[BlackElo "2349"] 
+[ECO "B10"] 
+[EventDate "2008.12.06"] 
+ 
+1.d3 d5 2.e4 c6 3.Nf3 dxe4 4.dxe4 Qxd1+ 5.Kxd1 Bg4 6.Be2 Nd7 7.Be3 e5 8. 
+Nfd2 Bxe2+ 9.Kxe2 O-O-O 10.Nc4 b6 11.Rd1 f6 12.a4 Nc5 13.Rxd8+ Kxd8 14. 
+Nbd2 Kc7 15.c3 Nd7 16.b4 Ne7 17.g3 Nc8 18.f4 Bd6 1/2-1/2 

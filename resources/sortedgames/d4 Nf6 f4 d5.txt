@@ -1,0 +1,18 @@
+ 
+[Event "24. Open"] 
+[Site "Bad Woerishofen GER"] 
+[Date "2008.02.29"] 
+[Round "2"] 
+[White "Fischer, Thom1"] 
+[Black "Georgiev, Vladimir"] 
+[Result "0-1"] 
+[WhiteElo "2205"] 
+[BlackElo "2581"] 
+[ECO "A45"] 
+[EventDate "2008.02.28"] 
+ 
+1.d4 Nf6 2.f4 d5 3.Nf3 c5 4.e3 Nc6 5.c3 Bf5 6.Be2 e6 7.O-O Bd6 8.Ne5 Qb6  
+9.Nd2 cxd4 10.Nxc6 dxe3 11.Nc4 dxc4 12.Qxd6 bxc6 13.Qe5 Nd5 14.Qxg7 O-O-O  
+15.Qxf7 Bg4 16.Re1 Bxe2 17.Qxe6+ Rd7 18.Qe5 Rf8 19.Rxe2 Nxf4 20.Re1 Nd3  
+21.Bxe3 Nxe5 22.Bxb6 Nd3 23.Re6 axb6 24.Rxc6+ Kb7 25.Rxc4 Nxb2 26.Rh4 Nd1  
+27.c4 Re8 28.h3 Re2 29.Rc1 Ne3 0-1 

@@ -1,0 +1,64 @@
+ 
+[Event "49. Capablanca Premier 2014"] 
+[Site "Havana CUB"] 
+[Date "2014.05.14"] 
+[Round "6.4"] 
+[White "Sambuev, Bator"] 
+[Black "Ortiz Suarez, Isan Reynaldo"] 
+[Result "0-1"] 
+[WhiteElo "2562"] 
+[BlackElo "2588"] 
+[ECO "A80"] 
+[EventDate "2014.05.08"] 
+ 
+1.d4 f5 2.c3 d6 3.Nf3 g6 4.Qb3 Nf6 5.Bg5 Bg7 6.Nbd2 Nbd7 7.h4 h6 8.Bxf6  
+Nxf6 9.e3 e6 10.Bd3 O-O 11.e4 Kh8 12.Qc2 Ng4 13.Nf1 Rb8 14.Ne3 b5 15.exf5  
+Nxe3 16.fxe3 exf5 17.e4 c5 18.exf5 gxf5 19.Qd2 b4 20.h5 bxc3 21.bxc3 Qa5  
+22.Rd1 Bd7 23.Nh4 Rfe8+ 24.Kf1 cxd4 25.Ng6+ Kh7 26.cxd4 Qxd2 27.Rxd2 Bxd4  
+28.Rh4 Be3 29.Re2 Kg7 30.Rc4 Kf6 31.Rc7 Bb5 32.Bxb5 Rxb5 33.g3 Re4 34.Kg2  
+Bb6 35.Rcc2 Kg5 36.Red2 Bc5 37.Nh4 Bb4 38.Rf2 f4 39.Rc7 Kxh5 40.Rg7 Rg5  
+41.Rxg5+ hxg5 42.Nf5 Be1 43.Kf3 Ra4 44.g4+ Kg6 45.Re2 Bb4 46.Ne7+ Kf7 47. 
+Nd5 Kf8 48.Rh2 Bc5 49.Rh5 Ra3+ 50.Ke4 f3 51.Rxg5 f2 52.Rf5+ Kg7 53.Rg5+  
+Kf7 54.Rf5+ Ke8 55.Nf6+ Kd8 56.Kd5 Rd3+ 57.Kc6 Rd1 0-1 
+ 
+[Event "COQ Inv"] 
+[Site "Montreal CAN"] 
+[Date "2010.07.27"] 
+[Round "5"] 
+[White "Sambuev, Bator"] 
+[Black "Malaniuk, Vladimir P"] 
+[Result "1-0"] 
+[WhiteElo "2478"] 
+[BlackElo "2543"] 
+[ECO "A80"] 
+[EventDate "2010.07.24"] 
+ 
+1.d4 f5 2.c3 d6 3.Nf3 Nf6 4.Bg5 e6 5.Nbd2 Be7 6.Bxf6 Bxf6 7.e4 Nc6 8.Qb3  
+a6 9.Bd3 d5 10.e5 Be7 11.h3 b6 12.g4 g6 13.Qc2 Bb7 14.b4 Qd7 15.a4 Nd8 16. 
+Rb1 Nf7 17.Ke2 c5 18.bxc5 bxc5 19.Qa2 Bc6 20.gxf5 gxf5 21.Rhg1 c4 22.Bc2  
+Qc7 23.Nf1 h5 24.Rg6 Rh6 25.Rg8+ Kd7 26.Rg7 Ke8 27.Ne3 Bf8 28.Rg8 Nd8 29. 
+Ng5 Nf7 30.h4 Nxg5 31.hxg5 Rh7 32.Rg6 Qd7 33.Rb6 Rc8 34.Rxe6+ Qxe6 35.Bxf5 
+Qe7 36.Bxc8 Qc7 37.Qb1 1-0 
+ 
+[Event "ACT Open"] 
+[Site "Amsterdam NED"] 
+[Date "2004.07.18"] 
+[Round "2"] 
+[White "Pliester, Leon"] 
+[Black "Nijboer, Friso"] 
+[Result "0-1"] 
+[WhiteElo "2389"] 
+[BlackElo "2568"] 
+[ECO "A80"] 
+[EventDate "2004.07.17"] 
+ 
+1.d4 f5 2.c3 d6 3.Nf3 Nf6 4.Bf4 g6 5.e3 Bg7 6.Bc4 e6 7.Nbd2 Nc6 8.b4 Qe7  
+9.b5 Na5 10.Bd3 Nd7 11.e4 h6 12.Qa4 b6 13.exf5 exf5+ 14.Kf1 O-O 15.Nb3 g5  
+16.Re1 Qf6 17.Bc1 Bb7 18.Nxa5 bxa5 19.Qc4+ Rf7 20.Re6 Qd8 21.Bxf5 Nb6 22. 
+Qd3 Bd5 23.Re2 Bc4 24.Qc2 Rxf5 25.Qxf5 Qe7 26.Be3 Rf8 27.Qc2 g4 28.Nd2  
+Qxe3 29.Nxc4 Nxc4 30.Ke1 Qg5 31.Kd1 Qxb5 32.Rhe1 Qg5 33.Re6 Qf5 34.Re8  
+Qxc2+ 35.Kxc2 Bf6 36.R1e6 Kf7 37.Rxf8+ Kxe6 38.Ra8 Kd7 39.Kd3 d5 40.Rxa7  
+Be7 41.Ra8 Ke6 42.Rc8 Kd7 43.Rh8 Bg5 44.Rh7+ Kc6 45.Rf7 Nd6 46.Rf8 Kd7 47. 
+Ra8 Nc4 48.Ra6 a4 49.Rg6 Nd6 50.Rg7+ Kc6 51.Rg6 Kb7 52.Rg7 Nf5 53.Rf7 Nh4  
+54.f3 gxf3 55.g3 Ng2 56.c4 Ne1+ 57.Kc3 dxc4 58.Kxc4 Be3 59.Kd5 f2 60.Ke4  
+Ng2 61.Rf3 Kb6 62.Kd3 Ne1+ 0-1 

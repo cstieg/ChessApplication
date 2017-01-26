@@ -1,0 +1,92 @@
+ 
+[Event "Gibraltar Masters 2016"] 
+[Site "Caleta ENG"] 
+[Date "2016.01.29"] 
+[Round "4.3"] 
+[White "Harika, Dronavalli"] 
+[Black "Rapport, Richard"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2511"] 
+[BlackElo "2721"] 
+[ECO "A10"] 
+[EventDate "2016.01.26"] 
+ 
+1.c4 d6 2.Nc3 c5 3.e3 g6 4.g3 h5 5.h3 Bd7 6.Bg2 Qc8 7.Nge2 Bg7 8.b3 Nf6 9. 
+Bb2 Bc6 10.f3 O-O 11.O-O a6 12.a4 Rd8 13.Rc1 Nbd7 14.e4 Nf8 15.d4 cxd4 16. 
+Nd5 Bxd5 17.cxd5 Qd7 18.Nxd4 e6 19.dxe6 Nxe6 20.Nxe6 Qxe6 21.Bd4 Rac8 22. 
+Qd3 Rxc1 23.Rxc1 h4 24.Bxf6 Qxf6 25.f4 Qb2 26.Rb1 Qa2 27.Rc1 Bb2 28.Rf1  
+Rc8 29.e5 Ba3 30.e6 Rc2 31.exf7+ Kxf7 32.Qd5+ Kf8 33.f5 Bc5+ 34.Kh1 Rf2  
+35.fxg6 Rxf1+ 36.Bxf1 Qf2 37.Qf7+ 1/2-1/2 
+ 
+[Event "XXII Anderssen Mem Final B"] 
+[Site "Wroclaw POL"] 
+[Date "2013.06.30"] 
+[Round "2.2"] 
+[White "Zawadzka, Jolanta"] 
+[Black "Szczepkowska-Horowska, Karina"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2391"] 
+[BlackElo "2375"] 
+[ECO "A10"] 
+[EventDate "2013.06.30"] 
+ 
+1.c4 d6 2.Nc3 c5 3.g3 Nc6 4.Bg2 e5 5.e3 Nf6 6.Nge2 Be6 7.b3 d5 8.cxd5 Nxd5 
+9.O-O Be7 10.Bb2 O-O 11.d4 cxd4 12.exd4 exd4 13.Nxd4 Nxc3 14.Bxc3 Nxd4 15. 
+Qxd4 Qxd4 16.Bxd4 Rfd8 17.Rfd1 Bg4 18.f3 Bf5 19.Be3 b6 20.f4 Rxd1+ 21.Rxd1 
+Rd8 22.Rxd8+ Bxd8 23.Bd4 Be6 24.Kf2 g6 25.Be5 Be7 26.Bc6 f6 27.Bc7 Kf7 28. 
+Kf3 Bc5 29.g4 Ke7 30.Bb8 a5 31.Bc7 Bd7 32.Be4 f5 33.gxf5 Bxf5 34.Bc6 Bd7  
+35.Bd5 Be6 36.Ke4 Bf5+ 37.Kf3 Be6 38.Ke4 Bf5+ 1/2-1/2 
+ 
+[Event "12. TCh-Prem"] 
+[Site "Sarajevo BIH"] 
+[Date "2013.06.16"] 
+[Round "2.2"] 
+[White "Bulajic, Ratko"] 
+[Black "Arapovic, Vitomir"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2307"] 
+[BlackElo "2356"] 
+[ECO "A10"] 
+[EventDate "2013.06.15"] 
+ 
+1.c4 d6 2.Nc3 c5 3.g3 Nc6 4.Bg2 Nf6 5.Nf3 e5 6.d3 Be7 7.O-O O-O 8.Rb1 a5  
+9.a3 Re8 10.Ne1 Be6 1/2-1/2 
+ 
+[Event "Voronezh FIDE Open"] 
+[Site "Voronezh RUS"] 
+[Date "2011.06.18"] 
+[Round "7.1"] 
+[White "Lopukhin, Anatoly"] 
+[Black "Potapov, Alexander2"] 
+[Result "1-0"] 
+[WhiteElo "2254"] 
+[BlackElo "2243"] 
+[ECO "A10"] 
+[EventDate "2011.06.12"] 
+ 
+1.c4 d6 2.Nc3 c5 3.g3 g6 4.Bg2 Bg7 5.e3 e5 6.Nge2 Nc6 7.a3 Be6 8.d3 a5 9. 
+Rb1 Nge7 10.Nd5 O-O 11.O-O Bg4 12.h3 Bd7 13.Nec3 Nxd5 14.Nxd5 a4 15.b4  
+cxb4 16.axb4 e4 17.d4 f5 18.b5 Na5 19.Qxa4 Rc8 20.c5 dxc5 21.Ba3 b6 22. 
+dxc5 bxc5 23.Rfd1 Be6 24.b6 Nb7 25.Nc7 Qe7 26.Qc6 Ba2 27.Qxb7 Bxb1 28.Rxb1 
+Rfd8 29.Qc6 Be5 30.Bxc5 Qd7 31.Qxd7 Rxd7 32.Bf1 Kg7 33.Bb5 Rd2 34.Na6 Rcd8 
+35.Bd4 R8xd4 36.exd4 Bxd4 37.b7 Bxf2+ 38.Kg2 Ba7+ 39.Kh1 g5 40.b8=Q Bxb8  
+41.Nxb8 f4 42.gxf4 gxf4 43.Nd7 f3 44.Rg1+ Kf7 45.Ne5+ Kf6 46.Nc4 Rd5 47. 
+Ba6 Rh5 48.Kh2 Rc5 49.Kg3 Rg5+ 50.Kf2 Rc5 51.Rg3 Rd5 52.Rg4 Rd4 53.Ke3 Rd1 
+54.Kxe4 f2 55.Rf4+ 1-0 
+ 
+[Event "Cseppko Open 9th"] 
+[Site "Aggtelek"] 
+[Date "2000.??.??"] 
+[Round "?"] 
+[White "Varga, Peter"] 
+[Black "Rat, Dan-Ovidiu"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2435"] 
+[BlackElo "2366"] 
+[ECO "A10"] 
+ 
+1.c4 d6 2.Nc3 c5 3.Nf3 Nf6 4.d4 Nbd7 5.d5 g6 6.e4 Bg7 7.Bd3 O-O 8.h3 a6 9. 
+a4 Ne8 10.O-O e5 11.dxe6 fxe6 12.Bg5 Bf6 13.Be3 b6 14.Nh2 Ne5 15.Ng4 Nxg4  
+16.Qxg4 Ra7 17.Qe2 Ng7 18.Qd2 Bd4 19.Bg5 Bf6 20.Bxf6 Qxf6 21.Be2 Ne8 22. 
+Rad1 Re7 23.Qe3 Bb7 24.e5 Qxe5 25.Qxe5 dxe5 26.a5 bxa5 27.Na4 Rc7 28.Bg4  
+Ng7 29.Rd6 Kf7 1/2-1/2 

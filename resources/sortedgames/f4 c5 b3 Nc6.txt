@@ -1,0 +1,95 @@
+ 
+[Event "4NCL 2013-14"] 
+[Site "Hinckley ENG"] 
+[Date "2013.11.16"] 
+[Round "1.123"] 
+[White "McMichael, Richard J"] 
+[Black "Shaw, John"] 
+[Result "0-1"] 
+[WhiteElo "2224"] 
+[BlackElo "2422"] 
+[ECO "A02"] 
+[EventDate "2013.11.16"] 
+ 
+1.f4 c5 2.b3 Nc6 3.Bb2 Nf6 4.Nf3 g6 5.e4 Bg7 6.Bb5 O-O 7.Bxc6 bxc6 8.d3  
+Qc7 9.g3 d6 10.Qe2 Bh3 11.Nbd2 Qa5 12.Kd1 Bg4 13.Nc4 Qc7 14.h3 Bxf3 15. 
+Qxf3 d5 16.Be5 Qd7 17.Nd2 Rfd8 18.Ke2 c4 19.Rad1 cxd3+ 20.cxd3 Qb7 21.Rc1  
+Qa6 22.Rc2 dxe4 23.Nxe4 Nxe4 24.Qxe4 Bxe5 25.fxe5 Rd5 26.Re1 Rad8 27.e6 f5 
+28.Qc4 Qxc4 29.dxc4 Re5+ 30.Kf2 Rxe1 31.Kxe1 Rd6 32.Re2 Kg7 33.c5 Rd5 34. 
+b4 Kf6 35.Kf2 Re5 36.Rc2 Kxe6 37.b5 Kd7 38.a4 Re4 39.Ra2 Kc7 40.Kf3 e5 41. 
+g4 Rc4 42.gxf5 gxf5 43.bxc6 Kxc6 0-1 
+ 
+[Event "Subotica SER, Closed IM 2011"] 
+[Site "Subotica SER"] 
+[Date "2011.12.03"] 
+[Round "2"] 
+[White "Dinev, Dejan"] 
+[Black "Vasovski, Nikola"] 
+[Result "0-1"] 
+[WhiteElo "2398"] 
+[BlackElo "2299"] 
+[ECO "A02"] 
+[EventDate "2011.??.??"] 
+ 
+1.f4 c5 2.b3 Nc6 3.Bb2 d5 4.Nf3 Nf6 5.e3 g6 6.Bb5 Bd7 7.Nc3 d4 8.exd4 Nxd4 
+9.Bxd7+ Qxd7 10.O-O Bg7 11.Ne2 Nxf3+ 12.Rxf3 O-O 13.d3 Rfd8 14.Qe1 Qf5 15. 
+Ng3 Qd7 16.h3 Rac8 17.Kh1 e6 18.Be5 Rc6 19.a4 b6 20.Rd1 c4 21.b4 Rcc8 22. 
+b5 Qe7 23.d4 c3 24.Bxf6 Bxf6 25.Rxc3 Qb4 26.Ne4 Bxd4 27.Qh4 Bxc3 28.Rxd8+  
+Rxd8 29.Qxd8+ Kg7 30.Qd3 Bb2 31.g3 Qxa4 32.c3 Ba1 33.Kg1 Bb2 34.Kf1 Ba3  
+35.c4 Bb2 36.Ke2 Qa1 37.Qd2 Bd4 38.Kd3 e5 39.fxe5 Bxe5 40.Ke2 Qh1 41.Qd5  
+Qg2+ 42.Kd1 Qf3+ 43.Kc1 Qe3+ 44.Kc2 Bxg3 45.Nxg3 Qf2+ 46.Kb1 Qxg3 47.Qd4+  
+Kh6 48.Qd7 Qb3+ 49.Ka1 Qc3+ 50.Kb1 Qxc4 51.Kb2 Kg7 52.Ka3 a6 53.bxa6 Qxa6+ 
+54.Kb3 Qa1 55.Kc4 Qb2 56.Qd3 b5+ 57.Kc5 b4 58.Kd6 Qc3 0-1 
+ 
+[Event "Cez Cup GM 2011"] 
+[Site "Frydek Mistek CZE"] 
+[Date "2011.04.23"] 
+[Round "7"] 
+[White "Szablowski, Pawel"] 
+[Black "Krejci, Jan"] 
+[Result "1-0"] 
+[WhiteElo "2404"] 
+[BlackElo "2451"] 
+[ECO "A02"] 
+[EventDate "2011.04.18"] 
+ 
+1.f4 c5 2.b3 Nc6 3.Bb2 d6 4.Nf3 Nf6 5.e3 g6 6.Be2 Bg7 7.O-O O-O 8.Qe1 e5  
+9.fxe5 Ng4 10.Nc3 Ngxe5 11.Nxe5 Nxe5 12.Qg3 Be6 13.Rad1 h5 14.h3 h4 15.Qf2 
+d5 16.d4 Nd7 17.Qf4 Rc8 18.Bb5 g5 19.Qd6 Nb6 20.Qxd8 Rfxd8 21.Be2 f5 22. 
+Rd2 f4 23.Nd1 cxd4 24.Bxd4 Bxd4 25.Rxd4 f3 26.Bxf3 Rxc2 27.e4 Rxa2 28.exd5 
+Bf7 29.Ne3 Rb2 30.Rg4 Rxb3 31.Rxg5+ Kh8 32.Nf5 a5 33.Be4 Nxd5 34.Nd4 Re3  
+35.Rxf7 Rxe4 36.Nf5 Ne3 37.Rh5+ Kg8 38.Rg7+ 1-0 
+ 
+[Event "10. EICC"] 
+[Site "Budva MNE"] 
+[Date "2009.03.15"] 
+[Round "9"] 
+[White "Panic, Nenad"] 
+[Black "Veleski, Robert"] 
+[Result "1-0"] 
+[WhiteElo "2407"] 
+[BlackElo "2269"] 
+[ECO "A02"] 
+[EventDate "2009.03.06"] 
+ 
+1.f4 c5 2.b3 Nc6 3.Nf3 d5 4.e3 Nf6 5.Bb2 e6 6.Bb5 Qd6 7.Bxc6+ Qxc6 8.Ne5  
+Qc7 9.d3 b6 10.Nd2 a5 11.Ndf3 Ra7 12.Ng5 Qd6 13.Qf3 h6 14.Qh3 hxg5 15.Qxh8 
+gxf4 16.exf4 d4 17.O-O Bb7 18.Rae1 Nd5 19.Bc1 Nc3 20.f5 Bd5 21.fxe6 Bxe6  
+22.Bf4 Nd5 23.Nxf7 Qxf4 24.Rxf4 Nxf4 25.Ng5 Re7 26.Rf1 1-0 
+ 
+[Event "38. Olympiad women"] 
+[Site "Dresden GER"] 
+[Date "2008.11.25"] 
+[Round "11"] 
+[White "Michna, Marta"] 
+[Black "Tetenkina, Irina"] 
+[Result "1-0"] 
+[WhiteElo "2399"] 
+[BlackElo "2243"] 
+[ECO "A02"] 
+[EventDate "2008.11.13"] 
+ 
+1.f4 c5 2.b3 Nc6 3.Bb2 Nf6 4.Nf3 g6 5.e3 Bg7 6.Bb5 Qb6 7.Nc3 O-O 8.a4 a6  
+9.Bxc6 Qxc6 10.a5 d6 11.O-O Be6 12.Qe2 Nd5 13.Nxd5 Bxd5 14.Bxg7 Kxg7 15.f5 
+Be4 16.Nh4 Bxc2 17.d3 Bxb3 18.Qb2+ f6 19.Qxb3 g5 20.Nf3 Rab8 21.Rab1 h5  
+22.Qe6 Rf7 23.Qe4 d5 24.Qe6 Qa4 25.Qxd5 Qxa5 26.Nxg5 1-0 

@@ -1,0 +1,37 @@
+ 
+[Event "22. ECU Club Cup"] 
+[Site "Feugen AUT"] 
+[Date "2006.10.12"] 
+[Round "5"] 
+[White "Trevelyan, John D"] 
+[Black "Wagner, Step1"] 
+[Result "0-1"] 
+[WhiteElo "2228"] 
+[BlackElo "2231"] 
+[ECO "B01"] 
+[EventDate "2006.10.08"] 
+ 
+1.e4 d5 2.d3 Nc6 3.Nf3 dxe4 4.dxe4 Qxd1+ 5.Kxd1 Bg4 6.Be3 O-O-O+ 7.Kc1 Nf6 
+8.Nbd2 Bxf3 9.gxf3 e6 10.c3 a6 11.Kc2 Ne5 12.Be2 Be7 13.a4 Rhg8 14.b4 g5  
+15.b5 axb5 16.axb5 b6 17.Ra7 Rde8 18.Rha1 Nh5 19.Nb3 Nf4 20.Bd1 Bd6 21.Nd4 
+Kd7 22.h4 Nc4 23.Nc6 f6 24.hxg5 Rxg5 25.Bxf4 Bxf4 26.Be2 Nd6 27.e5 fxe5  
+28.Rh1 h5 29.Bd3 Rh8 30.Kd1 h4 31.Bf1 h3 32.Rxh3 Rxh3 33.Bxh3 Nxb5 34.Nb8+ 
+Kc8 0-1 
+ 
+[Event "Cup European Club"] 
+[Site "Fuegen AUT"] 
+[Date "2006.10.12"] 
+[Round "5"] 
+[White "Trevelyan, John D"] 
+[Black "Wagner, Stephan"] 
+[Result "0-1"] 
+[WhiteElo "2228"] 
+[BlackElo "2231"] 
+[ECO "B01"] 
+ 
+1.e4 d5 2.d3 Nc6 3.Nf3 dxe4 4.dxe4 Qxd1+ 5.Kxd1 Bg4 6.Be3 O-O-O+ 7.Kc1 Nf6 
+8.Nbd2 Bxf3 9.gxf3 e6 10.c3 a6 11.Kc2 Ne5 12.Be2 Be7 13.a4 Rhg8 14.b4 g5  
+15.b5 axb5 16.axb5 b6 17.Ra7 Rde8 18.Rha1 Nh5 19.Nb3 Nf4 20.Bd1 Bd6 21.Nd4 
+Kd7 22.h4 Nc4 23.Nc6 f6 24.hxg5 Rxg5 25.Bxf4 Bxf4 26.Be2 Nd6 27.e5 fxe5  
+28.Rh1 h5 29.Bd3 Rh8 30.Kd1 h4 31.Bf1 h3 32.Rxh3 Rxh3 33.Bxh3 Nxb5 34.Nb8+ 
+Kc8 0-1 

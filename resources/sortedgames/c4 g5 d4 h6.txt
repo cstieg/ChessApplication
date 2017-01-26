@@ -1,0 +1,23 @@
+ 
+[Event "Mashantucket USA, Foxwoods 2055"] 
+[Site "Mashantucket, CT USA"] 
+[Date "2005.03.18"] 
+[Round "9"] 
+[White "Ebner, Hubert"] 
+[Black "Kroell, Johannes"] 
+[Result "1-0"] 
+[WhiteElo "2258"] 
+[BlackElo "2234"] 
+[ECO "A10"] 
+[EventDate "2005.??.??"] 
+ 
+1.c4 g5 2.d4 h6 3.e4 d6 4.Nc3 Bg7 5.Be3 Nc6 6.Nge2 e5 7.Qd2 f5 8.exf5 Bxf5 
+9.Ng3 Bg6 10.d5 Nb4 11.Nce4 a5 12.a3 Na6 13.Qxa5 Ne7 14.Qb5+ Qd7 15.Qxd7+  
+Kxd7 16.Be2 b6 17.h4 Nc5 18.Bg4+ Ke8 19.Nxc5 bxc5 20.hxg5 hxg5 21.Rxh8+  
+Bxh8 22.Bxg5 Bd3 23.Be2 e4 24.Bxd3 Bxb2 25.Ra2 Bc3+ 26.Bd2 Bxd2+ 27.Kxd2  
+exd3 28.Kxd3 Ng6 29.Kc3 Kd7 30.Ne4 Ne5 31.a4 Rb8 32.f4 Ng4 33.a5 Re8 34.a6 
+Kc8 35.Rb2 Kd7 36.Kd3 Ra8 37.Ra2 c6 38.dxc6+ Kxc6 39.Ke2 d5 40.cxd5+ Kxd5  
+41.Ra4 c4 42.Nc3+ Kd4 43.Kd2 Kc5 44.a7 Kb6 45.Nd5+ Kb7 46.Kc3 Rxa7 47. 
+Rxa7+ Kxa7 48.Kxc4 Kb7 49.Kd4 Kc6 50.Ne3 Nh6 51.Ke5 Kd7 52.Kf6 Ke8 53.Kg7  
+Nf7 54.g4 Nd6 55.f5 Ne4 56.f6 Ng5 57.Nf5 Ne6+ 58.Kg8 Ng5 59.Ng7+ Kd7 60.f7 
+1-0 

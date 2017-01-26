@@ -1,0 +1,37 @@
+ 
+[Event "Hanoi VIE, Ch U9 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.12"] 
+[Round "1.14"] 
+[White "Nguyen, The Van"] 
+[Black "Nguyen, Quoc Anh"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2587"] 
+[BlackElo "2547"] 
+[ECO "A80"] 
+[EventDate "2012.07.12"] 
+ 
+1.d4 f5 2.c3 e6 3.Nd2 Nf6 4.f3 d5 5.e3 Bd6 6.Bd3 O-O 7.Ne2 b6 8.Qc2 Bb7 9. 
+b3 Nh5 10.Nf1 Qh4+ 11.g3 Qe7 12.Bb2 Nd7 13.O-O-O Nhf6 14.Nd2 c5 15.e4 fxe4 
+16.fxe4 dxe4 17.Nxe4 Ng4 18.Rd2 Rac8 19.Nxd6 Qxd6 20.dxc5 Qc6 21.Bxh7+ Kh8 
+22.Rhd1 Ne3 23.Qg6 Nxd1 24.Rxd1 Rf6 25.Qc2 Rh6 26.Bg6 Nf8 27.Nf4 e5 28.Bf5 
+exf4 29.Bxc8 Qxc8 30.gxf4 bxc5 31.c4 Nd7 32.Qf5 Bc6 33.Qg5 Rh7 34.Rg1 Qf8  
+35.h4 Nf6 36.Be5 Be8 37.Kb2 Ne4 38.Qg2 Nf6 39.Qg5 Qe7 40.Ka3 Qd8 1/2-1/2 
+ 
+[Event "Open"] 
+[Site "Pune IND"] 
+[Date "2004.09.03"] 
+[Round "1"] 
+[White "Roktim, Bandyopadhyay"] 
+[Black "Dzhumaev, Marat"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2331"] 
+[BlackElo "2520"] 
+[ECO "A80"] 
+[EventDate "2004.09.03"] 
+ 
+1.d4 f5 2.c3 e6 3.Nf3 Nf6 4.Bg5 d5 5.Nbd2 Bd6 6.g3 O-O 7.Bg2 Nbd7 8.O-O  
+Qe8 9.e3 c6 10.Bxf6 Rxf6 11.c4 Rh6 12.Ne1 Nf6 13.Nd3 Bd7 14.Rc1 Qe7 15.Nf3 
+Be8 16.Nfe5 Bh5 17.f3 dxc4 18.Rxc4 Rd8 19.Qe1 Be8 20.Rc2 Nd5 21.a3 Bc7 22. 
+f4 Rf6 23.Bxd5 Rxd5 24.Qb4 Bd6 25.Qc3 Rf8 26.Nc4 Bb8 27.Qb4 Rf7 28.Qxe7  
+Rxe7 29.b4 Kf8 30.a4 Rc7 1/2-1/2 

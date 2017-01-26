@@ -1,0 +1,19 @@
+ 
+[Event "IMA"] 
+[Site "Gausdal NOR"] 
+[Date "2005.04.14"] 
+[Round "2"] 
+[White "Ghannoum, Marc"] 
+[Black "Westerinen, Heikki M J"] 
+[Result "0-1"] 
+[WhiteElo "2252"] 
+[BlackElo "2365"] 
+[ECO "C00"] 
+[EventDate "2005.04.13"] 
+ 
+1.e4 e6 2.b3 Nf6 3.e5 Nd5 4.Bb2 Nc6 5.c4 Nf4 6.g3 Ng6 7.f4 d6 8.d4 dxe5 9. 
+dxe5 Qxd1+ 10.Kxd1 Bd7 11.Nf3 O-O-O 12.a3 Na5 13.Kc2 Bc6 14.Be2 Nxb3 15. 
+Kxb3 Bxf3 16.Bxf3 Rd3+ 17.Kc2 Rxf3 18.Bd4 Be7 19.c5 Rd8 20.Nd2 Rxf4 21. 
+gxf4 Rxd4 22.c6 bxc6 23.Rhf1 Nxf4 24.Rf2 g5 25.h4 gxh4 26.Raf1 Nd5 27.Rxf7 
+Bxa3 28.R1f3 Bb4 29.Rd3 Rg4 30.Rxh7 c5 31.Nf3 c4 32.Rd4 Rg2+ 33.Kd1 Ne3+  
+34.Kc1 Ba3+ 35.Kb1 Rb2+ 36.Kc1 Rf2+ 37.Kb1 Rxf3 0-1 

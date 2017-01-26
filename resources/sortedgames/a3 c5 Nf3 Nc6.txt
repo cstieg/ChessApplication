@@ -1,0 +1,15 @@
+ 
+[Event "TUR-BUL Chess Summit"] 
+[Site "Istanbul TUR"] 
+[Date "2002.04.30"] 
+[Round "12"] 
+[White "Bayram, Yakup"] 
+[Black "Velcheva, Maria"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2312"] 
+[BlackElo "2327"] 
+[ECO "A00"] 
+[EventDate "2002.04.25"] 
+ 
+1.a3 c5 2.Nf3 Nc6 3.c4 Nf6 4.g3 e5 5.Bg2 d5 6.cxd5 Nxd5 7.d3 Be7 8.O-O Be6 
+9.Nc3 O-O 10.Bd2 h6 11.Rc1 Rc8 1/2-1/2 

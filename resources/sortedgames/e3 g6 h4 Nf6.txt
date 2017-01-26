@@ -1,0 +1,39 @@
+ 
+[Event "Goteborg Open 2015"] 
+[Site "Molnlycke SWE"] 
+[Date "2015.08.16"] 
+[Round "7.4"] 
+[White "Fries-Nielsen, Jens Ove"] 
+[Black "Byklum, Bjornar"] 
+[Result "0-1"] 
+[WhiteElo "2434"] 
+[BlackElo "2283"] 
+[ECO "A00"] 
+[EventDate "2015.08.14"] 
+ 
+1.e3 g6 2.h4 Nf6 3.g4 d5 4.g5 Ne4 5.d3 Nd6 6.h5 c6 7.hxg6 fxg6 8.Nc3 Bg7  
+9.Qf3 e5 10.e4 d4 11.Nce2 Nd7 12.Qg3 Nf7 13.Bh3 Qe7 14.Bd2 a5 15.c3 dxc3  
+16.bxc3 Nc5 17.Bg2 b6 18.Rb1 Ba6 19.Nc1 Rd8 20.c4 Qc7 21.Nge2 Rd6 22.Be3  
+Qd8 23.O-O O-O 24.Nc3 Bc8 25.Rd1 Be6 26.Bf3 Nxd3 27.Bxb6 Qd7 28.c5 Rd4 29. 
+N1e2 Nf4 30.Nxd4 exd4 31.Nd5 Nh3+ 32.Kh1 Nfxg5 33.Bg2 cxd5 34.c6 Qxc6 35. 
+Bxd4 Bxd4 36.Rxd4 Nxf2+ 37.Kg1 Nfxe4 38.Qe3 Kg7 39.Rc1 Qd6 40.Rd3 Qf4 41. 
+Qd4+ Qf6 42.Rc7+ Rf7 43.Rxf7+ Bxf7 44.Qxf6+ Kxf6 45.Ra3 Ke5 46.Rxa5 Kf4  
+47.a4 d4 48.Rb5 d3 49.Bf1 d2 50.Be2 Bc4 0-1 
+ 
+[Event "Resolution ch-VIE 2014"] 
+[Site "Bac Giang VIE"] 
+[Date "2014.12.06"] 
+[Round "2.13"] 
+[White "Hoang, Van Ngoc"] 
+[Black "To, Nhat Minh"] 
+[Result "0-1"] 
+[WhiteElo "2204"] 
+[BlackElo "2354"] 
+[ECO "A00"] 
+[EventDate "2014.12.05"] 
+ 
+1.e3 g6 2.h4 Nf6 3.Be2 h5 4.d3 d5 5.Nd2 c5 6.Ndf3 Nc6 7.Kf1 Bg7 8.Ne1 e5  
+9.c3 Ng4 10.g3 Be6 11.Nh3 f6 12.Bd2 a5 13.Ng2 Qd7 14.Ng1 O-O 15.Be1 Rad8  
+16.Rc1 f5 17.f4 d4 18.exd4 cxd4 19.c4 exf4 20.gxf4 Rfe8 21.Rc2 Qc7 22.Bg3  
+Nb4 23.Rd2 Ne3+ 24.Nxe3 dxe3 25.Rc2 Nxc2 26.Qxc2 b5 27.b3 bxc4 28.bxc4 Rb8 
+29.Nf3 Rb2 30.Qd1 Reb8 31.Kg2 Rxe2+ 32.Kh3 Rxa2 0-1 

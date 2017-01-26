@@ -1,0 +1,72 @@
+ 
+[Event "8. Batavia Blitz 2016"] 
+[Site "Amsterdam NED"] 
+[Date "2016.02.18"] 
+[Round "9.5"] 
+[White "Van Foreest, Lucas"] 
+[Black "Soors, S"] 
+[Result "0-1"] 
+[WhiteElo "2350"] 
+[BlackElo "2390"] 
+[ECO "C47"] 
+[EventDate "2016.02.18"] 
+ 
+1.a3 e5 2.e4 Nf6 3.Nc3 Nc6 4.Nf3 Bc5 5.Nxe5 Nxe5 6.d4 Bd6 7.f4 Ng6 8.e5  
+Be7 9.exf6 Bxf6 10.Be3 d5 11.Qh5 c6 12.O-O-O Qd7 13.h3 Qf5 14.Qf3 Nh4 15. 
+Qf2 h5 16.g3 Ng6 17.g4 hxg4 18.hxg4 Qxg4 19.Rxh8+ Nxh8 20.Be2 Qe6 21.Na4  
+b6 22.Bd3 g6 23.Re1 Kd8 24.f5 gxf5 25.Bg5 Bxg5+ 0-1 
+ 
+[Event "Philippine Int Open 2014"] 
+[Site "Quezon City PHI"] 
+[Date "2014.12.09"] 
+[Round "5.7"] 
+[White "Roque, M."] 
+[Black "Grigoryan, Avetik"] 
+[Result "0-1"] 
+[WhiteElo "2271"] 
+[BlackElo "2580"] 
+[ECO "C26"] 
+[EventDate "2014.12.06"] 
+ 
+1.a3 e5 2.e4 Nf6 3.Nc3 d5 4.exd5 Nxd5 5.Qh5 Qd6 6.Nf3 Nxc3 7.dxc3 Nd7 8. 
+Bb5 c6 9.Bc4 Qg6 10.Qxg6 hxg6 11.Be3 f6 12.h3 Bc5 13.Bxc5 Nxc5 14.O-O-O  
+Be6 15.Bxe6 Nxe6 16.g3 g5 17.h4 gxh4 18.Nxh4 Rd8 19.Nf5 Rxh1 20.Rxh1 Kf7  
+21.Rd1 Rxd1+ 22.Kxd1 Nc5 23.Kd2 g6 24.Ne3 f5 25.c4 Ke6 26.f3 f4 27.Nf1 Kf5 
+28.g4+ Kg5 29.b4 Nd7 30.Kd3 Nf6 31.Nd2 Kh4 32.Ne4 Nxe4 33.Kxe4 Kg3 34.c5  
+g5 35.c4 a6 36.a4 a5 37.bxa5 Kf2 38.a6 bxa6 39.a5 Ke2 40.Kxe5 Kxf3 41.Kd6  
+Kxg4 42.Kxc6 f3 43.Kb7 f2 44.c6 f1=Q 45.c7 Qf3+ 46.Ka7 Qe3+ 47.Kb7 Qb3+  
+48.Kxa6 Qxc4+ 49.Kb6 Qe6+ 50.Kb7 0-1 
+ 
+[Event "Sri Lanka Asian Men Zonal (Zone 3.1b)"] 
+[Site "Sri Lanka"] 
+[Date "2001.05.06"] 
+[Round "3"] 
+[White "Ganguly, Surya Shekhar"] 
+[Black "Reefat, Bin-Sattar"] 
+[Result "1-0"] 
+[WhiteElo "2456"] 
+[BlackElo "2455"] 
+[ECO "C26"] 
+ 
+1.a3 e5 2.e4 Nf6 3.Nc3 d5 4.exd5 Nxd5 5.Qh5 Qd6 6.Nf3 Nxc3 7.dxc3 Nd7 8. 
+Bg5 g6 9.Qh4 f6 10.Be3 Bg7 11.Rd1 Qe7 12.b4 Nb6 13.Bc5 Qe6 14.Qe4 Qg4 15. 
+Qe3 Bd7 16.h3 Qe6 17.Be2 O-O-O 18.O-O Nd5 19.Rxd5 Qxd5 20.Be7 Rde8 21.Qxa7 
+b5 22.Rd1 Qb7 23.Qxb7+ Kxb7 24.Rxd7 Kc6 25.Bxb5+ Kxb5 26.Bc5 1-0 
+ 
+[Event "FSGM April"] 
+[Site "Budapest HUN"] 
+[Date "2000.04.07"] 
+[Round "7"] 
+[White "Kallio, Heikki"] 
+[Black "Balogh, Csaba"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2452"] 
+[BlackElo "2356"] 
+[ECO "C47"] 
+[EventDate "2000.04.01"] 
+ 
+1.a3 e5 2.e4 Nf6 3.Nc3 Nc6 4.Nf3 Bc5 5.Bc4 O-O 6.d3 a6 7.Bg5 h6 8.Bh4 Be7  
+9.h3 Nxe4 10.Bxe7 Nxc3 11.Bxd8 Nxd1 12.Bxc7 Nxb2 13.Bb3 b5 14.O-O Re8 15. 
+Rfe1 Na4 16.Nxe5 Nxe5 17.Bd5 Bb7 18.Bxb7 Ra7 19.Rxe5 Rxe5 20.Bxe5 Rxb7 21. 
+Re1 Rb6 22.Bd4 Rc6 23.Re8+ Kh7 24.Re7 Kg6 25.Rxd7 Rxc2 26.Rd6+ f6 27.Rxa6  
+1/2-1/2 

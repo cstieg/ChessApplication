@@ -1,0 +1,34 @@
+ 
+[Event "Hanoi VIE, Ch U9 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.15"] 
+[Round "6.39"] 
+[White "Pham, Anh Dang"] 
+[Black "Huynh, Trinh Dang Nguyen"] 
+[Result "0-1"] 
+[WhiteElo "2545"] 
+[BlackElo "2531"] 
+[ECO "A00"] 
+[EventDate "2012.07.12"] 
+ 
+1.c3 e5 2.Nf3 Nc6 3.d4 e4 4.Ng5 d5 5.e3 Be7 6.h4 Bxg5 7.hxg5 Qxg5 8.g3 Bg4 
+9.Be2 Nf6 10.f3 exf3 11.Bxf3 Qf5 12.Rf1 Qe6 13.Nd2 Qxe3+ 14.Qe2 Qxe2+ 15. 
+Bxe2 Bxe2 16.Kxe2 O-O-O 17.Kd1 Rhe8 18.Nf3 Re7 19.Bd2 Rd6 20.Kc2 Ne4 21. 
+Bf4 g5 22.Nxg5 Nxg5 23.Bxg5 Re2+ 24.Kc1 Rg2 25.Bf4 Re6 26.Rh1 Ree2 27.Kb1  
+Rxb2+ 28.Kc1 Rbc2+ 29.Kb1 Rxc3 0-1 
+ 
+[Event "Hanoi VIE, Ch U9 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.14"] 
+[Round "4.37"] 
+[White "Pham, Anh Dang"] 
+[Black "Dang, Le Viet Cuong"] 
+[Result "0-1"] 
+[WhiteElo "2545"] 
+[BlackElo "2546"] 
+[ECO "A00"] 
+[EventDate "2012.07.12"] 
+ 
+1.c3 e5 2.Nf3 Nc6 3.Ng5 Qxg5 4.d4 Qd8 5.e3 exd4 6.cxd4 d5 7.Qf3 Be7 8.e4  
+dxe4 9.Qxe4 Nf6 10.Qf4 O-O 11.Bd3 Qxd4 12.Qf3 Ne5 13.Be3 Nxf3+ 14.gxf3  
+Qxb2 15.a3 Qxa1 16.Bf4 Bxa3 17.Bxc7 0-1 

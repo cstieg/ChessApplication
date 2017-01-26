@@ -1,0 +1,19 @@
+ 
+[Event "Aarhus Chess House IM"] 
+[Site "Aarhus DEN"] 
+[Date "2015.02.08"] 
+[Round "3.4"] 
+[White "Baekgaard, Martin"] 
+[Black "Fries-Nielsen, Jens Ove"] 
+[Result "0-1"] 
+[WhiteElo "2314"] 
+[BlackElo "2433"] 
+[ECO "A40"] 
+[EventDate "2015.02.07"] 
+ 
+1.d4 e6 2.c4 Ne7 3.Nc3 d5 4.Nf3 Nbc6 5.e3 h6 6.b3 g5 7.Bb2 Bg7 8.Rc1 a6 9. 
+Bd3 f5 10.O-O O-O 11.a3 g4 12.Nd2 h5 13.Ne2 Ng6 14.b4 Nce7 15.Qc2 Bd7 16. 
+a4 dxc4 17.Bxc4 Kh7 18.b5 axb5 19.axb5 b6 20.Ra1 Rc8 21.Qb3 Qe8 22.f4 Nd5  
+23.Rfe1 c6 24.Nc3 Nge7 25.bxc6 Bxc6 26.Nb5 Rd8 27.Ra7 h4 28.g3 Qh5 29.e4  
+hxg3 30.hxg3 fxe4 31.Nxe4 Rh8 32.Nf2 Kg8 33.Rxe6 Qh2+ 34.Kf1 Nf5 35.Ra3  
+Rh3 36.Rxc6 Nxg3+ 37.Ke1 Qg1+ 38.Kd2 Qxf2+ 39.Kc1 Rh1+ 0-1 

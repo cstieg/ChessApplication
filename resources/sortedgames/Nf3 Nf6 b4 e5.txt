@@ -1,0 +1,64 @@
+ 
+[Event "Troya Open"] 
+[Site "Canakkale TUR"] 
+[Date "2010.08.14"] 
+[Round "8"] 
+[White "Grigoriev, A"] 
+[Black "Odeev, Handszar"] 
+[Result "0-1"] 
+[WhiteElo "2281"] 
+[BlackElo "2410"] 
+[ECO "A05"] 
+[EventDate "2010.08.07"] 
+ 
+1.Nf3 Nf6 2.b4 e5 3.Nxe5 Bxb4 4.g3 O-O 5.Bg2 Re8 6.Nf3 d5 7.O-O Bg4 8.h3  
+Bxf3 9.Bxf3 Nbd7 10.c3 Bd6 11.d3 c6 12.Nd2 Qa5 13.Qc2 Qc7 14.Nb3 Re7 15. 
+Nd4 g6 16.Bg2 a6 17.Rb1 Rae8 18.e3 Ne5 19.c4 dxc4 20.dxc4 Ned7 21.Qb2 Rb8  
+22.Qc2 Rbe8 23.Ne2 Ne4 24.Bb2 Ndc5 25.Bd4 f5 26.Nf4 Be5 27.Rfd1 Bg7 28.Qb2 
+Na4 29.Qb3 Nac3 30.c5+ Kh8 31.Bxe4 Nxe4 32.Qc4 Be5 33.Rb3 Bxd4 34.Qxd4+  
+Kg8 35.Qc4+ Kg7 36.Rbd3 Qe5 37.Rc1 Qb2 38.Rc2 Qb5 39.Qd4+ Kh6 40.Rd1 Qa5  
+41.Kg2 Re5 42.Rdc1 Qc7 43.Rd1 Qe7 44.Rdc1 Rd8 45.Qb4 b5 46.Qa3 Qb7 47.Qa5  
+Rd7 48.Qb6 Qc8 49.Ne2 Nf6 50.Nd4 Rc7 51.Qa5 Nd5 52.Qd2 Kg7 53.Nf3 Re8 54. 
+Qd4+ Kg8 55.Ng5 Rce7 56.h4 h6 57.Nf3 Re4 58.Qb2 f4 59.Nd2 Rb4 60.Nb3 fxg3  
+61.fxg3 Rxe3 62.Re2 Nf4+ 63.gxf4 Qg4+ 64.Kf1 Rxf4+ 65.Rf2 Qh3+ 66.Kg1 Rg3+ 
+67.Rg2 Rxg2+ 68.Qxg2 Qe3+ 69.Kh1 Rxh4+ 70.Qh2 Qf3+ 71.Kg1 Rg4+ 0-1 
+ 
+[Event "Pan-American Teams"] 
+[Site "Menden BRA"] 
+[Date "2009.08.11"] 
+[Round "3"] 
+[White "Dominguez, JM."] 
+[Black "Mosquera, Miguel"] 
+[Result "1-0"] 
+[WhiteElo "2368"] 
+[BlackElo "2393"] 
+[ECO "A05"] 
+[EventDate "2009.08.09"] 
+ 
+1.Nf3 Nf6 2.b4 e5 3.Nxe5 Bxb4 4.c4 O-O 5.Bb2 d5 6.e3 Re8 7.Be2 Bd6 8.Nf3  
+c5 9.d3 Nc6 10.cxd5 Nxd5 11.Nbd2 Ne5 12.Nc4 Nxc4 13.dxc4 Nb4 14.a3 Nc6 15. 
+Qc2 Qe7 16.h4 h6 17.O-O-O Nd4 18.exd4 Qxe2 19.Rhe1 Qxc2+ 20.Kxc2 Bg4 21.d5 
+f6 22.Rxe8+ Rxe8 23.Re1 Rxe1 24.Nxe1 Kf7 25.a4 Be2 26.Nd3 Kg6 27.Bc1 Kf5  
+28.f3 h5 29.Be3 b6 30.Kc3 Bxd3 31.Kxd3 Bg3 32.Bg1 Ke5 33.a5 f5 34.Be3 Bxh4 
+35.Bd2 g6 36.a6 f4 37.Bc3+ Kf5 38.Bg7 Be7 39.Kc3 g5 40.Kd2 g4 41.Ke1 Bd8  
+42.d6 b5 1-0 
+ 
+[Event "Pan-American Teams"] 
+[Site "Mendes BRA"] 
+[Date "2009.08.11"] 
+[Round "3"] 
+[White "Dominguez, JM"] 
+[Black "Mosquera, Miguel"] 
+[Result "1-0"] 
+[WhiteElo "2368"] 
+[BlackElo "2393"] 
+[ECO "A05"] 
+[EventDate "2009.08.09"] 
+ 
+1.Nf3 Nf6 2.b4 e5 3.Nxe5 Bxb4 4.c4 O-O 5.Bb2 d5 6.e3 Re8 7.Be2 Bd6 8.Nf3  
+c5 9.d3 Nc6 10.cxd5 Nxd5 11.Nbd2 Ne5 12.Nc4 Nxc4 13.dxc4 Nb4 14.a3 Nc6 15. 
+Qc2 Qe7 16.h4 h6 17.O-O-O Nd4 18.exd4 Qxe2 19.Rhe1 Qxc2+ 20.Kxc2 Bg4 21.d5 
+f6 22.Rxe8+ Rxe8 23.Re1 Rxe1 24.Nxe1 Kf7 25.a4 Be2 26.Nd3 Kg6 27.Bc1 Kf5  
+28.f3 h5 29.Be3 b6 30.Kc3 Bxd3 31.Kxd3 Bg3 32.Bg1 Ke5 33.a5 f5 34.Be3 Bxh4 
+35.Bd2 g6 36.a6 f4 37.Bc3+ Kf5 38.Bg7 Be7 39.Kc3 g5 40.Kd2 g4 41.Ke1 Bd8  
+42.d6 b5 1-0 

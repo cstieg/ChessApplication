@@ -1,0 +1,40 @@
+ 
+[Event "ITT 76 Final Bogata 2014"] 
+[Site "Bogota COL"] 
+[Date "2014.03.30"] 
+[Round "8.2"] 
+[White "Rivera, Alberto"] 
+[Black "Valle, Efrain"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2342"] 
+[BlackElo "2201"] 
+[ECO "A40"] 
+[EventDate "2014.03.25"] 
+ 
+1.d4 Nc6 2.c4 d6 3.Nc3 e5 4.e3 Nf6 5.Nf3 Be7 6.Qb3 O-O 7.Be2 exd4 8.exd4  
+d5 9.cxd5 Nb4 10.Bg5 Nbxd5 11.Nxd5 Qxd5 12.Qxd5 Nxd5 13.Bxe7 Nxe7 14.Rc1  
+c6 15.Bc4 Bg4 16.Ne5 Bf5 17.Kd2 Be4 18.f3 Bd5 19.Bxd5 Nxd5 20.Nd3 Rfe8 21. 
+Rhe1 Kf8 1/2-1/2 
+ 
+[Event "2. Subasic Memorial"] 
+[Site "Zenica BIH"] 
+[Date "2003.12.10"] 
+[Round "7"] 
+[White "Rajkovic, Dusan"] 
+[Black "Mestrovic, Zvonimir"] 
+[Result "1-0"] 
+[WhiteElo "2449"] 
+[BlackElo "2397"] 
+[ECO "A41"] 
+[EventDate "2003.12.06"] 
+ 
+1.d4 Nc6 2.c4 d6 3.Nc3 e5 4.Nf3 Bg4 5.d5 Nce7 6.e4 Ng6 7.g3 Nf6 8.h3 Bd7  
+9.h4 Be7 10.c5 O-O 11.Qb3 Bg4 12.Nh2 Bc8 13.cxd6 Bxd6 14.Be3 a6 15.Be2 b5  
+16.h5 Ne7 17.g4 b4 18.g5 Nxh5 19.Bxh5 bxc3 20.Qxc3 Ng6 21.O-O-O Qe7 22.Ng4 
+Rb8 23.Rdg1 Rb5 24.Rh2 Bxg4 25.Bxg4 Rfb8 26.f3 Bb4 27.Qd3 Nf4 28.Qc4 Bc5  
+29.Qc3 Rxb2 30.Rxb2 Ba3 31.Bc5 Bxb2+ 32.Kc2 Qe8 33.Qc4 Qb5 34.Qxb5 Rxb5  
+35.Be7 Bd4 36.Rb1 Rxb1 37.Kxb1 h5 38.gxh6 gxh6 39.Bd8 h5 40.Bf5 Kf8 41. 
+Bxc7 Ke8 42.Bc8 Ng6 43.d6 Nf8 44.Bxa6 h4 45.Bb5+ Nd7 46.Bf1 Nc5 47.Kc2 Kd7 
+48.Bh3+ Kc6 49.Bd8 Bf2 50.Be7 Ne6 51.Kd2 Bg3 52.a4 Bf2 53.Bg4 Bg3 54.Kd1  
+Bf2 55.Ke2 Bc5 56.Bxe6 fxe6 57.Bxh4 Bxd6 58.Bf2 Bb4 59.Kd3 Ba5 60.Kc4 Bd2  
+61.Bg3 Kd6 62.Kb5 Be3 63.a5 Bd4 64.a6 1-0 

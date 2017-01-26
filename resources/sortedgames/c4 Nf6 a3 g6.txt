@@ -1,0 +1,19 @@
+ 
+[Event "Open A"] 
+[Site "Groningen NED"] 
+[Date "2012.12.27"] 
+[Round "6.4"] 
+[White "Burg, Twan"] 
+[Black "Bok, Benjamin"] 
+[Result "0-1"] 
+[WhiteElo "2498"] 
+[BlackElo "2522"] 
+[ECO "A15"] 
+[EventDate "2012.12.21"] 
+ 
+1.c4 Nf6 2.a3 g6 3.b4 Bg7 4.Bb2 O-O 5.h4 d6 6.e3 e5 7.Be2 h5 8.Nf3 Re8 9. 
+d3 Nbd7 10.Nbd2 c6 11.Ng5 d5 12.cxd5 cxd5 13.O-O Nf8 14.Rc1 Ng4 15.Qc2 f6  
+16.Ngf3 Ne6 17.Qb3 Kh8 18.g3 b6 19.Nh2 Nxh2 20.Kxh2 Bb7 21.Bf3 Qd7 22.Bg2  
+Rad8 23.Rfe1 d4 24.Bxb7 Qxb7 25.e4 Bh6 26.Re2 Qd7 27.Rc4 Nf4 28.gxf4 Qg4  
+29.f3 Bxf4+ 30.Kh1 Qh3+ 31.Kg1 Be3+ 32.Rxe3 Qg3+ 33.Kh1 dxe3 34.Rc7 e2 35. 
+Qf7 e1=R+ 36.Nf1 Rxf1# 0-1 

@@ -1,0 +1,55 @@
+ 
+[Event "FSIM October 2015"] 
+[Site "Budapest HUN"] 
+[Date "2015.10.12"] 
+[Round "9.3"] 
+[White "Alonso Bouza, Julio Javier"] 
+[Black "Prorok, Marton"] 
+[Result "0-1"] 
+[WhiteElo "2290"] 
+[BlackElo "2304"] 
+[ECO "B27"] 
+[EventDate "2015.10.03"] 
+ 
+1.e4 c5 2.Nf3 f5 3.exf5 d5 4.Nh4 Nf6 5.Be2 e5 6.Bh5+ Kd7 7.d4 cxd4 8.O-O  
+Nc6 9.c3 Bc5 10.b4 Be7 11.b5 Nxh5 12.bxc6+ bxc6 13.Qxh5 Bxh4 14.cxd4 Bf6  
+15.Ba3 Kc7 16.Re1 exd4 17.Nd2 Bd7 18.Qf3 Re8 19.Bd6+ Kxd6 20.Qg3+ Be5 21. 
+Rxe5 Rxe5 22.Nf3 Qf6 23.Re1 Re8 24.Nxd4 c5 25.Nf3 Bxf5 26.h3 d4 27.Nd2 Kc6 
+28.Qf3+ Kc7 29.Rxe5 Qxe5 30.Nc4 Qe6 31.Qg3+ Kd7 32.Qb3 Qe1+ 33.Kh2 Qxf2  
+34.Qb7+ Ke6 35.Qc6+ Ke7 36.Qxc5+ Kf6 37.Qc6+ Re6 38.Qc7 Re2 39.Qd8+ Kg6  
+40.Qd6+ Kh5 41.Qd5 Qf4+ 0-1 
+ 
+[Event "12. ch-EUR"] 
+[Site "Aix-les-Bains FRA"] 
+[Date "2011.03.27"] 
+[Round "6.91"] 
+[White "Hovhannisyan, Robert"] 
+[Black "Shirazi, Kamran"] 
+[Result "1-0"] 
+[WhiteElo "2560"] 
+[BlackElo "2403"] 
+[ECO "B27"] 
+[EventDate "2011.03.22"] 
+ 
+1.e4 c5 2.Nf3 f5 3.exf5 Nh6 4.d4 Nxf5 5.Bd3 cxd4 6.O-O d6 7.Bxf5 Bxf5 8. 
+Nxd4 Qd7 9.Nxf5 Qxf5 10.Re1 Nc6 11.Qxd6 Rd8 12.Qf4 Qxf4 13.Bxf4 Nd4 14.Na3 
+e6 15.c3 Bxa3 16.cxd4 Bxb2 17.Rxe6+ Kf7 18.Rae1 Rd7 19.d5 Bc3 20.R1e3 Rc8  
+21.d6 Bf6 22.g4 Rc4 23.R6e4 Rxe4 24.Rxe4 g5 25.Bg3 Bg7 26.Kg2 h6 27.Ra4 b6 
+28.f4 gxf4 29.Rxf4+ Ke6 30.Re4+ Kd5 31.Kf3 Bf8 32.Re5+ Kc6 33.Rf5 Bxd6 34. 
+Rf6 Kd5 35.Rxh6 Rf7+ 36.Kg2 Bc5 37.h4 Re7 38.Rh5+ Ke4 39.Rf5 Be3 40.h5 a6  
+41.Rf6 a5 42.Bd6 Re8 43.h6 Rh8 44.Bf8 Bg5 45.Rg6 Kf4 46.Bg7 Re8 47.h7 Re2+ 
+48.Kg1 1-0 
+ 
+[Event "56. ch-GRE"] 
+[Site "Salonica GRE"] 
+[Date "2006.11.28"] 
+[Round "2"] 
+[White "Nikolaidis, Ioannis"] 
+[Black "Banikas, Hristos"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2536"] 
+[BlackElo "2568"] 
+[ECO "B27"] 
+[EventDate "2006.11.27"] 
+ 
+1.e4 c5 2.Nf3 f5 3.exf5 Nf6 4.d4 d5 5.dxc5 Bxf5 6.Bd3 Bg4 7.O-O e5 1/2-1/2 

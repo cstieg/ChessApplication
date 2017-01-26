@@ -1,0 +1,20 @@
+ 
+[Event "30. World Open"] 
+[Site "Philadelphia, PA USA"] 
+[Date "2002.06.29"] 
+[Round "1"] 
+[White "Tate, Emory"] 
+[Black "Vovsha, Eli"] 
+[Result "0-1"] 
+[WhiteElo "2352"] 
+[BlackElo "2411"] 
+[ECO "B20"] 
+[EventDate "2002.06.29"] 
+ 
+1.c4 d6 2.e4 c5 3.Nf3 Bg4 4.Nc3 Nc6 5.Be2 g6 6.a3 Bg7 7.Rb1 Nf6 8.b4 Bxf3  
+9.Bxf3 Nd7 10.bxc5 Nxc5 11.O-O Bxc3 12.dxc3 O-O 13.Re1 Ne5 14.Bh6 Re8 15. 
+Be2 f6 16.Be3 b6 17.f4 Nf7 18.Bf3 Rc8 19.h4 Kg7 20.h5 Rc7 21.g4 e5 22.Rb2  
+exf4 23.Bxf4 Ne6 24.Bg3 Rxc4 25.Rd2 Neg5 26.Bxd6 Qc8 27.Bg2 Nxe4 28.hxg6  
+hxg6 29.Bf4 Neg5 30.Rd4 Rxe1+ 31.Qxe1 Rxd4 32.cxd4 Qxg4 33.Qe3 Kh8 34.Bb8  
+Ne6 35.d5 Nd4 36.Bxa7 Ne2+ 37.Kf2 Nf4 38.Bf3 Qh4+ 39.Kf1 Qh3+ 40.Kf2 Ne5  
+41.d6 g5 42.Bxb6 Nd5 43.Bg2 Qf5+ 0-1 

@@ -1,0 +1,36 @@
+ 
+[Event "Nationale I 2007/08 rounds 8-11"] 
+[Site "FRA"] 
+[Date "2008.04.06"] 
+[Round "11.1"] 
+[White "Lutz, Eric"] 
+[Black "Naudier, Serge"] 
+[Result "1-0"] 
+[WhiteElo "2237"] 
+[BlackElo "2258"] 
+[ECO "D00"] 
+[EventDate "2008.04.03"] 
+ 
+1.d4 d5 2.c3 Bf5 3.Qb3 b6 4.Bg5 c6 5.Nd2 Nd7 6.f3 Ngf6 7.g4 Bg6 8.Bg2 e5  
+9.h3 exd4 10.cxd4 Bd6 11.Rc1 c5 12.f4 h6 13.f5 Bh7 14.Bh4 Be7 15.Bg3 cxd4  
+16.Bxd5 Nxd5 17.Qxd5 O-O 18.Qxd4 Bf6 19.Qb4 Rc8 20.Rc4 Rxc4 21.Nxc4 Nc5  
+22.Nf3 Ne4 23.Bf2 Be7 24.Qb3 Qc7 25.Qd3 Bb4+ 26.Kf1 Re8 27.Qd5 Bc5 28.e3  
+b5 29.Nce5 Ng5 30.Nxg5 Qxe5 31.Qxe5 Rxe5 32.Nf3 Re8 33.Ke2 g6 34.Rd1 gxf5  
+35.gxf5 Bb6 36.Rd5 Rc8 37.Rxb5 Rc2+ 38.Nd2 Kf8 39.a4 Ke7 40.a5 Bc7 41.e4  
+Kd7 42.Kd1 Kc6 43.Rb3 1-0 
+ 
+[Event "Summer I"] 
+[Site "Alushta UKR"] 
+[Date "2004.05.21"] 
+[Round "12"] 
+[White "Pavlov, Maxim"] 
+[Black "Rausis, Igors"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2451"] 
+[BlackElo "2484"] 
+[ECO "D00"] 
+[EventDate "2004.05.13"] 
+ 
+1.d4 d5 2.c3 Bf5 3.Nf3 c6 4.Bf4 e6 5.e3 Nf6 6.Bd3 Bxd3 7.Qxd3 Bd6 8.Nbd2  
+O-O 9.O-O h6 10.Bxd6 Qxd6 11.e4 Nxe4 12.Nxe4 dxe4 13.Qxe4 Nd7 14.Rfe1  
+1/2-1/2 

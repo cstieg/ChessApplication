@@ -1,0 +1,80 @@
+ 
+[Event "TCh-ROU League A 2012"] 
+[Site "Olanesti ROU"] 
+[Date "2012.10.11"] 
+[Round "6.1"] 
+[White "Georgescu, Tiberiu-Marian"] 
+[Black "Carmaciu, Lucian-Catalin"] 
+[Result "0-1"] 
+[WhiteElo "2391"] 
+[BlackElo "2409"] 
+[ECO "A43"] 
+[EventDate "2012.10.06"] 
+ 
+1.d4 d6 2.e4 c5 3.d5 a6 4.c4 g6 5.Nc3 e5 6.Be2 Bh6 7.Bxh6 Nxh6 8.Qd2 Ng8  
+9.g4 h5 10.gxh5 gxh5 11.O-O-O Ne7 12.f4 Ng6 13.fxe5 Nxe5 14.Nf3 Nxf3 15. 
+Bxf3 Nd7 16.e5 Nxe5 17.Qf4 f5 18.Na4 b5 19.Rhe1 Kf7 20.Nxc5 Ng6 21.Qe3  
+dxc5 22.d6 Bd7 23.Bd5+ Kg7 24.Bxa8 Qxa8 25.Qxc5 Qg8 26.Qd4+ Kh7 27.b3 bxc4 
+28.bxc4 Qf7 29.Rd2 Rc8 30.c5 f4 31.Rde2 Kh6 32.Re7 Qf5 33.Qg7+ Kg5 34.Rg1+ 
+Kh4 35.Qxg6 Rxc5+ 36.Kb2 Rb5+ 37.Ka1 Rb1+ 38.Rxb1 Qxg6 39.Rxd7 Qf6+ 40.Rb2 
+f3 41.Re7 f2 42.Re4+ Kg5 43.h4+ Kf5 0-1 
+ 
+[Event "POR-ch57 fin"] 
+[Site "Lisbon POR"] 
+[Date "2001.10.01"] 
+[Round "5"] 
+[White "Pinheiro, Jose"] 
+[Black "Fernandes, Antonio"] 
+[Result "1-0"] 
+[WhiteElo "2339"] 
+[BlackElo "2457"] 
+[ECO "A43"] 
+ 
+1.d4 d6 2.e4 c5 3.d5 Nf6 4.Nc3 Na6 5.Nf3 g6 6.h3 Bg7 7.Bc4 Nc7 8.a4 O-O 9. 
+Bf4 Nd7 10.O-O b6 11.Qd3 a6 12.Ra3 Rb8 13.Rb3 Bxc3 14.Qxc3 f6 15.Be2 b5  
+16.axb5 axb5 17.Qe3 Nb6 18.Nd2 Bd7 19.Bh6 Rf7 20.Qg3 c4 21.Ra3 Na4 22.b3  
+cxb3 23.cxb3 Nc3 24.Bd3 b4 25.Raa1 Bb5 26.Nc4 Bxc4 27.Bxc4 Nxe4 28.Qd3 Nc5 
+29.Qe2 Ne8 30.Ra7 Rb7 31.Ra2 Ng7 32.g4 Rf8 33.Rfa1 Qd7 34.Be3 Rc8 35.Bd4  
+Rbc7 36.Qe3 Rb8 37.Ra5 Rbc8 38.Rb5 Rb7 39.Raa5 Rxb5 40.Rxb5 Qc7 41.Rxc5  
+1-0 
+ 
+[Event "ASEAN Masters Circuit GMA"] 
+[Site "Tarakan INA"] 
+[Date "2008.01.16"] 
+[Round "8"] 
+[White "Torre, Eugenio"] 
+[Black "Situru, Muhammad Ivan"] 
+[Result "1-0"] 
+[WhiteElo "2519"] 
+[BlackElo "2375"] 
+[ECO "B07"] 
+[EventDate "2008.01.08"] 
+ 
+1.d4 d6 2.e4 c5 3.c3 Nf6 4.Bd3 Nc6 5.d5 Ne5 6.Bc2 g6 7.f4 Ned7 8.Nf3 Nb6  
+9.a4 Bg4 10.Nbd2 a5 11.Bd3 Bg7 12.h3 Bxf3 13.Bb5+ Nfd7 14.Nxf3 O-O 15.O-O  
+c4 16.Be3 Rc8 17.Nd2 f5 18.Nf3 h6 19.Nh4 Rf6 20.Bd4 fxe4 21.Bxd7 Nxd7 22. 
+Bxf6 Nxf6 23.Nxg6 Kf7 24.Ne5+ Kg8 25.Ng4 Qb6+ 26.Kh1 Re8 27.Qe2 Kh8 28. 
+Nxf6 exf6 29.f5 Re5 30.Rad1 Qd8 31.Rd4 Qe8 32.Rxc4 e3 33.Rd4 Kh7 34.b3 Bf8 
+35.c4 Be7 36.Rg4 Bd8 37.Rg6 Qf8 38.c5 dxc5 39.Rg3 Bc7 40.Rxe3 Rxe3 41.Qxe3 
+Qd6 42.g3 Qxd5+ 43.Qf3 Qe5 44.Kg2 Kg7 45.h4 Kf8 46.Rf2 h5 47.Re2 Qd6 48. 
+Qe3 Qd5+ 49.Qe4 1-0 
+ 
+[Event "Corus Reserve Group"] 
+[Site "Wijk aan Zee NED"] 
+[Date "2000.01.25"] 
+[Round "5"] 
+[White "Floor, Dirk"] 
+[Black "Van den Berg, Ad"] 
+[Result "0-1"] 
+[WhiteElo "2278"] 
+[BlackElo "2209"] 
+[ECO "B07"] 
+[EventDate "2000.01.21"] 
+ 
+1.d4 d6 2.e4 c5 3.dxc5 Qa5+ 4.Nc3 Qxc5 5.Bd3 Nf6 6.Nf3 a6 7.Be3 Qc7 8.O-O  
+e5 9.Nh4 Be7 10.f4 Be6 11.Nf5 Bxf5 12.exf5 Nbd7 13.Be4 O-O 14.g4 exf4 15. 
+Rxf4 d5 16.Bxd5 Bc5 17.Bxc5 Qxf4 18.Bxf8 Rxf8 19.Qf3 Nxd5 20.Qxd5 Nf6 21. 
+Qg2 Nxg4 22.Rf1 Qd4+ 23.Kh1 Ne3 24.Qf2 Qc4 25.Re1 Qc6+ 26.Kg1 Ng4 27.Qd4  
+Nf6 28.Ne4 Nxe4 29.Qxe4 Qb6+ 30.Kh1 Qxb2 31.a4 b5 32.Rf1 bxa4 33.f6 Qb5  
+34.c4 Qe8 35.Qg4 g6 36.Qd4 Qc6+ 37.Kg1 h5 38.Re1 Rc8 39.Re4 a3 40.Kf2 a2  
+41.Ke3 Qc5 0-1 

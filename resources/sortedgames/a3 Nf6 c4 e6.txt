@@ -1,0 +1,45 @@
+ 
+[Event "It (c)"] 
+[Site "Budapest HUN"] 
+[Date "2004.09.05"] 
+[Round "2"] 
+[White "Kahn, Evarth Dr"] 
+[Black "Fodor, Tamas Jr"] 
+[Result "0-1"] 
+[WhiteElo "2321"] 
+[BlackElo "2202"] 
+[ECO "A00"] 
+ 
+1.a3 Nf6 2.c4 e6 3.Nc3 c5 4.Nf3 Nc6 5.g3 b6 6.Bg2 Bb7 7.O-O Be7 8.e4 e5 9. 
+d3 d6 10.Ne1 Nd4 11.f4 a6 12.b4 Qc7 13.bxc5 Qxc5 14.Be3 b5 15.Nd5 h5 16. 
+Nf3 Bxd5 17.Bxd4 exd4 18.cxd5 Ng4 19.Qd2 Qc3 20.Rfc1 Qxd2 21.Nxd2 g5 22.a4 
+b4 23.Bf3 gxf4 24.gxf4 Rg8 25.Kf1 Nxh2+ 26.Ke2 Nxf3 27.Kxf3 Rb8 28.e5 dxe5 
+29.fxe5 Rg5 30.d6 Bf8 31.Nc4 Kd7 32.Ke4 Ke6 33.Kxd4 f6 34.exf6 Rd5+ 35.Ke4 
+Bxd6 36.Rf1 Bc5 37.Kf4 Rf5+ 38.Ke4 Rd8 39.Rxf5 Rd4+ 40.Ke3 Kxf5 41.Ke2  
+Kxf6 42.Nd2 Ke6 43.Rh1 Rd5 44.Ne4 Be7 45.Ke3 h4 46.d4 Rd8 47.Rg1 b3 48. 
+Rg6+ Kf7 49.Rb6 h3 50.Rxb3 h2 51.Rb1 Rh8 52.Rh1 Ke6 53.Nf2 Kd5 54.Kd3 Bd6  
+55.Ng4 Rh3+ 56.Ne3+ Ke6 57.Ke4 Rg3 58.d5+ Kd7 59.Nd1 Rg4+ 60.Kf3 Rxa4 61. 
+Ne3 Ra3 62.Ke4 a5 63.Nc4 Ra2 64.Kd4 Rg2 65.Nxd6 Kxd6 0-1 
+ 
+[Event "3. IECC"] 
+[Site "Batumi GEO"] 
+[Date "2002.06.15"] 
+[Round "4"] 
+[White "Minasian, Ara"] 
+[Black "Kacheishvili, Giorgi"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2473"] 
+[BlackElo "2584"] 
+[ECO "A00"] 
+[EventDate "2002.06.12"] 
+ 
+1.a3 Nf6 2.c4 e6 3.Nf3 d5 4.e3 c5 5.d4 cxd4 6.exd4 dxc4 7.Bxc4 a6 8.O-O b5 
+9.Ba2 Bb7 10.Nc3 Be7 11.Bg5 O-O 12.Qd3 Nc6 13.Rad1 b4 14.Bb1 g6 15.Na4 Nd5 
+16.Bh6 Re8 17.Rc1 a5 18.Rfd1 Rc8 19.Ba2 Nf6 20.h3 Bf8 21.Bxf8 Rxf8 22.Nc5  
+Qe7 23.Qe3 Rfe8 24.d5 exd5 25.Qxe7 Rxe7 26.Nxb7 Rxb7 27.Bxd5 Rbc7 28.Rxc6  
+Rxc6 29.Bxc6 Rxc6 30.axb4 axb4 31.Rd4 Rc1+ 32.Kh2 Rc2 33.Rxb4 Rxf2 34.Kg3  
+Re2 35.Nd4 Re4 36.Nc2 Re5 37.Rc4 Kf8 38.b4 Ke7 39.Kf3 h5 40.Nd4 Rd5 41. 
+Nc6+ Kd6 42.Nd4 Nd7 43.Rc6+ Ke7 44.Ke3 Rg5 45.Rc2 Kd6 46.Nf3 Rb5 47.Rd2+  
+Kc7 48.Rc2+ Kb7 49.Rc4 Nb6 50.Re4 Rf5 51.Kd4 Nd5 52.Re5 Rxe5 53.Kxe5 Ne3  
+54.Ne1 h4 55.Kf6 Kc6 56.Kxf7 g5 57.Kg6 g4 58.hxg4 Nxg4 59.Kg5 Ne3 60.Kxh4  
+Nxg2+ 1/2-1/2 

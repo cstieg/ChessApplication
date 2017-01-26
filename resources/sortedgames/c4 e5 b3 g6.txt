@@ -1,0 +1,22 @@
+ 
+[Event "Open"] 
+[Site "Moscow RUS"] 
+[Date "2007.01.31"] 
+[Round "5"] 
+[White "Burlov, Vassili"] 
+[Black "Stukopin, Andrey"] 
+[Result "1-0"] 
+[WhiteElo "2410"] 
+[BlackElo "2307"] 
+[ECO "A20"] 
+[EventDate "2007.01.27"] 
+ 
+1.c4 e5 2.b3 g6 3.Bb2 Bg7 4.g3 Nc6 5.Bg2 d6 6.Nc3 Nge7 7.d3 Be6 8.Nd5 Qd7  
+9.e3 O-O 10.Ne2 Rae8 11.O-O Nd8 12.Qd2 c6 13.Nxe7+ Rxe7 14.d4 Bh3 15.Bxh3  
+Qxh3 16.dxe5 dxe5 17.Rad1 Ne6 18.Ba3 c5 19.Qd5 b6 20.Nc3 f5 21.Qg2 Qh5 22. 
+f3 g5 23.g4 Qg6 24.gxf5 Qxf5 25.Ne4 Qg6 26.b4 Rc7 27.bxc5 bxc5 28.Rd6 Qf5  
+29.Qg4 Qxg4+ 30.fxg4 Rxf1+ 31.Kxf1 Kf7 32.Ke2 Bf8 33.Ra6 Be7 34.Bb2 Nf8  
+35.Bxe5 Rb7 36.Kd3 Nd7 37.Bg3 Nb6 38.a4 Rd7+ 39.Kc3 Bd8 40.Nd6+ Kg8 41.a5  
+Na8 42.Nb5 Rb7 43.Nxa7 Nc7 44.Bxc7 Bxc7 45.Nb5 Bxh2 46.Ra8+ Kg7 47.a6 Re7  
+48.Kd3 h5 49.a7 h4 50.Rc8 Rxa7 51.Nxa7 h3 52.Rxc5 Kg6 53.Ke2 Bg1 54.Rc6+  
+Kf7 55.Rh6 1-0 

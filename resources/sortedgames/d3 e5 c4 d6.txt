@@ -1,0 +1,21 @@
+ 
+[Event "MP Reykjavik Open"] 
+[Site "Reykjavik ISL"] 
+[Date "2011.03.10"] 
+[Round "2.20"] 
+[White "Danielsen, Henrik"] 
+[Black "Kovachev, Daniel Jakobsen"] 
+[Result "1-0"] 
+[WhiteElo "2533"] 
+[BlackElo "2307"] 
+[ECO "A20"] 
+[EventDate "2011.03.09"] 
+ 
+1.d3 e5 2.c4 d6 3.g3 f5 4.Bg2 Nf6 5.Nc3 Be7 6.e4 c6 7.Nge2 Na6 8.O-O O-O  
+9.b3 Qe8 10.f3 fxe4 11.dxe4 Be6 12.Be3 Nc5 13.Qc2 a6 14.Bxc5 dxc5 15.Nd1  
+Qh5 16.Nf2 b5 17.Nd3 Nd7 18.f4 Bg4 19.Rae1 Rf6 20.Rf2 Raf8 21.Ref1 Rh6 22. 
+Bh1 Bd6 23.Qd2 Qe8 24.f5 Qe7 25.Nc3 Bh5 26.Nd1 bxc4 27.bxc4 Bc7 28.Ne3 Rd6 
+29.Qc2 Rd4 30.f6 Nxf6 31.Nf5 Qe8 32.Nxd4 cxd4 33.c5 a5 34.Bg2 Qd7 35.Rf5  
+Re8 36.Bh3 Qe7 37.Rxh5 Nxh5 38.Qb3+ Kh8 39.Rf7 Qd8 40.Qb7 Re7 41.Rxe7 Qxe7 
+42.Nxe5 d3 43.Qc8+ Bd8 44.Be6 g6 45.Qxd8+ Qxd8 46.Nf7+ Kg7 47.Nxd8 d2 48. 
+Bb3 Nf6 49.Ne6+ Kf7 50.Nd4+ Ke8 51.e5 Ne4 52.Nf3 1-0 

@@ -1,0 +1,18 @@
+ 
+[Event "123. ch-NZL Rapid 2016"] 
+[Site "Auckland NZL"] 
+[Date "2016.01.11"] 
+[Round "4.4"] 
+[White "Noble, Mark Frederick"] 
+[Black "Ma, Qun"] 
+[Result "0-1"] 
+[WhiteElo "2241"] 
+[BlackElo "2606"] 
+[ECO "B10"] 
+[EventDate "2016.01.11"] 
+ 
+1.e4 d5 2.d3 c6 3.Nd2 e5 4.Ngf3 Bd6 5.d4 exd4 6.exd5 cxd5 7.Nxd4 Nc6 8. 
+N2f3 Nge7 9.Bd3 h6 10.h3 O-O 11.c3 Nxd4 12.Nxd4 Nc6 13.O-O Nxd4 14.cxd4  
+Qh4 15.Re1 Bxh3 16.gxh3 Qxh3 17.Re5 Bxe5 18.dxe5 Rae8 19.Bf1 Qf5 20.f4 Re6 
+21.Bg2 Rg6 22.Bd2 Re8 23.Rc1 Ree6 24.Rc3 Rg4 25.Rf3 Reg6 26.Rf2 h5 27.Kf1  
+Rxg2 0-1 

@@ -1,0 +1,22 @@
+ 
+[Event "TCh-NOR Qualifier"] 
+[Site "NOR"] 
+[Date "2002.??.??"] 
+[Round "7"] 
+[White "Lie, Kjetil A"] 
+[Black "Tjomsland, Stig"] 
+[Result "1-0"] 
+[WhiteElo "2388"] 
+[BlackElo "2274"] 
+[ECO "A30"] 
+[EventDate "2001.11.??"] 
+ 
+1.c4 c5 2.g3 f5 3.Bg2 Nf6 4.Nc3 e6 5.d3 Nc6 6.e4 fxe4 7.dxe4 d6 8.f4 Be7  
+9.Nf3 O-O 10.O-O a6 11.a4 Qc7 12.h3 Bd7 13.g4 Nd4 14.Nxd4 cxd4 15.Qxd4  
+Rac8 16.Be3 e5 17.Qd2 exf4 18.Rxf4 h6 19.Raf1 Be6 20.Nd5 Bxd5 21.exd5 Nd7  
+22.Rxf8+ Rxf8 23.Rxf8+ Nxf8 24.b3 Bg5 25.Bxg5 hxg5 26.Qxg5 Qb6+ 27.Kh2  
+Qxb3 28.c5 Qc4 29.c6 bxc6 30.dxc6 Ne6 31.Qd5 Qf4+ 32.Kg1 Kf7 33.Qf3 Ke7  
+34.Qxf4 Nxf4 35.Bf1 a5 36.Kf2 d5 37.Ke3 Ne6 38.h4 Kd6 39.Bb5 Nc7 40.Kd4  
+Ne6+ 41.Ke3 Nc7 42.Kd3 Ne6 43.g5 Nf4+ 44.Kd4 g6 45.Ke3 Ne6 46.Bd3 Nf8 47. 
+Kf4 Ne6+ 48.Kg4 Nf8 49.Bb5 Ne6 50.h5 gxh5+ 51.Kxh5 d4 52.g6 Nf4+ 53.Kh6  
+Nd5 54.g7 Ne7 55.Kh7 d3 56.Bxd3 1-0 

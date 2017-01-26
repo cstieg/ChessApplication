@@ -1,0 +1,155 @@
+ 
+[Event "29. Spring Festival"] 
+[Site "Budapest HUN"] 
+[Date "2013.03.22"] 
+[Round "5.1"] 
+[White "Bach, Matthias"] 
+[Black "Horvath, David"] 
+[Result "0-1"] 
+[WhiteElo "2263"] 
+[BlackElo "2389"] 
+[ECO "A00"] 
+[EventDate "2013.03.18"] 
+ 
+1.d3 d5 2.Nd2 Nf6 3.c4 c6 4.e3 e5 5.Ne2 Bd6 6.Ng3 O-O 7.Be2 Be6 8.b3 Nbd7  
+9.Bb2 Re8 10.O-O Nf8 11.f4 exf4 12.exf4 dxc4 13.dxc4 Bc5+ 14.Kh1 Bd4 15. 
+Qc2 Bg4 16.Nf3 Bxb2 17.Qxb2 Ne4 18.Nxe4 Rxe4 19.Ng1 Qh4 20.Bxg4 Qxg4 21. 
+Rf3 Qd7 22.Raf1 Ne6 23.Ne2 Re8 24.Ng3 Rd4 25.Nf5 Rd1 26.h3 Rxf1+ 27.Rxf1  
+Qd3 28.Qb1 Nxf4 29.Qxd3 Nxd3 30.Kh2 g6 31.Nd6 Re7 32.Rd1 Nc5 33.b4 Na6 34. 
+a3 Rd7 35.c5 b6 36.Rc1 bxc5 37.bxc5 Kf8 38.Ne4 Rd4 39.Ng5 h6 40.Nf3 Rd5  
+0-1 
+ 
+[Event "Budapest HUN, 29. Spring Open"] 
+[Site "Budapest HUN"] 
+[Date "2012.03.22"] 
+[Round "5.1"] 
+[White "Bach, Matthias"] 
+[Black "Horvath, David"] 
+[Result "0-1"] 
+[WhiteElo "2263"] 
+[BlackElo "2389"] 
+[ECO "A00"] 
+[EventDate "2012.03.18"] 
+ 
+1.d3 d5 2.Nd2 Nf6 3.c4 c6 4.e3 e5 5.Ne2 Bd6 6.Ng3 O-O 7.Be2 Be6 8.b3 Nbd7  
+9.Bb2 Re8 10.O-O Nf8 11.f4 exf4 12.exf4 dxc4 13.dxc4 Bc5+ 14.Kh1 Bd4 15. 
+Qc2 Bg4 16.Nf3 Bxb2 17.Qxb2 Ne4 18.Nxe4 Rxe4 19.Ng1 Qh4 20.Bxg4 Qxg4 21. 
+Rf3 Qd7 22.Raf1 Ne6 23.Ne2 Re8 24.Ng3 Rd4 25.Nf5 Rd1 26.h3 Rxf1+ 27.Rxf1  
+Qd3 28.Qb1 Nxf4 29.Qxd3 Nxd3 30.Kh2 g6 31.Nd6 Re7 32.Rd1 Nc5 33.b4 Na6 34. 
+a3 Rd7 35.c5 b6 36.Rc1 bxc5 37.bxc5 Kf8 38.Ne4 Rd4 39.Ng5 h6 40.Nf3 Rd5  
+0-1 
+ 
+[Event "15. OIBM"] 
+[Site "Bad Wiessee GER"] 
+[Date "2011.11.03"] 
+[Round "6.20"] 
+[White "Bach, Matthias"] 
+[Black "Siebrecht, Sebastian"] 
+[Result "0-1"] 
+[WhiteElo "2316"] 
+[BlackElo "2471"] 
+[ECO "A00"] 
+[EventDate "2011.10.29"] 
+ 
+1.d3 d5 2.Nd2 Nf6 3.e3 g6 4.Be2 Bg7 5.h4 h5 6.Nh3 e5 7.b4 O-O 8.Bb2 d4 9. 
+e4 a5 10.b5 a4 11.c4 c5 12.f3 Ne8 13.Nf2 Nd6 14.g4 f5 15.gxh5 gxh5 16.f4  
+exf4 17.Bf3 Nd7 18.e5 Re8 19.Bd5+ Kf8 20.Qxh5 Rxe5+ 21.Kf1 Nf6 22.Qg5 Qe7  
+23.Nh3 Nxd5 24.cxd5 a3 25.Qxe7+ Rxe7 26.Bc1 Re3 27.Kf2 Bh6 28.Nf3 Bd7 29. 
+Nfg5 Rxd3 30.Nxf4 Rc3 31.Nfe6+ Kg8 32.Rg1 Rc2+ 33.Kf3 Bxe6 34.Nxe6+ Kh7  
+35.Bxh6 Kxh6 36.Rg5 Rc3+ 37.Kf4 Re3 38.Rag1 Re4+ 39.Kf3 Rxh4 40.Rg6+ Kh7  
+41.Nf4 Re8 42.Ne6 Nxb5 43.Rf6 d3 44.Rxf5 Nd4+ 45.Nxd4 cxd4 46.d6 Re3+ 47. 
+Kf2 Rh2+ 48.Rg2 Re2+ 49.Kf3 Rhxg2 50.Rh5+ Kg6 51.d7 Ref2+ 0-1 
+ 
+[Event "38. Olympiad"] 
+[Site "Dresden GER"] 
+[Date "2008.11.15"] 
+[Round "3"] 
+[White "Poulsen, Martin"] 
+[Black "Minasian, Artashes"] 
+[Result "0-1"] 
+[WhiteElo "2281"] 
+[BlackElo "2541"] 
+[ECO "A00"] 
+[EventDate "2008.11.13"] 
+ 
+1.d3 d5 2.Nd2 Nf6 3.g3 e5 4.Bg2 Nc6 5.c3 Be6 6.e4 dxe4 7.dxe4 Bc5 8.Ngf3  
+a5 9.Qe2 Nd7 10.O-O Nb6 11.Qb5 Bd6 12.a4 O-O 13.Re1 Ne7 14.Qd3 f6 15.Bf1  
+Qe8 16.b3 Qf7 17.Qc2 h6 18.Nh4 g6 19.Rb1 Kg7 20.Ng2 Bc5 21.b4 Bd6 22.bxa5  
+Rxa5 23.c4 Nc6 24.Ne3 Nd4 25.Qd1 Nxa4 26.Bb2 Nxb2 27.Rxb2 b6 28.Nd5 Bc5  
+29.Bd3 Rfa8 30.Qb1 Ra3 31.Kg2 Qd7 32.f4 Bh3+ 33.Kh1 R8a6 34.Bf1 Be6 35.Bg2 
+Qd8 36.Rf1 c6 37.fxe5 fxe5 38.Qe1 Ra1 39.Nb1 R6a2 40.Rxa2 Rxa2 41.Nbc3 Ra7 
+42.Ne3 Bb4 43.Qc1 Nb3 44.Qb2 Qd2 45.Ncd1 Qxb2 46.Nxb2 Bc5 47.Ned1 Nd2 0-1 
+ 
+[Event "Kemerovo RUS, Open 2008"] 
+[Site "Kemerovo RUS"] 
+[Date "2008.08.27"] 
+[Round "6"] 
+[White "Chirikov, Evgeniy"] 
+[Black "Grishenko, Vladimir"] 
+[Result "0-1"] 
+[WhiteElo "2280"] 
+[BlackElo "2206"] 
+[ECO "A00"] 
+[EventDate "2008.08.23"] 
+ 
+1.d3 d5 2.Nd2 Nf6 3.Ngf3 Bg4 4.h3 Bxf3 5.Nxf3 e6 6.g3 Bd6 7.Bg2 c6 8.O-O  
+Qc7 9.Nd4 O-O 10.Qe1 Nbd7 11.e4 Rfe8 12.Ne2 e5 13.Nc3 dxe4 14.Nxe4 Nxe4  
+15.Qxe4 a5 16.Bd2 Qb6 17.Rab1 a4 18.Bc3 Qc7 19.Rbe1 Nc5 20.Qg4 Qd7 21.Qh5  
+f6 22.a3 Qf7 23.Qh4 Ne6 24.Re4 g5 0-1 
+ 
+[Event "Saint-Lo FRA, Open Junior 2004"] 
+[Site "Saint Lo FRA"] 
+[Date "2004.07.15"] 
+[Round "8.1"] 
+[White "Besson, Bastien"] 
+[Black "Saric, Ivan"] 
+[Result "1-0"] 
+[WhiteElo "2222"] 
+[BlackElo "2234"] 
+[ECO "A00"] 
+[EventDate "2004.07.08"] 
+ 
+1.d3 d5 2.Nd2 Nf6 3.e4 dxe4 4.dxe4 e5 5.Ngf3 Nc6 6.Bb5 Bc5 7.O-O Qe7 8.c3  
+O-O 9.b4 Bb6 10.a3 a5 11.Bb2 Bg4 12.Qc2 Rad8 13.Rfe1 h6 14.Bxc6 bxc6 15.c4 
+axb4 16.axb4 Bd4 17.Nxd4 exd4 18.f3 Bh5 19.c5 Rb8 20.Qc4 d3 21.Qc3 Rfd8  
+22.Nb3 Bg6 23.Nd4 Qd7 24.Rad1 Nh5 25.Rxd3 f6 26.Red1 Nf4 27.R3d2 Kh7 28. 
+Qe3 Nh5 29.Nxc6 Qxc6 30.Rxd8 Rxb4 31.Ba3 Ra4 32.Qb3 Be8 33.Bc1 Qxc5+ 34. 
+Be3 Bf7 35.Qxa4 Qxe3+ 36.Kh1 Bb3 37.Qd4 Qg5 38.Rb1 Qh4 39.Qd2 Bc4 40.Re1  
+f5 41.Rd4 1-0 
+ 
+[Event "UT Dallas Fall FIDE Open"] 
+[Site "Dallas, TX USA"] 
+[Date "2015.11.21"] 
+[Round "3"] 
+[White "Kadric, Denis"] 
+[Black "Nakar, Eylon"] 
+[Result "1-0"] 
+[WhiteElo "2537"] 
+[BlackElo "2476"] 
+[ECO "C00"] 
+[EventDate "2015.11.20"] 
+ 
+1.d3 d5 2.Nd2 Nf6 3.e4 e6 4.Ngf3 c5 5.g3 g6 6.Bg2 Bg7 7.exd5 Nxd5 8.O-O  
+O-O 9.Nb3 Nd7 10.c4 Ne7 11.d4 cxd4 12.Nfxd4 Nb6 13.c5 Nbd5 14.Qe2 Bd7 15. 
+Bg5 Bc6 16.Rfd1 Qd7 17.Bxe7 Qxe7 18.Nxc6 bxc6 19.Bxd5 cxd5 20.Rxd5 Bxb2  
+21.Rad1 Rfc8 22.Rd7 Qf6 23.R1d3 a5 24.Nd2 Rxc5 25.Ne4 Qe5 26.f4 Rc1+ 27. 
+Kg2 Rc2 28.Rd2 Rxd2 29.Rxd2 1-0 
+ 
+[Event "ISL Ch 2015"] 
+[Site "Reykjavik ISL"] 
+[Date "2015.05.23"] 
+[Round "10.2"] 
+[White "Danielsen, Henrik"] 
+[Black "Thorfinnsson, Bjorn"] 
+[Result "0-1"] 
+[WhiteElo "2520"] 
+[BlackElo "2407"] 
+[ECO "C44"] 
+[EventDate "2015.05.14"] 
+ 
+1.d3 d5 2.Nd2 Nf6 3.e4 Nc6 4.Ngf3 e5 5.Be2 g5 6.h3 Rg8 7.c3 Bc5 8.b4 Bd6  
+9.a3 h5 10.g3 h4 11.g4 Ne7 12.Qc2 a5 13.Nb3 axb4 14.cxb4 Ng6 15.Bxg5 Be7  
+16.Nxh4 Nf8 17.Nf3 Ng6 18.Rg1 Bd7 19.Bd2 Rh8 20.Rg3 Bc6 21.exd5 Bxd5 22. 
+Nc5 Nd7 23.Ne4 Nf4 24.Bf1 Ne6 25.Qb2 f6 26.Be3 b6 27.Nfd2 Ra4 28.Nc3 Qa8  
+29.Nxa4 Qxa4 30.Ne4 Qa8 31.Rc1 Bd6 32.Rg1 Bxe4 33.dxe4 Nf4 34.f3 Rxh3 35. 
+Bxh3 Nd3+ 0-1 

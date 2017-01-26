@@ -1,0 +1,17 @@
+ 
+[Event "TCh-UKR"] 
+[Site "Alushta UKR"] 
+[Date "2008.05.28"] 
+[Round "9"] 
+[White "Dmitrenko, Viktor"] 
+[Black "Kravtsiv, Martyn"] 
+[Result "0-1"] 
+[WhiteElo "2352"] 
+[BlackElo "2533"] 
+[ECO "A00"] 
+[EventDate "2008.05.21"] 
+ 
+1.a3 Nf6 2.Nf3 e6 3.c4 d5 4.e3 c5 5.d4 b6 6.Nc3 Be7 7.cxd5 exd5 8.Bb5+ Bd7 
+9.Be2 Be6 10.Ne5 O-O 11.O-O Qc8 12.Qa4 Rd8 13.Bf3 Qb7 14.Rd1 a6 15.dxc5  
+bxc5 16.e4 d4 17.Bg5 dxc3 18.Bxf6 gxf6 19.Rxd8+ Bxd8 20.Qe8+ Kg7 21.Qxd8  
+Nc6 0-1 

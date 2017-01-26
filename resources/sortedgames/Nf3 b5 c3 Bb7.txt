@@ -1,0 +1,14 @@
+ 
+[Event "Belgrade Premier League"] 
+[Site "Belgrade SRB"] 
+[Date "2008.10.12"] 
+[Round "8"] 
+[White "Biocanin, Goran"] 
+[Black "Kocic, Sasa"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2314"] 
+[BlackElo "2257"] 
+[ECO "A04"] 
+[EventDate "2008.10.05"] 
+ 
+1.Nf3 b5 2.c3 Bb7 3.d4 Nf6 4.Nbd2 e6 5.g3 c5 6.Bg2 cxd4 7.cxd4 1/2-1/2 

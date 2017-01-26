@@ -1,0 +1,73 @@
+ 
+[Event "Hotel Sajam 14 GM 2016"] 
+[Site "Novi Sad SRB"] 
+[Date "2016.02.17"] 
+[Round "7.2"] 
+[White "Pezelj, Novak"] 
+[Black "Stankovic, Milo"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2426"] 
+[BlackElo "2420"] 
+[ECO "A36"] 
+[EventDate "2016.02.13"] 
+ 
+1.c4 c5 2.e4 Nc6 3.Nc3 g6 4.g3 Bg7 5.Bg2 h5 6.Nf3 d6 7.d3 Bg4 8.h3 Bxf3 9. 
+Bxf3 Ne5 10.h4 e6 11.Bg2 Ne7 12.O-O N7c6 13.Be3 O-O 14.Rb1 a6 15.a3 Rb8  
+16.b4 1/2-1/2 
+ 
+[Event "Open"] 
+[Site "Bar MNE"] 
+[Date "2010.04.23"] 
+[Round "8"] 
+[White "Bogut, Zeljko"] 
+[Black "Todorovic, Goran N"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2468"] 
+[BlackElo "2394"] 
+[ECO "A36"] 
+[EventDate "2010.04.17"] 
+ 
+1.c4 c5 2.e4 Nc6 3.Nc3 g6 4.g3 Bg7 5.Bg2 Nf6 6.Nge2 O-O 7.O-O Ne8 8.a3 Nc7 
+9.Rb1 a5 10.d3 Ne6 11.Nb5 d6 12.f4 Bd7 13.Be3 Ned4 14.Nbxd4 Nxd4 15.Nxd4  
+Bxd4 16.Bxd4 cxd4 17.Qd2 a4 18.f5 Qa5 19.Qf2 Qe5 20.b4 axb3 21.Rxb3 Bc6  
+22.f6 exf6 23.Qxf6 Ra5 24.Bh3 Qxf6 25.Rxf6 Rd8 26.Bg2 Kg7 27.Rf2 Rda8 28. 
+Ra2 R8a7 29.Kf2 h5 30.h4 Kf6 31.Bh3 Ra8 32.Ra1 Ke7 33.Ra2 Kd8 34.Ra1 Kc7  
+35.g4 hxg4 36.Bxg4 Kd8 37.Kg3 Ke7 38.Bh3 Rh8 39.Bg4 f5 40.Bf3 Re5 41.Re1  
+Kf6 42.Rb6 f4+ 43.Kxf4 Rxh4+ 44.Kg3 Rh8 45.Bg4 Ra8 46.Ra1 Rea5 47.Rb3 Ke5  
+48.Be2 Kf6 49.Bg4 Ke7 50.Ra2 Rh8 51.Rb1 Rg5 52.Kf4 Ra5 53.Kg3 Rha8 54.Rb3  
+Kf6 55.Rf2+ Kg5 56.Ra2 Re5 57.Rh2 Rea5 58.Ra2 Kf6 59.Rf2+ Ke7 60.Ra2 Kf6  
+1/2-1/2 
+ 
+[Event "XXVI Elekes Mem GM"] 
+[Site "Budapest HUN"] 
+[Date "2001.05.29"] 
+[Round "9"] 
+[White "Fogarasi, Tibor"] 
+[Black "Danner, Georg"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2446"] 
+[BlackElo "2453"] 
+[ECO "A36"] 
+[EventDate "2001.05.21"] 
+ 
+1.c4 c5 2.e4 Nc6 3.Nc3 g6 4.g3 Bg7 5.Bg2 a6 6.Nge2 Rb8 7.d3 d6 8.O-O e5 9. 
+Be3 Nge7 10.Qd2 O-O 11.Rae1 Nd4 1/2-1/2 
+ 
+[Event "Novokuznetsk RUS, City Ch 2013"] 
+[Site "Novokuznetsk RUS"] 
+[Date "2013.05.09"] 
+[Round "6"] 
+[White "Sergeev, Albert"] 
+[Black "Chernov, Mikhail1"] 
+[Result "1-0"] 
+[WhiteElo "2340"] 
+[BlackElo "2212"] 
+[ECO "B44"] 
+[EventDate "2013.05.01"] 
+ 
+1.c4 c5 2.e4 Nc6 3.Ne2 Nf6 4.Nbc3 e6 5.d4 cxd4 6.Nxd4 Bb4 7.Nxc6 bxc6 8. 
+Bd3 e5 9.O-O O-O 10.Bg5 Be7 11.Qe2 h6 12.Bh4 d6 13.h3 Nd7 14.Bg3 Nc5 15.b4 
+Nxd3 16.Qxd3 f5 17.exf5 Bxf5 18.Qe2 Bf6 19.Ne4 Bxe4 20.Qxe4 d5 21.Qe2 Qe7  
+22.b5 Qe6 23.bxc6 Qxc6 24.cxd5 Qxd5 25.Rfd1 Qe6 26.Rab1 Rab8 27.Kh2 Kh8  
+28.a4 Rb6 29.Rxb6 axb6 30.Qe4 Bg5 31.Re1 Qa2 32.Re2 Qe6 33.f4 Bf6 34.fxe5  
+Re8 35.exf6 1-0 

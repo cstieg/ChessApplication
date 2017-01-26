@@ -1,0 +1,176 @@
+ 
+[Event "3. Norway Blitz 2015"] 
+[Site "Stavanger NOR"] 
+[Date "2015.06.15"] 
+[Round "2.3"] 
+[White "Nakamura, Hikaru"] 
+[Black "Grischuk, Alexander"] 
+[Result "0-1"] 
+[WhiteElo "2802"] 
+[BlackElo "2781"] 
+[ECO "B06"] 
+[EventDate "2015.06.15"] 
+ 
+1.f4 g6 2.e4 d5 3.e5 c5 4.c3 d4 5.Bd3 Nh6 6.Be4 Bg7 7.d3 O-O 8.Nf3 Kh8 9. 
+Qb3 Nc6 10.Bxc6 bxc6 11.cxd4 cxd4 12.O-O c5 13.Nbd2 Be6 14.Qc2 Rc8 15.b3  
+Bd5 16.Ne4 f5 17.Neg5 Nf7 18.Nxf7+ Rxf7 19.Ba3 e6 20.Rac1 Rfc7 21.Nd2 g5  
+22.Nc4 gxf4 23.Nd6 Bxe5 24.Nxc8 Qxc8 25.Bxc5 Rg7 26.Rf2 f3 27.Bb4 Qxc2 28. 
+Rfxc2 h5 29.Re1 Bf4 30.Bc5 e5 31.Bd6 Kh7 32.Bxe5 Re7 33.Kf2 Be3+ 34.Kg3  
+Rxe5 35.gxf3 f4+ 36.Kh3 Be6+ 37.Kg2 Rg5+ 38.Kh1 Bd5 39.h4 Bxf3+ 40.Kh2 Rg4 
+41.Kh3 Rg3+ 42.Kh2 Kg6 43.Rc5 Rg2+ 44.Kh3 Rg3+ 45.Kh2 Rg4 46.Kh3 Bg2+ 47. 
+Kh2 f3 48.Rc6+ Kf5 49.Rc5+ Ke6 50.Rxh5 f2 51.Rc1 Bxc1 0-1 
+ 
+[Event "4NCL 2012-13"] 
+[Site "Staverton ENG"] 
+[Date "2013.01.12"] 
+[Round "3.152"] 
+[White "Trent, Lawrence"] 
+[Black "Jones, Gawain C B"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2429"] 
+[BlackElo "2644"] 
+[ECO "B06"] 
+[EventDate "2012.11.03"] 
+ 
+1.f4 g6 2.e4 d5 3.Nc3 dxe4 4.Nxe4 Qd5 5.d3 Nc6 6.Nf3 Bg7 7.Be2 Bf5 8.Nf2  
+Nd4 9.Nxd4 Bxd4 10.O-O O-O-O 11.Bf3 Qc5 12.Qe2 h5 13.Re1 Nf6 14.Be3 Nd5  
+15.Bxd4 Qxd4 16.Bxd5 Qxd5 17.Qxe7 h4 18.h3 Qd4 19.Qe3 Qa4 20.b3 Qa6 21.Qc5 
+Rh5 22.Qc3 g5 23.Re7 Qb6 24.Rxf7 gxf4 25.Re1 Bxh3 26.Rf6 Rc5 27.Rxb6 Rxc3  
+28.Rf6 Bd7 29.Re2 Re8 30.Ne4 Rc6 31.Rxf4 Rh6 32.Re3 b6 33.Kf2 a5 34.a4 Rg8 
+35.Nf6 Rf8 36.Nd5 Rxf4+ 37.Nxf4 Rc6 38.c4 Rf6 39.Kf3 Bc6+ 40.Kg4 Bd7+ 41. 
+Kf3 Bc6+ 1/2-1/2 
+ 
+[Event "32. Benasque Open"] 
+[Site "Benasque ESP"] 
+[Date "2012.07.12"] 
+[Round "8.10"] 
+[White "Toledano Llinares, Juan A"] 
+[Black "De la Villa Garcia, Jesus Maria"] 
+[Result "1-0"] 
+[WhiteElo "2312"] 
+[BlackElo "2478"] 
+[ECO "B06"] 
+[EventDate "2012.07.05"] 
+ 
+1.f4 g6 2.e4 d5 3.Nc3 dxe4 4.Nxe4 Bg7 5.Nf3 Nf6 6.Nxf6+ Bxf6 7.g3 c5 8.d3  
+Nc6 9.Bg2 O-O 10.O-O Be6 11.Ng5 Bd5 12.Ne4 Bg7 13.c3 e6 14.Be3 b6 15.Qe2  
+Qd7 16.Rad1 Na5 17.b3 Rad8 18.d4 c4 19.b4 Nc6 20.Nd2 Ne7 21.Rc1 Nf5 22.Bf2 
+h5 23.h3 Bxg2 24.Kxg2 Qd5+ 25.Qf3 Nd6 26.a4 f5 27.Rfe1 Kf7 28.Re2 Bf6 29. 
+Rce1 Rfe8 30.Re3 Re7 31.Qxd5 exd5 32.Rxe7+ Bxe7 33.Re5 Ne4 34.Nxe4 fxe4  
+35.f5 gxf5 36.Rxf5+ Kg6 37.g4 hxg4 38.hxg4 Bg5 39.Kf1 Rd7 40.Bg3 a6 41.Ke2 
+b5 42.a5 Bf6 43.Be5 Bg5 44.Rf8 Rf7 45.Rg8+ Kh6 46.Ra8 Bh4 47.Rxa6+ Kg5 48. 
+Bf6+ Kxg4 49.Bxh4 Kxh4 50.Rd6 Rf3 51.Rxd5 Rxc3 52.Rxb5 Ra3 53.Re5 Ra4 54. 
+Ke3 Rxb4 55.Kxe4 Ra4 56.Rc5 c3 57.Ke5 Kg5 58.d5 c2 59.Rxc2 Rxa5 60.Rg2+  
+1-0 
+ 
+[Event "Czech GM Open A"] 
+[Site "Pardubice CZE"] 
+[Date "2011.07.28"] 
+[Round "7.78"] 
+[White "Zwardon, Vojtech"] 
+[Black "Bruedigam, Martin"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2231"] 
+[BlackElo "2322"] 
+[ECO "B06"] 
+[EventDate "2011.07.22"] 
+ 
+1.f4 g6 2.e4 d5 3.exd5 Qxd5 4.Nc3 Qa5 5.Nf3 Bg7 6.Bc4 e6 7.d4 Nf6 8.O-O  
+O-O 9.Ne5 c5 10.d5 exd5 11.Nxd5 Nxd5 12.Bxd5 Qc7 13.Qf3 Nd7 14.Nxd7 Qxd7  
+15.c3 Rd8 16.Be4 f5 17.Bc2 Qc7 18.Re1 Bd7 19.Qd5+ Kh8 20.Re7 Bf8 21.Rf7  
+1/2-1/2 
+ 
+[Event "USCL"] 
+[Site "Internet Chess Club INT"] 
+[Date "2010.10.11"] 
+[Round "8"] 
+[White "Nakamura, Hikaru"] 
+[Black "Friedel, Joshua E"] 
+[Result "1-0"] 
+[WhiteElo "2729"] 
+[BlackElo "2527"] 
+[ECO "B06"] 
+[EventDate "2010.08.23"] 
+ 
+1.f4 g6 2.e4 d5 3.e5 Nh6 4.d4 c5 5.dxc5 Nc6 6.Nd2 Bg4 7.Be2 Bxe2 8.Qxe2  
+Qa5 9.c3 Qxc5 10.Nb3 Qc4 11.Qxc4 dxc4 12.Nd2 Na5 13.Ngf3 Bg7 14.h3 f6 15. 
+e6 Nf5 16.Ne4 h5 17.Kf2 Rc8 18.Ng3 Nxg3 19.Kxg3 f5 20.Be3 Rc6 21.Bxa7 Rxe6 
+22.Rhe1 Rxe1 23.Rxe1 Nc6 24.Bb6 Bf6 25.Nd2 Kf7 26.Nxc4 Rc8 27.a4 Nb4 28. 
+Ne5+ Bxe5 29.Rxe5 Nd3 30.Rb5 h4+ 31.Kf3 Ne1+ 32.Kf2 Nd3+ 33.Ke3 Ne1 34.Bd4 
+Nc2+ 35.Kd3 Nxd4 36.cxd4 Rc7 37.a5 e6 38.b4 Ke7 39.Rc5 Rd7 40.b5 Kd6 41. 
+Kc4 1-0 
+ 
+[Event "Ch Great Britain"] 
+[Site "Douglas ENG"] 
+[Date "2005.08.11"] 
+[Round "10"] 
+[White "Storey, Charles H"] 
+[Black "Tippleston, Charles E"] 
+[Result "1-0"] 
+[WhiteElo "2211"] 
+[BlackElo "2203"] 
+[ECO "B06"] 
+ 
+1.f4 g6 2.e4 d5 3.e5 c5 4.b4 cxb4 5.a3 Nc6 6.axb4 Nxb4 7.c3 Nc6 8.d4 h5 9. 
+Nf3 Nh6 10.Be2 Bg7 11.O-O Bg4 12.h3 Bxf3 13.Bxf3 e6 14.Na3 Nf5 15.Rf2 h4  
+16.Be2 a6 17.Bd3 Kf8 18.Nc2 Kg8 19.Ne1 b5 20.Rfa2 Qb6 21.Qb3 Ncxd4 22.cxd4 
+Nxd4 23.Be3 Nxb3 24.Bxb6 Nxa1 25.Rxa1 g5 26.Bd4 gxf4 27.Bxb5 a5 28.Nd3 Rh5 
+29.Ba4 Rg5 30.Bd1 a4 31.Bg4 a3 32.Kf2 Ra4 33.Bc3 d4 34.Bb4 Bxe5 35.Be7 f6  
+36.Bxe6+ Kg7 37.Bb3 Ra7 38.Bc5 Rc7 39.Bd1 f5 40.Bf3 Kh7 41.Rxa3 Rg8 42.Ra5 
+Bg7 43.Nxf4 Re8 44.Bd1 Be5 45.Ba4 Rb8 46.Ne6 Rb2+ 47.Kf3 Rc8 48.Ra7+ Kh8  
+49.Rf7 d3 50.Rxf5 Bc3 51.Rh5+ Kg8 52.Rxh4 d2 53.Rc4 Bf6 54.g4 Re8 55.Re4  
+Rb1 56.g5 Ba1 57.Bf2 d1=Q+ 58.Bxd1 Rxd1 59.Kg4 Rd6 60.Kf5 Rd5+ 61.Kg4 Rd6  
+62.Nc5 Rf8 63.Be3 Rd5 64.h4 Re5 65.Rxe5 Bxe5 66.h5 Rf1 67.Nd3 Bd6 68.Nf2  
+Re1 69.Bd4 Rc1 70.Kf5 Bc5 71.Bxc5 Rxc5+ 72.Kf4 Rc1 73.Ne4 Rf1+ 74.Kg4 Kg7  
+75.Ng3 Ra1 76.Nf5+ Kf7 77.h6 Kg6 78.Nh4+ Kh7 79.Kh5 Ra5 80.Ng6 Rf5 81.Ne7  
+Re5 82.Nc6 Rd5 83.Ne7 Re5 84.Ng6 Rf5 85.Nh4 Ra5 86.Nf3 Rb5 87.Nh2 Rb1 88. 
+g6+ Kg8 89.Ng4 Rb5+ 90.Kh4 Rf5 91.Ne3 Ra5 92.Kg4 Re5 93.Nf5 Re6 94.Kg5 Kh8 
+95.Ng3 Re7 96.Nh5 Re5+ 97.Kg4 Re6 98.Kf5 Re7 99.g7+ Kh7 100.Nf6+ Kxh6 101. 
+g8=Q Re5+ 102.Kg4 1-0 
+ 
+[Event "92. ch-GBR"] 
+[Site "Douglas IOM"] 
+[Date "2005.08.11"] 
+[Round "10"] 
+[White "Storey, Charles H"] 
+[Black "Tippleston, Charles E"] 
+[Result "1-0"] 
+[WhiteElo "2211"] 
+[BlackElo "2203"] 
+[ECO "B06"] 
+[EventDate "2005.08.02"] 
+ 
+1.f4 g6 2.e4 d5 3.e5 c5 4.b4 cxb4 5.a3 Nc6 6.axb4 Nxb4 7.c3 Nc6 8.d4 h5 9. 
+Nf3 Nh6 10.Be2 Bg7 11.O-O Bg4 12.h3 Bxf3 13.Bxf3 e6 14.Na3 Nf5 15.Rf2 h4  
+16.Be2 a6 17.Bd3 Kf8 18.Nc2 Kg8 19.Ne1 b5 20.Rfa2 Qb6 21.Qb3 Ncxd4 22.cxd4 
+Nxd4 23.Be3 Nxb3 24.Bxb6 Nxa1 25.Rxa1 g5 26.Bd4 gxf4 27.Bxb5 a5 28.Nd3 Rh5 
+29.Ba4 Rg5 30.Bd1 a4 31.Bg4 a3 32.Kf2 Ra4 33.Bc3 d4 34.Bb4 Bxe5 35.Be7 f6  
+36.Bxe6+ Kg7 37.Bb3 Ra7 38.Bc5 Rc7 39.Bd1 f5 40.Bf3 Kh7 41.Rxa3 Rg8 42.Ra5 
+Bg7 43.Nxf4 Re8 44.Bd1 Be5 45.Ba4 Rb8 46.Ne6 Rb2+ 47.Kf3 Rc8 48.Ra7+ Kh8  
+49.Rf7 d3 50.Rxf5 Bc3 51.Rh5+ Kg8 52.Rxh4 d2 53.Rc4 Bf6 54.g4 Re8 55.Re4  
+Rb1 56.g5 Ba1 57.Bf2 d1=Q+ 58.Bxd1 Rxd1 59.Kg4 Rd6 60.Kf5 Rd5+ 61.Kg4 Rd6  
+62.Nc5 Rf8 63.Be3 Rd5 64.h4 Re5 65.Rxe5 Bxe5 66.h5 Rf1 67.Nd3 Bd6 68.Nf2  
+Re1 69.Bd4 Rc1 70.Kf5 Bc5 71.Bxc5 Rxc5+ 72.Kf4 Rc1 73.Ne4 Rf1+ 74.Kg4 Kg7  
+75.Ng3 Ra1 76.Nf5+ Kf7 77.h6 Kg6 78.Nh4+ Kh7 79.Kh5 Ra5 80.Ng6 Rf5 81.Ne7  
+Re5 82.Nc6 Rd5 83.Ne7 Re5 84.Ng6 Rf5 85.Nh4 Ra5 86.Nf3 Rb5 87.Nh2 Rb1 88. 
+g6+ Kg8 89.Ng4 Rb5+ 90.Kh4 Rf5 91.Ne3 Ra5 92.Kg4 Re5 93.Nf5 Re6 94.Kg5 Kh8 
+95.Ng3 Re7 96.Nh5 Re5+ 97.Kg4 Re6 98.Kf5 Re7 99.g7+ Kh7 100.Nf6+ Kxh6 101. 
+g8=Q Re5+ 102.Kg4 1-0 
+ 
+[Event "DEN Team Ch 0001"] 
+[Site "Denmark"] 
+[Date "2001.03.18"] 
+[Round "7"] 
+[White "Pedersen, Erik N"] 
+[Black "Mortensen, Erling"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2400"] 
+[BlackElo "2438"] 
+[ECO "B06"] 
+ 
+1.f4 g6 2.e4 d5 3.e5 c5 4.Nf3 Nc6 5.Be2 f6 6.d4 cxd4 7.O-O Qb6 8.Kh1 Bg7  
+9.c3 fxe5 10.fxe5 Nxe5 11.Nxe5 Bxe5 12.cxd4 Bg7 13.Nc3 Nf6 14.Rxf6 Qxf6  
+15.Nxd5 Qd6 16.Bc4 O-O 17.Nc7+ Kh8 18.Nxa8 Bd7 19.Be3 Rxa8 20.Qd2 b5 21. 
+Bb3 a5 22.Rc1 a4 23.Bd1 Rd8 24.Bf3 Be8 25.b4 Bf7 26.d5 Qe5 27.Bb6 Re8 28. 
+Bc5 a3 29.g3 h5 30.Qd3 Rd8 31.Rd1 Kh7 32.Bb6 Rb8 33.Bc5 Rd8 34.Bb6 Rb8 35. 
+Bc5 Rd8 1/2-1/2 

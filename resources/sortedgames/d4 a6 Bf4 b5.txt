@@ -1,0 +1,17 @@
+ 
+[Event "Int ch-Central SRB Op A"] 
+[Site "Paracin SRB"] 
+[Date "2015.07.09"] 
+[Round "8.19"] 
+[White "Ratkovic, Miloje"] 
+[Black "Gajic, Mladen"] 
+[Result "1-0"] 
+[WhiteElo "2341"] 
+[BlackElo "2227"] 
+[ECO "A40"] 
+[EventDate "2015.07.03"] 
+ 
+1.d4 a6 2.Bf4 b5 3.e3 Bb7 4.Nf3 e6 5.Nbd2 f5 6.c4 b4 7.Qc2 Nf6 8.Bd3 Be7  
+9.h3 O-O 10.g4 g6 11.gxf5 exf5 12.Bh6 Kh8 13.Bxf8 Qxf8 14.O-O-O a5 15.Rhe1 
+a4 16.Kb1 Nc6 17.Qc1 Na5 18.d5 c6 19.dxc6 Bxc6 20.Nd4 Bg2 21.f3 Qh6 22.Rg1 
+Qxh3 23.Rde1 f4 24.Ne4 Bxf3 25.Ng5 1-0 

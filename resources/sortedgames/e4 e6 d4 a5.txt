@@ -1,0 +1,25 @@
+ 
+[Event "Chigorin Memorial"] 
+[Site "St Petersburg RUS"] 
+[Date "2013.10.13"] 
+[Round "9.54"] 
+[White "Belenkaya, Dina"] 
+[Black "Bazeev, German"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2203"] 
+[BlackElo "2322"] 
+[ECO "C00"] 
+[EventDate "2013.10.05"] 
+ 
+1.e4 e6 2.d4 a5 3.Nf3 d6 4.Bd3 Nd7 5.O-O e5 6.c3 Ngf6 7.Nbd2 Be7 8.dxe5  
+Nxe5 9.Nxe5 dxe5 10.Nc4 Nd7 11.Qe2 O-O 12.Rd1 Qe8 13.a4 b6 14.Bd2 Bc5 15. 
+Be1 Bb7 16.Rd2 Nf6 17.b3 Qe6 18.Kh1 g6 19.Rad1 Nh5 20.Bc2 Nf4 21.Qf3 Bc6  
+22.Qg3 Be7 23.Ne3 Kh8 24.Nd5 Bxd5 25.exd5 Qf6 26.Qf3 Bd6 27.g3 Nh5 28. 
+Qxf6+ Nxf6 29.Re2 Nd7 30.c4 Kg8 31.Bc3 f5 32.f3 Rae8 33.Kg2 h5 34.h3 Re7  
+35.Rf1 Ref7 36.Bd2 Be7 37.Bh6 Re8 38.g4 Bf8 39.Bc1 Bg7 40.gxf5 gxf5 41.Kh1 
+Kh7 42.Rg1 Bh6 43.Bxh6 Kxh6 44.Reg2 Nf8 45.Rg5 Ree7 46.f4 Rg7 47.Rxg7 Rxg7 
+48.Rxg7 Kxg7 49.fxe5 Ng6 50.d6 cxd6 51.exd6 Kf6 52.Bxf5 Nf4 53.d7 Ke7 54. 
+b4 axb4 55.Kg1 Ne2+ 56.Kf2 Nd4 57.Bg6 h4 58.Ke3 Nb3 59.Bc2 Nc5 60.Kd4 Kxd7 
+61.a5 Ne6+ 62.Ke5 bxa5 63.Bf5 Kc6 64.Bxe6 Kc5 65.Ke4 a4 66.Kd3 a3 67.Kc2  
+a2 68.Kb2 b3 69.Bf7 Kb4 70.c5 Kxc5 71.Bxb3 Kd6 72.Bxa2 Ke7 73.Kc3 Kf8 74. 
+Kd4 Kg7 75.Ke5 Kh8 76.Kf6 Kh7 77.Bb1+ Kh8 78.Kg5 Kg7 1/2-1/2 

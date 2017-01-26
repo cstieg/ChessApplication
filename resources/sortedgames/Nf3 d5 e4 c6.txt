@@ -1,0 +1,16 @@
+ 
+[Event "FIDE World Blitz 2013"] 
+[Site "Khanty-Mansiysk RUS"] 
+[Date "2013.06.09"] 
+[Round "13.30"] 
+[White "Akbaev, Kazbek"] 
+[Black "Sibriaev, Aleksandr"] 
+[Result "0-1"] 
+[WhiteElo "2475"] 
+[BlackElo "2239"] 
+[ECO "A06"] 
+[EventDate "2013.06.09"] 
+ 
+1.Nf3 d5 2.e4 c6 3.d3 Bg4 4.Be2 dxe4 5.dxe4 Qxd1+ 6.Bxd1 e6 7.O-O Nd7 8.h3 
+Bh5 9.Bf4 Ngf6 10.Nbd2 Bg6 11.Re1 Be7 12.c3 Nc5 13.Bc2 O-O 14.Nh4 Rad8 15. 
+Nxg6 hxg6 16.b4 Rd3 17.Rac1 Rfd8 18.Nc4 Nh5 19.Bh2 Bg5 0-1 

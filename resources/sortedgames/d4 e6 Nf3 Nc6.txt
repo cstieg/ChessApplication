@@ -1,0 +1,81 @@
+ 
+[Event "Coulsdon ENG, Closed IM-B Dec 07"] 
+[Site "Coulsdon ENG"] 
+[Date "2007.12.19"] 
+[Round "5"] 
+[White "Tavoularis, Nicholas"] 
+[Black "Madan, Augustin"] 
+[Result "0-1"] 
+[WhiteElo "2248"] 
+[BlackElo "2425"] 
+[ECO "A40"] 
+[EventDate "2007.12.17"] 
+ 
+1.d4 e6 2.Nf3 Nc6 3.g3 f5 4.c4 d6 5.Bg2 Nf6 6.O-O e5 7.dxe5 Nxe5 8.Qc2 g6  
+9.Rd1 Qe7 10.Nxe5 dxe5 11.b3 c6 12.Ba3 Qc7 13.Bxf8 Rxf8 14.Nc3 Be6 15.Na4  
+Rd8 16.Qc3 Kf7 17.Nc5 b6 18.Na6 Qc8 19.Nb4 e4 20.f3 c5 21.Nc2 exf3 22.exf3 
+f4 23.Ne1 Rxd1 24.Rxd1 Rd8 25.Rxd8 Qxd8 26.Nd3 fxg3 27.hxg3 Nd7 28.Ne5+  
+Nxe5 29.Qxe5 Qd4+ 30.Qxd4 cxd4 31.f4 Ke7 32.Kf2 a5 33.Be4 Kd6 34.Ke2 Kc5  
+35.Kd2 a4 36.Kd3 a3 37.Kc2 Bg4 38.Kd3 Bd1 39.b4+ Kxb4 40.Kxd4 Bb3 41.Bb1  
+Bxc4 42.g4 h5 0-1 
+ 
+[Event "Narciso Yepes"] 
+[Site "Lorca ESP"] 
+[Date "2001.06.28"] 
+[Round "6"] 
+[White "Palac, Mladen"] 
+[Black "Dolezal, Cristian"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2605"] 
+[BlackElo "2392"] 
+[ECO "A40"] 
+[EventDate "2001.06.25"] 
+ 
+1.d4 e6 2.Nf3 Nc6 3.e4 d5 4.e5 b6 5.c3 Bb7 6.Bb5 Qd7 7.Nbd2 f6 8.O-O a6 9. 
+Ba4 Nh6 10.Re1 f5 11.Ng5 Nf7 12.f4 h6 13.Nxf7 Qxf7 14.Nf3 Be7 15.Be3 O-O  
+16.Bc2 Na5 17.b3 c5 18.h3 Kh8 19.Qd2 Nc6 20.a3 a5 21.g4 g6 22.Kh2 Rg8 23. 
+Rg1 Rac8 24.Qf2 cxd4 25.cxd4 Na7 26.gxf5 gxf5 27.a4 Nc6 28.Rxg8+ Rxg8 29. 
+Bd3 Nb4 30.Bb5 Ba6 31.Bxa6 Nxa6 32.Rc1 Nb4 33.Rc7 Qe8 34.Qe2 1/2-1/2 
+ 
+[Event "Narciso Yepes"] 
+[Site "Lorca ESP"] 
+[Date "2001.06.28"] 
+[Round "7"] 
+[White "Campos Gambuti, Luis Maria"] 
+[Black "Dolezal, Cristian"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2421"] 
+[BlackElo "2392"] 
+[ECO "A40"] 
+[EventDate "2001.06.25"] 
+ 
+1.d4 e6 2.Nf3 Nc6 3.c3 f5 4.Bf4 Nf6 5.Nbd2 b6 6.Qc2 Bb7 7.h3 g6 8.Rg1 Qe7  
+9.e3 d6 10.Bh2 O-O-O 11.Qa4 Nd7 12.Ba6 Ndb8 13.Bxb7+ Kxb7 14.g4 Bg7 15. 
+gxf5 gxf5 16.O-O-O Bf6 17.Rg2 Qf7 18.Ng5 Bxg5 19.Rxg5 Rhg8 20.Rdg1 Rxg5  
+21.Rxg5 Rg8 22.Rxg8 Qxg8 23.Qc4 Qg2 24.Bg3 f4 25.Bxf4 Qxh3 26.Qf1 Qf5 27. 
+Qg2 e5 28.dxe5 dxe5 29.Bg3 Nd7 30.Qe4 Qxe4 31.Nxe4 Nd8 32.Kd2 Kc6 33.c4  
+Nf7 34.Kd3 a6 35.f3 h6 36.Bh4 Nf8 37.Nf6 Ng6 38.Bg3 Nd6 39.f4 exf4 40.Bxf4 
+Nxf4+ 41.exf4 b5 42.cxb5+ Kxb5 43.Nh5 Kc5 44.Nf6 a5 45.Kc3 Nf5 46.a3 Ng7  
+47.Kd3 h5 48.b4+ axb4 49.axb4+ Kb5 50.Nd5 c6 51.Ne7 Kxb4 52.Nxc6+ Kc5  
+1/2-1/2 
+ 
+[Event "Narciso Yepes"] 
+[Site "Lorca ESP"] 
+[Date "2001.06.27"] 
+[Round "4"] 
+[White "Vassallo Barroche, Mauricio"] 
+[Black "Dolezal, Cristian"] 
+[Result "0-1"] 
+[WhiteElo "2460"] 
+[BlackElo "2392"] 
+[ECO "A40"] 
+[EventDate "2001.06.25"] 
+ 
+1.d4 e6 2.Nf3 Nc6 3.g3 g6 4.Bg2 Bg7 5.c4 d5 6.e3 Nge7 7.Nc3 O-O 8.O-O b6  
+9.cxd5 exd5 10.Qa4 Na5 11.Rd1 Bb7 12.Bd2 Nc4 13.Qc2 Qd7 14.Be1 f5 15.Ne2  
+h6 16.Rac1 Rac8 17.b3 Nd6 18.Bb4 g5 19.Ne5 Qe6 20.f4 Bf6 21.Qb2 Ne4 22.Nc3 
+Rfd8 23.Nxe4 dxe4 24.Bxe7 Bxe7 25.b4 Kh7 26.b5 gxf4 27.gxf4 Rg8 28.Kh1 Bd6 
+29.Nc6 Bxc6 30.bxc6 Rg4 31.Rg1 Rcg8 32.Bh3 Rxg1+ 33.Rxg1 Rxg1+ 34.Kxg1  
+Qg6+ 35.Qg2 b5 36.Qxg6+ Kxg6 37.Kf2 Be7 38.Ke2 Kf6 39.d5 a5 40.Kd2 b4 41. 
+Kc2 a4 42.Bf1 Bc5 43.Bh3 Bxe3 44.d6 Bxf4 45.d7 Ke7 46.Bxf5 e3 47.Bd3 Bxh2  
+48.Bb5 Bf4 0-1 

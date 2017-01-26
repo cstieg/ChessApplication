@@ -1,0 +1,15 @@
+ 
+[Event "Marianske Lazne CZE, Closed IM-B 2011"] 
+[Site "Marianske Lazne CZE"] 
+[Date "2011.01.18"] 
+[Round "5"] 
+[White "Vlasak, Lukas"] 
+[Black "Drugov, Pavel"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2238"] 
+[BlackElo "2359"] 
+[ECO "C40"] 
+[EventDate "2011.01.15"] 
+ 
+1.e4 e5 2.Nf3 c6 3.d4 Nf6 4.dxe5 Nxe4 5.Bd3 Nc5 6.O-O Nxd3 7.Qxd3 d5 8. 
+exd6 Qxd6 9.Qc3 Na6 10.Nbd2 Be6 1/2-1/2 

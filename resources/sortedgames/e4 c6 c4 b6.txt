@@ -1,0 +1,15 @@
+ 
+[Event "Gunja active Open"] 
+[Site "Gunja"] 
+[Date "2014.09.14"] 
+[Round "5"] 
+[White "Zelcic, Robert"] 
+[Black "Palac, Mladen"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2548"] 
+[BlackElo "2561"] 
+[ECO "B10"] 
+[EventDate "2014.09.14"] 
+ 
+1.e4 c6 2.c4 b6 3.d4 e6 4.d5 Bb4+ 5.Nc3 Bxc3+ 6.bxc3 c5 7.Nf3 d6 8.Bd3  
+1/2-1/2 

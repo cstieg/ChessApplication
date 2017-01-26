@@ -1,0 +1,41 @@
+ 
+[Event "10. Khazar Cup"] 
+[Site "Rasht IRI"] 
+[Date "2012.03.04"] 
+[Round "6"] 
+[White "Khademi, Mohammad Miran"] 
+[Black "Toufighi, Homayoon"] 
+[Result "0-1"] 
+[WhiteElo "2305"] 
+[BlackElo "2428"] 
+[ECO "B06"] 
+[EventDate "2012.02.29"] 
+ 
+1.f4 d6 2.e4 g6 3.Nf3 Bg7 4.d3 c5 5.g3 Nc6 6.c3 e6 7.Bg2 Nge7 8.Be3 O-O 9. 
+O-O b5 10.a3 Rb8 11.d4 cxd4 12.Nxd4 a5 13.Nd2 Nxd4 14.Bxd4 Bxd4+ 15.cxd4  
+Qb6 16.Nf3 Bb7 17.Re1 Rbc8 18.Qd2 Rc7 19.Rad1 Rfc8 20.f5 exf5 21.exf5 Nxf5 
+22.g4 Rc2 23.Qf4 Rxg2+ 24.Kxg2 Nh4+ 25.Kg3 Nxf3 26.Re7 Rf8 27.Rd3 Bd5 28. 
+Rxf3 Bxf3 29.Kxf3 Qc6+ 30.Kg3 Qd5 31.Kh4 h6 32.Kg3 Rc8 33.Re2 Kg7 34.h4  
+Rc4 35.Re4 g5 36.Qe3 Rc2 0-1 
+ 
+[Event "Essen GER, Senior Ch (A) 2005"] 
+[Site "Essen GER"] 
+[Date "2005.08.23"] 
+[Round "4.1"] 
+[White "Rotstein, Jefim"] 
+[Black "Zunker, Dr. Reinhard"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2412"] 
+[BlackElo "2215"] 
+[ECO "B06"] 
+[EventDate "2005.08.20"] 
+ 
+1.f4 d6 2.e4 g6 3.Nf3 Bg7 4.d3 e5 5.Nc3 Nc6 6.Be2 Nd4 7.Nxd4 exd4 8.Nb1 f5 
+9.O-O Ne7 10.Nd2 O-O 11.Nf3 c5 12.Re1 Bd7 13.Bf1 Bc6 14.c3 dxc3 15.Qb3+ d5 
+16.bxc3 c4 17.Qa3 dxe4 18.dxe4 b5 19.Ng5 Bxe4 20.Be3 Re8 21.Ne6 Qc8 22. 
+Nxg7 Kxg7 23.Rad1 Qc7 24.Rd6 Kg8 25.Red1 Nd5 26.Bc5 Red8 27.g3 Rxd6 28. 
+Bxd6 Qc6 29.Be5 a5 30.h4 b4 31.Qc1 b3 32.axb3 cxb3 33.c4 Rc8 34.Qa3 Qb6+  
+35.Bd4 Qb4 36.Qb2 Rxc4 37.Bxc4 Qxc4 38.Bh8 Qc5+ 39.Bd4 Qc2 40.Ra1 Qxb2 41. 
+Bxb2 Ne3 42.Rxa5 Nc4 43.Rb5 Nxb2 44.Rxb3 Nd3 45.Rc3 h6 46.Rc7 Nb4 47.Kf2  
+Nd5 48.Ra7 Kf8 49.Ra8+ Kf7 50.Ra7+ Ne7 51.Ke3 Ke6 52.Ra6+ Nc6 53.Ra8 Kf6  
+54.Ra6 g5 55.hxg5+ hxg5 1/2-1/2 

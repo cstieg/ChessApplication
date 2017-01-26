@@ -1,0 +1,43 @@
+ 
+[Event "4. Holuj-Radzikowska"] 
+[Site "Wroclaw POL"] 
+[Date "2014.12.16"] 
+[Round "7.5"] 
+[White "Bartel, Marta"] 
+[Black "Zawadzka, Jolanta"] 
+[Result "1-0"] 
+[WhiteElo "2366"] 
+[BlackElo "2419"] 
+[ECO "A03"] 
+[EventDate "2014.12.10"] 
+ 
+1.g3 d5 2.f4 c5 3.Nf3 Nc6 4.d3 Nf6 5.Bg2 g6 6.O-O Bg7 7.c3 O-O 8.a4 b6 9. 
+Na3 Bb7 10.Bd2 Rc8 11.Rc1 Ne8 12.Bh3 e6 13.Nc2 Na5 14.Na1 d4 15.Bg2 Nd6  
+16.Qe1 Nc6 17.Nc2 Qd7 18.cxd4 cxd4 19.b4 a6 20.Qf2 Nf5 21.g4 Nh6 22.h3  
+Rfd8 23.f5 f6 24.b5 axb5 25.axb5 Na5 26.fxe6 Qxe6 27.Nfxd4 Qd7 28.Bxb7  
+Nxb7 29.Nc6 Re8 30.N2d4 Nf7 31.Nf3 Nc5 32.Ra1 Nd6 33.Ra7 Rc7 34.Rxc7 Qxc7  
+35.Bf4 Qd7 36.Bxd6 Qxd6 37.Kg2 Ne6 38.Nfd4 Nxd4 39.Nxd4 f5 40.Nf3 fxg4 41. 
+hxg4 Qb4 42.e4 Qxb5 43.Ng5 Qb2 44.Qxb2 Bxb2 45.Rb1 Bd4 46.Nf3 Bc5 47.g5  
+Rd8 48.Rb3 Kg7 49.d4 Rxd4 50.Nxd4 Bxd4 51.Rd3 Bc5 52.Rd7+ Kf8 53.Rxh7 Be7  
+54.Rh8+ Kf7 55.Rb8 Bc5 56.Kf3 Ke6 57.Rg8 Kf7 58.Rc8 Be7 59.Rb8 Bxg5 60. 
+Rxb6 Bd8 61.Rc6 Be7 62.Kf4 Bf6 63.e5 Be7 64.Ke4 Bd8 65.Kd5 Be7 66.Ra6 Bh4  
+67.Ra8 Bg5 68.e6+ Ke7 69.Rg8 Bf4 70.Rxg6 Bd2 71.Rg7+ Kf8 72.Rb7 Ke8 73.Ke5 
+Bg5 74.Kf5 Bh4 75.Rh7 Bf2 76.Kg6 Bc5 77.Rc7 Bd6 78.Rb7 Bc5 79.Kf5 Kf8 80. 
+Ke5 Ke8 81.Rb5 Bf2 82.Rb2 Bc5 83.Rc2 Be3 84.Rc3 Bf2 85.Kd6 1-0 
+ 
+[Event "3. Open"] 
+[Site "Calvia ESP"] 
+[Date "2006.10.21"] 
+[Round "2"] 
+[White "Bartel, Mateusz"] 
+[Black "Larino Nieto, David"] 
+[Result "0-1"] 
+[WhiteElo "2569"] 
+[BlackElo "2406"] 
+[ECO "A03"] 
+[EventDate "2006.10.20"] 
+ 
+1.g3 d5 2.f4 c5 3.Bg2 Nc6 4.Nf3 Bg4 5.O-O Nf6 6.Ne5 Nxe5 7.fxe5 Nd7 8.Bxd5 
+Nxe5 9.Bxb7 Bh3 10.Rf2 Rb8 11.Bh1 Qd7 12.Nc3 h5 13.e3 Ng4 14.Rf4 g5 15.Ra4 
+Bg7 16.Ra6 Kf8 17.Qf3 Bxc3 18.bxc3 Qb5 19.Rxa7 Rh6 20.c4 Qb6 21.Ra3 Rf6  
+22.Qe2 Rf1+ 23.Qxf1 Bxf1 24.Rb3 Qd6 25.Rxb8+ Qxb8 26.Kxf1 Qe5 0-1 

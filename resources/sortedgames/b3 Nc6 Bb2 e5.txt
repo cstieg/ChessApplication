@@ -1,0 +1,75 @@
+ 
+[Event "Victoria CAN, 4. Open"] 
+[Site "Victoria CAN"] 
+[Date "2010.04.04"] 
+[Round "5"] 
+[White "Gansvind, Valeria"] 
+[Black "Day, Lawrence A"] 
+[Result "0-1"] 
+[WhiteElo "2332"] 
+[BlackElo "2302"] 
+[ECO "A01"] 
+[EventDate "2010.04.02"] 
+ 
+1.b3 Nc6 2.Bb2 e5 3.e3 a6 4.d4 f6 5.Bd3 Nh6 6.Nf3 d6 7.Nbd2 g6 8.a3 Bg7 9. 
+dxe5 dxe5 10.Be4 O-O 11.Bxc6 bxc6 12.Nc4 Qd5 13.Qxd5+ cxd5 14.Na5 c5 15.b4 
+cxb4 16.axb4 Bf5 17.c3 Rfc8 18.O-O Bf8 19.h3 Nf7 20.Rfd1 Be6 21.Nd2 Nd6  
+22.Nab3 Nb5 23.Rdc1 Rc6 24.Na5 Rc7 25.e4 Bh6 26.exd5 Bxd5 27.Rc2 Nd4 28. 
+Rac1 Rac8 29.Kf1 Bf8 30.c4 Nxc2 31.Rxc2 Bxb4 32.Bc3 Bxc4+ 33.Naxc4 Rxc4  
+0-1 
+ 
+[Event "Open"] 
+[Site "Senj CRO"] 
+[Date "2008.04.20"] 
+[Round "6"] 
+[White "Lovric, Branko"] 
+[Black "Mestrovic, Zvonimir"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2350"] 
+[BlackElo "2328"] 
+[ECO "A01"] 
+[EventDate "2008.04.16"] 
+ 
+1.b3 Nc6 2.Bb2 e5 3.e3 d5 4.Bb5 Bd6 5.f4 Qh4+ 6.g3 Qe7 7.Nf3 f6 8.Nc3 Be6  
+9.f5 Bf7 10.e4 dxe4 11.Bxc6+ bxc6 12.Nxe4 Nh6 13.Nh4 Ba3 14.Bxa3 Qxa3 15. 
+O-O Bd5 16.Qe2 Bxe4 17.Qxe4 O-O-O 18.Qxc6 Kb8 19.Qb5+ Kc8 20.Qc6 Kb8  
+1/2-1/2 
+ 
+[Event "Hotel Opatija 10th"] 
+[Site "Kastav CRO"] 
+[Date "2001.??.??"] 
+[Round "11"] 
+[White "Lovric, Branko"] 
+[Black "Kos, Toni"] 
+[Result "0-1"] 
+[WhiteElo "2357"] 
+[BlackElo "2402"] 
+[ECO "A01"] 
+ 
+1.b3 Nc6 2.Bb2 e5 3.Nf3 d6 4.d4 exd4 5.Nxd4 Bd7 6.c4 Nf6 7.Nc3 g6 8.g3 Bg7 
+9.Bg2 O-O 10.O-O Re8 11.Rc1 Nxd4 12.Qxd4 Ne4 13.Qd1 Nxc3 14.Bxc3 Bc6 15. 
+Bd5 Qd7 16.e3 Bxc3 17.Rxc3 a5 18.Qf3 Ra6 19.Rd1 Bxd5 20.cxd5 Rc8 21.Qf6 c5 
+22.dxc6 Rcxc6 23.Rcd3 Qe6 24.Qd8+ Kg7 25.Rd4 a4 26.bxa4 Qxa2 27.Re4 Qe2  
+28.Rf1 Rc5 29.Re8 Rac6 30.Rg8+ Kh6 31.Qh4+ Qh5 32.Qf4+ Qg5 33.Qxf7 Qe5 34. 
+Re8 Qf5 35.Qxb7 Rc1 36.Rxc1 Rxc1+ 37.Kg2 Qd3 38.Qb5 Qd1 39.Kh3 Rc5 40.Qd7  
+Qf1+ 41.Kg4 Rg5+ 42.Kh4 Qxf2 0-1 
+ 
+[Event "IHEM"] 
+[Site "Hamburg GER"] 
+[Date "2000.06.13"] 
+[Round "4"] 
+[White "Rausis, Igors"] 
+[Black "Engelbert, Christoph"] 
+[Result "1-0"] 
+[WhiteElo "2486"] 
+[BlackElo "2209"] 
+[ECO "A01"] 
+[EventDate "2000.06.10"] 
+ 
+1.b3 Nc6 2.Bb2 e5 3.e3 g6 4.f4 Bg7 5.Nf3 d6 6.Bc4 Nge7 7.O-O O-O 8.fxe5  
+Bg4 9.Nc3 Nxe5 10.Nxe5 Bxd1 11.Nxf7 Rxf7 12.Bxf7+ Kh8 13.Raxd1 Qd7 14.Bc4  
+d5 15.Bd3 c6 16.Rf7 Qe6 17.Rxg7 Kxg7 18.Nxd5+ Kh6 19.Nc7 Qg4 20.Rf1 Rd8  
+21.Rf3 Rxd3 22.cxd3 Qd7 23.Be5 Nd5 24.Nxd5 Qxd5 25.d4 Qe4 26.Rh3+ Kg5 27. 
+Rxh7 Qc2 28.Bf4+ Kf5 29.h3 Qxd2 30.Rf7+ Ke6 31.Rxb7 Qxa2 32.Kh2 a5 33.Kg3  
+Qc2 34.Ra7 Qc3 35.Rb7 Kf5 36.Re7 Qxb3 37.Re5+ Kf6 38.Rxa5 Qc2 39.Re5 Kf7  
+40.Bg5 Qc4 41.Rc5 Qa6 42.h4 Kg7 43.Kf4 Qc8 44.Re5 Kf7 45.g4 Kg8 46.Bf6 1-0 

@@ -1,0 +1,16 @@
+ 
+[Event "Simultan (blindfold)"] 
+[Site "Cannes FRA"] 
+[Date "2004.02.11"] 
+[Round "1"] 
+[White "Tkachiev, Vladislav"] 
+[Black "Demun Nicolas"] 
+[Result "1-0"] 
+[WhiteElo "2688"] 
+[BlackElo "2524"] 
+[ECO "C41"] 
+ 
+1.Nc3 e5 2.e4 c6 3.Nf3 d6 4.d4 Nd7 5.Bc4 Ngf6 6.dxe5 b5 7.exf6 Nxf6 8.Bb3  
+Bg4 9.h3 Bh5 10.g4 Bg6 11.Qe2 b4 12.e5 dxe5 13.Nxe5 Be7 14.Nxc6 Qc7 15.Bf4 
+Qb7 16.Nd5 Be4 17.Nxf6+ gxf6 18.Qxe4 O-O 19.Nxe7+ Qxe7 20.Qxe7 Kg7 21.Bh6+ 
+Kg8 22.Qxf6 Rfe8+ 23.Kf1 1-0 

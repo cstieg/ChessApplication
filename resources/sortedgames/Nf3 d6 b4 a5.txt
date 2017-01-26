@@ -1,0 +1,16 @@
+ 
+[Event "42. TCh-GRE 2014"] 
+[Site "Porto Rio GRE"] 
+[Date "2014.06.29"] 
+[Round "3.3"] 
+[White "Azis, Azizis Ektoras"] 
+[Black "Kordis, Konstantinos"] 
+[Result "1-0"] 
+[WhiteElo "2217"] 
+[BlackElo "2202"] 
+[ECO "A04"] 
+[EventDate "2014.06.28"] 
+ 
+1.Nf3 d6 2.b4 a5 3.b5 e5 4.Bb2 f5 5.e3 Nf6 6.d4 e4 7.Nfd2 Be7 8.c4 Nbd7 9. 
+Nc3 Nf8 10.Be2 Ng6 11.Qc2 O-O 12.a4 c6 13.h4 d5 14.h5 Nh8 15.f3 Nf7 16. 
+O-O-O cxb5 17.axb5 dxc4 18.Bxc4 a4 19.Ba1 Bd7 20.g4 fxg4 21.fxe4 Qc8 1-0 

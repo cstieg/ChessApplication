@@ -1,0 +1,15 @@
+ 
+[Event "Ruzomberok SVK, Mitropa Cup (m)"] 
+[Site "Ruzomberok SVK"] 
+[Date "2014.05.28"] 
+[Round "6.3"] 
+[White "Hug, Werner"] 
+[Black "Biolek, Richard Jr"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2474"] 
+[BlackElo "2418"] 
+[ECO "A04"] 
+[EventDate "2014.05.23"] 
+ 
+1.Nf3 d6 2.e3 Nd7 3.Bc4 c5 4.O-O b6 5.Qe2 Bb7 6.Ba6 Qc8 7.Bxb7 Qxb7 8.e4  
+e6 1/2-1/2 

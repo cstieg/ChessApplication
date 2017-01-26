@@ -1,0 +1,51 @@
+ 
+[Event "Hanoi VIE, Ch U7 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.16"] 
+[Round "7.21"] 
+[White "Nguyen, Minh Dat"] 
+[Black "Pham, Thien Loc"] 
+[Result "1-0"] 
+[WhiteElo "2574"] 
+[BlackElo "2553"] 
+[ECO "C40"] 
+[EventDate "2012.07.12"] 
+ 
+1.e4 e5 2.Nf3 Qf6 3.Bc4 Bc5 4.Nc3 Nh6 5.d3 Nf5 6.exf5 Qxf5 7.Bd2 d6 8.O-O  
+O-O 9.h3 c6 10.Qe2 d5 11.Bb3 Re8 12.Rad1 e4 13.dxe4 dxe4 14.Ng5 Bb6 15. 
+Bxf7+ Kf8 16.Bxe8 Kxe8 17.Ncxe4 Kf8 18.Nd6 Qd7 19.Nxc8 Qxc8 20.Nxh7+ Kg8  
+21.Ng5 Kf8 22.Bb4+ c5 23.Bc3 Qc6 24.Qe5 Qg6 25.Ne6+ Ke7 26.Rd6 Nd7 27.Nf4+ 
+Nxe5 28.Nxg6+ Nxg6 29.Rxg6 Rg8 30.Rxg7+ Rxg7 31.Bxg7 1-0 
+ 
+[Event "Hanoi VIE, Ch U7 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.15"] 
+[Round "5.16"] 
+[White "Pham, Nguyen Phuc Hao"] 
+[Black "Pham, Thien Loc"] 
+[Result "1-0"] 
+[WhiteElo "2586"] 
+[BlackElo "2553"] 
+[ECO "C40"] 
+[EventDate "2012.07.12"] 
+ 
+1.e4 e5 2.Nf3 Qf6 3.Bc4 Bc5 4.Nc3 Nc6 5.Nd5 Qd6 6.O-O Nh6 7.d3 O-O 8.Re1  
+Qg6 9.Nxc7 Qh5 10.a3 Ng4 11.Nxa8 Nd4 12.Nxd4 Bxd4 13.h3 Bxf2+ 14.Kh1 Bxe1  
+15.Qxe1 Nf6 16.Be3 d6 17.Qg3 Ng4 18.Bxa7 Bd7 19.Kg1 Rd8 20.hxg4 Bxg4 21. 
+Rf1 Rd7 22.Bxf7+ Rxf7 23.Rxf7 Qxf7 24.Qxg4 1-0 
+ 
+[Event "Hanoi VIE, Ch U7 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.12"] 
+[Round "1.25"] 
+[White "Hoang, Xuan Phuoc"] 
+[Black "Bui, Quoc Dat"] 
+[Result "1-0"] 
+[WhiteElo "2536"] 
+[BlackElo "2575"] 
+[ECO "C40"] 
+[EventDate "2012.07.12"] 
+ 
+1.e4 e5 2.Nf3 Qf6 3.Bb5 Nc6 4.Bxc6 dxc6 5.d3 Be6 6.Bg5 Qg6 7.O-O f6 8.Be3  
+f5 9.exf5 Qxf5 10.Re1 e4 11.dxe4 Qxe4 12.Bc5 Qf5 13.Bxf8 Qxf8 14.Rxe6+ Ne7 
+15.Nc3 1-0 

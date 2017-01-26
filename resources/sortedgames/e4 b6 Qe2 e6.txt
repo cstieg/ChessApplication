@@ -1,0 +1,17 @@
+ 
+[Event "TCh-AUT 2 Mitte 2011-12"] 
+[Site "Steyregg AUT"] 
+[Date "2011.12.04"] 
+[Round "6"] 
+[White "Humer, Wolfgang"] 
+[Black "Enoeckl, Philipp"] 
+[Result "1-0"] 
+[WhiteElo "2244"] 
+[BlackElo "2292"] 
+[ECO "B00"] 
+[EventDate "2011.10.21"] 
+ 
+1.e4 b6 2.Qe2 e6 3.g3 c5 4.Bg2 Nc6 5.Nf3 Nge7 6.O-O d6 7.c3 a5 8.Na3 g6 9. 
+d4 cxd4 10.cxd4 Bg7 11.Rd1 O-O 12.Bf4 Ba6 13.Qd2 Nb4 14.Nb1 Nbc6 15.Bh6 e5 
+16.Bxg7 Kxg7 17.Nc3 Qc7 18.Rac1 Qa7 19.Nd5 Rac8 20.Bh3 Nxd4 21.Nxd4 Rxc1  
+22.Rxc1 Nxd5 23.Nc6 1-0 

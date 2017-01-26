@@ -1,0 +1,156 @@
+ 
+[Event "Bundesliga 2012-13"] 
+[Site "Griesheim GER"] 
+[Date "2012.10.20"] 
+[Round "1"] 
+[White "Mista, Aleksander"] 
+[Black "Pruijssers, Roeland"] 
+[Result "1-0"] 
+[WhiteElo "2543"] 
+[BlackElo "2519"] 
+[ECO "C63"] 
+[EventDate "2012.10.20"] 
+ 
+1.e4 Nc6 2.Bb5 e5 3.Nc3 f5 4.Nf3 fxe4 5.Nxe4 Nf6 6.Nxf6+ Qxf6 7.Qe2 Be7 8. 
+Bxc6 bxc6 9.d4 Qg6 10.Bd2 d6 11.dxe5 O-O 12.O-O-O Qxg2 13.exd6 Bxd6 14.Ng5 
+Qd5 15.Kb1 Bf5 16.Rhe1 Qb5 17.Qe3 Rab8 18.Bc3 Qa4 19.Rxd6 Bxc2+ 20.Kc1 Bf5 
+21.Rd2 Qxa2 22.Ne4 Qa1+ 23.Kc2 Qa4+ 24.Kb1 Be6 25.Rd4 Qa2+ 26.Kc1 Bd5 27. 
+f3 Rf7 28.Ng5 Rf5 29.Rf4 Qa1+ 30.Kc2 Bb3+ 31.Kd2 Rd8+ 32.Rd4 Rxd4+ 33.Qxd4 
+1-0 
+ 
+[Event "ISL Ch"] 
+[Site "Reykjavik ISL"] 
+[Date "2007.08.07"] 
+[Round "10"] 
+[White "Ptacnikova, Lenka"] 
+[Black "Lagerman, Robert"] 
+[Result "0-1"] 
+[WhiteElo "2239"] 
+[BlackElo "2315"] 
+[ECO "C60"] 
+[EventDate "2007.08.28"] 
+ 
+1.e4 Nc6 2.Bb5 e5 3.Nf3 Nge7 4.c3 d6 5.d4 Ng6 6.d5 a6 7.Ba4 b5 8.Bc2 Nb8  
+9.a4 bxa4 10.Bxa4+ Bd7 11.O-O Be7 12.Bxd7+ Qxd7 13.Be3 O-O 14.Nbd2 f5 15. 
+exf5 Qxf5 16.Qb1 Qh5 17.Qd3 Nd7 18.b4 Rae8 19.Rfd1 Bd8 20.Ne1 e4 21.Nxe4  
+Nde5 22.Ng3 Qh4 23.Qd4 Ng4 24.h3 Nxe3 25.Qxh4 Bxh4 0-1 
+ 
+[Event "SUI Ch"] 
+[Site "Lenzerheide SUI"] 
+[Date "2006.07.19"] 
+[Round "7"] 
+[White "Jenni, Florian"] 
+[Black "Klauser, Markus"] 
+[Result "1-0"] 
+[WhiteElo "2481"] 
+[BlackElo "2402"] 
+[ECO "C76"] 
+[EventDate "2006.07.13"] 
+ 
+1.e4 Nc6 2.Bb5 e5 3.Nf3 g6 4.c3 a6 5.Ba4 d6 6.d4 Bd7 7.O-O Bg7 8.Re1 b5 9. 
+Bc2 Nf6 10.Bg5 h6 11.Bh4 O-O 12.Nbd2 Re8 13.Nb3 Qe7 14.d5 Na7 15.Na5 c6  
+16.dxc6 Nxc6 17.Nxc6 Bxc6 18.Bxf6 Bxf6 19.Bb3 Kg7 20.Qd3 Qb7 21.Rad1 Rac8  
+22.Nd2 Bg5 23.Nf1 Red8 24.g3 h5 25.h4 Bh6 26.Qe2 Rc7 27.a3 Rcd7 28.Bd5 Re7 
+29.Rd3 Bxd5 30.Rxd5 Re6 31.Red1 Qb6 32.Nh2 Rc8 33.Qd3 Rf6 34.Nf3 Rc6 35. 
+Kg2 Kf8 36.Qe2 Rc5 37.Ne1 a5 38.Nc2 Kg7 39.R1d3 Qc7 40.Rd1 Qb6 41.f3 Re6  
+42.Qd3 Rxd5 43.Qxd5 Rf6 44.Qd3 Re6 45.Qe2 Re8 46.Rd5 Rb8 47.Qd1 Qc7 48. 
+Rxd6 Bc1 49.Qd5 Qc4 50.Qxe5+ Kh7 51.Nd4 Bxb2 52.g4 Bxc3 53.gxh5 Rg8 54. 
+Qxb5 Qa2+ 55.Ne2 gxh5+ 56.Kf2 Rg6 57.Qxh5+ Kg7 58.Rxg6+ fxg6 59.Qc5 Bb2  
+60.Qxa5 Bxa3 61.Qe5+ Kh7 62.h5 gxh5 63.Qxh5+ Kg7 64.Qg5+ Kf8 65.Qb5 Be7  
+66.Qf5+ Kg7 67.Qg4+ Kf8 68.f4 Qa3 69.Qf3 Bc5+ 70.Kg2 Be3 71.Kg3 Qa7 72.e5  
+Bc5 73.Qd5 Be7 74.Nd4 Qa3+ 75.Kg4 Qe3 76.Qa8+ Kf7 77.e6+ Qxe6+ 78.Nxe6  
+Kxe6 79.Qe4+ Kd7 80.f5 Bd6 81.f6 Bc5 82.Qd5+ Bd6 83.f7 Ke7 84.f8=B+ Kxf8  
+85.Qxd6+ Kf7 86.Kf5 Kg7 87.Qc7+ Kg8 88.Kf6 1-0 
+ 
+[Event "Ch World (juniors) (under 16) (g)"] 
+[Site "Belfort FRA"] 
+[Date "2005.07.27"] 
+[Round "9"] 
+[White "Ignacz, Maria"] 
+[Black "Muzychuk, Anna"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2265"] 
+[BlackElo "2364"] 
+[ECO "C86"] 
+ 
+1.e4 Nc6 2.Bb5 e5 3.Nf3 a6 4.Ba4 Nf6 5.Qe2 b5 6.Bb3 Be7 7.O-O O-O 8.c3 d6  
+9.h3 1/2-1/2 
+ 
+[Event "Oceania zt"] 
+[Site "Auckland NZL"] 
+[Date "2005.01.31"] 
+[Round "2"] 
+[White "Solomon, Stephen J"] 
+[Black "Green, Peter NZL"] 
+[Result "1-0"] 
+[WhiteElo "2426"] 
+[BlackElo "2258"] 
+[ECO "C92"] 
+[EventDate "2005.01.30"] 
+ 
+1.e4 Nc6 2.Bb5 e5 3.Nf3 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O  
+9.h3 Bb7 10.d4 Re8 11.Nbd2 Bf8 12.a4 h6 13.Bc2 exd4 14.cxd4 Nb4 15.Bb1 c5  
+16.d5 Nd7 17.Ra3 f5 18.Nh2 Nf6 19.Rg3 c4 20.b3 Nd3 21.Bxd3 cxd3 22.exf5  
+Rxe1+ 23.Qxe1 Bxd5 24.Rxd3 Qd7 25.Ng4 Nxg4 26.hxg4 Re8 27.Qd1 Bb7 28.Nf3  
+Be4 29.Rd4 d5 30.Bb2 Bc5 31.Nh4 Bxd4 32.Qxd4 Bc2 33.f6 Re4 34.Qd2 Rxg4 35. 
+Qxc2 Rxh4 36.Qg6 Qf7 37.Qg3 g5 38.Qb8+ Kh7 39.axb5 Rb4 40.b6 Rxb3 41.Qc7  
+Kg8 42.Qc8+ Kh7 43.Qc2+ 1-0 
+ 
+[Event "Classics IM"] 
+[Site "Gausdal NOR"] 
+[Date "2003.04.04"] 
+[Round "2"] 
+[White "Johannesson, Ingvar Thor"] 
+[Black "Nygren, Kim"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2263"] 
+[BlackElo "2207"] 
+[ECO "C68"] 
+[EventDate "2003.04.03"] 
+ 
+1.e4 Nc6 2.Bb5 e5 3.Nf3 a6 4.Bxc6 dxc6 5.O-O Bg4 6.d3 Qf6 7.Be3 Bxf3 8. 
+Qxf3 Qxf3 9.gxf3 Bd6 10.Nd2 O-O-O 11.Rfb1 f5 12.Nc4 f4 13.Bd2 Nh6 14.Bc3  
+Nf7 15.Kf1 c5 16.Ke2 b5 17.Na5 Kd7 18.Bd2 Ng5 19.a3 Ne6 20.c3 Rb8 21.b4  
+Rhd8 22.Nb3 Ke7 23.a4 bxa4 24.Rxa4 cxb4 25.cxb4 Rb6 26.Bc3 c5 27.bxc5 Nxc5 
+28.Rb4 Rxb4 29.Bxb4 Nxe4 30.fxe4 Bxb4 31.Ra1 Ra8 32.Na5 Bxa5 33.Rxa5 Ke6  
+34.d4 exd4 35.Kd3 Ra7 36.Kxd4 Rd7+ 37.Kc3 Rd6 38.Rf5 Rc6+ 39.Kb3 Rb6+ 40. 
+Ka4 Rb2 41.Rxf4 Ke5 42.Rf7 g6 43.Re7+ Kd4 44.Rxh7 Rxf2 45.Rg7 Rg2 46.h4  
+Kxe4 47.Rh7 Kf5 48.Ka5 Ra2+ 49.Kb4 Rh2 50.Rh6 Kf6 51.Rh7 Kf5 52.Rh6 Kf6  
+53.Rh7 Rb2+ 54.Ka5 Ra2+ 55.Kb4 a5+ 56.Kb3 Re2 57.Kc3 Re5 58.Kd3 Kf5 59.Kc3 
+Kg4 60.Rh6 Kf5 61.Kc4 a4 62.Kb4 Re4+ 63.Ka3 Kg4 1/2-1/2 
+ 
+[Event "Bundesliga 2002-3"] 
+[Site "Baden-Baden GER"] 
+[Date "2002.10.19"] 
+[Round "1"] 
+[White "Handke, Florian"] 
+[Black "Zeller, Frank"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2504"] 
+[BlackElo "2454"] 
+[ECO "C78"] 
+[EventDate "2002.10.19"] 
+ 
+1.e4 Nc6 2.Bb5 e5 3.Nf3 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 O-O 7.d4 Ba7 8.Re1 d6  
+9.Bg5 h6 10.Bh4 Qe7 11.Nbd2 exd4 12.e5 dxe5 13.cxd4 Nxd4 14.Nxe5 Qd6 15. 
+Nec4 Qf4 16.Bg3 Qg5 17.Nf3 Qd5 18.Nfe5 b5 19.Ne3 Qe6 20.Bb3 Nxb3 21.axb3  
+Bb7 22.Qc2 Be4 23.Qc3 Rfd8 24.N3g4 Bd4 25.Nxf6+ Qxf6 26.Qxc7 Rac8 27.Qxf7+ 
+Qxf7 28.Nxf7 Bxb2 29.Nxd8 Bxa1 1/2-1/2 
+ 
+[Event "Stuttgart - Wattenscheid"] 
+[Site "BL 0203"] 
+[Date "2002.10.19"] 
+[Round "1.5"] 
+[White "Handke, Florian"] 
+[Black "Zeller, Frank"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2504"] 
+[BlackElo "2454"] 
+[ECO "C78"] 
+[EventDate "2002.??.??"] 
+ 
+1.e4 Nc6 2.Bb5 e5 3.Nf3 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 O-O 7.d4 Ba7 8.Re1 d6  
+9.Bg5 h6 10.Bh4 Qe7 11.Nbd2 exd4 12.e5 dxe5 13.cxd4 Nxd4 14.Nxe5 Qd6 15. 
+Nec4 Qf4 16.Bg3 Qg5 17.Nf3 Qd5 18.Nfe5 b5 19.Ne3 Qe6 20.Bb3 Nxb3 21.axb3  
+Bb7 22.Qc2 Be4 23.Qc3 Rfd8 24.N3g4 Bd4 25.Nxf6+ Qxf6 26.Qxc7 Rac8 27.Qxf7+ 
+Qxf7 28.Nxf7 Bxb2 29.Nxd8 Bxa1 1/2-1/2 

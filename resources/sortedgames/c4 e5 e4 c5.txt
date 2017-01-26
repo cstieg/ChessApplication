@@ -1,0 +1,15 @@
+ 
+[Event "UKR Ch sf"] 
+[Site "Alushta UKR"] 
+[Date "2005.05.24"] 
+[Round "9"] 
+[White "Tishin, Dmitry"] 
+[Black "Yarmysty, Mikhail"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2355"] 
+[BlackElo "2334"] 
+[ECO "C20"] 
+[EventDate "2005.05.16"] 
+ 
+1.c4 e5 2.e4 c5 3.d3 d6 4.a4 a5 5.b3 b6 6.f3 f6 7.g4 g5 8.h4 h6 9.h5 Ra7  
+10.Ra2 Rah7 11.Rah2 1/2-1/2 

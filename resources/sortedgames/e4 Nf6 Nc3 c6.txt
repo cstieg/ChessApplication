@@ -1,0 +1,38 @@
+ 
+[Event "SuperLiga-ROM"] 
+[Site "Eforie Nord ROM"] 
+[Date "2008.09.09"] 
+[Round "9"] 
+[White "Ardelean, George-Catalin"] 
+[Black "Mozes, Ervin"] 
+[Result "1-0"] 
+[WhiteElo "2498"] 
+[BlackElo "2321"] 
+[ECO "B02"] 
+[EventDate "2008.09.01"] 
+ 
+1.e4 Nf6 2.Nc3 c6 3.d4 Qa5 4.Bd3 g6 5.a3 Bg7 6.f4 d6 7.Nf3 O-O 8.O-O Nbd7  
+9.Kh1 e5 10.dxe5 dxe5 11.f5 b5 12.Qe1 Re8 13.Qh4 Qc7 14.Bh6 Nh5 15.Bxg7  
+Kxg7 16.g4 Nf4 17.g5 Nxd3 18.cxd3 Qd6 19.Rad1 Qf8 20.Qg3 Kh8 21.d4 exd4  
+22.Nxd4 Ne5 23.Ne6 fxe6 24.Qxe5+ Qg7 25.f6 Qf7 26.Rd6 1-0 
+ 
+[Event "FSIMB September"] 
+[Site "Budapest HUN"] 
+[Date "2005.09.09"] 
+[Round "7"] 
+[White "Vasilkova, Svetlana"] 
+[Black "Kahn, Evarth Dr"] 
+[Result "0-1"] 
+[WhiteElo "2308"] 
+[BlackElo "2307"] 
+[ECO "B07"] 
+[EventDate "2005.09.03"] 
+ 
+1.e4 Nf6 2.Nc3 c6 3.d4 d6 4.Be3 e5 5.Nge2 Ng4 6.Bc1 Qh4 7.g3 Qf6 8.f4 exf4 
+9.Nxf4 g5 10.Nh3 Bg7 11.Be2 Qxd4 12.Bxg4 Qxd1+ 13.Bxd1 Bxh3 14.Bxg5 Bg2  
+15.Rg1 Bxc3+ 16.bxc3 Bxe4 17.Kd2 Nd7 18.Re1 d5 19.Bf3 Nc5 20.Bf6 O-O 21. 
+Be7 Bxf3 22.Bxc5 Rfe8 23.a4 b6 24.Be3 c5 25.a5 Rac8 26.a6 Re6 27.Bf4 Be4  
+28.g4 f6 29.h4 Kg7 30.g5 b5 31.Ra5 b4 32.cxb4 cxb4 33.Rc1 Rec6 34.Rb5 Rxa6 
+35.Rxb4 Ra2 36.Rb7+ Kg6 37.gxf6 Kxf6 38.Rc7 Rxc7 39.Bxc7 d4 40.Kd1 Ke6 41. 
+Bf4 a5 42.Bd2 a4 43.Bb4 Kd5 44.c4+ Kc6 45.Ke1 a3 46.Rd1 d3 47.Rd2 Ra1+ 48. 
+Kf2 a2 0-1 

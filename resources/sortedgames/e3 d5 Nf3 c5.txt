@@ -1,0 +1,39 @@
+ 
+[Event "TCh-ESP Premier North"] 
+[Site "Barcelona ESP"] 
+[Date "2005.08.12"] 
+[Round "3"] 
+[White "Paredes Galan, Angel"] 
+[Black "Navarrete Delgado, Sergio"] 
+[Result "1-0"] 
+[WhiteElo "2334"] 
+[BlackElo "2207"] 
+[ECO "A06"] 
+[EventDate "2005.08.01"] 
+ 
+1.e3 d5 2.Nf3 c5 3.b3 Nc6 4.Bb2 Bg4 5.Bb5 Nf6 6.h3 Bxf3 7.Bxc6+ bxc6 8. 
+Qxf3 Qd6 9.d3 e5 10.Nd2 Nd7 11.O-O Be7 12.e4 O-O 13.Rae1 Bg5 14.Nb1 g6 15. 
+Nc3 Bd2 16.Re2 Bxc3 17.Bxc3 f5 18.exf5 Rxf5 19.Qg3 Re8 20.Rfe1 Qf6 21.f3  
+h6 22.Bb2 Kh7 23.Qg4 Re7 24.Qg3 g5 25.Ba3 Rf7 26.Qf2 d4 27.Qg3 h5 28.Rf1  
+Rg7 29.Bc1 Nf8 30.Re4 Ne6 31.Rfe1 Nf4 32.Qf2 Nd5 33.Bd2 g4 34.hxg4 hxg4  
+35.Kf1 gxf3 36.g4 Ne3+ 37.Bxe3 dxe3 38.R1xe3 Rf4 39.Qh2+ Kg8 40.Rxf4 exf4  
+41.Re8+ Kf7 42.Qh5+ Qg6 43.Re4 Qxh5 44.Rxf4+ Qf5 45.Rxf5+ Ke6 46.Rxc5 Rxg4 
+47.Rxc6+ Ke5 48.Kf2 1-0 
+ 
+[Event "Open"] 
+[Site "Dubai UAE"] 
+[Date "2002.04.19"] 
+[Round "5"] 
+[White "Kotsur, Pavel"] 
+[Black "Salem, Ghuloom"] 
+[Result "1-0"] 
+[WhiteElo "2578"] 
+[BlackElo "2351"] 
+[ECO "A06"] 
+[EventDate "2002.04.15"] 
+ 
+1.e3 d5 2.Nf3 c5 3.c4 e6 4.b3 Nc6 5.cxd5 exd5 6.Bb2 Nf6 7.Bb5 Be7 8.O-O  
+Bg4 9.h3 Bxf3 10.Qxf3 Rc8 11.Re1 O-O 12.Qd1 Ne4 13.Nc3 Bf6 14.Bf1 Re8 15. 
+Rb1 a6 16.Qc1 Nb4 17.Ba1 Bxc3 18.dxc3 Nxa2 19.Qc2 Qa5 20.Bb2 Nexc3 21.Ra1  
+Qb4 22.Rxa2 Nxa2 23.Ra1 d4 24.Rxa2 dxe3 25.Bc3 exf2+ 26.Kxf2 Qf4+ 27.Kg1  
+c4 28.bxc4 Qe3+ 29.Kh1 Rxc4 1-0 

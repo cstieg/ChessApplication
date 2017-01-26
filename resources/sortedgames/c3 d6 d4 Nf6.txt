@@ -1,0 +1,17 @@
+ 
+[Event "Chess Summer IM"] 
+[Site "Aarhus DEN"] 
+[Date "2005.07.02"] 
+[Round "1"] 
+[White "Rewitz, Poul"] 
+[Black "Holst, Allan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2273"] 
+[BlackElo "2363"] 
+[ECO "A00"] 
+[EventDate "2005.07.02"] 
+ 
+1.c3 d6 2.d4 Nf6 3.Bg5 Nbd7 4.Nd2 h6 5.Bh4 g5 6.Bg3 Nh5 7.e3 Nxg3 8.hxg3  
+e6 9.Bd3 Bg7 10.Ne2 Nf6 11.Ne4 Nxe4 12.Bxe4 h5 13.Qb3 d5 14.Bd3 Qd6 15. 
+O-O-O a5 16.a4 b6 17.Rh2 Bf6 18.Rdh1 h4 19.gxh4 Rxh4 20.g3 Rxh2 21.Rxh2  
+Bd7 22.Rh7 Ke7 23.Bb5 Rh8 1/2-1/2 

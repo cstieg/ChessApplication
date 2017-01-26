@@ -1,0 +1,36 @@
+ 
+[Event "EU Team Ch Seniors"] 
+[Site "Dresden GER"] 
+[Date "2006.02.17"] 
+[Round "1"] 
+[White "Turikov, Viktor"] 
+[Black "Tchetchelnitski, Boris"] 
+[Result "1-0"] 
+[WhiteElo "2345"] 
+[BlackElo "2204"] 
+[ECO "A00"] 
+[EventDate "2006.02.17"] 
+ 
+1.Nc3 e6 2.Nf3 d5 3.d4 b6 4.e4 Nf6 5.Bb5+ c6 6.Bd3 Ba6 7.e5 Nfd7 8.O-O  
+Bxd3 9.Qxd3 Be7 10.Ne2 c5 11.c4 Nc6 12.cxd5 Nb4 13.Qe4 Nxd5 14.Qg4 g6 15. 
+Bh6 cxd4 16.Nexd4 Rc8 17.Rad1 Rc5 18.Rfe1 Qc7 19.Nxe6 fxe6 20.Qxe6 Nb4 21. 
+Ng5 Rxe5 22.Qf7+ Kd8 23.Ne6+ Kc8 1-0 
+ 
+[Event "It Open"] 
+[Site "Krakow POL"] 
+[Date "2005.12.30"] 
+[Round "4"] 
+[White "Szymanski, Marcin"] 
+[Black "Betkowski, Andrzej"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2434"] 
+[BlackElo "2221"] 
+[ECO "C11"] 
+ 
+1.Nc3 e6 2.Nf3 d5 3.e4 Nf6 4.e5 Nfd7 5.d4 c5 6.dxc5 Bxc5 7.Bd3 Nc6 8.Qe2  
+Nd4 9.Nxd4 Bxd4 10.O-O Nxe5 11.Nb5 Nxd3 12.Qxd3 Be5 13.f4 Bf6 14.Be3 O-O  
+15.c3 b6 16.Nd4 a5 17.Rf3 Ba6 18.Qc2 Rc8 19.g4 g6 20.g5 Bg7 21.Qf2 b5 22. 
+a3 Rc4 23.Rh3 e5 24.fxe5 Bc8 25.Rh4 b4 26.axb4 axb4 27.Nf3 bxc3 28.bxc3  
+Rxc3 29.Rd1 Qc7 30.Bd4 Rc2 31.Qe3 Bf5 32.Bb6 Qb7 33.Nd4 Rb2 34.Nxf5 Qxb6  
+35.Qxb6 Rxb6 36.Nxg7 Kxg7 37.Rhd4 Rd8 38.Rxd5 Rxd5 39.Rxd5 Rb2 40.e6 fxe6  
+41.Rd7+ Kg8 42.Rd8+ Kg7 43.Rd7+ 1/2-1/2 

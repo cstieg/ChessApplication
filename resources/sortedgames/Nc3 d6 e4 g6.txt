@@ -1,0 +1,16 @@
+ 
+[Event "NED Team Ch"] 
+[Site "Leeuwarden NED"] 
+[Date "2000.03.19"] 
+[Round "6"] 
+[White "Kuijf, Marinus"] 
+[Black "Lanchava, Tea"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2452"] 
+[BlackElo "2282"] 
+[ECO "B06"] 
+[EventDate "2000.02.05"] 
+ 
+1.Nc3 d6 2.e4 g6 3.Bc4 Bg7 4.f4 Nf6 5.d3 Nc6 6.a3 Nd4 7.Nge2 c5 8.O-O O-O  
+9.Kh1 e6 10.Ba2 b6 11.Be3 Nxe2 12.Qxe2 d5 13.Bf2 d4 14.Nb1 Nh5 15.Qf3 Bh6  
+16.Bg3 Bb7 17.Nd2 e5 1/2-1/2 

@@ -1,0 +1,141 @@
+ 
+[Event "TCh-MNE Premier 2014"] 
+[Site "Ulcinj MNE"] 
+[Date "2014.09.26"] 
+[Round "7.4"] 
+[White "Raicevic, Momcilo"] 
+[Black "Kontic, Djordjije"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2372"] 
+[BlackElo "2343"] 
+[ECO "A10"] 
+[EventDate "2014.09.20"] 
+ 
+1.c4 d6 2.g3 f5 3.Bg2 Nf6 4.Nc3 g6 5.e3 Bg7 6.Nge2 O-O 7.d4 e5 8.O-O Nc6  
+9.dxe5 dxe5 10.Bxc6 bxc6 11.Qxd8 Rxd8 12.b3 g5 13.Ba3 Re8 14.Rfe1 g4 15. 
+Rad1 h5 16.Kg2 Kf7 17.Ng1 h4 18.gxh4 Rh8 19.h3 Rxh4 20.hxg4 e4 21.Nce2  
+Nxg4 22.Kg3 Rh8 23.Nh3 Be5+ 24.Kg2 Rxh3 25.Kxh3 Nxf2+ 26.Kg2 Nxd1 27.Rxd1  
+Be6 28.Bc5 Rg8+ 29.Kf2 Rh8 30.Rg1 Rh2+ 31.Rg2 Rxg2+ 32.Kxg2 a6 33.Kf2 Ke8  
+34.Bd4 Bd6 1/2-1/2 
+ 
+[Event "2. DC International 2014"] 
+[Site "Arlington, VA USA"] 
+[Date "2014.06.26"] 
+[Round "2"] 
+[White "Wheeler, Cameron"] 
+[Black "Pancevski, Filip"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2242"] 
+[BlackElo "2476"] 
+[ECO "A10"] 
+[EventDate "2014.06.26"] 
+ 
+1.c4 d6 2.g3 f5 3.Bg2 Nf6 4.Nc3 e5 5.d3 Be7 6.Nf3 O-O 7.O-O c6 8.c5 d5 9. 
+Nxe5 Bxc5 10.d4 Bd6 11.Nd3 Nh5 12.Bf3 Qe8 13.Re1 Nf6 14.b4 Ne4 15.Qb3 a6  
+16.Bf4 Bxf4 17.Nxf4 Nd7 18.a4 Ndf6 19.Nd3 Ng5 20.Bg2 Nfe4 21.e3 Qh5 22.f4  
+Nf7 23.b5 axb5 24.axb5 Rxa1 25.Rxa1 Nf6 26.h3 Ne4 27.bxc6 bxc6 28.Kh2 Re8  
+29.Ra8 Qg6 30.Nxe4 fxe4 31.Ne5 Nxe5 32.fxe5 Qe6 33.Qb6 h6 34.h4 Rf8 35.Qc7 
+Bd7 36.Rxf8+ Kxf8 37.Kg1 1/2-1/2 
+ 
+[Event "Paul Keres Mem 2013"] 
+[Site "Tallinn EST"] 
+[Date "2013.01.12"] 
+[Round "3.1"] 
+[White "Reizniece-Ozola, Dana"] 
+[Black "Ehlvest, Jaan"] 
+[Result "0-1"] 
+[WhiteElo "2273"] 
+[BlackElo "2605"] 
+[ECO "A10"] 
+[EventDate "2013.01.12"] 
+ 
+1.c4 d6 2.g3 f5 3.Bg2 Nf6 4.Nc3 e5 5.d3 Be7 6.e4 Nc6 7.Nge2 O-O 8.O-O Qe8  
+9.Nd5 Bd8 10.exf5 Bxf5 11.d4 Nxd5 12.cxd5 Nxd4 13.Nxd4 exd4 14.Qxd4 Bf6  
+15.Qb4 Bd3 16.Re1 a5 17.Qd2 Qg6 18.Re3 Bf5 19.a4 h5 20.Raa3 h4 21.Re1 b6  
+22.Rae3 h3 23.Bf1 Bg5 24.Qc3 Bxe3 25.Bxe3 Rf7 26.Bd4 Raf8 27.Qd2 Bg4 28. 
+Bd3 Qh5 29.f4 Qxd5 30.Be4 Qh5 31.Qd3 Bf5 32.Bf3 Bxd3 33.Bxh5 Rd7 34.Be8  
+Rxe8 35.Rxe8+ Kf7 36.Rh8 Bc2 37.Rxh3 c5 38.Bc3 d5 39.g4 d4 40.Bd2 Bxa4 41. 
+f5 Re7 42.g5 Re2 43.Bf4 Bc2 44.Kf1 Re8 45.f6 gxf6 46.Rh6 fxg5 47.Bxg5 Bg6  
+48.Rh4 Bd3+ 49.Kf2 Re2+ 50.Kf3 Rxb2 51.Rf4+ Ke6 52.h4 a4 53.h5 a3 54.Rf8  
+a2 55.Ra8 Be2+ 56.Ke4 Bxh5 57.Ra7 Kd6 58.Bc1 Rc2 59.Bf4+ Kc6 60.Rc7+ Kb5  
+61.Ra7 Be2 62.Kd5 Bc4+ 63.Kd6 Rf2 64.Bg3 Rf1 0-1 
+ 
+[Event "Open ch-MKD 2012"] 
+[Site "Struga MKD"] 
+[Date "2012.08.06"] 
+[Round "3.1"] 
+[White "Ilic, Zoran"] 
+[Black "Pancevski, Filip"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2264"] 
+[BlackElo "2461"] 
+[ECO "A10"] 
+[EventDate "2012.08.04"] 
+ 
+1.c4 d6 2.g3 f5 3.Bg2 Nf6 4.Nc3 c6 5.e4 fxe4 6.Nxe4 Nxe4 7.Bxe4 Qa5 8.Qc2  
+g6 9.Ne2 Na6 10.Qc3 Qxc3 11.Nxc3 Bg7 12.d3 Nc5 13.Be3 Nxe4 14.dxe4 b6 15. 
+Kd2 Be6 16.b3 Rc8 17.Rac1 O-O 18.h3 Rb8 19.Ne2 Bd7 20.g4 a6 21.f4 e6 22. 
+Rhf1 c5 23.Ke1 Bc6 24.Rd1 Rbd8 25.Ng3 Bf6 26.g5 Bc3+ 27.Kf2 d5 28.exd5  
+exd5 29.cxd5 Bxd5 30.Rd3 Bd4 31.f5 gxf5 32.Bxd4 Be4 33.Rd2 Rxd4 34.Rxd4  
+cxd4 35.Rd1 Rd8 36.Ne2 d3 37.Ke3 Kg7 38.Nf4 Rd6 39.h4 h6 40.g6 Kf6 41.Ra1  
+Rd8 42.a3 d2 43.Rd1 Bc2 44.Rxd2 Rxd2 45.Kxd2 Bxb3 46.Kc3 Bg8 47.Kd4 a5 48. 
+a4 Bb3 49.h5 Bxa4 50.Nd5+ Kg7 51.Nxb6 Bd1 52.Nc4 a4 53.Ne3 Bg4 54.Kc3 Bh3  
+1/2-1/2 
+ 
+[Event "TCh"] 
+[Site "Barcelona ESP"] 
+[Date "2000.08.08"] 
+[Round "4"] 
+[White "Vega Holm, Fernando"] 
+[Black "Pomes Marcet, Juan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2408"] 
+[BlackElo "2388"] 
+[ECO "A10"] 
+[EventDate "2000.08.05"] 
+ 
+1.c4 d6 2.g3 f5 3.Bg2 Nf6 4.d3 e5 5.Nc3 Be7 6.e4 fxe4 7.Nxe4 O-O 8.Nxf6+  
+Bxf6 9.Ne2 c6 10.O-O Bg4 11.f3 Be6 12.f4 Qd7 13.Nc3 Na6 14.Be3 Be7 15.Rc1  
+1/2-1/2 
+ 
+[Event "Politiken Cup"] 
+[Site "Copenhagen DEN"] 
+[Date "2000.07.27"] 
+[Round "10"] 
+[White "Schandorff, Lars"] 
+[Black "Lund, Silas"] 
+[Result "1-0"] 
+[WhiteElo "2520"] 
+[BlackElo "2261"] 
+[ECO "A10"] 
+[EventDate "2000.07.17"] 
+ 
+1.c4 d6 2.g3 f5 3.Bg2 Nf6 4.Nc3 c6 5.d3 g6 6.e4 Bg7 7.Nge2 O-O 8.O-O Na6  
+9.h3 Qc7 10.Be3 e5 11.Qd2 Be6 12.exf5 gxf5 13.f4 Rad8 14.Rac1 Qb8 15.b3  
+Nc7 16.Rfd1 Bf7 17.Qe1 a6 18.Qf2 Qc8 19.a4 Rfe8 20.a5 Bh5 21.Rd2 Kh8 22. 
+Kh1 Qe6 23.Ng1 Rd7 24.fxe5 dxe5 25.Na4 Rf7 26.Nc5 Qc8 27.Rf1 Bg6 28.Qe1  
+Nh5 29.Bf2 Ne6 30.Nxe6 Qxe6 31.Nf3 Qc8 32.Re2 Qc7 33.Kg1 Rff8 34.Nh4 Qd6  
+35.Bf3 Qxd3 36.Bc5 e4 37.Bxh5 Bxh5 38.Rd2 Qxb3 39.Bxf8 Bxf8 40.Nxf5 Bc5+  
+41.Kh2 Qc3 42.Rd7 Qxe1 43.Rxe1 e3 44.g4 Bg6 45.Rxb7 Bxf5 46.gxf5 Bd4 47. 
+Kg3 Bc3 48.Re2 Bxa5 49.f6 Bd2 50.Rb6 a5 51.Rxc6 Ra8 52.Kf3 a4 53.Rg2 Rf8  
+54.Ra6 a3 55.Ke2 a2 56.Rxa2 h6 57.Ra6 Bc3 58.f7 Bg7 59.Ra7 Bd4 60.Rd7 Bg7  
+61.Kxe3 1-0 
+ 
+[Event "Lublin POL, POL-UKR (students)"] 
+[Site "Lublin POL"] 
+[Date "2012.11.22"] 
+[Round "2.1"] 
+[White "Klekowski, Maciej"] 
+[Black "Aridov, Vladimir"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2351"] 
+[BlackElo "2311"] 
+[ECO "A88"] 
+[EventDate "2012.11.21"] 
+ 
+1.c4 d6 2.g3 f5 3.d4 Nf6 4.Bg2 g6 5.Nc3 Bg7 6.Nf3 O-O 7.O-O c6 8.Re1 Qc7  
+9.e4 fxe4 10.Nxe4 Nxe4 11.Rxe4 e5 12.d5 h6 13.h3 Nd7 14.Re3 Nf6 15.Re2 b5  
+16.dxc6 bxc4 17.Qa4 Qf7 18.Qb4 e4 19.Nd4 Ng4 20.Nb5 Nxf2 21.Nxd6 Qd5 22. 
+Qxc4 Qxc4 23.Nxc4 Nxh3+ 24.Bxh3 Bxh3 25.Bf4 g5 26.Be5 Rac8 27.Bxg7 Kxg7  
+28.Na5 Rfe8 29.b4 Bg4 30.Re3 Bf5 31.Rc1 Rc7 32.b5 Rd8 33.Nb3 Kf6 34.a4 Rd5 
+35.Kf2 Rc8 36.Rc5 Rxc5 37.Nxc5 Ke5 1/2-1/2 

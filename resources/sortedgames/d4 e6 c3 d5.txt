@@ -1,0 +1,89 @@
+ 
+[Event "Dutch Open"] 
+[Site "Dieren NED"] 
+[Date "2009.07.22"] 
+[Round "2"] 
+[White "Duijker, Rick"] 
+[Black "Burg, Twan"] 
+[Result "0-1"] 
+[WhiteElo "2240"] 
+[BlackElo "2422"] 
+[ECO "A40"] 
+[EventDate "2009.07.21"] 
+ 
+1.d4 e6 2.c3 d5 3.Bf4 c5 4.e3 Nc6 5.Nd2 Nf6 6.Ngf3 Bd6 7.Bg3 O-O 8.Bd3 Qe7 
+9.O-O Bxg3 10.hxg3 e5 11.dxe5 Nxe5 12.Nxe5 Qxe5 13.Nf3 Qh5 14.Re1 Bg4 15. 
+Be2 Rfe8 16.Nh2 Bxe2 17.Qxe2 Qf5 18.Rad1 Rad8 19.Nf3 Qe6 20.Qb5 b6 21.Qa4  
+Rd7 22.Re2 Red8 23.a3 Qf5 24.Qf4 Qe6 25.Qa4 a5 26.Ng5 Qe7 27.Qb3 h6 28.Nf3 
+Rd6 29.Red2 Qe6 30.Re2 Qe8 31.a4 Qe6 32.Qc2 Qg4 33.Red2 Ne4 34.Rd3 Qe6 35. 
+Nd2 f5 36.Nxe4 fxe4 37.R3d2 Kh8 38.Qb3 Qf5 39.Qb5 Qe6 40.Qb3 h5 41.Qb5 g6  
+42.Qe2 Qe5 43.Qb5 Qf5 44.Qa6 Kg7 45.Qb7+ R8d7 46.Qa8 Qe6 47.Qc8 Qf7 48.Qa8 
+Rd8 49.Qa6 Kh6 50.Qb5 Qf5 51.Qa6 Qe6 52.Qb7 g5 53.Kh2 h4 54.g4 Kg6 55.Kg1  
+R6d7 56.Qa6 Qxg4 57.Qxb6+ Rd6 58.Qb5 h3 59.Qf1 Kf5 60.f3 exf3 61.Qxf3+  
+Qxf3 62.gxf3 g4 63.fxg4+ Ke4 64.c4 d4 65.exd4 cxd4 66.Re1+ Kf4 67.c5 Rc6  
+68.Red1 Ke4 69.Re1+ Kf4 70.Red1 Ke3 71.Rd3+ Ke4 72.Kh2 Rxc5 73.Kxh3 Rc2  
+74.b3 Re2 75.Kg3 Rd5 76.Kh3 Re3+ 77.Rxe3+ Kxe3 78.b4 axb4 79.Rb1 d3 80. 
+Rxb4 d2 81.Rb3+ Kf4 82.Rb4+ Kg5 0-1 
+ 
+[Event "BL2-West 0102"] 
+[Site "GER"] 
+[Date "2002.04.28"] 
+[Round "9.4"] 
+[White "Boe, Mads"] 
+[Black "Mainka, Gregor"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2367"] 
+[BlackElo "2329"] 
+[ECO "A40"] 
+ 
+1.d4 e6 2.c3 d5 3.Nf3 c5 4.Bf4 Bd6 5.Bg3 Bxg3 6.hxg3 Qb6 7.Qc2 Nf6 8.e3  
+Bd7 9.Nbd2 Nc6 10.Be2 Rc8 11.dxc5 Qxc5 12.g4 Nxg4 13.Rxh7 Rg8 14.Nb3 Qb6  
+15.Nbd4 Ne7 16.Qb3 Qxb3 17.axb3 a6 18.b4 Nh6 19.Ne5 Nef5 20.Kd2 Nd6 21.Bd3 
+Ke7 22.Rh1 Be8 23.g4 Ne4+ 24.Bxe4 dxe4 25.g5 Nf5 26.b3 Rd8 27.Kc2 Rd5 28. 
+Nxf5+ exf5 29.Nc4 Bb5 30.Rd1 Rxd1 31.Kxd1 Ke6 32.Kc2 Bxc4 33.bxc4 Ke5 34. 
+Rh1 Rd8 35.Rh7 Rg8 36.Rh1 Rd8 37.Rh7 Rg8 1/2-1/2 
+ 
+[Event "Doeberl Cup"] 
+[Site "Canberra AUS"] 
+[Date "2000.04.22"] 
+[Round "4"] 
+[White "Depasquale, C."] 
+[Black "Zhao, Zong-Yuan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2291"] 
+[BlackElo "2242"] 
+[ECO "A40"] 
+[EventDate "2000.04.01"] 
+ 
+1.d4 e6 2.c3 d5 3.Nf3 Bd6 4.Qc2 f5 5.h3 Nf6 6.Bg5 h6 7.Bxf6 Qxf6 8.e3 O-O  
+9.Nbd2 c5 10.Be2 Nc6 11.dxc5 Bxc5 12.Nb3 Bb6 13.Rd1 a5 14.a3 Bd7 15.O-O  
+Ne5 16.Nbd4 Bc6 17.Nxc6 bxc6 18.c4 Nxf3+ 19.Bxf3 Qe5 20.cxd5 cxd5 21.Rc1  
+Rf7 22.Qc3 Qxc3 23.Rxc3 Rc7 24.Rfc1 Rac8 25.Rxc7 Rxc7 26.Rxc7 Bxc7 27.b4  
+axb4 28.axb4 Kf7 29.Be2 e5 30.Ba6 Bb6 31.Kf1 g5 32.Ke2 e4 33.Bb7 Ke6 34.g3 
+Ke5 35.Bc6 d4 36.exd4+ Kxd4 37.Bd7 f4 38.gxf4 gxf4 39.f3 e3 1/2-1/2 
+ 
+[Event "Ch ICC (blitz) (final)"] 
+[Site "Internet INT"] 
+[Date "2002.??.??"] 
+[Round "1"] 
+[White "Bromann, Thorbjorn"] 
+[Black "Kosyrev, Vladimir"] 
+[Result "0-1"] 
+[WhiteElo "2344"] 
+[BlackElo "2565"] 
+[ECO "D03"] 
+ 
+1.d4 e6 2.c3 d5 3.Nf3 Nf6 4.Bg5 Be7 5.Nbd2 Nbd7 6.e3 c5 7.Bd3 b6 8.O-O Qc7 
+9.Qe2 Bb7 10.e4 cxd4 11.cxd4 dxe4 12.Nxe4 O-O 13.Rac1 Qd8 14.Bf4 Nxe4 15. 
+Bxe4 Bxe4 16.Qxe4 Nf6 17.Qb7 Nd5 18.Bg3 Bf6 19.Rfd1 Qe7 20.Qc6 Rfd8 21.a3  
+Qd7 22.Qc4 h6 23.Qa6 Rac8 24.Be5 Be7 25.h3 Rc6 26.Bg3 Bf6 27.Be5 Bg5 28. 
+Rxc6 Qxc6 29.Bg3 Bf6 30.Be5 Qc2 31.Re1 Be7 32.Re2 Qc6 33.Bg3 Bf6 34.Be5  
+Bg5 35.h4 Be7 36.Bg3 Bf6 37.Be5 Ra8 38.Bxf6 Nxf6 39.Ne5 Qc1+ 40.Kh2 Qf4+  
+41.g3 Qxd4 42.Qb7 Rf8 43.Qxa7 Nd5 44.Qd7 Qd1 45.Qb5 Rc8 46.b4 Rc1 47.Kh3  
+Qh1+ 48.Kg4 Nf6+ 49.Kf4 Qh3 50.Qd3 Rc3 51.Qxc3 Qf5+ 52.Ke3 Nd5+ 53.Kd4  
+Nxc3 54.Kxc3 f6 55.Nd3 e5 56.f4 e4 57.Nf2 Qc8+ 58.Kd2 f5 59.Nd1 Qd7+ 60. 
+Ke1 Qd4 61.Ne3 Qa1+ 62.Kf2 Qh1 63.Nxf5 Qf3+ 64.Ke1 g6 65.Nd6 Qxg3+ 66.Kd1  
+Qb3+ 67.Ke1 Qxa3 68.Nxe4 Qxb4+ 69.Kf2 Qe7 70.Kg3 b5 71.Nc3 Qc5 72.Ne4 Qc4  
+73.Re3 Qd4 74.Kf3 b4 75.Re2 b3 76.Rd2 Qb6 77.Rb2 Qb4 78.Ke3 Qa3 79.Rb1 b2+ 
+80.Kd2 Qb4+ 81.Nc3 Qxf4+ 82.Kc2 Qxh4 83.Rxb2 Qf2+ 84.Kb3 Qf5 85.Kc4 h5 86. 
+Nd5 Kg7 87.Ne3 Qe4+ 0-1 

@@ -1,0 +1,100 @@
+ 
+[Event "SS Manhem IM 2015"] 
+[Site "Goteborg SWE"] 
+[Date "2015.08.09"] 
+[Round "2.1"] 
+[White "Olund, Joar"] 
+[Black "Rydstrom, Tom"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2333"] 
+[BlackElo "2380"] 
+[ECO "A00"] 
+[EventDate "2015.08.08"] 
+ 
+1.c3 d5 2.Nf3 Nf6 3.g3 Bf5 4.Bg2 c6 5.d3 h6 6.O-O e6 7.Nbd2 Nbd7 8.Re1 Bc5 
+9.Nf1 O-O 10.b4 Bb6 11.a4 a5 12.h3 Re8 13.N3d2 Bg6 14.Nb3 1/2-1/2 
+ 
+[Event "2. Dragon Capital"] 
+[Site "Ho Chi Minh City VIE"] 
+[Date "2009.12.03"] 
+[Round "1"] 
+[White "Nguyen, Thanh Son"] 
+[Black "Le, Kieu Thien Kim"] 
+[Result "1-0"] 
+[WhiteElo "2362"] 
+[BlackElo "2250"] 
+[ECO "A00"] 
+[EventDate "2009.12.03"] 
+ 
+1.c3 d5 2.Nf3 Nf6 3.d3 c6 4.h3 h6 5.Bf4 Bf5 6.Nbd2 Nbd7 7.g4 Bg6 8.Bg2 e6  
+9.O-O Be7 10.Qc2 O-O 11.Bg3 Ne8 12.c4 Bd6 13.Bxd6 Nxd6 14.Qc3 f5 15.Nd4  
+Qf6 16.f4 Rae8 17.c5 Nc8 18.gxf5 exf5 19.Rae1 Bh5 20.e4 fxe4 21.dxe4 dxe4  
+22.Nxe4 Qh4 23.Qb3+ Bf7 24.Qxb7 Nxc5 25.Qxc6 Nxe4 26.Rxe4 Rxe4 27.Qxe4 Nd6 
+28.Qe5 Nc4 29.Qxg7+ Kxg7 30.Nf5+ Kf6 31.Nxh4 Nxb2 32.Rc1 Re8 33.Rc5 Nd3  
+34.Ra5 Re1+ 35.Kh2 Re2 36.a3 Ne1 37.Kg3 Nxg2 38.Nxg2 Re7 39.Kf2 Rd7 40.Ne3 
+h5 41.Kf3 Ke7 42.h4 Kd8 43.Ke4 Re7+ 44.Kd4 Rd7+ 45.Nd5 Kc8 46.Ke5 Kb7 47. 
+Rc5 a6 48.f5 Kb8 49.a4 Rd8 50.a5 Rd7 51.Nf4 Kb7 52.Ne6 1-0 
+ 
+[Event "7. Mario Covas"] 
+[Site "Santos BRA"] 
+[Date "2007.05.22"] 
+[Round "4"] 
+[White "Fier, Alexandr"] 
+[Black "Cubas, Jose Fernando"] 
+[Result "1-0"] 
+[WhiteElo "2499"] 
+[BlackElo "2447"] 
+[ECO "A00"] 
+[EventDate "2007.05.19"] 
+ 
+1.c3 d5 2.Nf3 Nf6 3.e3 c5 4.b3 Nc6 5.Bb5 Qb6 6.c4 a6 7.Ba4 Bd7 8.O-O e6 9. 
+d4 Be7 10.cxd5 exd5 11.dxc5 Bxc5 12.Nc3 Qa7 13.Nxd5 b5 14.Nxf6+ gxf6 15.b4 
+Nxb4 16.Bb3 O-O-O 17.Ba3 Bh3 18.Qc1 Rhg8 19.Qxc5+ Qxc5 20.Rac1 Bxg2 21. 
+Rxc5+ Kb8 22.Ng5 Nd3 23.Rd1 Be4 24.f3 Bxf3 25.Rxd3 Rxd3 26.Kf2 Bb7 27.Nf3  
+Rc8 28.Rxc8+ Kxc8 29.Bb4 Bxf3 30.Kxf3 Rd7 31.Bc2 h6 32.Bf5 1-0 
+ 
+[Event "TCh-SVK 2014-15"] 
+[Site "Slovakia SVK"] 
+[Date "2014.11.23"] 
+[Round "4.6"] 
+[White "Michalik, Peter"] 
+[Black "Certek, Pavel"] 
+[Result "1-0"] 
+[WhiteElo "2570"] 
+[BlackElo "2267"] 
+[ECO "D02"] 
+[EventDate "2014.10.25"] 
+ 
+1.c3 d5 2.Nf3 Nf6 3.d4 Bf5 4.Bf4 c6 5.Nbd2 Nbd7 6.h3 h6 7.e3 e6 8.Be2 Be7  
+9.O-O O-O 10.Bh2 Bh7 11.Qb3 Qb6 12.c4 Qxb3 13.Nxb3 a5 14.a4 dxc4 15.Bxc4  
+Rfc8 16.Rfc1 Nd5 17.Ne5 Nxe5 18.Bxe5 Nb4 19.Nc5 Bxc5 20.dxc5 Nd3 21.Bxd3  
+Bxd3 22.Ra3 Ba6 23.Bc3 Be2 24.Rc2 Bd1 25.Rd2 Rd8 26.Rxd8+ Rxd8 27.Bxa5 Rd5 
+28.Bb4 Bc2 29.Kf1 e5 30.Ke1 f6 31.Ra1 Kf7 32.f3 e4 33.a5 Bd3 34.Kf2 Ke6  
+35.f4 Kd7 36.g4 Kc7 37.f5 Kb8 38.Kg3 Ka7 39.Bc3 Ka6 40.Bd4 Kb5 41.Kf4 Rd8  
+42.h4 Rh8 43.Rg1 Kc4 44.g5 hxg5+ 45.hxg5 Rh4+ 46.Rg4 1-0 
+ 
+[Event "TCh-SVK Extraliga 2011-12"] 
+[Site "Slovakia SVK"] 
+[Date "2012.02.11"] 
+[Round "7.3"] 
+[White "Michalik, Peter"] 
+[Black "Mazur, Stefan"] 
+[Result "1-0"] 
+[WhiteElo "2511"] 
+[BlackElo "2372"] 
+[ECO "D02"] 
+[EventDate "2011.10.22"] 
+ 
+1.c3 d5 2.Nf3 Nf6 3.d4 Bf5 4.Bf4 Nbd7 5.Nbd2 e6 6.Qb3 Nb6 7.Nh4 Nh5 8.Bg3  
+Bg6 9.a4 Be7 10.Nhf3 Nxg3 11.hxg3 O-O 12.Ne5 c5 13.e3 Nd7 14.Nxg6 hxg6 15. 
+Nf3 Qc7 16.Be2 Rab8 17.Rh3 c4 18.Qc2 b5 19.O-O-O f5 20.Rdh1 Kf7 21.g4 b4  
+22.gxf5 exf5 23.cxb4 Rxb4 24.Rh8 Rxh8 25.Rxh8 Qa5 26.Bd1 c3 27.b3 Rb7 28. 
+Be2 Qb4 29.Bb5 Qa3+ 30.Kd1 a6 31.Bc6 Rc7 32.Bxd7 Qa1+ 33.Ke2 Rxd7 34.Ne5+  
+Ke6 35.Nxg6 Qb2 36.Kd3 Rb7 37.Nf4+ Kd6 38.Ra8 Rb6 39.Ne2 Rxb3 40.Rxa6+ Kd7 
+41.Ra7+ Kd8 42.Ra5 Bb4 43.Rxd5+ Ke7 44.Nc1 Ra3 45.Rb5 g6 46.f3 Ra1 47.Nb3  
+Re1 48.Re5+ Kf6 49.a5 Qb1 50.Qxb1 Rxb1 51.Rb5 Rxb3 52.a6 Rb1 53.Kc2 Rb2+  
+54.Kc1 Ra2 55.Rb6+ Kf7 56.Rxb4 Rxa6 57.Kc2 Ra2+ 58.Kxc3 Rxg2 59.Rb7+ Ke6  
+60.e4 Rg3 61.d5+ Ke5 62.Re7+ Kd6 63.Re6+ Kd7 64.e5 Rxf3+ 65.Kc4 Re3 66.Kd4 
+Re4+ 67.Kc5 Re1 68.Rd6+ Ke7 69.Rxg6 Rxe5 70.Kc6 Re1 71.d6+ Kf7 72.Rh6 Rc1+ 
+73.Kd7 Rc2 74.Kd8 Rc1 75.d7 Rc5 76.Rh7+ Kf8 77.Re7 Ra5 78.Re8+ Kf7 79.Kc7  
+Ra7+ 80.Kd6 Ra6+ 81.Ke5 1-0 

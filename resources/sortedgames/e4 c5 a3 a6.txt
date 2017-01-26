@@ -1,0 +1,16 @@
+ 
+[Event "FSIM October"] 
+[Site "Budapest HUN"] 
+[Date "2007.10.13"] 
+[Round "8"] 
+[White "Vegh, Endre"] 
+[Black "Ignacz, Maria"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2303"] 
+[BlackElo "2223"] 
+[ECO "B20"] 
+[EventDate "2007.10.06"] 
+ 
+1.e4 c5 2.a3 a6 3.b4 d6 4.Bb2 Nd7 5.g3 b6 6.Bg2 Bb7 7.Nh3 Ngf6 8.d3 Qc7 9. 
+O-O d5 10.Qe2 dxe4 11.dxe4 cxb4 12.e5 Bxg2 13.Kxg2 Qc6+ 14.f3 Nd5 15.axb4  
+Nxb4 16.c3 Nd5 17.c4 Nc7 18.Nd2 1/2-1/2 

@@ -1,0 +1,15 @@
+ 
+[Event "5. Open"] 
+[Site "Ubeda ESP"] 
+[Date "2000.01.27"] 
+[Round "9"] 
+[White "Karatorossian, David"] 
+[Black "Salmensuu, Olli"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2345"] 
+[BlackElo "2418"] 
+[ECO "C26"] 
+[EventDate "2000.01.19"] 
+ 
+1.e4 e5 2.g3 Nc6 3.Bg2 Nf6 4.Nc3 Be7 5.d3 O-O 6.Nf3 d6 7.O-O h6 8.Rb1 a5  
+9.a3 Be6 10.b4 1/2-1/2 

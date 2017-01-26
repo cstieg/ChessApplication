@@ -1,0 +1,88 @@
+ 
+[Event "TCh-Ekstraliga 2012"] 
+[Site "Gorzow POL"] 
+[Date "2012.09.16"] 
+[Round "6.5"] 
+[White "Bartel, Michal"] 
+[Black "Kanarek, Marcel"] 
+[Result "0-1"] 
+[WhiteElo "2302"] 
+[BlackElo "2484"] 
+[ECO "A02"] 
+[EventDate "2012.05.04"] 
+ 
+1.f4 Nf6 2.g3 g6 3.Bg2 c5 4.e4 d6 5.d3 Bg7 6.Nf3 O-O 7.O-O Nc6 8.Nc3 Rb8  
+9.h3 b5 10.Be3 b4 11.Ne2 Nd7 12.Rb1 Qa5 13.Nc1 Nb6 14.e5 Na4 15.Ng5 Qb5  
+16.exd6 Nxb2 17.Qf3 Bb7 18.Qg4 Nd4 19.dxe7 h5 20.exf8=Q+ Rxf8 21.c4 Qe8  
+22.Bxd4 Bxd4+ 23.Kh2 hxg4 24.Bxb7 Qa4 25.Bg2 Qc2 26.Nb3 gxh3 27.Nxh3 Nxd3  
+28.f5 Be5 29.Ng5 Qxc4 30.Be4 Bf6 31.Nd2 Qxa2 32.Nf3 Rd8 33.fxg6 fxg6 34. 
+Kh1 Kg7 35.Rbd1 c4 36.g4 Bc3 37.Ng5 Qa6 38.Rf7+ Kg8 39.Bb7 Qb6 40.Nde4 Bg7 
+41.Rdf1 Nf4 42.R7xf4 Qxb7 43.Ne6 Re8 44.Nc5 Qc6 45.Rf6 Bxf6 46.Rxf6 Qa8  
+47.Rxg6+ Kh7 0-1 
+ 
+[Event "6. World Blitz"] 
+[Site "Moscow RUS"] 
+[Date "2010.11.18"] 
+[Round "34"] 
+[White "Nakamura, Hikaru"] 
+[Black "Mamedov, Rauf"] 
+[Result "0-1"] 
+[WhiteElo "2741"] 
+[BlackElo "2660"] 
+[ECO "A02"] 
+[EventDate "2010.11.16"] 
+ 
+1.f4 Nf6 2.g3 g6 3.Bg2 Bg7 4.e4 d6 5.d4 O-O 6.Nc3 e5 7.dxe5 dxe5 8.Qxd8  
+Rxd8 9.fxe5 Ng4 10.Nd5 Na6 11.Bg5 Re8 12.h3 Nxe5 13.Nf6+ Bxf6 14.Bxf6 Nc4  
+15.Kf2 Nb4 16.Rc1 Bd7 17.a3 Na6 18.Ne2 Bc6 19.Nc3 Nc5 20.Rhe1 Nxb2 21.e5  
+Nc4 22.Nd5 Bxd5 23.Bxd5 Nb6 24.Ba2 Nbd7 25.Kf3 Nxf6 26.exf6 Nd7 27.g4 Nxf6 
+28.g5 Nd7 29.Rcd1 Rxe1 30.Rxe1 Kf8 31.Rd1 Nc5 32.Kf4 Re8 33.Rd5 b6 34.Kf3  
+Kg7 35.h4 h6 36.gxh6+ Kxh6 37.h5 Kg7 38.Rg5 Kf6 39.Rd5 Rh8 40.hxg6 fxg6  
+41.Kg2 Rh5 42.Rd1 Re5 43.Kf3 Rf5+ 44.Kg2 g5 45.Bd5 Rf4 46.Bc6 Rc4 47.Rf1+  
+Ke5 48.Re1+ Ne4 49.Ba8 Rxc2+ 50.Kf3 Rf2+ 51.Ke3 Rf4 52.Rd1 Nd6 53.Rd5+ Kf6 
+54.Bc6 Rc4 55.Bd7 Rc3+ 56.Ke2 Rxa3 57.Rd1 Ke5 58.Bc6 g4 59.Rd5+ Kf6 60.Rd4 
+g3 61.Rg4 Nf5 62.Be4 Nd4+ 63.Kd2 Ke5 64.Bb7 c6 65.Ke1 Ra2 66.Rxg3 b5 67. 
+Kd1 a5 68.Rc3 Kd6 69.Rd3 c5 70.Rh3 c4 71.Rh5 Kc7 72.Ba6 Kb6 73.Rh6+ Kc5  
+74.Rh5+ Kb4 75.Rh4 Ra1+ 76.Kd2 Nb3+ 77.Ke2 Nc5 78.Bc8 a4 79.Kd2 a3 80.Kc2  
+Rg1 0-1 
+ 
+[Event "ITT"] 
+[Site "Villa Martelli Verano ARG"] 
+[Date "2008.01.05"] 
+[Round "2"] 
+[White "Rodriguez Vila, Andres"] 
+[Black "De Dovitiis, Alejo"] 
+[Result "0-1"] 
+[WhiteElo "2541"] 
+[BlackElo "2326"] 
+[ECO "A03"] 
+[EventDate "2008.01.05"] 
+ 
+1.f4 Nf6 2.g3 g6 3.Bg2 d5 4.Nf3 Bg7 5.O-O O-O 6.d3 c5 7.Qe1 d4 8.c4 Nc6 9. 
+h3 Bd7 10.Na3 Ne8 11.Bd2 Nd6 12.g4 a6 13.Qg3 Rc8 14.Rac1 f5 15.g5 Nf7 16. 
+h4 Re8 17.h5 e5 18.Nh4 Ne7 19.hxg6 hxg6 20.fxe5 Bxe5 21.Bf4 Bxf4 22.Rxf4  
+Qb6 23.Rb1 a5 24.Nc2 Kg7 25.e4 dxe3 26.Nxe3 Qc7 27.Rbf1 Ne5 28.Qe1 Be6 29. 
+Qc3 Rcd8 30.Rd1 Kg8 31.Nf3 Nxf3+ 32.Rxf3 Nc6 33.Rh3 Nd4 34.Rd2 Qe5 35.Nf1  
+f4 36.Rf2 Qxg5 37.Kh1 Bxh3 38.Bxh3 Re2 39.Rh2 Rxh2+ 40.Nxh2 Qg3 41.Bf1 b6  
+42.Qd2 Re8 43.Qg2 Qxg2+ 44.Kxg2 Re1 45.Ng4 Rb1 46.b3 Rb2+ 47.Kh3 Kg7 0-1 
+ 
+[Event "Lasker Autumn IM"] 
+[Site "Bucharest ROU"] 
+[Date "2001.10.20"] 
+[Round "8"] 
+[White "Bochkarev, Alexander UKR"] 
+[Black "Jianu, Vlad-Cristian"] 
+[Result "0-1"] 
+[WhiteElo "2361"] 
+[BlackElo "2397"] 
+[ECO "A02"] 
+[EventDate "2001.10.13"] 
+ 
+1.f4 Nf6 2.g3 g6 3.Bg2 Bg7 4.e4 d6 5.Nc3 O-O 6.d4 e5 7.dxe5 dxe5 8.Qxd8  
+Rxd8 9.fxe5 Ng4 10.Nd5 Na6 11.Ne2 Nxe5 12.Bg5 Rd6 13.Nec3 c6 14.Ne7+ Kf8  
+15.Nxc8 Rxc8 16.Ke2 Nc4 17.Rad1 Rxd1 18.Nxd1 Nc5 19.b3 Nd6 20.Nf2 Re8 21. 
+Rd1 Ndxe4 22.Nxe4 Nxe4 23.Bxe4 Rxe4+ 24.Kf3 Rd4 25.Re1 Rd7 26.Re4 f5 27. 
+Ra4 b6 28.Bf4 Rb7 29.g4 fxg4+ 30.Kxg4 Kf7 31.Bg3 Bf6 32.Rc4 c5 33.a4 h5+  
+34.Kf3 g5 35.a5 Rd7 36.Ke4 Ke6 37.b4 Be7 38.bxc5 Bxc5 39.axb6 axb6 40.Ra4  
+h4 41.Bb8 Rd2 42.c3 Rf2 43.Ra7 Re2+ 44.Kf3 Re3+ 45.Kg4 Kf6 46.Rc7 Re4+ 47. 
+Kf3 Rc4 0-1 

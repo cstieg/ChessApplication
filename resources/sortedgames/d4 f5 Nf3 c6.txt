@@ -1,0 +1,38 @@
+ 
+[Event "XXXIV Open"] 
+[Site "Barbera del Valles ESP"] 
+[Date "2011.07.11"] 
+[Round "8"] 
+[White "Gonzalez Garcia, J2"] 
+[Black "Narciso Dublan, Marc"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2522"] 
+[BlackElo "2544"] 
+[ECO "A80"] 
+[EventDate "2011.07.04"] 
+ 
+1.d4 f5 2.Nf3 c6 3.g3 Nf6 4.Bg2 g6 5.O-O Bg7 6.b3 O-O 7.Bb2 d5 8.Nbd2 Ne4  
+9.Ne5 Be6 10.f3 Nxd2 11.Qxd2 Nd7 12.Nd3 Qb6 13.e3 Bf7 14.a4 Rad8 15.a5 Qc7 
+16.a6 b6 17.f4 c5 18.Ne5 Nxe5 19.dxe5 Rd7 20.Qe2 Rfd8 21.Rfd1 Bf8 22.h3 e6 
+23.c4 d4 24.exd4 cxd4 25.Rd3 Be8 26.Kh2 Bb4 27.Rad1 Qc5 28.Qf2 Bc3 29.Qc2  
+Bxb2 30.Qxb2 g5 31.Rc1 gxf4 32.gxf4 Rg7 33.Rcd1 Bc6 34.Bxc6 Qxc6 35.Rxd4  
+Rxd4 36.Rxd4 h6 37.Qf2 Kh7 38.Rd6 Qc8 39.Qd2 Qc5 40.Rd4 Qc6 41.Rd6 Qc5 42. 
+Rd4 Qc6 43.Qf2 Qc5 44.Qd2 1/2-1/2 
+ 
+[Event "Ch Greece team"] 
+[Site "Chalkidiki GRE"] 
+[Date "2002.??.??"] 
+[Round "2"] 
+[White "Grivas, Efstratios"] 
+[Black "Kaloskambis, Mihail"] 
+[Result "1-0"] 
+[WhiteElo "2497"] 
+[BlackElo "2213"] 
+[ECO "A80"] 
+ 
+1.d4 f5 2.Nf3 c6 3.g3 g6 4.Bg2 Bg7 5.Nbd2 Nh6 6.e4 d6 7.O-O O-O 8.exf5  
+Bxf5 9.c3 Qd7 10.Re1 Na6 11.Ne4 Nf7 12.Qb3 Be6 13.Nf6+ exf6 14.Rxe6 Rae8  
+15.Rxe8 Rxe8 16.Bf1 Nb8 17.d5 Qg4 18.Kg2 c5 19.Qxb7 Qe4 20.Bf4 Ne5 21.Bxe5 
+fxe5 22.Re1 Qf5 23.Nd2 Rf8 24.Ne4 Nd7 25.Qxa7 Nf6 26.Nxd6 Qc2 27.Re2 Qd1  
+28.Qxc5 Ng4 29.Nc4 Bh6 30.d6 Nxh2 31.Kxh2 Qxf1 32.Qd5+ Kh8 33.Qxe5+ Bg7  
+34.Qe3 Rf5 35.g4 Bh6 36.Qd4+ Kg8 37.Re8+ Kf7 38.Re7+ 1-0 

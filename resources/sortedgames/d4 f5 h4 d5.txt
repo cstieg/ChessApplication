@@ -1,0 +1,22 @@
+ 
+[Event "Oberliga NRW 2003/04"] 
+[Site "GER"] 
+[Date "2003.10.12"] 
+[Round "2"] 
+[White "Hubert, Ralf"] 
+[Black "Huesmann, Thomas"] 
+[Result "1-0"] 
+[WhiteElo "2303"] 
+[BlackElo "2309"] 
+[ECO "A80"] 
+ 
+1.d4 f5 2.h4 d5 3.Bg5 c6 4.c3 Nf6 5.Bxf6 exf6 6.e3 Be6 7.Bd3 c5 8.Nh3 c4  
+9.Nf4 Qd7 10.Bc2 Bf7 11.Nd2 Nc6 12.h5 Bd6 13.Nf1 O-O-O 14.Qf3 Ne7 15.Qh3  
+Kb8 16.Ng3 Qc7 17.Nfe2 f4 18.Nxf4 Bxf4 19.exf4 Qxf4 20.Ne2 Qd6 21.Qg3 Qxg3 
+22.Nxg3 g6 23.Kd2 Kc7 24.Rae1 Kd6 25.Re2 a6 26.Rhe1 Rde8 27.b4 Nc8 28.Rxe8 
+Rxe8 29.Rxe8 Bxe8 30.a4 b6 31.a5 bxa5 32.bxa5 Ne7 33.Ne2 Nc6 34.h6 Ne7 35. 
+Nf4 f5 36.Nh3 Ng8 37.Ng5 Nxh6 38.Nxh7 Ng8 39.Ng5 Nf6 40.Ke3 Bd7 41.Nf7+  
+Ke7 42.Ne5 Be8 43.Kf4 Nh7 44.g4 fxg4 45.Nxg6+ Kd6 46.Ne5 Nf6 47.Nxg4 Ng8  
+48.Ne3 Bd7 49.Kg5 Ne7 50.f4 Nc6 51.f5 Nxa5 52.f6 Be6 53.Ba4 Nb3 54.Nf5+  
+Kc7 55.Kf4 Nc1 56.Ke5 Bf7 57.Nh6 Nd3+ 58.Kf5 Nb2 59.Nxf7 Nxa4 60.Ne5 Kd6  
+61.Kg6 Nc5 62.dxc5+ 1-0 

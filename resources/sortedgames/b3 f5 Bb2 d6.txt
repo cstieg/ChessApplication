@@ -1,0 +1,57 @@
+ 
+[Event "Zagreb Open A"] 
+[Site "Zagreb CRO"] 
+[Date "2012.03.08"] 
+[Round "4.17"] 
+[White "Sale, Srdjan"] 
+[Black "Zelic, Mladen"] 
+[Result "1-0"] 
+[WhiteElo "2384"] 
+[BlackElo "2270"] 
+[ECO "A01"] 
+[EventDate "2012.03.05"] 
+ 
+1.b3 f5 2.Bb2 d6 3.f4 Nc6 4.Nf3 e5 5.fxe5 dxe5 6.Nxe5 Bd6 7.Nf3 Nf6 8.e3  
+Ng4 9.Bc4 Qe7 10.Nc3 Be6 11.Bxe6 Qxe6 12.Qe2 O-O-O 13.O-O-O Rhe8 14.h3 Nf6 
+15.Ng5 Qe7 16.Qc4 Ba3 17.Qf7 Bxb2+ 18.Kxb2 Qe5 19.Qc4 Re7 20.Rhf1 g6 21. 
+Nf3 Qa5 22.g4 Ne4 23.gxf5 gxf5 24.a3 Ne5 25.Nxe5 Qxe5 26.d4 Qh2 27.Nxe4  
+fxe4 28.Qc5 Rd6 29.Rf8+ Kd7 30.Qb5+ Rc6 31.Rc1 Qg3 32.Qxb7 Rd6 33.Qc8+ Kc6 
+34.Rf5 1-0 
+ 
+[Event "Acropolis GM Open"] 
+[Site "Athens GRE"] 
+[Date "2005.03.07"] 
+[Round "2"] 
+[White "Gelashvili, Tamaz"] 
+[Black "Kotrotsos, Vasilios"] 
+[Result "1-0"] 
+[WhiteElo "2577"] 
+[BlackElo "2310"] 
+[ECO "A01"] 
+[EventDate "2005.03.06"] 
+ 
+1.b3 f5 2.Bb2 d6 3.f4 e6 4.Nf3 Nf6 5.e3 Be7 6.g3 O-O 7.Bg2 Nc6 8.O-O Qe8  
+9.Qe2 Qh5 10.Re1 Bd7 11.c4 Rae8 12.d4 Ne4 13.Nc3 Bf6 14.Rad1 Ne7 15.Nxe4  
+fxe4 16.Ne5 Qxe2 17.Rxe2 dxe5 18.dxe5 Bc6 19.exf6 gxf6 20.Kf2 Kf7 21.Red2  
+a5 22.Bf1 h5 23.Be2 Rh8 24.Bc3 Ra8 25.a3 Nf5 26.b4 axb4 27.axb4 Ra3 28.Rc1 
+Be8 29.Rd8 Ne7 30.Rb8 b6 31.Rb7 h4 32.g4 Rg8 33.Rxc7 Ra2 34.h3 Ba4 35.Ra1  
+Rxa1 36.Bxa1 Rc8 37.Rxc8 Nxc8 38.Ke1 Bc6 39.b5 Bb7 40.Bd4 Ke7 41.Kd2 Kf7  
+42.Kc3 Ke7 43.Kb4 Kf7 44.Bd1 Ke7 45.g5 1-0 
+ 
+[Event "ENG, 4NCL/Div2 rounds 10-11"] 
+[Site "West Bromwich ENG"] 
+[Date "2004.05.22"] 
+[Round "10.2"] 
+[White "Potts, Alan W"] 
+[Black "Rendle, Thomas E"] 
+[Result "1-0"] 
+[WhiteElo "2280"] 
+[BlackElo "2283"] 
+[ECO "A01"] 
+[EventDate "2004.05.22"] 
+ 
+1.b3 f5 2.Bb2 d6 3.e3 e5 4.d4 e4 5.d5 Nf6 6.Nh3 Nbd7 7.Bb5 a6 8.Nf4 c6 9. 
+dxc6 axb5 10.cxd7+ Bxd7 11.O-O Be7 12.Nc3 O-O 13.Qd4 Rf7 14.Rfd1 Bf8 15.a4 
+bxa4 16.Nxa4 Ng4 17.Nb6 Rxa1 18.Rxa1 Qh4 19.Nh3 Bc6 20.Ra8 f4 21.Bc3 fxe3  
+22.fxe3 Bb5 23.Nc4 Qh6 24.Bd2 Rf5 25.Qxe4 Qf6 26.Nf4 d5 27.Qf3 Nh6 28.Bb4  
+Qh4 29.Qxd5+ 1-0 

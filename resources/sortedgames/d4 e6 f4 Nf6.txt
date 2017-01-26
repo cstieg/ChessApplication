@@ -1,0 +1,15 @@
+ 
+[Event "Platja d'Aro ESP, Closed IM 2013"] 
+[Site "Platja d'Aro ESP"] 
+[Date "2013.06.26"] 
+[Round "5.2"] 
+[White "Cantero, Antonio"] 
+[Black "Salgado Allaria, Carlos"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2251"] 
+[BlackElo "2330"] 
+[ECO "A40"] 
+[EventDate "2013.06.24"] 
+ 
+1.d4 e6 2.f4 Nf6 3.Nf3 b6 4.e3 Be7 5.Bd3 c5 6.c3 Ba6 7.Bxa6 Nxa6 8.O-O Nc7 
+9.Qb3 d5 10.Ne5 Ne4 11.Nc6 Qd6 12.Nxe7 Qxe7 13.Nd2 Nxd2 14.Bxd2 1/2-1/2 

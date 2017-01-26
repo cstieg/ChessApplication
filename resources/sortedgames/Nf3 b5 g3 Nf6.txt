@@ -1,0 +1,44 @@
+ 
+[Event "Open A"] 
+[Site "Djakovo CRO"] 
+[Date "2005.05.02"] 
+[Round "2"] 
+[White "Goric, Esad"] 
+[Black "Avdic, A."] 
+[Result "1/2-1/2"] 
+[WhiteElo "2381"] 
+[BlackElo "2304"] 
+[ECO "A05"] 
+[EventDate "2005.05.01"] 
+ 
+1.Nf3 b5 2.g3 Nf6 3.Bg2 Bb7 4.O-O e6 5.d3 d5 6.c3 Nbd7 7.Nbd2 Be7 8.a4 a6  
+9.Re1 O-O 10.b4 a5 11.bxa5 Rxa5 12.Rb1 Rxa4 13.Rxb5 Ra7 14.Rb1 Qa8 15.c4  
+Bc6 16.Bb2 Ba4 17.Qc1 c6 18.Ra1 c5 19.e4 dxe4 20.dxe4 Bc6 21.Rxa7 Qxa7 22. 
+e5 Ne8 23.Qa1 Qb7 24.Bc3 Nc7 25.Rb1 Qa6 26.Ne1 Bxg2 27.Qxa6 Nxa6 28.Kxg2  
+Nb4 29.Ra1 Nb6 30.Ra7 Re8 31.Kf1 Kf8 32.Ke2 Nc6 33.Ra6 Rb8 34.Nd3 Ke8 35. 
+f4 Nb4 36.Nxb4 cxb4 37.Bd4 Nd7 38.Nb3 Rc8 39.Kd3 Rd8 40.Ra5 f6 41.Ke3 fxe5 
+42.fxe5 Nb8 43.Bb6 Rc8 44.Ra8 Kd7 45.Ra7+ Ke8 46.Rc7 Rxc7 47.Bxc7 Nc6 48. 
+Bd6 Bd8 49.Kd3 Bg5 50.h4 Bh6 51.g4 Bf4 52.Ke4 Bg3 53.h5 g6 54.hxg6 hxg6  
+55.Nd4 Nxd4 1/2-1/2 
+ 
+[Event "2. IM"] 
+[Site "Nancy FRA"] 
+[Date "2004.02.19"] 
+[Round "6"] 
+[White "Spielmann, Alain"] 
+[Black "Okhotnik, Vladimir"] 
+[Result "0-1"] 
+[WhiteElo "2257"] 
+[BlackElo "2445"] 
+[ECO "A05"] 
+[EventDate "2004.02.16"] 
+ 
+1.Nf3 b5 2.g3 Nf6 3.Bg2 Bb7 4.O-O e6 5.d3 d6 6.e4 c5 7.Nbd2 Nbd7 8.Re1 Be7 
+9.c3 Ne5 10.Qe2 O-O 11.a4 a6 12.axb5 Nxf3+ 13.Bxf3 axb5 14.Rxa8 Qxa8 15.d4 
+cxd4 16.cxd4 b4 17.d5 exd5 18.exd5 Bd8 19.Qb5 Nxd5 20.Ne4 Bc6 21.Qc4 Ne7  
+22.Qd3 Nc8 23.Bf4 Be7 24.Bd1 d5 25.Ng5 Bxg5 26.Bxg5 Nd6 27.Bc2 Ne4 28.Be3  
+Re8 29.Bd4 Qa5 30.b3 Re6 31.h4 Bb5 32.Qd1 Qc7 33.Bxe4 dxe4 34.Qg4 g6 35. 
+Qg5 Bc6 36.Qh6 f6 37.Ra1 e3 38.Bxe3 Qd7 39.Qf4 Qd5 40.f3 Qxb3 41.Bc5 Qc3  
+42.Rc1 Re1+ 43.Rxe1 Qxe1+ 44.Kg2 Qe2+ 45.Kh3 Qe6+ 46.g4 b3 47.Bd4 Kf7 48. 
+Qc7+ Bd7 49.Kg3 Qe1+ 50.Kh3 Qe6 51.Kg3 h5 52.Qf4 Qe1+ 53.Bf2 Qe6 54.Bd4  
+hxg4 55.fxg4 b2 56.Bxb2 Qb3+ 0-1 

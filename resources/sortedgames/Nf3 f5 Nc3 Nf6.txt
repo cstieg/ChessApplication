@@ -1,0 +1,15 @@
+ 
+[Event "Torneo B"] 
+[Site "Montecatini Terme ITA"] 
+[Date "2002.01.26"] 
+[Round "1"] 
+[White "Mrdja, Milan"] 
+[Black "Ivanov, J."] 
+[Result "1/2-1/2"] 
+[WhiteElo "2399"] 
+[BlackElo "2410"] 
+[ECO "A04"] 
+[EventDate "2002.01.26"] 
+ 
+1.Nf3 f5 2.Nc3 Nf6 3.g3 g6 4.Bg2 Bg7 5.O-O O-O 6.d3 d6 7.e4 e5 8.exf5 gxf5 
+9.Nh4 f4 10.Ne4 Nc6 11.c3 Kh8 1/2-1/2 

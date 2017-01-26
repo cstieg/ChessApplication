@@ -1,0 +1,19 @@
+ 
+[Event "ch-Commonwealth RSA-Open"] 
+[Site "Ekurhuleni RSA"] 
+[Date "2011.06.24"] 
+[Round "10"] 
+[White "Ovcina, Dennis"] 
+[Black "Kunte, Abhijit"] 
+[Result "0-1"] 
+[WhiteElo "2248"] 
+[BlackElo "2526"] 
+[ECO "A03"] 
+[EventDate "2011.06.25"] 
+ 
+1.e3 g6 2.f4 d5 3.Nf3 Bg7 4.g3 c6 5.Bg2 Nd7 6.d3 Nh6 7.Nc3 O-O 8.O-O Qb6  
+9.Kh1 Re8 10.e4 d4 11.Ne2 c5 12.h3 e6 13.c3 Nb8 14.a4 a5 15.Nd2 Nc6 16.Nc4 
+Qc7 17.g4 f6 18.Ng3 Nf7 19.Na3 Rd8 20.Nb5 Qe7 21.h4 f5 22.g5 dxc3 23.bxc3  
+Qd7 24.e5 Qxd3 25.Qe1 Bd7 26.Rf3 Qc4 27.Nf1 Ncxe5 28.fxe5 Nxe5 29.Rf4 Qb3  
+30.Ra3 Qb1 31.Nd2 Qc2 32.Bf1 Bc6+ 33.Kg1 Nd3 34.Bxd3 Rxd3 35.c4 e5 36.Rf1  
+Rad8 37.Rxd3 Rxd3 38.Qf2 f4 39.Re1 Rg3+ 40.Kf1 Qd3+ 41.Re2 f3 0-1 

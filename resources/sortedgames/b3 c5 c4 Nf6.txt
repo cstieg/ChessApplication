@@ -1,0 +1,85 @@
+ 
+[Event "Portugal Open 2015"] 
+[Site "Oeiras POR"] 
+[Date "2015.09.02"] 
+[Round "6.1"] 
+[White "Larino Nieto, David"] 
+[Black "Spraggett, Kevin"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2463"] 
+[BlackElo "2545"] 
+[ECO "A30"] 
+[EventDate "2015.08.30"] 
+ 
+1.b3 c5 2.c4 Nf6 3.Bb2 e6 4.Nf3 b6 5.g3 Bb7 6.Bg2 a6 7.O-O d6 8.Nc3 Nbd7  
+9.Re1 Be7 10.d4 cxd4 11.Qxd4 O-O 12.Rad1 Qc7 13.e4 Rfd8 14.Re2 Rac8 15.h3  
+Qb8 16.Ne1 h6 17.Kh2 Ba8 18.Nc2 Re8 19.Ba3 Nc5 20.b4 Ncd7 21.b5 axb5 22. 
+Nxb5 Nc5 23.Nxd6 Bxd6 24.Qxd6 Ncxe4 25.Qxb8 Rxb8 26.Rde1 Nc5 27.Nb4 Rec8  
+28.Bb2 Bxg2 29.Kxg2 Na4 30.Be5 Rb7 31.Rc2 Rd7 32.g4 Ne8 33.Re3 f6 34.Bg3  
+Kf7 35.Ra3 Nc5 36.f3 Nd6 37.Nd3 Ke7 38.Nxc5 Rxc5 39.Rac3 Rdc7 40.Bxd6+  
+Kxd6 41.Rb2 R7c6 42.Rd2+ Kc7 43.Rcd3 Kb7 44.Rd7+ Rc7 45.R7d6 e5 46.h4 Rxc4 
+47.Kg3 Rc3 48.Rb2 R7c6 49.Rd7+ Rc7 50.Rd6 R3c6 51.Rdd2 Re7 52.Rb4 Kc7 53. 
+Ra4 Kb7 54.Rb4 g6 55.Re2 f5 56.g5 hxg5 57.hxg5 Rc5 58.Rd2 f4+ 59.Kg2 Kc6  
+60.Rdb2 Rb7 61.a4 Rd5 62.R4b3 Rb8 63.Rb4 Rd4 64.Rb5 Rd5 65.Rxd5 Kxd5 66. 
+Rb5+ Kd6 67.a5 Kc6 68.Rxe5 b5 69.Re6+ Kc5 70.Rxg6 b4 71.Rb6 Ra8 72.Kh3  
+Rxa5 73.Rb8 Kc4 74.Kg4 b3 75.g6 Ra1 76.Kxf4 Rg1 77.Kf5 Kc3 78.f4 b2 79.Kf6 
+Rg4 80.f5 Rb4 81.Rxb4 Kxb4 82.g7 b1=Q 83.g8=Q Qa1+ 84.Kf7 Qa7+ 85.Kg6 Qg1+ 
+86.Kh7 Qh2+ 87.Kg7 Qg3+ 88.Kf7 Qc7+ 89.Kf6 Qc3+ 90.Kg6 Qg3+ 1/2-1/2 
+ 
+[Event "15. Miquel Mas Open 2014"] 
+[Site "Castell de Sant Ferran ESP"] 
+[Date "2014.08.18"] 
+[Round "9.3"] 
+[White "Gonzalez Rodriguez, Jorge A"] 
+[Black "Gomez Garrido, Camilo Ernesto"] 
+[Result "0-1"] 
+[WhiteElo "2382"] 
+[BlackElo "2496"] 
+[ECO "A30"] 
+[EventDate "2014.08.11"] 
+ 
+1.b3 c5 2.c4 Nf6 3.Bb2 e6 4.Nf3 b6 5.g3 Bb7 6.Bg2 d6 7.O-O Nbd7 8.e3 Be7  
+9.d4 O-O 10.Nc3 Ne4 11.Ne2 Qc7 12.Nf4 a6 13.a4 Nef6 14.Nd3 Be4 15.Qe2 Qb7  
+16.Rfd1 Rab8 17.Nfe1 Bxg2 18.Nxg2 Rfc8 19.Nge1 cxd4 20.exd4 b5 21.axb5  
+axb5 22.Rdc1 bxc4 23.bxc4 Bf8 24.Ng2 Qe4 25.Qxe4 Nxe4 26.Rc2 g6 27.Kf1  
+Rxc4 28.Rxc4 Nd2+ 29.Ke2 Nxc4 30.Bc1 Bg7 31.Be3 Ndb6 32.Nge1 Nd5 33.Rc1  
+Ndxe3 34.fxe3 d5 35.Ra1 h5 36.Ng2 Nd6 37.Nge1 Rc8 38.Nc5 Rxc5 39.dxc5 Bxa1 
+40.cxd6 Kf8 41.Nd3 Ke8 42.e4 dxe4 43.Nc5 Be5 44.Nxe4 Kd7 45.Ng5 f6 0-1 
+ 
+[Event "TCh-Belgrade Premier liga 2013"] 
+[Site "Belgrade SRB"] 
+[Date "2013.10.17"] 
+[Round "6.5"] 
+[White "Djosic, Slavoljub"] 
+[Black "Peovic, Milos"] 
+[Result "1-0"] 
+[WhiteElo "2253"] 
+[BlackElo "2269"] 
+[ECO "A30"] 
+[EventDate "2013.10.12"] 
+ 
+1.b3 c5 2.c4 Nf6 3.Bb2 Nc6 4.g3 g6 5.Bxf6 exf6 6.Nc3 Bg7 7.Bg2 O-O 8.e3  
+Re8 9.Nge2 d6 10.O-O f5 11.Rc1 Bd7 12.Nf4 a6 13.d3 Qa5 14.Nfd5 Rab8 15.Re1 
+b5 16.Re2 b4 17.Nb1 Qd8 18.Nd2 a5 19.Nf3 Ne5 20.Ne1 Ng4 21.Rd2 Nf6 22. 
+Nxf6+ Qxf6 23.d4 Be6 24.dxc5 dxc5 25.Nd3 Qe7 26.Nf4 Red8 27.Nd5 Qa7 28.Qc2 
+Rd7 29.Rcd1 h5 30.h4 Kh7 31.Nf4 Rbd8 32.Bd5 Bxd5 33.Rxd5 Rxd5 34.Rxd5 Rc8  
+35.Qd3 Bh6 36.Nxg6 1-0 
+ 
+[Event "Open A 2013"] 
+[Site "Moscow RUS"] 
+[Date "2013.02.07"] 
+[Round "6.15"] 
+[White "Rakhmanov, Aleksandr"] 
+[Black "Kovalev, Vladislav"] 
+[Result "0-1"] 
+[WhiteElo "2612"] 
+[BlackElo "2500"] 
+[ECO "A30"] 
+[EventDate "2013.02.02"] 
+ 
+1.b3 c5 2.c4 Nf6 3.Bb2 e6 4.g3 Be7 5.Bg2 d5 6.Nf3 d4 7.b4 O-O 8.O-O a5 9. 
+b5 Nbd7 10.d3 e5 11.Nbd2 Nh5 12.e3 g6 13.Re1 f5 14.exd4 exd4 15.Ne5 Nxe5  
+16.Rxe5 Bd6 17.Re1 Nf6 18.Nf3 Qc7 19.Ng5 h6 20.Ne6 Bxe6 21.Rxe6 Rae8 22. 
+Rxe8 Rxe8 23.b6 Qe7 24.Qf3 Qe2 25.Rb1 Qc2 26.Qd1 Qxd1+ 27.Rxd1 Re2 28.Bc1  
+Rxa2 29.Bxb7 g5 30.Bc6 a4 31.Kf1 Ng4 32.Bd2 a3 33.Ba4 Rb2 34.Ke2 a2 35.Ra1 
+Nxh2 36.Bd7 Nf1 0-1 

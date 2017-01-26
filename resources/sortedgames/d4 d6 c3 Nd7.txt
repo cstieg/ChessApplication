@@ -1,0 +1,83 @@
+ 
+[Event "It Open"] 
+[Site "Tuzla (Bosnia & Herzegovina)"] 
+[Date "2006.09.18"] 
+[Round "6"] 
+[White "Mrkonjic, Nenad"] 
+[Black "Budimir, Boris"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2378"] 
+[BlackElo "2322"] 
+[ECO "A41"] 
+ 
+1.d4 d6 2.c3 Nd7 3.Nf3 e5 4.dxe5 Nxe5 5.Nxe5 dxe5 6.Qxd8+ Kxd8 7.e4 Be6 8. 
+Be3 Nf6 9.f3 Nd7 10.Nd2 Bc5 11.Kf2 Ke7 12.Bc4 Rhd8 13.Rhd1 Bxe3+ 14.Kxe3  
+Nb6 15.Bxe6 Kxe6 16.b3 Rd7 17.Nf1 Rad8 18.Rxd7 Rxd7 19.Ke2 c6 20.Ne3 Rd8  
+21.Rc1 Na8 22.a4 Nc7 23.Rc2 g6 24.Nc4 b6 25.b4 f6 26.a5 b5 27.Ne3 Ke7 28. 
+Rd2 Rxd2+ 29.Kxd2 a6 30.c4 Kd6 31.cxb5 cxb5 32.Ng4 Ke6 33.Nf2 Kd6 34.Nd3  
+Ne6 35.Ke3 Ke7 36.g3 Kd6 37.h4 h6 38.f4 exf4+ 39.gxf4 h5 40.e5+ fxe5 41. 
+Nxe5 Kd5 42.Nxg6 Kc4 43.f5 Nd8 44.Ne5+ Kxb4 45.f6 Kc3 46.f7 Ne6 47.Nd3 Nf8 
+48.Nf4 Kb4 49.Nxh5 Kxa5 50.Nf4 Kb6 51.Nd5+ Kc6 52.Ke4 Kd7 1/2-1/2 
+ 
+[Event "12. DDS League and Open"] 
+[Site "Tuzla BIH"] 
+[Date "2006.09.18"] 
+[Round "6"] 
+[White "Mrkonjic, Nenad"] 
+[Black "Budimir, Boris"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2378"] 
+[BlackElo "2322"] 
+[ECO "A41"] 
+[EventDate "2006.09.15"] 
+ 
+1.d4 d6 2.c3 Nd7 3.Nf3 e5 4.dxe5 Nxe5 5.Nxe5 dxe5 6.Qxd8+ Kxd8 7.e4 Be6 8. 
+Be3 Nf6 9.f3 Nd7 10.Nd2 Bc5 11.Kf2 Ke7 12.Bc4 Rhd8 13.Rhd1 Bxe3+ 14.Kxe3  
+Nb6 15.Bxe6 Kxe6 16.b3 Rd7 17.Nf1 Rad8 18.Rxd7 Rxd7 19.Ke2 c6 20.Ne3 Rd8  
+21.Rc1 Na8 22.a4 Nc7 23.Rc2 g6 24.Nc4 b6 25.b4 f6 26.a5 b5 27.Ne3 Ke7 28. 
+Rd2 Rxd2+ 29.Kxd2 a6 30.c4 Kd6 31.cxb5 cxb5 32.Ng4 Ke6 33.Nf2 Kd6 34.Nd3  
+Ne6 35.Ke3 Ke7 36.g3 Kd6 37.h4 h6 38.f4 exf4+ 39.gxf4 h5 40.e5+ fxe5 41. 
+Nxe5 Kd5 42.Nxg6 Kc4 43.f5 Nd8 44.Ne5+ Kxb4 45.f6 Kc3 46.f7 Ne6 47.Nd3 Nf8 
+48.Nf4 Kb4 49.Nxh5 Kxa5 50.Nf4 Kb6 51.Nd5+ Kc6 52.Ke4 Kd7 1/2-1/2 
+ 
+[Event "FSIMB Dec"] 
+[Site "Budapest HUN"] 
+[Date "2002.12.13"] 
+[Round "7"] 
+[White "Harmatosi, Jozsef"] 
+[Black "Werner, Dimo"] 
+[Result "0-1"] 
+[WhiteElo "2255"] 
+[BlackElo "2384"] 
+[ECO "A41"] 
+[EventDate "2002.12.07"] 
+ 
+1.d4 d6 2.c3 Nd7 3.Bg5 c5 4.e3 cxd4 5.exd4 h6 6.Bh4 Ngf6 7.Nd2 e6 8.Bd3  
+Be7 9.Ne2 a6 10.O-O O-O 11.Nc4 b5 12.Ne3 Nb6 13.h3 Bb7 14.Bg3 Rc8 15.Rc1  
+Qd7 16.f3 Nh5 17.Bf2 f5 18.b3 Bg5 19.Rc2 g6 20.c4 Na8 21.cxb5 axb5 22.Rxc8 
+Rxc8 23.Qb1 Nb6 24.Qb2 Kh7 25.Rb1 Nd5 26.Nxd5 Bxd5 27.Nc3 Bc6 28.a4 bxa4  
+29.bxa4 Nf4 30.Bf1 Ra8 31.Ra1 Qd8 32.Nb5 Nd5 33.Bc4 Nf4 34.Bf1 Bf6 35.Qc1  
+Bxb5 36.axb5 Rxa1 37.Qxa1 Qb8 38.Qc1 g5 39.Qc6 Kg6 40.b6 Nd5 41.b7 Ne7 42. 
+Qd7 Kf7 43.Bc4 d5 44.Bb5 Kg7 45.Qe8 Qxb7 46.Bd7 Qb6 47.Kh1 Qd6 48.Bb5 e5  
+49.dxe5 Qxe5 50.Ba4 h5 51.Bb5 h4 52.Qd7 Kh6 53.Qe8 Qa1+ 54.Bg1 Ng6 55.Qe3  
+Nf4 56.Bd7 Nh5 57.f4 0-1 
+ 
+[Event "Belgian Interteams 2000-1"] 
+[Site "BEL"] 
+[Date "2001.03.11"] 
+[Round "10"] 
+[White "Kerkmeester, Heico"] 
+[Black "Gulbas, Cemil"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2259"] 
+[BlackElo "2293"] 
+[ECO "A41"] 
+[EventDate "2001.01.18"] 
+ 
+1.d4 d6 2.c3 Nd7 3.e4 Ngf6 4.Bd3 e5 5.f4 c6 6.Nf3 Qc7 7.O-O g6 8.fxe5 dxe5 
+9.Qb3 Qb6 10.Nbd2 Qxb3 11.axb3 exd4 12.cxd4 Be7 13.Nc4 h6 14.e5 Nd5 15.e6  
+fxe6 16.Bxg6+ Kd8 17.Nfe5 Kc7 18.Nf7 Rg8 19.Bh5 c5 20.Nxh6 Rg7 21.Rf7 Bf6  
+22.dxc5 Rxf7 23.Nxf7 Nxc5 24.Bd1 Bd4+ 25.Kh1 Bd7 26.Nfe5 Ne4 27.Nf3 Bc5  
+28.Bc2 Nf2+ 29.Kg1 b5 30.Nce5 Rf8 31.Nxd7 Kxd7 32.Kf1 Ng4 33.Ke2 Rg8 34.g3 
+Kd6 35.Bd3 e5 36.Bxb5 e4 37.Ng5 Ke5 38.h4 Rf8 39.Nh3 Rf3 40.Bf4+ Nxf4+ 41. 
+gxf4+ Kf6 42.Rc1 Rxh3 43.Rxc5 Rxb3 44.Kd2 Rxb2+ 1/2-1/2 

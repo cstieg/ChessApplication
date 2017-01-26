@@ -1,0 +1,39 @@
+ 
+[Event "69. Moscow Blitz"] 
+[Site "Moscow RUS"] 
+[Date "2015.09.06"] 
+[Round "6.7"] 
+[White "Andreikin, Dmitry"] 
+[Black "Novikov, Stanislav"] 
+[Result "1-0"] 
+[WhiteElo "2720"] 
+[BlackElo "2536"] 
+[ECO "A00"] 
+[EventDate "2015.09.06"] 
+ 
+1.Nc3 g6 2.h4 h6 3.e4 Bg7 4.d4 c6 5.h5 g5 6.f4 gxf4 7.Bxf4 Qb6 8.e5 d6 9. 
+Qd2 dxe5 10.dxe5 Be6 11.O-O-O Nd7 12.Bc4 Nxe5 13.Bxe6 fxe6 14.Bxe5 Bxe5  
+15.Nf3 Bd6 16.Qe2 O-O-O 17.Qxe6+ Kb8 18.Ne4 Qe3+ 19.Kb1 Nf6 20.Rhe1 Qf4  
+21.Nxd6 Rxd6 22.Qxe7 Rxd1+ 23.Rxd1 Re8 24.Rd8+ 1-0 
+ 
+[Event "Myrgorod UKR, Open 2010"] 
+[Site "Myrgorod UKR"] 
+[Date "2010.07.11"] 
+[Round "5"] 
+[White "Vusatiuk, Andrey"] 
+[Black "Polishchuk, Oleg"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2282"] 
+[BlackElo "2208"] 
+[ECO "A00"] 
+[EventDate "2010.07.09"] 
+ 
+1.Nc3 g6 2.h4 h6 3.d4 d5 4.e4 dxe4 5.Nxe4 Bg7 6.Be3 b6 7.Qf3 c6 8.Bc4 e6  
+9.Qf4 Nf6 10.Nd6+ Ke7 11.Nxc8+ Qxc8 12.Ne2 Nbd7 13.O-O b5 14.Bb3 Nb6 15.a4 
+Nfd5 16.Qf3 Bf6 17.axb5 cxb5 18.h5 g5 19.Ng3 a5 20.Ne4 a4 21.Bxd5 Nxd5 22. 
+Rfc1 Qc7 23.b3 Bg7 24.c4 Nxe3 25.fxe3 Rac8 26.bxa4 bxc4 27.a5 Rhd8 28.a6  
+Qa7 29.Rcb1 Rd7 30.Nc3 Rb8 31.Rxb8 Qxb8 32.Rb1 Qa7 33.Rb7 Qxa6 34.Rxd7+  
+Kxd7 35.Qxf7+ Kd6 36.Ne4+ Kd5 37.Nc3+ Kd6 38.Ne4+ Kd5 39.Nc5 Qa1+ 40.Kh2  
+Bxd4 41.exd4 Qxd4 42.Na4 Qf4+ 43.Qxf4 gxf4 44.Kh3 e5 45.Kg4 Ke4 46.Nc3+  
+Kd3 47.Nd5 Kd4 48.Nb4 Ke4 49.Na2 Ke3 50.Nc3 Kf2 51.Kf5 Kxg2 52.Kxe5 f3 53. 
+Ne4 Kh3 54.Kd4 Kg4 55.Nd2 f2 56.Kxc4 Kxh5 57.Kd3 Kg4 58.Ke2 Kg3 1/2-1/2 

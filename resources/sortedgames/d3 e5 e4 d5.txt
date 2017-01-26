@@ -1,0 +1,35 @@
+ 
+[Event "Bundesliga 2005/06"] 
+[Site "Austria"] 
+[Date "2005.11.19"] 
+[Round "2"] 
+[White "Schwarz, Michael AUT"] 
+[Black "Moser, Eva"] 
+[Result "0-1"] 
+[WhiteElo "2398"] 
+[BlackElo "2361"] 
+[ECO "C20"] 
+ 
+1.d3 e5 2.e4 d5 3.Nd2 Nf6 4.Ngf3 Nc6 5.c3 a5 6.Be2 Bc5 7.O-O O-O 8.Nxe5  
+Bxf2+ 9.Rxf2 Nxe5 10.exd5 Nfg4 11.Bxg4 Nxg4 12.Rf4 Qxd5 13.Rxg4 Bxg4 14. 
+Qxg4 Qxd3 15.Nf1 Ra6 16.Bf4 Qc2 17.Bxc7 Qxb2 18.Re1 Qxa2 19.Ng3 Qd2 20.Rd1 
+Qxc3 21.Nf5 Re8 22.h4 Qc5+ 23.Kh1 Rg6 24.Qf4 h5 25.Bd6 Qc2 26.Rd2 Qb1+ 27. 
+Kh2 Rg4 28.Qf2 Re1 0-1 
+ 
+[Event "TCh-AUT 2005-6"] 
+[Site "Austria AUT"] 
+[Date "2005.11.19"] 
+[Round "2"] 
+[White "Schwarz, Michael AUT"] 
+[Black "Moser, Eva"] 
+[Result "0-1"] 
+[WhiteElo "2398"] 
+[BlackElo "2361"] 
+[ECO "C20"] 
+[EventDate "2005.11.18"] 
+ 
+1.d3 e5 2.e4 d5 3.Nd2 Nf6 4.Ngf3 Nc6 5.c3 a5 6.Be2 Bc5 7.O-O O-O 8.Nxe5  
+Bxf2+ 9.Rxf2 Nxe5 10.exd5 Nfg4 11.Bxg4 Nxg4 12.Rf4 Qxd5 13.Rxg4 Bxg4 14. 
+Qxg4 Qxd3 15.Nf1 Ra6 16.Bf4 Qc2 17.Bxc7 Qxb2 18.Re1 Qxa2 19.Ng3 Qd2 20.Rd1 
+Qxc3 21.Nf5 Re8 22.h4 Qc5+ 23.Kh1 Rg6 24.Qf4 h5 25.Bd6 Qc2 26.Rd2 Qb1+ 27. 
+Kh2 Rg4 28.Qf2 Re1 0-1 

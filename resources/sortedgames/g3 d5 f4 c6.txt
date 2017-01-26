@@ -1,0 +1,55 @@
+ 
+[Event "Oslo GM Open"] 
+[Site "Oslo NOR"] 
+[Date "2011.10.07"] 
+[Round "7.17"] 
+[White "Galinsky, Timofey"] 
+[Black "Meurs, Tom"] 
+[Result "0-1"] 
+[WhiteElo "2441"] 
+[BlackElo "2217"] 
+[ECO "A03"] 
+[EventDate "2011.10.02"] 
+ 
+1.g3 d5 2.f4 c6 3.Nf3 Nf6 4.Bg2 Bg4 5.h3 Bxf3 6.Bxf3 Nbd7 7.d3 e5 8.e3 Qb6 
+9.Qe2 h5 10.d4 e4 11.Bg2 c5 12.dxc5 Bxc5 13.O-O Rc8 14.a3 Qc6 15.Bd2 d4  
+16.Kh1 dxe3 17.Bxe3 Bxe3 18.Qxe3 Qxc2 19.Nc3 O-O 20.Rf2 Qb3 21.Qxa7 Nc5  
+22.Re2 Rfe8 23.Rf1 b6 24.a4 Qb4 25.Rd1 Kf8 26.Nb5 Qb3 27.Ra1 Qe6 28.a5 Ra8 
+29.Qc7 Re7 30.f5 Qd5 31.Qxb6 Ncd7 32.Qd6 Qxb5 33.Bxe4 Rxa5 34.Qxe7+ Kxe7  
+35.Bd3+ Kd6 36.Bxb5 Rxa1+ 37.Kg2 Rd1 38.Ba6 Nc5 39.Bc4 Nce4 40.g4 hxg4 41. 
+hxg4 Ng5 42.b3 Rd4 0-1 
+ 
+[Event "Masters"] 
+[Site "Abudhabi UAE"] 
+[Date "2005.08.16"] 
+[Round "3"] 
+[White "Simonenko, Sergey"] 
+[Black "Mamedjarova, Zeinab"] 
+[Result "0-1"] 
+[WhiteElo "2431"] 
+[BlackElo "2262"] 
+[ECO "A03"] 
+[EventDate "2005.08.14"] 
+ 
+1.g3 d5 2.f4 c6 3.Bg2 g6 4.Nf3 Bg7 5.e3 Nf6 6.O-O O-O 7.d3 Qb6 8.Qe2 Nfd7  
+9.d4 a5 10.Kh1 Qa6 11.Qe1 Nf6 12.b3 Bf5 13.c3 Nbd7 14.Ba3 Rfe8 15.Ne5 Nxe5 
+16.fxe5 Ne4 17.c4 f6 18.cxd5 cxd5 19.exf6 exf6 20.Nc3 Nxc3 21.Qxc3 Be4 22. 
+Bxe4 Rxe4 23.Rf4 Ree8 24.Re1 Rac8 25.Qd2 a4 26.Bc5 axb3 27.axb3 f5 28.Qg2  
+Rcd8 29.Qd2 Bh6 30.Rf3 Re6 31.Kg2 Rc8 32.Rff1 Qb5 33.Bb4 Rec6 34.Bc5 b6  
+35.b4 bxc5 36.bxc5 Qc4 0-1 
+ 
+[Event "FSIM May"] 
+[Site "Budapest HUN"] 
+[Date "2004.05.01"] 
+[Round "1"] 
+[White "Werner, Dimo"] 
+[Black "Brustkern, Juergen"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2362"] 
+[BlackElo "2266"] 
+[ECO "A03"] 
+[EventDate "2004.05.01"] 
+ 
+1.g3 d5 2.f4 c6 3.Nf3 g6 4.Bg2 Bg7 5.c3 Bg4 6.Ne5 Nh6 7.Nxg4 Nxg4 8.e4 Nf6 
+9.e5 Nfd7 10.d4 e6 11.O-O h5 12.b3 a5 13.Ba3 Bf8 14.Bxf8 Kxf8 15.a4 Kg7  
+16.Ra2 Qb6 17.Raf2 c5 18.Na3 Nc6 19.Nb5 cxd4 20.cxd4 Ne7 21.Bh3 1/2-1/2 

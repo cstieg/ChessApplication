@@ -1,0 +1,92 @@
+ 
+[Event "4. Batavia Grolsch 2012"] 
+[Site "Amsterdam NED"] 
+[Date "2012.02.25"] 
+[Round "2.3"] 
+[White "Bosboom, Manuel"] 
+[Black "Hebden, Mark L"] 
+[Result "0-1"] 
+[WhiteElo "2394"] 
+[BlackElo "2516"] 
+[ECO "A15"] 
+[EventDate "2012.02.24"] 
+ 
+1.c4 Nf6 2.e3 g6 3.b3 Bg7 4.Bb2 O-O 5.Qc2 c5 6.Nf3 Nc6 7.a3 d6 8.d3 e5 9. 
+h3 Rb8 10.Nbd2 Ne8 11.g4 Nc7 12.Be2 b5 13.Rb1 a5 14.cxb5 Nxb5 15.g5 Qe7  
+16.h4 Be6 17.h5 Nc7 18.h6 Bh8 19.Rh4 Nd5 20.Ne4 f5 21.gxf6 Nxf6 22.Ned2  
+Ng4 23.Rh1 Bf6 24.Ba1 d5 25.Rc1 Rbc8 26.Qb1 Rf7 27.Rc2 d4 28.exd4 exd4 29. 
+Ne4 Bd5 30.Rg1 Nce5 31.Nxe5 Nxe5 32.Bxd4 Nxd3+ 33.Bxd3 Bxd4 34.Re2 Qh4 35. 
+Qc2 Rcf8 36.Rf1 Qxh6 37.Bc4 Qh5 38.b4 axb4 39.axb4 Ra8 40.bxc5 Ra1+ 41.Kd2 
+Rxf1 42.c6 Rf3 0-1 
+ 
+[Event "I Antonio Rocha Memorial"] 
+[Site "Campinas BRA"] 
+[Date "2011.01.16"] 
+[Round "4.2"] 
+[White "Rodriguez Vila, Andres"] 
+[Black "Santos, Marcus Vinicius Moreira"] 
+[Result "1-0"] 
+[WhiteElo "2511"] 
+[BlackElo "2365"] 
+[ECO "A15"] 
+[EventDate "2011.01.13"] 
+ 
+1.c4 Nf6 2.e3 g6 3.b3 Bg7 4.Bb2 O-O 5.Nf3 c5 6.Be2 d5 7.cxd5 Qxd5 8.d3 Nc6 
+9.Nc3 Qf5 10.O-O b6 11.a3 Rd8 12.Qb1 Ba6 13.Rd1 Rac8 14.Ra2 Nd7 15.Ba1  
+Nde5 16.Ne1 Ng4 17.Bf1 Nce5 18.h3 Nf6 19.d4 Qxb1 20.Rxb1 cxd4 21.exd4 1-0 
+ 
+[Event "TCh-SUI NatLigaA"] 
+[Site "Switzerland SUI"] 
+[Date "2010.02.14"] 
+[Round "1"] 
+[White "Kovacevic, Vlad"] 
+[Black "Gaehwiler, Gabriel"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2207"] 
+[BlackElo "2236"] 
+[ECO "A15"] 
+[EventDate "2010.02.14"] 
+ 
+1.c4 Nf6 2.e3 g6 3.b3 Bg7 4.Bb2 O-O 5.Nf3 d6 6.d3 e5 7.Nbd2 Nfd7 8.Qc2 Nc6 
+9.a3 a5 10.Be2 f5 11.h4 Nc5 12.g3 Bf6 13.O-O-O Re8 14.Rhe1 Qe7 15.d4 Ne4  
+16.dxe5 Nxe5 17.Nxe4 fxe4 18.Qxe4 Bf5 19.Qd5+ Be6 20.Qd2 Nxf3 21.Bxf3 a4  
+22.Bd5 axb3 23.Bxe6+ Qxe6 24.Qd5 Ra5 25.Qxe6+ Rxe6 26.Rd5 Ra4 27.Re2 Rxc4+ 
+28.Kb1 Rc2 29.Rxc2 bxc2+ 30.Kxc2 Bxb2 31.Kxb2 Rf6 32.f4 Re6 33.Rd3 Re4 34. 
+Rc3 1/2-1/2 
+ 
+[Event "6. LGA Premium Cup"] 
+[Site "Nuernberg GER"] 
+[Date "2009.09.06"] 
+[Round "6"] 
+[White "Meijers, Viesturs"] 
+[Black "Olszewski, Michal"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2483"] 
+[BlackElo "2559"] 
+[ECO "A15"] 
+[EventDate "2009.09.03"] 
+ 
+1.c4 Nf6 2.e3 g6 3.b3 Bg7 4.Bb2 O-O 5.Nf3 c5 6.Be2 Nc6 7.O-O d5 8.cxd5  
+Nxd5 9.Bxg7 Kxg7 10.Qc1 Qd6 11.Nc3 b6 12.d4 cxd4 13.Nb5 Qf6 14.Nbxd4 Nxd4  
+15.Nxd4 Bb7 16.Qb2 Rac8 1/2-1/2 
+ 
+[Event "FSIM May"] 
+[Site "Budapest HUN"] 
+[Date "2005.05.15"] 
+[Round "9"] 
+[White "House, Glenn L"] 
+[Black "Caruana, Fabiano"] 
+[Result "0-1"] 
+[WhiteElo "2212"] 
+[BlackElo "2255"] 
+[ECO "A15"] 
+[EventDate "2005.05.07"] 
+ 
+1.c4 Nf6 2.e3 g6 3.Nf3 Bg7 4.Be2 O-O 5.O-O d5 6.cxd5 Nxd5 7.a3 b6 8.Qc2 c5 
+9.Nc3 Bb7 10.d3 Nc6 11.Bd2 e5 12.Rfd1 Rc8 13.Nxd5 Qxd5 14.Rac1 Rfd8 15.Qb1 
+a5 16.Bc3 a4 17.Bf1 b5 18.Be1 Ne7 19.Nd2 Qc6 20.Qc2 Nd5 21.Nf3 Qa6 22.Qb1  
+f6 23.Bd2 Bf8 24.Be1 Kg7 25.Qc2 Rc7 26.Qe2 Nb6 27.e4 Rcd7 28.d4 cxd4 29. 
+Qxb5 Qxb5 30.Bxb5 Rf7 31.Ba5 Rd6 32.Nd2 f5 33.f3 Be7 34.Be8 Rf8 35.Rc7  
+Rxe8 36.Rxb7 Nc8 37.Rc1 Re6 38.Bb4 Kf6 39.Rcc7 Nd6 40.Bxd6 Rxd6 41.Nc4  
+Rdd8 42.Rc6+ Kg5 43.Nxe5 Kf4 44.g3+ Ke3 45.exf5 d3 46.Re6 d2 47.Nc4+ Kxf3  
+48.Re3+ Kg4 49.Re4+ Kxf5 50.Nxd2 Bc5+ 51.Kg2 0-1 

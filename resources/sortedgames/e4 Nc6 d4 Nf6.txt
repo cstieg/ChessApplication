@@ -1,0 +1,81 @@
+ 
+[Event "It (open) \"] 
+[Site "Hendersonville (USA)"] 
+[Date "2006.03.18"] 
+[Round "7"] 
+[White "Smith, Bryan G"] 
+[Black "Ardaman, Miles"] 
+[Result "0-1"] 
+[WhiteElo "2384"] 
+[BlackElo "2324"] 
+[ECO "B00"] 
+ 
+1.e4 Nc6 2.d4 Nf6 3.Nc3 d5 4.e5 Nd7 5.Nce2 Nb6 6.Nf4 e6 7.c3 Bd7 8.Nf3 Qe7 
+9.a4 f6 10.a5 Nc4 11.a6 b6 12.b3 N4a5 13.b4 Nc4 14.Bxc4 dxc4 15.Qe2 b5 16. 
+O-O O-O-O 17.Re1 Re8 18.d5 Nxe5 19.dxe6 Bc6 20.Nxe5 fxe5 21.Qxe5 Qd6 22. 
+Qe3 g5 23.Nh5 Qd5 24.f3 Be7 25.Qxa7 Rhf8 26.Qe3 Rd8 27.a7 Kb7 28.h3 Qf5  
+29.Ng3 Qc2 30.Ne4 Ka8 31.Qe2 Qxe2 32.Rxe2 Rd1+ 33.Kf2 h5 34.Re1 Rd5 35.Be3 
+g4 36.Bc5 Bh4+ 37.Kg1 Rg8 38.Bf2 Be7 39.hxg4 hxg4 40.f4 g3 41.Bc5 Bh4 42. 
+e7 Rf5 43.Rad1 Rxf4 44.Rd4 Rf7 45.Rf1 Rxe7 46.Bxe7 Bxe7 47.Rf7 Bd8 48.Nxg3 
+Kxa7 49.Ne4 Kb6 50.Kf2 Bh4+ 51.g3 Bd8 52.Kf3 Bg5 53.g4 Bc1 54.Kg3 Be3 55. 
+Nf6 Bxd4 56.cxd4 Rd8 57.g5 c3 58.Re7 Rxd4 59.g6 c2 60.Re1 Rd1 61.g7 Rxe1  
+62.g8=Q Rg1+ 0-1 
+ 
+[Event "US Masters"] 
+[Site "Hendersonville USA"] 
+[Date "2006.03.18"] 
+[Round "7"] 
+[White "Smith, Bryan G"] 
+[Black "Ardaman, Miles"] 
+[Result "0-1"] 
+[WhiteElo "2379"] 
+[BlackElo "2330"] 
+[ECO "B00"] 
+[EventDate "2006.03.11"] 
+ 
+1.e4 Nc6 2.d4 Nf6 3.Nc3 d5 4.e5 Nd7 5.Nce2 Nb6 6.Nf4 e6 7.c3 Bd7 8.Nf3 Qe7 
+9.a4 f6 10.a5 Nc4 11.a6 b6 12.b3 N4a5 13.b4 Nc4 14.Bxc4 dxc4 15.Qe2 b5 16. 
+O-O O-O-O 17.Re1 Re8 18.d5 Nxe5 19.dxe6 Bc6 20.Nxe5 fxe5 21.Qxe5 Qd6 22. 
+Qe3 g5 23.Nh5 Qd5 24.f3 Be7 25.Qxa7 Rhf8 26.Qe3 Rd8 27.a7 Kb7 28.h3 Qf5  
+29.Ng3 Qc2 30.Ne4 Ka8 31.Qe2 Qxe2 32.Rxe2 Rd1+ 33.Kf2 h5 34.Re1 Rd5 35.Be3 
+g4 36.Bc5 Bh4+ 37.Kg1 Rg8 38.Bf2 Be7 39.hxg4 hxg4 40.f4 g3 41.Bc5 Bh4 42. 
+e7 Rf5 43.Rad1 Rxf4 44.Rd4 Rf7 45.Rf1 Rxe7 46.Bxe7 Bxe7 47.Rf7 Bd8 48.Nxg3 
+Kxa7 49.Ne4 Kb6 50.Kf2 Bh4+ 51.g3 Bd8 52.Kf3 Bg5 53.g4 Bc1 54.Kg3 Be3 55. 
+Nf6 Bxd4 56.cxd4 Rd8 57.g5 c3 58.Re7 Rxd4 59.g6 c2 60.Re1 Rd1 61.g7 Rxe1  
+62.g8=Q Rg1+ 0-1 
+ 
+[Event "Simultan (blindfold)"] 
+[Site "Cannes FRA"] 
+[Date "2004.02.11"] 
+[Round "1"] 
+[White "Tkachiev, Vladislav"] 
+[Black "Largillet Jean-Pierre"] 
+[Result "1-0"] 
+[WhiteElo "2688"] 
+[BlackElo "2524"] 
+[ECO "B00"] 
+ 
+1.e4 Nc6 2.d4 Nf6 3.e5 Nd5 4.c4 Nb6 5.c5 Nd5 6.Nc3 e6 7.Nxd5 exd5 8.Nf3  
+Be7 9.Bd3 O-O 10.h4 h6 11.Bb1 g6 12.Bxh6 Re8 13.h5 Bxc5 14.hxg6 Bb4+ 15. 
+Kf1 fxg6 16.Bxg6 Re6 17.Qd3 d6 18.Bh7+ Kh8 19.Bg7+ Kxg7 20.Bf5 Rh6 21.Rxh6 
+Kxh6 22.Ke2 Kg7 23.Rh1 Bxf5 24.Qxf5 Qg8 25.Qf6# 1-0 
+ 
+[Event "Alushta Golden Autumn 2nd"] 
+[Site "Alushta UKR"] 
+[Date "2001.??.??"] 
+[Round "12"] 
+[White "Smirnov, Igor"] 
+[Black "Zubarev, Alexander"] 
+[Result "1-0"] 
+[WhiteElo "2438"] 
+[BlackElo "2309"] 
+[ECO "B00"] 
+ 
+1.e4 Nc6 2.d4 Nf6 3.d5 Ne5 4.f4 Ng6 5.Nc3 e6 6.dxe6 dxe6 7.Qxd8+ Kxd8 8. 
+Nf3 Bb4 9.Bd3 Bd7 10.O-O Bc5+ 11.Kh1 Ng4 12.Nd1 h5 13.h3 Ke8 14.g3 Nf6 15. 
+Kg2 Rd8 16.Re1 Bc6 17.Bd2 a6 18.b4 Be7 19.a4 Bd7 20.Nb2 Bc8 21.b5 axb5 22. 
+axb5 Nf8 23.Ba5 b6 24.Bc3 N8d7 25.Ra7 Nc5 26.Be5 Bb7 27.Bxc7 Rc8 28.Bxb6  
+Bxe4 29.Bxe4 Ncxe4 30.c4 Bb4 31.Rc1 h4 32.Nd3 Be7 33.g4 Nd7 34.Bd4 f6 35. 
+c5 Rf8 36.c6 Nb8 37.c7 Nd7 38.b6 Bd6 39.Rb1 Ke7 40.Rb3 g5 41.fxg5 fxg5 42. 
+Be3 Ndc5 43.Nxc5 Nxc5 44.Bxc5 Bxc5 45.Ra5 Bxb6 46.Rxb6 Rxc7 47.Rb2 Rc3 48. 
+Rf2 1-0 

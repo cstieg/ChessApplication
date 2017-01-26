@@ -1,0 +1,91 @@
+ 
+[Event "4. Open A"] 
+[Site "Moscow RUS"] 
+[Date "2008.02.04"] 
+[Round "3"] 
+[White "Popov, Ivan RUS"] 
+[Black "Yatsenko, Alexey"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2595"] 
+[BlackElo "2442"] 
+[ECO "B07"] 
+[EventDate "2008.02.02"] 
+ 
+1.e4 d6 2.Nc3 c6 3.g3 e5 4.Bg2 Nf6 5.d3 Be7 6.f4 b5 7.Nf3 Nbd7 8.O-O b4 9. 
+Ne2 a5 10.h3 Qb6+ 11.Kh1 h6 12.g4 exf4 13.Bxf4 g5 14.Bh2 h5 15.Nxg5 hxg4  
+16.d4 Ba6 17.e5 dxe5 18.dxe5 Nd5 19.Nxf7 Ne3 20.Nd6+ Bxd6 21.Qxd6 O-O-O  
+22.Bg1 Qc7 23.Bxe3 Qxd6 24.exd6 Bxe2 25.Rf5 Bf3 26.Kg1 Bxg2 27.Kxg2 Rde8  
+28.Re1 gxh3+ 29.Kh1 c5 30.Rf7 Rh6 31.Re7 Re6 32.Bf2 Rxe1+ 33.Bxe1 Rg8 34. 
+Re2 Rg6 35.Kh2 1/2-1/2 
+ 
+[Event "3. Zurich Lake Plaza Open"] 
+[Site "Pfaeffikon SUI"] 
+[Date "2003.06.06"] 
+[Round "2"] 
+[White "Mitkov, Nikola"] 
+[Black "Welz, Thomas"] 
+[Result "1-0"] 
+[WhiteElo "2546"] 
+[BlackElo "2208"] 
+[ECO "B07"] 
+[EventDate "2003.06.06"] 
+ 
+1.e4 d6 2.Nc3 c6 3.f4 e5 4.Nf3 Nd7 5.d4 exd4 6.Nxd4 Ngf6 7.Be2 Nc5 8.Bf3  
+Ng4 9.O-O Qh4 10.h3 h5 11.b4 Qg3 12.hxg4 hxg4 13.bxc5 dxc5 14.Nf5 Qh2+ 15. 
+Kf2 gxf3 16.Qxf3 Bxf5 17.exf5 O-O-O 18.Be3 Qh4+ 19.Qg3 Qf6 20.Ne2 Qxf5 21. 
+Qg5 Qxc2 22.Rac1 Qxa2 23.Ra1 Qd5 24.Rxa7 f6 25.Qxd5 cxd5 26.Rb1 Rd7 27.f5  
+Kb8 28.Rba1 Kc7 29.Ra8 Kc6 30.Nf4 d4 31.Bc1 c4 32.Ne6 Kd5 33.R1a5+ 1-0 
+ 
+[Event "BL2-West 0203"] 
+[Site "GER"] 
+[Date "2002.11.17"] 
+[Round "2.8"] 
+[White "Meyer, Falko"] 
+[Black "Burkart, Patrick"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2344"] 
+[BlackElo "2366"] 
+[ECO "B07"] 
+ 
+1.e4 d6 2.Nc3 c6 3.f4 g6 4.d4 d5 5.e5 h5 6.g3 Bg4 7.Qd2 h4 8.h3 hxg3 9.Bg2 
+Bh5 10.Nce2 Bxe2 11.Nxe2 e6 12.O-O Nh6 13.Nxg3 Be7 14.b3 Na6 15.c4 Nc7 16. 
+Qd3 Qd7 17.a4 a5 18.Bd2 Bh4 19.Ne2 Nf5 20.Be1 Bxe1 21.Rfxe1 Na6 22.c5 Nb4  
+23.Qc3 Qe7 24.Rf1 Kd7 25.Ng3 Nh4 26.Nh1 Rh5 27.Nf2 Nxg2 28.Kxg2 Rah8 29. 
+Ng4 Kc7 30.Rf3 Qh4 31.Rd1 Qe7 32.Qe3 Rh4 33.Qf2 Qf8 34.Rd2 Qg7 35.Rg3 Qh7  
+36.Qf3 Qh5 37.Ne3 Qh6 38.Ng4 Qh5 39.Ne3 Qh6 40.Ng4 Qh5 1/2-1/2 
+ 
+[Event "Open"] 
+[Site "Padron ESP"] 
+[Date "2002.08.29"] 
+[Round "8"] 
+[White "Garcia Castro, Pablo"] 
+[Black "Barlov, Dragan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2353"] 
+[BlackElo "2422"] 
+[ECO "B07"] 
+[EventDate "2002.08.22"] 
+ 
+1.e4 d6 2.Nc3 c6 3.g3 d5 4.d3 e5 5.Qe2 Bb4 6.exd5 Ne7 7.d6 Bxd6 8.Nf3 Bg4  
+9.h3 1/2-1/2 
+ 
+[Event "Open"] 
+[Site "New York, NY USA"] 
+[Date "2000.05.10"] 
+[Round "8"] 
+[White "Koenig, David E"] 
+[Black "Gonzales, Jayson"] 
+[Result "1-0"] 
+[WhiteElo "2236"] 
+[BlackElo "2411"] 
+[ECO "B07"] 
+[EventDate "2000.05.05"] 
+ 
+1.e4 d6 2.Nc3 c6 3.d4 Nf6 4.f4 Qa5 5.Bd3 e5 6.dxe5 dxe5 7.f5 b5 8.Qe2 Na6  
+9.Nf3 b4 10.Nd1 b3+ 11.Bd2 Qxa2 12.Rxa2 bxa2 13.Bxa6 a1=Q 14.Bxc8 Rxc8 15. 
+Qc4 Bd6 16.O-O O-O 17.Bc3 Qc1 18.Nd2 Qxc2 19.Ne3 Bc5 20.Qxc5 Qd3 21.Nec4  
+Nd7 22.Qxa7 Ra8 23.Qc7 Rfc8 24.Qd6 Qxd6 25.Nxd6 Rc7 26.f6 Nxf6 27.Bxe5 Ng4 
+28.Bf4 Rca7 29.h3 Nf6 30.Be5 Nd7 31.Bc3 Ra1 32.Nf5 Rxf1+ 33.Kxf1 f6 34. 
+Ne7+ Kf7 35.Nxc6 Nc5 36.Ke2 Ke6 37.Ke3 Ra1 38.Nd4+ Kd7 39.N2b3 Nxb3 40. 
+Nxb3 Rb1 41.Nd4 Rg1 42.Kf2 Rc1 43.Nf5 g6 44.Ne3 Ke6 45.Ke2 Rb1 46.Kf2 Rc1  
+47.g4 1-0 

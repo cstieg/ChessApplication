@@ -1,0 +1,14 @@
+ 
+[Event "46. Capablanca Memorial Open B"] 
+[Site "Havana CUB"] 
+[Date "2011.05.18"] 
+[Round "7.4"] 
+[White "Gonzalez Parra, Harold Manuel"] 
+[Black "Aguilera Rodriguez, Alfredo R"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2250"] 
+[BlackElo "2242"] 
+[ECO "B02"] 
+[EventDate "2011.05.11"] 
+ 
+1.e4 Nf6 2.Nc3 g6 3.g3 Bg7 4.Bg2 O-O 5.Nf3 c6 6.d4 d5 1/2-1/2 

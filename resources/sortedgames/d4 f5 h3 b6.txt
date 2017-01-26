@@ -1,0 +1,42 @@
+ 
+[Event "TCh-LTU 2014"] 
+[Site "Lithuania LTU"] 
+[Date "2014.02.09"] 
+[Round "5.1"] 
+[White "Vedrickas, Tautvydas"] 
+[Black "Narmontas, Matas"] 
+[Result "0-1"] 
+[WhiteElo "2347"] 
+[BlackElo "2417"] 
+[ECO "A80"] 
+[EventDate "2014.01.25"] 
+ 
+1.d4 f5 2.h3 b6 3.Nf3 Bb7 4.Bf4 Nf6 5.e3 e6 6.Nbd2 Be7 7.Bd3 Ne4 8.c4 O-O  
+9.Qc2 Nxd2 10.Kxd2 Kh8 11.Rad1 d6 12.Kc1 Nd7 13.Bh2 Qe8 14.Rhe1 Nf6 15.d5  
+exd5 16.Bxf5 Ne4 17.cxd5 Rxf5 18.Qxe4 Qf7 19.Qc2 Rxd5 20.Rxd5 Bxd5 21.b3  
+Be6 22.Nd4 Bd7 23.g4 Rf8 24.f4 c5 25.Nf3 c4 26.b4 a5 27.bxa5 Qd5 28.e4  
+Qxa5 29.Re3 Qc5 30.Kd2 b5 31.Ke2 Bd8 32.e5 Bb6 33.Bg1 Qd5 34.Ng5 g6 35.e6  
+Bxe3 36.Qc3+ Kg8 37.Qxe3 Bc6 38.Nf7 Rxf7 39.exf7+ Kxf7 40.Bf2 b4 41.Bh4  
+Qe4 42.Qxe4 Bxe4 43.Be1 c3 44.a4 Ke6 45.Ke3 Kd5 46.f5 Kc4 0-1 
+ 
+[Event "St. Petersburg RUS, Chigorin Memorial 04"] 
+[Site "St Petersburg RUS"] 
+[Date "2004.10.20"] 
+[Round "5.61"] 
+[White "Pliasunov, Aleksej"] 
+[Black "Pogosian, Vladimir"] 
+[Result "1-0"] 
+[WhiteElo "2390"] 
+[BlackElo "2203"] 
+[ECO "A80"] 
+[EventDate "2004.10.15"] 
+ 
+1.d4 f5 2.h3 b6 3.g4 Bb7 4.d5 e6 5.c4 exd5 6.cxd5 Bb4+ 7.Nc3 Nf6 8.Bg2 Ne4 
+9.Qd4 Bxc3+ 10.bxc3 Qf6 11.gxf5 Nxc3 12.Qe3+ Kf7 13.Bb2 Nd1 14.Qe6+ dxe6  
+15.fxe6+ Kg6 16.Be4+ Kg5 17.Bxf6+ gxf6 18.Rxd1 f5 19.Bf3 Na6 20.h4+ Kf6  
+21.Nh3 Nb4 22.Ng5 Nxa2 23.Nf7 Rhg8 24.Rd4 Nc3 25.Rh3 Ne4 26.Bxe4 fxe4 27. 
+Rc3 Rac8 28.Ng5 h6 29.Nxe4+ Ke5 30.Rcd3 Ba6 31.f4+ Kxf4 32.Nc5+ Ke5 33. 
+Re4+ Kd6 34.Nxa6 Rg1+ 35.Kd2 Ra1 36.Nb4 Ra4 37.e7 Kd7 38.Rdd4 Re8 39.Nc6  
+Ra2+ 40.Ke1 a5 41.Rf4 b5 42.Rf8 Rxe7 43.Nxe7 Kxe7 44.Rb8 b4 45.Ra8 Ra3 46. 
+Ra6 Ra1+ 47.Rd1 Ra2 48.Rb1 Ra3 49.Kd2 b3 50.Kc3 a4 51.Kb4 Ra2 52.Rxa4 Rxe2 
+53.Rxb3 1-0 

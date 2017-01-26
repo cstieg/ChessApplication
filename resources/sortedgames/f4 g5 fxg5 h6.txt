@@ -1,0 +1,39 @@
+ 
+[Event "ch-Men 2013"] 
+[Site "Bishkek KGZ"] 
+[Date "2013.05.12"] 
+[Round "4"] 
+[White "Umarbekov, Aziz"] 
+[Black "Markov, M KGZ."] 
+[Result "1-0"] 
+[WhiteElo "2234"] 
+[BlackElo "2276"] 
+[ECO "A02"] 
+[EventDate "2013.05.09"] 
+ 
+1.f4 g5 2.fxg5 h6 3.gxh6 Nxh6 4.e4 e5 5.d3 Bc5 6.Bxh6 Bxg1 7.Rxg1 Rxh6 8. 
+h3 Qg5 9.Qd2 Qg3+ 10.Qf2 Qg5 11.Nd2 Rf6 12.Nf3 Qf4 13.Be2 Nc6 14.Qh4 Qxh4+ 
+15.Nxh4 d6 16.Kd2 Be6 17.Raf1 Rxf1 18.Rxf1 Ke7 19.Nf5+ Bxf5 20.Rxf5 Rg8  
+21.Rf2 Rg3 22.Bg4 Nd4 23.Ke1 Ne6 24.Kf1 c6 25.Rf3 Rxf3+ 26.Bxf3 f6 27.Ke2  
+c5 28.Bg4 Nc7 29.Bc8 b6 30.Kf3 Kf7 31.Kg4 d5 32.Bb7 dxe4 33.Bxe4 Ne8 34. 
+Kh5 Ng7+ 35.Kg4 Ne8 36.Kf3 Nd6 37.g4 Kg7 38.h4 Kh6 39.Ke3 Nf7 40.Bd5 Nd6  
+41.Be6 Kg6 42.c3 Kh6 43.d4 cxd4+ 44.cxd4 Kg6 45.Bf5+ Kh6 46.Bd3 e4 47.Bxe4 
+Nc4+ 48.Kf4 Nxb2 49.Kf5 Kg7 50.h5 1-0 
+ 
+[Event "ACP Blitz Prelim3"] 
+[Site "playchess.com INT"] 
+[Date "2004.04.14"] 
+[Round "16"] 
+[White "Nielsen, Peter Heine"] 
+[Black "Raetsky, Alexander"] 
+[Result "1-0"] 
+[WhiteElo "2628"] 
+[BlackElo "2393"] 
+[ECO "A02"] 
+[EventDate "2004.04.14"] 
+ 
+1.f4 g5 2.fxg5 h6 3.g6 fxg6 4.e4 Nc6 5.Nf3 Bg7 6.d4 d6 7.c3 Bg4 8.Be2 e5  
+9.d5 Nce7 10.O-O Nf6 11.Be3 Qd7 12.h3 Bxf3 13.Bxf3 O-O 14.c4 Rf7 15.Nc3  
+Raf8 16.Bg4 Nxg4 17.Qxg4 Qxg4 18.hxg4 a6 19.c5 Kh7 20.b4 g5 21.a4 Ng6 22. 
+b5 Nf4 23.c6 axb5 24.axb5 b6 25.g3 Nd3 26.Rxf7 Rxf7 27.Rf1 Kg6 28.Rxf7  
+Kxf7 29.Bxb6 1-0 

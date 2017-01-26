@@ -1,0 +1,40 @@
+ 
+[Event "3. Corporation Cup A"] 
+[Site "Izhevsk RUS"] 
+[Date "2011.07.19"] 
+[Round "5"] 
+[White "Nugumanov, Bakhtiyar"] 
+[Black "Terentjev, Vladislav"] 
+[Result "0-1"] 
+[WhiteElo "2210"] 
+[BlackElo "2388"] 
+[ECO "B02"] 
+[EventDate "2011.07.15"] 
+ 
+1.e4 Nf6 2.Qe2 c5 3.e5 Nd5 4.Nc3 Nc7 5.Ne4 Ne6 6.Qe3 b6 7.f4 g6 8.Nf3 Bg7  
+9.c3 O-O 10.d4 d5 11.Nf2 Nc6 12.g3 Qc7 13.Bd2 f6 14.Nd3 fxe5 15.Ndxe5 Nxe5 
+16.dxe5 Qc6 17.Bg2 Ba6 18.Rc1 Rad8 19.Kf2 g5 20.Bh3 gxf4 21.Bxe6+ Qxe6 22. 
+gxf4 Rf5 23.Rhg1 Kh8 24.Rg3 Bh6 25.Rg4 Rdf8 26.Rcg1 Bxf4 27.Rxf4 Rxf4 28. 
+Qxf4 Rxf4 29.Bxf4 Bd3 30.Ng5 Qf5 31.Kg3 Be2 32.Rg2 Qg4+ 33.Kf2 Qxf4+ 34. 
+Kxe2 Qxe5+ 35.Kd2 Qf4+ 36.Ke2 h6 37.Nf3 e5 38.Rf2 e4 39.Nd2 Qg4+ 40.Ke3  
+Qg5+ 41.Rf4 Qg1+ 0-1 
+ 
+[Event "Izhevsk RUS, 3. Corporation Cup"] 
+[Site "Izhevsk RUS"] 
+[Date "2011.07.19"] 
+[Round "5"] 
+[White "Nugumanov, Bakhtiyar"] 
+[Black "Petrosian, Tigran L"] 
+[Result "0-1"] 
+[WhiteElo "2210"] 
+[BlackElo "2388"] 
+[ECO "B02"] 
+[EventDate "2011.07.15"] 
+ 
+1.e4 Nf6 2.Qe2 c5 3.e5 Nd5 4.Nc3 Nc7 5.Ne4 Ne6 6.Qe3 b6 7.f4 g6 8.Nf3 Bg7  
+9.c3 O-O 10.d4 d5 11.Nf2 Nc6 12.g3 Qc7 13.Bd2 f6 14.Nd3 fxe5 15.Ndxe5 Nxe5 
+16.dxe5 Qc6 17.Bg2 Ba6 18.Rc1 Rad8 19.Kf2 g5 20.Bh3 gxf4 21.Bxe6+ Qxe6 22. 
+gxf4 Rf5 23.Rhg1 Kh8 24.Rg3 Bh6 25.Rg4 Rdf8 26.Rcg1 Bxf4 27.Rxf4 Rxf4 28. 
+Qxf4 Rxf4 29.Bxf4 Bd3 30.Ng5 Qf5 31.Kg3 Be2 32.Rg2 Qg4+ 33.Kf2 Qxf4+ 34. 
+Kxe2 Qxe5+ 35.Kd2 Qf4+ 36.Ke2 h6 37.Nf3 e5 38.Rf2 e4 39.Nd2 Qg4+ 40.Ke3  
+Qg5+ 41.Rf4 Qg1+ 0-1 

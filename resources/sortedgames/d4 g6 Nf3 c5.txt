@@ -1,0 +1,37 @@
+ 
+[Event "I Liga Seniorow"] 
+[Site "Ustron POL"] 
+[Date "2008.09.07"] 
+[Round "2"] 
+[White "Krainski, Aleksander"] 
+[Black "Stysiak, Szymon"] 
+[Result "1-0"] 
+[WhiteElo "2269"] 
+[BlackElo "2275"] 
+[ECO "A40"] 
+[EventDate "2008.09.06"] 
+ 
+1.d4 g6 2.Nf3 c5 3.e3 Bg7 4.Be2 Nf6 5.O-O O-O 6.c4 cxd4 7.exd4 d5 8.Nc3  
+Nc6 9.h3 dxc4 10.Bxc4 Na5 11.Bd3 Be6 12.Re1 Rc8 13.Qe2 Re8 14.Be3 Bc4 15. 
+Bxc4 Nxc4 16.Ne5 Nb6 17.Qb5 Nfd5 18.Qb3 e6 19.Ne4 Nxe3 20.fxe3 Qd5 21.Qxd5 
+exd5 22.Nd6 Bxe5 23.dxe5 Rxe5 24.Nxc8 Nxc8 25.Rac1 Nd6 26.Rc5 b6 27.Rc3 f5 
+28.Kf1 Ne4 29.Rc7 Nd2+ 30.Kf2 Ne4+ 31.Kg1 Nd2 32.Rxa7 Nc4 33.Rc1 Re8 34.b3 
+Nxe3 35.Rcc7 f4 36.Rg7+ 1-0 
+ 
+[Event "3. ch-GER Internet Blitz Candidates"] 
+[Site "playchess INT"] 
+[Date "2005.04.02"] 
+[Round "13"] 
+[White "Heinzel, Olaf"] 
+[Black "Schunk, Thomas"] 
+[Result "1-0"] 
+[WhiteElo "2402"] 
+[BlackElo "2280"] 
+[ECO "A40"] 
+[EventDate "2005.04.02"] 
+ 
+1.d4 g6 2.Nf3 c5 3.c3 cxd4 4.cxd4 d5 5.Bf4 Nc6 6.e3 Bg7 7.Bd3 Nf6 8.O-O  
+Bg4 9.Qb3 Bxf3 10.gxf3 Qd7 11.Nc3 O-O 12.Rac1 Rac8 13.Rfd1 h5 14.Bf1 h4  
+15.h3 Qf5 16.Qxb7 g5 17.Bh2 Qxf3 18.Bg2 Qf5 19.Nxd5 Nxd5 20.Rxc6 Rxc6 21. 
+Qxc6 Nb4 22.Qc5 Qxc5 23.dxc5 Bxb2 24.c6 e5 25.Rb1 Bc3 26.Rb3 Nxa2 27.c7  
+Ba5 28.Bxe5 f6 29.Rb8 Bxc7 30.Bxc7 Rxb8 31.Bxb8 a5 32.Bd5+ Kf8 33.Bxa2 1-0 

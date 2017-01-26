@@ -1,0 +1,16 @@
+ 
+[Event "15. Belisce Metalis Open"] 
+[Site "Bizovac CRO"] 
+[Date "2008.03.21"] 
+[Round "2"] 
+[White "Stevic, Hrvoje"] 
+[Black "Buric, Danijel"] 
+[Result "1-0"] 
+[WhiteElo "2531"] 
+[BlackElo "2209"] 
+[ECO "B00"] 
+[EventDate "2008.03.21"] 
+ 
+1.e4 b6 2.d4 a5 3.Nf3 Ba6 4.c4 e6 5.Bd3 Bb4+ 6.Nc3 d5 7.exd5 exd5 8.O-O  
+Ne7 9.Nxd5 Nxd5 10.cxd5 O-O 11.Bxa6 Rxa6 12.a3 Be7 13.Re1 Bf6 14.Qb3 a4  
+15.Qc4 Ra5 16.Bf4 Na6 17.d6 cxd6 18.Bd2 1-0 

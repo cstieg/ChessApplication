@@ -1,0 +1,87 @@
+ 
+[Event "17. Sants Open 2015"] 
+[Site "Barcelona ESP"] 
+[Date "2015.08.30"] 
+[Round "10.14"] 
+[White "Narciso Dublan, Marc"] 
+[Black "Mullon, Jean-Baptiste"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2532"] 
+[BlackElo "2402"] 
+[ECO "B21"] 
+[EventDate "2015.08.21"] 
+ 
+1.e4 e6 2.f4 c5 3.Nf3 Nc6 4.Bb5 Nge7 5.O-O a6 6.Be2 d5 7.d3 b6 8.c3 g6 9. 
+Na3 Bg7 10.e5 O-O 11.d4 cxd4 12.cxd4 Bb7 13.Nc2 Qd7 14.Be3 Na5 15.Bf2 Rfc8 
+16.g4 Bc6 17.Bh4 Bf8 18.Nfe1 Rc7 19.Rf3 Bb5 20.Nd3 Rac8 21.Na3 Ba4 22.b3  
+Nec6 23.Nc2 Bb5 24.Rb1 Na7 25.Rb2 Bxd3 26.Bxd3 Nb5 27.Rf1 Na3 28.Ne1 Nc6  
+29.Bxa6 Ra8 30.Bd3 Nxd4 31.Bf2 Ndb5 32.Bxb6 Rc6 33.Be3 Rac8 34.Nf3 d4 35. 
+Bd2 Nc3 36.Qe1 Nd5 37.Ng5 Ne3 38.Qh4 h6 39.Ne4 Bg7 40.Nf6+ Bxf6 41.exf6  
+Qd8 42.Bb4 Nac2 43.Rxc2 Rxc2 44.Bxc2 Rxc2 45.Qxh6 Qxf6 46.Qf8+ Kh7 47.Be7  
+Qg7 48.Qd8 Nxg4 49.Rf3 Rc1+ 50.Kg2 Rc2+ 51.Kg1 Qh6 52.h3 Rc1+ 53.Kg2 Rc2+  
+54.Kg1 Ne5 55.Rf2 Nc6 56.Qe8 Rc1+ 57.Kg2 Nxe7 58.Qxe7 Qg7 59.Rd2 d3 60. 
+Qh4+ Kg8 61.Qd8+ Kh7 62.Qh4+ Kg8 63.Qd8+ Kh7 64.Qh4+ Kg8 65.Qd8+ 1/2-1/2 
+ 
+[Event "17. Battle of Senta"] 
+[Site "Senta SRB"] 
+[Date "2013.07.14"] 
+[Round "2.3"] 
+[White "Drazic, Sinisa"] 
+[Black "Stanojevic, Branko"] 
+[Result "1-0"] 
+[WhiteElo "2464"] 
+[BlackElo "2302"] 
+[ECO "B21"] 
+[EventDate "2013.07.13"] 
+ 
+1.e4 e6 2.f4 c5 3.Nf3 Nc6 4.Bb5 Qc7 5.Bxc6 Qxc6 6.Nc3 Nf6 7.Qe2 Be7 8.d3  
+b5 9.Bd2 Bb7 10.O-O b4 11.Nd1 d5 12.exd5 Nxd5 13.Ne5 Qc7 14.Nf2 Bf6 15.Ne4 
+Bxe5 16.fxe5 O-O 17.Qh5 Ne7 18.Nf6+ gxf6 19.exf6 Qc6 20.Rf3 Kh8 21.fxe7  
+Rg8 22.Qe5+ 1-0 
+ 
+[Event "3. All-China Games"] 
+[Site "Suzhou CHN"] 
+[Date "2006.05.26"] 
+[Round "11"] 
+[White "Du, Shan"] 
+[Black "Huang, Qian"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2399"] 
+[BlackElo "2391"] 
+[ECO "B21"] 
+[EventDate "2006.05.20"] 
+ 
+1.e4 e6 2.f4 c5 3.Nf3 Nc6 4.Bb5 Nge7 5.O-O a6 6.Bxc6 Nxc6 7.d3 d6 8.c3 Be7 
+9.d4 d5 10.e5 Qb6 11.b3 Bd7 12.Be3 Rc8 13.Nbd2 cxd4 14.Nxd4 Nxd4 15.Bxd4  
+Bc5 16.Nf3 Bxd4+ 17.Qxd4 Qxd4+ 18.cxd4 Ke7 19.Rac1 f5 20.Kf2 h6 21.h4 Rhd8 
+22.Ke3 Be8 23.Kd2 Bh5 24.Rxc8 Rxc8 25.Ne1 Be8 26.Rf3 a5 27.Nc2 Rc7 28.g3  
+Kd8 29.Rc3 Re7 30.Ne3 Bd7 31.Ke2 Rf7 32.Kf3 Rf8 33.Rc2 Be8 34.Rc5 b6 35. 
+Rc2 Kd7 36.Rc1 Bf7 37.Rc2 Be8 38.Rc1 Bh5+ 39.Kf2 Ra8 40.a3 Rg8 41.Rc2 Rf8  
+42.Rc1 Be8 43.Kf3 Kd8 44.Rc2 Bb5 45.Rc3 Rf7 46.Nc2 Rb7 47.Kf2 Be8 48.Ne3  
+Rf7 49.Kf3 Rf8 50.Nc2 Rf7 51.Kf2 Ra7 52.Ne3 Rf7 53.Kf3 Rf8 54.Rc1 Bh5+ 55. 
+Kf2 Be8 56.Nd1 Rf7 57.Ne3 Ra7 58.Kf3 Bh5+ 59.Kf2 Be8 60.Rc3 Rb7 61.Nc2 Ra7 
+62.Kf3 Bh5+ 63.Kf2 Be8 64.Ne3 Rb7 65.Kg2 Ra7 66.Kf3 Bh5+ 67.g4 fxg4+ 68. 
+Nxg4 Rc7 69.Rxc7 Kxc7 70.Kg3 Bg6 71.Ne3 Bf5 72.Kf3 Kd7 73.Ke2 Be4 74.Kd2  
+Kc7 75.Kc3 Kc6 76.Nf1 Bg6 77.Ng3 Kd7 78.b4 Kc6 79.Kb3 Kc7 80.Nf1 Kb7 81. 
+Ne3 Kc6 82.Ka4 axb4 83.Kxb4 Bd3 84.a4 Be4 85.Nf1 Bd3 86.Nd2 Kd7 87.Nb3 Ke7 
+88.a5 bxa5+ 89.Kxa5 Kf7 90.Nc5 Bf5 91.Kb6 Ke7 92.Kc7 Bc2 93.Na6 Ba4 94.Nb4 
+Ke8 95.Kd6 Kf7 96.f5 exf5 97.e6+ Kf8 98.Ke5 Bb3 99.Kxf5 Ke7 100.Ke5 g5  
+101.hxg5 hxg5 102.Nc6+ Ke8 103.Kf5 Ba4 104.Nb4 Ke7 105.Nxd5+ Kd6 106.Ne3  
+g4 107.Ng2 g3 108.Kf6 Kd5 1/2-1/2 
+ 
+[Event "It (a)"] 
+[Site "Serpukhov"] 
+[Date "2002.??.??"] 
+[Round "5"] 
+[White "Komliakov, Viktor"] 
+[Black "Kim, Alexey"] 
+[Result "1-0"] 
+[WhiteElo "2458"] 
+[BlackElo "2414"] 
+[ECO "B21"] 
+ 
+1.e4 e6 2.f4 c5 3.Nf3 Qc7 4.d4 cxd4 5.Nxd4 a6 6.Bd3 d6 7.O-O Nf6 8.Kh1  
+Nbd7 9.Nb3 b6 10.c4 Bb7 11.Nc3 Be7 12.Qe2 O-O 13.Bd2 Rad8 14.Rae1 Qb8 15. 
+Rf3 Qa8 16.Rh3 g6 17.Kg1 Ne8 18.Nd1 b5 19.cxb5 axb5 20.Bxb5 Nc5 21.Nxc5  
+dxc5 22.Nf2 Nd6 23.Bc3 Qxa2 24.Ng4 f6 25.Bd3 c4 26.Bb1 Qa6 27.Nh6+ Kg7 28. 
+e5 Ne8 29.f5 Qb6+ 30.Kh1 Qc6 31.fxg6 hxg6 32.exf6+ Bxf6 33.Rg3 1-0 

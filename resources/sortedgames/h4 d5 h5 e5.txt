@@ -1,0 +1,81 @@
+ 
+[Event "European Blitz 2015"] 
+[Site "Minsk BLR"] 
+[Date "2015.12.18"] 
+[Round "5.28"] 
+[White "Vovk, Orest"] 
+[Black "Zubritskiy, Artyom"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2279"] 
+[BlackElo "2422"] 
+[ECO "A00"] 
+[EventDate "2015.12.18"] 
+ 
+1.h4 d5 2.h5 e5 3.h6 Nxh6 4.d4 e4 5.Bxh6 gxh6 6.e3 c6 7.c4 Nd7 8.Nc3 Nf6  
+9.Qb3 a6 10.a4 Bg7 11.Nh3 O-O 12.Nf4 Be6 13.c5 Qc7 14.a5 Rae8 15.Be2 Bc8  
+16.Qb6 Qe7 17.O-O-O Nd7 18.Qc7 Qd8 19.Qxd8 Rxd8 20.Rh4 Nf6 21.Rdh1 Rde8  
+22.Kd2 Bd7 23.Na4 Kh8 24.Nb6 Bf5 25.Ra1 Re7 26.Rah1 Rg8 27.g3 Bg6 28.Nh5  
+Nxh5 29.Bxh5 Rf8 30.Bg4 f5 31.Be2 Ref7 32.Na4 Re7 33.Nb6 Ref7 34.Na4 Re7  
+35.R4h2 Ref7 36.Nc3 Rf6 37.Rh4 1/2-1/2 
+ 
+[Event "European Blitz 2015"] 
+[Site "Minsk BLR"] 
+[Date "2015.12.18"] 
+[Round "17.41"] 
+[White "Vovk, Orest"] 
+[Black "Potapov, Pavel"] 
+[Result "1-0"] 
+[WhiteElo "2279"] 
+[BlackElo "2476"] 
+[ECO "A00"] 
+[EventDate "2015.12.18"] 
+ 
+1.h4 d5 2.h5 e5 3.h6 g6 4.d4 e4 5.c4 c6 6.Nc3 Be6 7.Qb3 Qb6 8.c5 Qxb3 9. 
+axb3 Na6 10.Ra4 Nc7 11.Bf4 Kd7 12.e3 f6 13.b4 g5 14.Bxc7 Kxc7 15.b5 Nxh6  
+16.b4 Bg7 17.bxc6 bxc6 18.b5 Bd7 19.bxc6 Bxc6 20.Bb5 a5 21.Nge2 Rhb8 22. 
+Bxc6 Kxc6 23.O-O Rb4 24.Rfa1 Rxa4 25.Nxa4 f5 26.Rb1 Kc7 27.Nec3 Rd8 28.Nb6 
+Kc6 29.Nba4 f4 30.Rb6+ Kc7 31.Nb5+ Kd7 32.Rb7+ Kc6 33.Rb6+ Kd7 34.c6+ Ke7  
+35.Rb7+ Kf6 36.c7 Rc8 37.Nd6 1-0 
+ 
+[Event "Chigorin Mem Blitz 2014"] 
+[Site "St Petersburg RUS"] 
+[Date "2014.10.17"] 
+[Round "8.9"] 
+[White "Dzhumagaliev, Yan"] 
+[Black "Alekseev, Evgeny"] 
+[Result "0-1"] 
+[WhiteElo "2415"] 
+[BlackElo "2682"] 
+[ECO "A00"] 
+[EventDate "2014.10.17"] 
+ 
+1.h4 d5 2.h5 e5 3.c3 h6 4.d4 Nc6 5.dxe5 Nxe5 6.Bf4 Nc4 7.e4 Nb6 8.e5 Ne7  
+9.Nd2 c5 10.a4 Be6 11.a5 Nd7 12.a6 b6 13.Bb5 Qc7 14.Ngf3 Nc6 15.c4 O-O-O  
+16.Qa4 Nb4 17.O-O Nb8 18.cxd5 Bxd5 19.Bg3 N8c6 20.Nc4 Bxf3 21.gxf3 Nd4 22. 
+e6 Ne2+ 23.Kg2 Nxg3 24.Bd7+ Kb8 25.fxg3 fxe6 26.Rfd1 Be7 27.Rac1 Bf6 28. 
+Qb5 Bd4 29.Rxd4 cxd4 30.Ne5 Qxc1 31.Qxb4 Qc5 32.Qe1 Kc7 33.Ba4 d3 34.Bd1  
+d2 35.Qe4 Rd5 36.Ng6 Re8 37.Qf4+ Qd6 38.Qf7+ Qd7 39.Qf4+ Qd6 40.Qf7+ Qd7  
+41.Qf4+ e5 42.Qc4+ Rc5 43.Qe4 Qc6 44.Qf5 Rc1 45.Qf7+ Qd7 46.Qb3 Qe6 47.Qa4 
+Rd8 48.Qe4 Qc6 49.Qxe5+ Qd6 50.Qxg7+ Rd7 51.Qg8 Rxd1 52.Qc4+ Qc5 53.Qf4+  
+Qd6 54.Qc4+ Qc6 55.Qf4+ Qd6 56.Qc4+ Kd8 57.Qg8+ Kc7 58.Qc4+ Qc5 59.Qf4+  
+Rd6 60.Qf7+ Rd7 61.Qf4+ Kc8 62.Qe4 Rg1+ 63.Kh3 Rh1+ 64.Kg4 Rd4 65.Ne7+ Kd7 
+0-1 
+ 
+[Event "ch-Moscow S/F 2012"] 
+[Site "Moscow RUS"] 
+[Date "2012.03.01"] 
+[Round "5"] 
+[White "Omariev, Maksim"] 
+[Black "Burger, Konstantin"] 
+[Result "1-0"] 
+[WhiteElo "2348"] 
+[BlackElo "2214"] 
+[ECO "A00"] 
+[EventDate "2012.02.26"] 
+ 
+1.h4 d5 2.h5 e5 3.c3 c5 4.d4 cxd4 5.cxd4 e4 6.Nc3 Nc6 7.Bf4 Nf6 8.e3 Qb6  
+9.Qd2 Be6 10.h6 g6 11.Be2 Nd7 12.f3 f5 13.Nh3 Be7 14.Ng5 Bxg5 15.Bxg5 O-O  
+16.O-O-O Rac8 17.Kb1 Qa5 18.Rc1 Nb6 19.Rhd1 a6 20.Qc2 Rf7 21.Bf4 Rd7 22.a3 
+Ne7 23.Qd2 Nc6 24.Qc2 Rdd8 25.Qb3 Re8 26.Bd6 exf3 27.gxf3 Nc4 28.Qxb7  
+Nxa3+ 29.Bxa3 Bf7 30.Qxa6 Qd8 31.Qd3 Na5 32.e4 dxe4 33.fxe4 Nb3 34.Rc2 Qh4 
+35.Nd5 Rxc2 36.Kxc2 Na5 37.Ne7+ Kh8 38.d5 1-0 

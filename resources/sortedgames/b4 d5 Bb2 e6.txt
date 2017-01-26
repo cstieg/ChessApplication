@@ -1,0 +1,85 @@
+ 
+[Event "8. Vladimir Dvorkovich Open"] 
+[Site "Taganrog RUS"] 
+[Date "2013.07.28"] 
+[Round "7.11"] 
+[White "Poley, Vladimir"] 
+[Black "Sukhareva, Evgeniya"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2326"] 
+[BlackElo "2248"] 
+[ECO "A00"] 
+[EventDate "2013.07.22"] 
+ 
+1.b4 d5 2.Bb2 e6 3.e3 Nf6 4.a3 a5 5.b5 c5 6.bxc6 bxc6 7.Nf3 Nbd7 8.Be2 Rb8 
+9.Qc1 Qb6 10.Ra2 e5 11.O-O Bd6 12.d4 e4 13.Nfd2 Qc7 14.h3 O-O 15.c4 Qd8  
+16.cxd5 cxd5 17.Nc3 Rb6 18.Na4 Rb8 19.Bc3 Re8 20.Qc2 Nf8 21.Nb3 Bxh3 22. 
+Nxa5 Qd7 23.Nc5 Qc8 24.Nab7 Rxb7 25.Nxb7 Bxg2 26.Kxg2 Qxb7 27.a4 Qd7 28.a5 
+Ng4 29.Qd1 Nh2 30.Rh1 Re6 31.Bh5 Rh6 32.a6 Qf5 33.Rxh2 Bxh2 34.Bg4 Rg6 35. 
+Kxh2 Rxg4 36.Qxg4 Qxg4 37.a7 Qh4+ 38.Kg2 Qg4+ 39.Kf1 Qh3+ 40.Ke1 Qh1+ 41. 
+Kd2 Qb1 42.a8=Q Qd3+ 43.Kc1 Qxc3+ 44.Rc2 Qe1+ 45.Kb2 Qb4+ 46.Ka2 Qd6 47. 
+Rc8 h5 48.Rd8 Qe7 49.Rxd5 g6 50.Re5 Qf6 51.Qxe4 Qxf2+ 52.Ka3 h4 53.Re8 Qf6 
+54.Qa8 Qd6+ 55.Kb3 Kg7 56.Kc4 h3 57.e4 Qc7+ 58.Kd3 Qg3+ 59.Kc4 Qc7+ 60.Kd3 
+Qg3+ 1/2-1/2 
+ 
+[Event "Ladoga Summer"] 
+[Site "Novaya Ladoga RUS"] 
+[Date "2007.07.06"] 
+[Round "2"] 
+[White "Smirnov, Vl2"] 
+[Black "Murashova, Ekaterina"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2251"] 
+[BlackElo "2219"] 
+[ECO "A00"] 
+[EventDate "2007.07.05"] 
+ 
+1.b4 d5 2.Bb2 e6 3.b5 Nf6 4.e3 Be7 5.c4 O-O 6.Nc3 c6 7.Nf3 a6 8.a4 axb5 9. 
+axb5 Rxa1 10.Bxa1 Qa5 11.Be2 cxb5 12.cxb5 Nbd7 13.O-O Nc5 14.d4 Nce4 15. 
+Nxe4 Nxe4 1/2-1/2 
+ 
+[Event "Alushta Puchko Memorial"] 
+[Site "Alushta UKR"] 
+[Date "2002.??.??"] 
+[Round "?"] 
+[White "Shtyrenkov, Veniamen"] 
+[Black "Nalivajko, Evgeny"] 
+[Result "0-1"] 
+[WhiteElo "2474"] 
+[BlackElo "2435"] 
+[ECO "A00"] 
+ 
+1.b4 d5 2.Bb2 e6 3.e3 c6 4.c4 Nf6 5.Qb3 a5 6.b5 a4 7.Qc2 dxc4 8.Bxc4 cxb5  
+9.Bxb5+ Bd7 10.Bxf6 gxf6 11.Nc3 Bxb5 12.Nxb5 Nc6 13.Rb1 Be7 14.Ne2 O-O 15. 
+a3 Qd7 16.Nec3 Rfc8 17.d4 Nb4 18.Qe2 Nd5 19.Nxd5 Qxd5 20.e4 Qc4 21.Qxc4  
+Rxc4 22.Kd2 e5 23.Rhc1 Rxc1 24.Rxc1 Ra5 25.Rb1 exd4 26.Kd3 Bc5 27.Nxd4  
+Bxa3 28.Rxb7 Bd6 29.Rb2 a3 30.Ra2 Ra4 31.Nb5 Bc5 32.f3 Kf8 33.Nc3 Rd4+ 34. 
+Kc2 Ke8 35.Ra1 Rc4 36.Kd3 Rd4+ 37.Kc2 Rc4 38.Kb3 Rd4 39.Rd1 Rb4+ 40.Kxa3  
+Rxe4+ 41.Kb3 Rb4+ 42.Kc2 Rb6 43.Rd5 Rc6 44.Kd3 Bf8 45.Rb5 Rd6+ 46.Ke4 Bg7  
+47.Kf5 Rd2 48.Rb8+ Ke7 49.f4 Rxg2 50.Rb7+ Ke8 51.Ne4 Rxh2 52.Nd6+ Kf8 53. 
+Rxf7+ Kg8 54.Rb7 Rg2 55.Rb8+ Bf8 56.Kxf6 Rg6+ 0-1 
+ 
+[Event "Petroff Mem Open"] 
+[Site "St Petersburg RUS"] 
+[Date "2000.02.12"] 
+[Round "5"] 
+[White "Alekseev, V."] 
+[Black "Ovod, Evgenija"] 
+[Result "1-0"] 
+[WhiteElo "2440"] 
+[BlackElo "2318"] 
+[ECO "A00"] 
+[EventDate "2000.02.05"] 
+ 
+1.b4 d5 2.Bb2 e6 3.b5 Nf6 4.e3 c5 5.Nf3 b6 6.c4 Bb7 7.a4 Nbd7 8.Be2 Qc7 9. 
+O-O Bd6 10.h3 dxc4 11.Na3 Ne5 12.Nxe5 Bxe5 13.Bxe5 Qxe5 14.Nxc4 Qc7 15.a5  
+O-O 16.Ra4 Bd5 17.Qc2 Bxc4 18.Qxc4 Qd6 19.d4 cxd4 20.Qxd4 Qxd4 21.Rxd4  
+Rfd8 22.Rxd8+ Rxd8 23.Rc1 Kf8 24.Rc7 Rd7 25.Rc8+ Ke7 26.axb6 axb6 27.Rb8  
+Nd5 28.Bf3 Kd6 29.Bxd5 exd5 30.Rxb6+ Kc5 31.Rb8 d4 32.exd4+ Kxd4 33.g4 Ke4 
+34.Kg2 Kf4 35.b6 Ke5 36.Ra8 Ke6 37.Rg8 g6 38.Re8+ Kd6 39.Re3 Rb7 40.Rb3 f6 
+41.Kf3 Kd5 42.Kf4 Kc4 43.Rb1 Kd5 44.h4 Kc5 45.g5 fxg5+ 46.hxg5 Kd5 47.Ke3  
+Re7+ 48.Kd3 Rb7 49.Rb2 Kc5 50.Ke4 Kd6 51.Kd4 Kd7 52.Kd5 Kc8 53.Kc6 Re7 54. 
+Rd2 Re8 55.Rd7 Re6+ 56.Rd6 Re8 57.Rf6 Kb8 58.Rf7 Re6+ 59.Kb5 Re2 60.f4 Rh2 
+61.Kc6 Rc2+ 62.Kd6 Rh2 63.Ke6 Rh4 64.Kd6 Rh1 65.Kc6 Rc1+ 66.Kd7 Kb7 67. 
+Rxh7 Kxb6 68.Rh6 Rc7+ 69.Ke8 Kc5 70.Rxg6 Kd5 71.Rf6 Ra7 72.g6 Ra8+ 73.Kf7  
+Ra7+ 74.Kg8 Ra8+ 75.Kg7 1-0 

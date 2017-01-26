@@ -1,0 +1,82 @@
+ 
+[Event "Euwe Stimulans"] 
+[Site "Arnhem NED"] 
+[Date "2007.08.24"] 
+[Round "7"] 
+[White "Rothuis, Vincent"] 
+[Black "Olafsson, Fridrik"] 
+[Result "0-1"] 
+[WhiteElo "2441"] 
+[BlackElo "2452"] 
+[ECO "B06"] 
+[EventDate "2007.08.17"] 
+ 
+1.e4 g6 2.h4 h6 3.f4 Nf6 4.e5 Nh5 5.f5 d6 6.e6 fxe6 7.fxg6 Ng3 8.Rh3 Nxf1  
+9.Qf3 Kd7 10.Qf7 Nc6 11.g7 Bxg7 12.Qxg7 Rg8 13.Qc3 Rxg2 14.Kxf1 Qg8 15.Ne2 
+Rg4 16.d3 b6 17.Bxh6 Bb7 18.Nd2 Nd4 19.Ne4 Nxe2 20.Kxe2 Bxe4 21.dxe4 Rxe4+ 
+22.Kd3 Qg2 23.Qd2 Qxh3+ 24.Kxe4 d5+ 25.Kf4 Qxh4+ 26.Ke5 Qf6# 0-1 
+ 
+[Event "TCh-BEL 2004-5"] 
+[Site "Belgium BEL"] 
+[Date "2004.11.07"] 
+[Round "3"] 
+[White "Wantiez, Fabrice"] 
+[Black "Cacco, Christian"] 
+[Result "0-1"] 
+[WhiteElo "2206"] 
+[BlackElo "2280"] 
+[ECO "B06"] 
+[EventDate "2004.11.01"] 
+ 
+1.e4 g6 2.h4 h6 3.d4 Bg7 4.Nc3 d6 5.Be3 a6 6.Qf3 Nd7 7.O-O-O e6 8.Qg3 h5  
+9.f4 Ne7 10.Nf3 Nf6 11.Ng5 b5 12.a3 d5 13.Bd3 Ng4 14.Be2 Nf6 15.e5 Nf5 16. 
+Qf2 Ng4 17.Bxg4 hxg4 18.Ne2 Bf8 19.Ng3 Bd7 20.Bd2 a5 21.h5 Nxg3 22.Qxg3  
+gxh5 23.Rde1 Rh6 24.Rh4 b4 25.Reh1 f6 26.exf6 Qxf6 27.Qd3 Qf5 28.Qxf5 exf5 
+29.axb4 axb4 30.Kd1 Ra1+ 31.Bc1 Bg7 32.Rxh5 Rxh5 33.Rxh5 Bxd4 34.Kd2 c5  
+35.Rh7 c4 36.c3 bxc3+ 37.bxc3 Ra2+ 38.Kd1 Bxc3 39.Be3 Ba4+ 0-1 
+ 
+[Event "36. Olympiad women"] 
+[Site "Calvia ESP"] 
+[Date "2004.10.18"] 
+[Round "4"] 
+[White "Muzychuk, Anna"] 
+[Black "Foisor, Cristina-Adela"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2383"] 
+[BlackElo "2436"] 
+[ECO "B06"] 
+[EventDate "2004.10.15"] 
+ 
+1.e4 g6 2.h4 h6 3.d4 Bg7 4.Nc3 d6 5.Be3 a6 6.Qd2 Nd7 7.f3 b5 8.a4 b4 9.Nd1 
+a5 10.Bb5 Bb7 11.Ne2 c6 12.Bd3 Qc8 13.Nf2 Ba6 14.Bxa6 Qxa6 15.Rd1 Ngf6 16. 
+b3 Kf8 17.Nd3 Kg8 18.g4 h5 19.g5 Ne8 20.O-O Rc8 21.f4 d5 22.f5 dxe4 23. 
+fxg6 fxg6 24.Ndf4 Nf8 25.Ng3 Nd6 26.Qg2 Qb7 27.Nxe4 Qd7 28.Nxd6 exd6 29.d5 
+c5 30.Qh3 Qxh3 31.Nxh3 Be5 32.Nf4 Rh7 33.Nd3 Nd7 34.Bf4 c4 35.Nxe5 dxe5  
+36.Bh2 Rf7 37.Rfe1 Rf5 38.d6 cxb3 39.cxb3 Rc5 40.Rc1 Rxc1 41.Rxc1 Kf7 42. 
+Kg2 Ke6 43.Rc6 Rf8 44.Bg3 Ra8 45.Kf3 Kd5 46.Rc1 Kxd6 47.Rd1+ Ke6 48.Rc1  
+Kf5 49.Rd1 Rf8 50.Rd5 Ke6+ 51.Ke4 Rc8 52.Rxa5 Nc5+ 53.Ke3 Kf5 54.Rb5 Nd7  
+55.Rxb4 Rc3+ 56.Kf2 Nc5 57.Kg2 Rxb3 58.Rxb3 Nxb3 59.Kf3 Ke6 60.Be1 Kd5 61. 
+Bc3 Nc5 62.a5 Na6 63.Ke3 Nc7 64.Bb4 Na6 65.Bf8 Nc7 66.Kd3 Na6 67.Ke3 Nc7  
+68.Kd3 Na6 69.Ke3 1/2-1/2 
+ 
+[Event "Paris FRA, City Ch 2004"] 
+[Site "Paris FRA"] 
+[Date "2004.??.??"] 
+[Round "1"] 
+[White "Shirazi, Kamran"] 
+[Black "Borzakian, Manouk"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2394"] 
+[BlackElo "2200"] 
+[ECO "B06"] 
+[EventDate "2004.07.03"] 
+ 
+1.e4 g6 2.h4 h6 3.d4 c5 4.dxc5 Bg7 5.c3 Nc6 6.Be3 Nf6 7.Nd2 d6 8.f3 O-O 9. 
+g4 d5 10.g5 hxg5 11.hxg5 Nh5 12.exd5 Qxd5 13.Ne4 Qxd1+ 14.Rxd1 Bf5 15.Ne2  
+Ne5 16.Bg2 Nc4 17.Bc1 Rac8 18.Nd4 Bxe4 19.fxe4 Rxc5 20.Nf5 gxf5 21.Rxh5 f4 
+22.Ke2 Ne3 23.Bxe3 fxe3 24.Rd5 Rxd5 25.exd5 Rd8 26.Kxe3 Rd6 27.Kd3 e6 28. 
+Kc4 b5+ 29.Kb4 exd5 30.g6 d4 31.gxf7+ Kxf7 32.Kc5 Rd8 33.c4 bxc4 34.Kxc4  
+Rc8+ 35.Kd3 Rb8 36.b3 Rc8 37.Ra5 Rc7 38.Bd5+ Ke7 39.Ra6 Rd7 40.Be6 Rc7 41. 
+Bc4 Kd8 42.b4 Re7 43.Be6 Rc7 44.Ke4 Rb7 45.a3 Rb6 46.Rxb6 axb6 47.Bc4 Kc7  
+48.Kd5 Bf6 49.Bd3 Bg7 50.Kc4 Bf6 51.Kb5 Bg5 52.Kc4 Be3 53.a4 Bd2 54.Kb3  
+Bc3 55.Be4 Be1 56.Kc4 Bd2 57.Kxd4 Bxb4 58.a5 Bxa5 1/2-1/2 

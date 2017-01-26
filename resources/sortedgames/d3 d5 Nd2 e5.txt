@@ -1,0 +1,77 @@
+ 
+[Event "1. Radzikowskiej Memorial"] 
+[Site "Warsaw POL"] 
+[Date "2011.08.09"] 
+[Round "5"] 
+[White "Michna, Marta"] 
+[Black "Kochetkova, Julia"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2397"] 
+[BlackElo "2319"] 
+[ECO "A00"] 
+[EventDate "2011.08.06"] 
+ 
+1.d3 d5 2.Nd2 e5 3.Ngf3 Nc6 4.e4 Nge7 5.g3 g6 6.Bg2 Bg7 7.O-O O-O 8.exd5  
+Nxd5 9.Re1 Re8 10.c3 h6 11.a4 Bf5 12.Ne4 Nf6 13.Qc2 Nxe4 14.dxe4 Be6 15. 
+Be3 Qf6 16.h4 Bg4 17.Nh2 Be6 18.Bf3 Na5 19.Be2 Nc4 20.Ng4 Bxg4 21.Bxg4  
+Nxe3 22.Rxe3 h5 23.Be2 Qe6 24.Rf3 Rad8 25.a5 a6 26.Qa4 Re7 27.Bc4 Qg4 28. 
+Kg2 c6 29.Re1 Rd6 30.Qb3 Qd7 31.Ree3 Bf6 32.Rd3 Kg7 33.Qd1 Rxd3 34.Rxd3  
+Qc7 35.b4 Kh7 36.Rd6 Bg7 37.Rd8 c5 38.Qd5 cxb4 39.cxb4 b5 40.Be2 Qc3 41. 
+Ra8 Re6 42.Qb7 Qxb4 43.Rxa6 Rxa6 44.Qxa6 Qxe4+ 45.Bf3 Qe1 46.Qb7 Qxa5 47. 
+Qxf7 Qd8 48.Be4 Qf6 49.Qb7 Kh6 50.Qxb5 Bf8 51.Qd7 Bc5 52.f3 Qe7 53.Qc8 Kg7 
+54.Bd5 Qf8 55.Qe6 Bd4 56.Be4 Qf7 57.Qc6 Qf6 58.Qb5 Qe7 59.Bd5 Ba7 60.Qe2  
+Qc7 61.Qe4 Bd4 62.Qe2 Qc1 63.f4 Qb2 1/2-1/2 
+ 
+[Event "3. Stage Russian Cup"] 
+[Site "Tomsk RUS"] 
+[Date "2002.07.14"] 
+[Round "7"] 
+[White "Panov, I."] 
+[Black "Skatchkov, Pavel"] 
+[Result "0-1"] 
+[WhiteElo "2312"] 
+[BlackElo "2485"] 
+[ECO "A00"] 
+[EventDate "2002.07.08"] 
+ 
+1.d3 d5 2.Nd2 e5 3.g3 Nf6 4.Bg2 Bc5 5.e4 dxe4 6.Nxe4 Nxe4 7.Bxe4 O-O 8.Bg2 
+Nc6 9.Be3 Bd6 10.Ne2 Bg4 11.f3 Bh5 12.O-O f5 13.Qd2 f4 14.Bf2 fxg3 15.Bxg3 
+Qf6 16.Nc3 Nd4 17.Ne4 Qf5 18.Rae1 Nxf3+ 19.Bxf3 Bxf3 20.d4 Be7 21.Re3 Qh5  
+22.Qd3 Bg4 23.Nf2 Bf5 24.Qc4+ Kh8 25.Qxc7 Bg5 26.Rxe5 Bf6 27.Rd5 Qf3 28. 
+Qxb7 Rab8 29.Bxb8 Be4 30.Nxe4 Bxd4+ 31.Rf2 Bxf2+ 0-1 
+ 
+[Event "FIDE GP"] 
+[Site "Dubai UAE"] 
+[Date "2002.04.03"] 
+[Round "1.2"] 
+[White "Belkhodja, Slim"] 
+[Black "Azmaiparashvili, Zurab"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2506"] 
+[BlackElo "2676"] 
+[ECO "A00"] 
+[EventDate "2002.04.03"] 
+ 
+1.d3 d5 2.Nd2 e5 3.Ngf3 Nc6 4.e4 Nf6 5.c3 a5 6.Be2 Bc5 7.O-O O-O 8.Nxe5  
+Nxe5 9.d4 Bb6 10.dxe5 Nxe4 11.Bd3 Bf5 12.Bxe4 dxe4 13.Nc4 Bc5 14.Qh5 Bg6  
+15.Qe2 e3 16.Bxe3 Bd3 17.Qg4 Bxe3 18.Rfd1 Bc5 19.b3 Qd5 20.Qg3 Bxc4  
+1/2-1/2 
+ 
+[Event "St Pauli Open"] 
+[Site "Hamburg GER"] 
+[Date "2011.07.14"] 
+[Round "7.4"] 
+[White "Michna, Marta"] 
+[Black "Reddmann, Hauke Dr"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2397"] 
+[BlackElo "2335"] 
+[ECO "B10"] 
+[EventDate "2011.07.09"] 
+ 
+1.d3 d5 2.Nd2 e5 3.Ngf3 Bd6 4.e4 c6 5.g3 Nf6 6.Bg2 O-O 7.O-O Nbd7 8.Re1  
+Re8 9.h3 Nf8 10.Nh4 Bc5 11.Qf3 Bb6 12.Nf1 dxe4 13.dxe4 Ng6 14.Bg5 Nxh4 15. 
+Bxh4 Be6 16.Ne3 Qe7 17.Ng4 Bxg4 18.hxg4 Qe6 19.g5 Nd7 20.Bf1 Nf8 21.b3 Ng6 
+22.Bc4 Qe7 23.Kg2 Rad8 24.Red1 Ba5 25.a4 Bd2 26.c3 Rf8 27.b4 Rd6 28.Kf1  
+Rfd8 29.Ke2 R6d7 30.Ra2 Nxh4 31.gxh4 Bxg5 32.Rxd7 Qxd7 33.hxg5 Qd1+ 34.Ke3 
+Qc1+ 35.Ke2 Qd1+ 36.Ke3 Qc1+ 1/2-1/2 

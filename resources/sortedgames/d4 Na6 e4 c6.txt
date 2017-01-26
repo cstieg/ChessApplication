@@ -1,0 +1,172 @@
+ 
+[Event "85. ch-GER 2014"] 
+[Site "Verden an der Aller GER"] 
+[Date "2014.11.27"] 
+[Round "7.18"] 
+[White "Grigorian, Spartak"] 
+[Black "Steffens, Olaf"] 
+[Result "1-0"] 
+[WhiteElo "2244"] 
+[BlackElo "2279"] 
+[ECO "B12"] 
+[EventDate "2014.11.21"] 
+ 
+1.d4 Na6 2.e4 c6 3.Nc3 Nc7 4.Nf3 g6 5.Bd3 Bg7 6.O-O d6 7.h3 Nh6 8.Re1 O-O  
+9.Qe2 Ne6 10.Bc4 b5 11.Bb3 b4 12.Nb1 d5 13.exd5 cxd5 14.Bxh6 Bxh6 15.Qb5  
+Nf4 16.Qxb4 Bxh3 17.g3 Qc8 18.Qxe7 Bg2 19.Ne5 Qh3 20.Qh4 Qxh4 21.gxh4 Bh3  
+22.Nc3 Be6 23.Ne2 Nxe2+ 24.Rxe2 Bg7 25.c3 Rfe8 26.Rae1 Rad8 27.Kg2 Bf6 28. 
+Kg3 Kg7 29.f4 h5 30.Nxg6 Kxg6 31.f5+ Kh6 32.fxe6 Rg8+ 33.Kh2 Bxh4 34.exf7  
+Rgf8 35.Rf1 Rd6 36.Re5 Bf6 37.Rxd5 Re6 38.Rxh5+ Kxh5 39.Bxe6 Be7 40.Kg3 a5 
+41.Rf5+ Kg6 42.Rxa5 Kf6 43.Bb3 Rh8 44.Kg4 Kg6 45.Ra6+ Bf6 46.Bc4 Kg7 47. 
+Kf5 Rh5+ 48.Ke6 Rh2 49.Kd7 Rh8 50.Kc7 1-0 
+ 
+[Event "Czech GM Open A"] 
+[Site "Pardubice CZE"] 
+[Date "2011.07.30"] 
+[Round "9.89"] 
+[White "Studnicka, Tomas"] 
+[Black "Lambrechts, Koen"] 
+[Result "1-0"] 
+[WhiteElo "2374"] 
+[BlackElo "2255"] 
+[ECO "B12"] 
+[EventDate "2011.07.22"] 
+ 
+1.d4 Na6 2.e4 c6 3.c3 Nc7 4.Bd3 g6 5.Ne2 Bg7 6.f4 d5 7.e5 Nh6 8.Ng3 Bd7 9. 
+O-O Qc8 10.f5 Nxf5 11.Bxf5 Bxf5 12.Nxf5 gxf5 13.Qh5 Qe6 14.Rxf5 Qg6 15.Qh3 
+e6 16.Rg5 Qc2 17.Nd2 Bf8 18.Qf3 Bh6 19.Rg3 Bxd2 20.Qe2 Qxc1+ 21.Rxc1 Bxc1  
+22.Qc2 Bh6 23.Rh3 Bf8 24.Rxh7 Rxh7 25.Qxh7 c5 26.a4 b5 27.h4 bxa4 28.h5  
+Rb8 29.Qc2 Kd8 30.Qxa4 a6 31.Qc2 cxd4 32.cxd4 Nb5 33.Qd2 Kd7 34.Qf4 Be7  
+35.Qxf7 Nxd4 36.h6 Ne2+ 37.Kh2 Rb4 38.g3 Rxb2 39.Qf2 Bc5 40.Qf7+ Be7 41.h7 
+Nf4+ 42.Kg1 Rb1+ 43.Kf2 Nd3+ 44.Ke2 Nxe5 45.Qg7 Rh1 46.h8=Q Rxh8 47.Qxh8  
+Nf7 48.Qa8 Ng5 49.Qxa6 Ke8 50.Ke3 Kf7 51.Kf4 Bf6 52.Kg4 Kg6 53.Qc8 Kf7 54. 
+Kh5 Ne4 55.Qc7+ Be7 56.Kh6 Ng5 57.Qf4+ Bf6 58.Qg4 Ne4 59.Qh5+ Ke7 60.Kg6  
+Kd7 61.g4 Be7 62.Qh2 Nf6 63.Qe2 Ne4 64.Qb5+ Kd8 65.Qc6 Bd6 66.Kg7 Be5+ 67. 
+Kh6 1-0 
+ 
+[Event "Delft NED, Prinsenstad Open"] 
+[Site "Delft NED"] 
+[Date "2009.01.03"] 
+[Round "3.2"] 
+[White "Giri, Anish"] 
+[Black "Steffens, Olaf"] 
+[Result "1-0"] 
+[WhiteElo "2447"] 
+[BlackElo "2251"] 
+[ECO "B12"] 
+[EventDate "2009.04.02"] 
+ 
+1.d4 Na6 2.e4 c6 3.Nc3 Nc7 4.Nf3 g6 5.Bd3 Bg7 6.h3 d6 7.Be3 f5 8.Qd2 fxe4  
+9.Nxe4 Nd5 10.Bg5 Bf5 11.O-O Qd7 12.c4 Ndf6 13.Rfe1 h6 14.Bxf6 Nxf6 15.Nh4 
+Nxe4 16.Bxe4 Bf6 17.Nxg6 Bxe4 18.Rxe4 Rg8 19.Nxe7 Bxe7 20.Rae1 O-O-O 21. 
+Rxe7 Qxh3 22.f4 Rdf8 23.Re8+ 1-0 
+ 
+[Event "Interclubes Paulista"] 
+[Site "Sao Paulo BRA"] 
+[Date "2007.03.04"] 
+[Round "6"] 
+[White "Leitao, Rafael"] 
+[Black "Nogueira, Ivan Kuhlmann"] 
+[Result "1-0"] 
+[WhiteElo "2604"] 
+[BlackElo "2308"] 
+[ECO "B12"] 
+[EventDate "2007.02.24"] 
+ 
+1.d4 Na6 2.e4 c6 3.Nc3 Nc7 4.Nf3 d5 5.h3 Nf6 6.Bd3 dxe4 7.Nxe4 Nxe4 8.Bxe4 
+Be6 9.Ne5 Bd5 10.Qf3 g6 11.c4 Be6 12.Bf4 Rc8 13.Rd1 f6 14.d5 cxd5 15.cxd5  
+Bg8 16.O-O Nb5 17.d6 Nxd6 18.Bxb7 fxe5 19.Bxe5 1-0 
+ 
+[Event "USA Ch women"] 
+[Site "New York, NY USA"] 
+[Date "2004.06.17"] 
+[Round "1"] 
+[White "Krush, Irina"] 
+[Black "Battsetseg, Tsagaan"] 
+[Result "1-0"] 
+[WhiteElo "2465"] 
+[BlackElo "2246"] 
+[ECO "B12"] 
+[EventDate "2004.06.17"] 
+ 
+1.d4 Na6 2.e4 c6 3.Nf3 d6 4.c3 Nc7 5.Bg5 h6 6.Be3 Nf6 7.Nbd2 Ne6 8.h3 g5  
+9.h4 g4 10.Ng1 Rg8 11.Bd3 Bd7 12.Ne2 Nh5 13.a4 Qc7 14.a5 d5 15.exd5 cxd5  
+16.g3 Neg7 17.Bxh6 Nf5 18.Bxf8 Kxf8 19.Qc2 Qc8 20.Nb3 Nd6 21.Nc5 Be8 22. 
+Qd2 b6 23.Nb3 Nf6 24.h5 Nde4 25.Qf4 Rg5 26.h6 Kg8 27.Nd2 Rf5 28.h7+ Kh8  
+29.Qh6 Bc6 30.Nf4 b5 31.Nf1 Qf8 32.Ne3 Qxh6 33.Rxh6 Rg5 34.Ke2 Kg7 35.Rah1 
+Rh8 36.R1h4 e6 37.Bc2 Be8 38.Nd3 Nd6 39.Ne5 Nc4 40.N3xg4 Nxg4 41.Nxg4 Nxa5 
+42.f4 1-0 
+ 
+[Event "CXSP"] 
+[Site "Sao Paulo BRA"] 
+[Date "2002.12.01"] 
+[Round "7"] 
+[White "De Souza, M."] 
+[Black "Nogueira, Ivan Kuhlmann"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2343"] 
+[BlackElo "2255"] 
+[ECO "B12"] 
+[EventDate "2002.11.25"] 
+ 
+1.d4 Na6 2.e4 c6 3.c4 g6 4.Nc3 Bg7 5.f4 d6 6.Nf3 Bg4 7.Be2 e5 8.fxe5 Bxf3  
+9.Bxf3 dxe5 10.d5 Bh6 11.Bxh6 Qh4+ 12.g3 Qxh6 13.Qe2 Nf6 14.O-O O-O 15. 
+Rad1 c5 16.Nb5 Ne8 17.Bg4 Nac7 18.d6 Nxb5 19.cxb5 Rd8 20.d7 Nc7 21.a4 Qg5  
+22.Rd6 h5 23.Bh3 h4 1/2-1/2 
+ 
+[Event "5. It"] 
+[Site "Montecatini Terme ITA"] 
+[Date "2000.02.06"] 
+[Round "9"] 
+[White "Skembris, Spyridon"] 
+[Black "Trabert, Bettina"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2481"] 
+[BlackElo "2273"] 
+[ECO "B12"] 
+[EventDate "2000.01.29"] 
+ 
+1.d4 Na6 2.e4 c6 3.Nc3 Nc7 4.Be3 d6 5.Qd2 g6 6.h4 h5 7.f3 Bg7 8.Nh3 Bxh3  
+9.Rxh3 Nf6 10.Be2 Qd7 1/2-1/2 
+ 
+[Event "7. Anibal Open"] 
+[Site "Linares ESP"] 
+[Date "2000.01.12"] 
+[Round "6"] 
+[White "Rashkovsky, Nukhim N"] 
+[Black "Wohl, Aleksandar H"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2513"] 
+[BlackElo "2440"] 
+[ECO "B12"] 
+[EventDate "2000.01.07"] 
+ 
+1.d4 Na6 2.e4 c6 3.Nf3 d6 4.c3 Nc7 5.Bd3 g6 6.O-O Bg7 7.Re1 e5 8.Nbd2 Ne7  
+9.dxe5 dxe5 10.Nc4 Bg4 11.h3 Bxf3 12.Qxf3 Ne6 13.Rd1 Qc7 14.Ne3 Rd8 15.Bc4 
+Rxd1+ 16.Qxd1 Qd7 17.Qg4 Nc5 18.Qf3 Ng8 19.b4 Ne6 20.h4 h5 21.a4 Nf6 22. 
+Ba3 O-O 23.Rd1 Qe7 24.g3 Rd8 25.Rxd8+ Nxd8 26.Bb3 Nd7 27.Nc4 b5 28.axb5  
+cxb5 29.Ne3 Nf6 30.Bc1 Nb7 31.Nd5 Nxd5 32.Bxd5 a5 33.g4 axb4 34.cxb4 hxg4  
+35.Qxg4 Nd8 36.Be3 Ne6 37.Bd2 Nd4 38.Kg2 Qf6 39.Bg5 Qd6 1/2-1/2 
+ 
+[Event "7. Anibal Open"] 
+[Site "Linares ESP"] 
+[Date "2000.01.09"] 
+[Round "3"] 
+[White "Ortega Ruiz, Jose Miguel"] 
+[Black "Kobese, Watu"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2235"] 
+[BlackElo "2389"] 
+[ECO "B12"] 
+[EventDate "2000.01.07"] 
+ 
+1.d4 Na6 2.e4 c6 3.Nc3 Nc7 4.Nf3 g6 5.Bf4 d6 6.Be2 Bg7 7.O-O e6 8.Qd2 h6  
+9.Rad1 Ne7 10.Rfe1 g5 11.Bg3 Ng6 12.e5 d5 13.h3 b6 14.Nh2 h5 15.f3 Bh6 16. 
+Bf2 g4 17.Be3 Bxe3+ 18.Qxe3 gxh3 19.g3 Ba6 20.Kf2 Qe7 21.Rh1 f5 22.f4 Bxe2 
+23.Nxe2 O-O-O 24.Nf3 h4 25.gxh4 Nxh4 26.Rxh3 Nxf3 27.Qxf3 Qb4 28.b3 Qa3  
+29.Rdh1 Rxh3 30.Qxh3 c5 31.Qd3 c4 32.bxc4 Qxa2 33.Qb3 Qxb3 34.cxb3 dxc4  
+35.bxc4 b5 36.cxb5 Rd5 37.Rc1 Kb7 38.Ke3 Rxb5 39.Nc3 Rb4 40.Ra1 Kb6 41.Kd3 
+a6 42.Na4+ Kb5 43.Nc3+ Kc6 44.Rc1 Kb6 45.Ra1 a5 46.Na4+ Kc6 47.Nc3 Kb6 48. 
+Na4+ Ka6 49.Rc1 Kb7 50.Nc5+ Kb6 51.Nd7+ Kb7 52.Nc5+ Ka7 53.Ra1 Kb6 54.Rc1  
+Kb5 55.Rh1 Nd5 56.Nxe6 a4 57.Rc1 Rb3+ 58.Kd2 Kb4 59.Nc5 Rh3 60.Nd3+ Kb3  
+61.Nc5+ Kb4 62.Nd3+ Kb3 63.Nc5+ Kb4 64.Nd3+ 1/2-1/2 

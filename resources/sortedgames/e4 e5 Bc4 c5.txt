@@ -1,0 +1,41 @@
+ 
+[Event "Ch Bangladesh"] 
+[Site "Dhaka (Bangladesh)"] 
+[Date "2007.04.12"] 
+[Round "10"] 
+[White "Ahmed, Sk Nasir"] 
+[Black "Minhazuddin, Ahmed"] 
+[Result "1-0"] 
+[WhiteElo "2324"] 
+[BlackElo "2225"] 
+[ECO "C23"] 
+ 
+1.e4 e5 2.Bc4 c5 3.d3 d6 4.f4 Nf6 5.Nf3 Bg4 6.fxe5 Bxf3 7.Qxf3 dxe5 8.Nc3  
+Nc6 9.Nd5 Nd4 10.Nxf6+ Qxf6 11.Qxf6 gxf6 12.Kd1 Rg8 13.c3 Ne6 14.g3 Rd8  
+15.Ke2 Rg6 16.Be3 Bd6 17.a4 h5 18.Ra3 Ke7 19.Rb3 b6 20.a5 Bc7 21.axb6 Bxb6 
+22.Rb5 Rc8 23.Rf1 h4 24.gxh4 Nf4+ 25.Bxf4 exf4 26.Rxf4 Rg2+ 27.Rf2 Rcg8  
+28.Rb3 Rxf2+ 29.Kxf2 Rg4 30.Ra3 Rxh4 31.Kg2 f5 32.exf5 Rf4 33.Ra1 Rxf5 34. 
+Re1+ Kf6 35.Rf1 Rxf1 36.Kxf1 Kg6 37.Ke2 f5 38.Ke3 Kg5 39.d4 cxd4+ 40.cxd4  
+Bc7 41.h3 Kh4 42.Bf1 Kg3 43.d5 Bb6+ 44.Kd3 Kf2 45.h4 Bc5 46.h5 Bf8 47.Bh3  
+f4 48.Ke4 Kg3 49.Bf1 f3 50.Kf5 a5 51.Ke6 1-0 
+ 
+[Event "Mercantile Bank 33. ch-BAN"] 
+[Site "Dhaka BAN"] 
+[Date "2007.04.12"] 
+[Round "10"] 
+[White "Ahmed, SN."] 
+[Black "Minhazuddin, Ahmed"] 
+[Result "1-0"] 
+[WhiteElo "2324"] 
+[BlackElo "2225"] 
+[ECO "C23"] 
+[EventDate "2007.04.02"] 
+ 
+1.e4 e5 2.Bc4 c5 3.d3 d6 4.f4 Nf6 5.Nf3 Bg4 6.fxe5 Bxf3 7.Qxf3 dxe5 8.Nc3  
+Nc6 9.Nd5 Nd4 10.Nxf6+ Qxf6 11.Qxf6 gxf6 12.Kd1 Rg8 13.c3 Ne6 14.g3 Rd8  
+15.Ke2 Rg6 16.Be3 Bd6 17.a4 h5 18.Ra3 Ke7 19.Rb3 b6 20.a5 Bc7 21.axb6 Bxb6 
+22.Rb5 Rc8 23.Rf1 h4 24.gxh4 Nf4+ 25.Bxf4 exf4 26.Rxf4 Rg2+ 27.Rf2 Rcg8  
+28.Rb3 Rxf2+ 29.Kxf2 Rg4 30.Ra3 Rxh4 31.Kg2 f5 32.exf5 Rf4 33.Ra1 Rxf5 34. 
+Re1+ Kf6 35.Rf1 Rxf1 36.Kxf1 Kg6 37.Ke2 f5 38.Ke3 Kg5 39.d4 cxd4+ 40.cxd4  
+Bc7 41.h3 Kh4 42.Bf1 Kg3 43.d5 Bb6+ 44.Kd3 Kf2 45.h4 Bc5 46.h5 Bf8 47.Bh3  
+f4 48.Ke4 Kg3 49.Bf1 f3 50.Kf5 a5 51.Ke6 1-0 

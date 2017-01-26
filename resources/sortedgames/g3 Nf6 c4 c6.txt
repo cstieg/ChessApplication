@@ -1,0 +1,35 @@
+ 
+[Event "1. Forni Open"] 
+[Site "Forni di Sopra ITA"] 
+[Date "2011.06.13"] 
+[Round "2"] 
+[White "Matamoros Franco, Carlos S"] 
+[Black "Stella, Andrea"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2542"] 
+[BlackElo "2398"] 
+[ECO "A11"] 
+[EventDate "2011.06.12"] 
+ 
+1.g3 Nf6 2.c4 c6 3.Bg2 d5 4.Nf3 dxc4 5.O-O Nbd7 6.Qc2 Nb6 7.a4 a5 8.Na3  
+Be6 9.Ng5 Bg4 10.Nxc4 Bxe2 11.Ne5 Bh5 12.b4 e6 13.bxa5 Rxa5 14.d4 Bd6 15. 
+Bd2 Ra7 16.a5 Nbd5 17.a6 O-O 18.axb7 1/2-1/2 
+ 
+[Event "UKR Ch sf"] 
+[Site "Alushta UKR"] 
+[Date "2005.05.21"] 
+[Round "6"] 
+[White "Tarlev, Konstantin"] 
+[Black "Alexikov, Alexander"] 
+[Result "1-0"] 
+[WhiteElo "2384"] 
+[BlackElo "2353"] 
+[ECO "A11"] 
+[EventDate "2005.05.16"] 
+ 
+1.g3 Nf6 2.c4 c6 3.Bg2 d5 4.Nf3 Bf5 5.cxd5 cxd5 6.Qb3 Nc6 7.Qxb7 Rc8 8.O-O 
+e5 9.d4 exd4 10.Bf4 Bd6 11.Rc1 Qd7 12.Qxc8+ Qxc8 13.Bxd6 Qb7 14.Nbd2 Qxb2  
+15.Nb3 Kd7 16.Bf4 Rc8 17.Rxc6 Kxc6 18.Nfxd4+ Kb6 19.Nxf5 a5 20.Be3+ Kc7  
+21.Bh3 Kb8 22.Bd4 Qxe2 23.Bxf6 gxf6 24.Nfd4 Qb2 25.Bxc8 Kxc8 26.a4 f5 27. 
+Rc1+ Kd8 28.Kg2 Qa3 29.Rc5 Qxa4 30.Rxd5+ Ke8 31.Rxa5 Qc4 32.Rxf5 Kf8 33. 
+Rf3 Qd5 34.Nf5 h5 35.h4 f6 36.Nbd4 1-0 

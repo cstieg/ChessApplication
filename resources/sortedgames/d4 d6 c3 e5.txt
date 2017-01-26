@@ -1,0 +1,41 @@
+ 
+[Event "St.Petersburg Blitz 2014"] 
+[Site "St Petersburg RUS"] 
+[Date "2014.12.07"] 
+[Round "4.5"] 
+[White "Rusanov, Michail"] 
+[Black "Matlakov, Maxim"] 
+[Result "0-1"] 
+[WhiteElo "2440"] 
+[BlackElo "2695"] 
+[ECO "A41"] 
+[EventDate "2014.12.07"] 
+ 
+1.d4 d6 2.c3 e5 3.dxe5 dxe5 4.Qxd8+ Kxd8 5.e4 a5 6.Bc4 Ke8 7.a4 Nd7 8.Nf3  
+f6 9.O-O Nc5 10.Nbd2 Bd7 11.b3 Nh6 12.Ba3 Nf7 13.Bxf7+ Kxf7 14.Rfd1 Be6  
+15.Bxc5 Bxc5 16.c4 Rhd8 17.Nf1 c6 18.Ne3 b5 19.Rxd8 Rxd8 20.axb5 cxb5 21. 
+Rxa5 Bxe3 22.fxe3 bxc4 23.Ra7+ Kg6 24.bxc4 Bxc4 25.Nh4+ Kg5 26.g3 Rd1+ 27. 
+Kf2 g6 28.Nf3+ Kh6 29.Rc7 Rf1+ 30.Kg2 Rc1 31.Kf2 Rc2+ 32.Kg1 g5 33.Rc6 Kg7 
+34.Rc7+ Kg6 35.Rc6 Kf7 36.Rc7+ Ke6 37.Rxh7 Bd3 38.Rh6 Kf7 39.h4 Bxe4 40. 
+Ne1 Rc1 41.Kf2 g4 42.Rh8 Ra1 43.Rc8 Ra2+ 44.Kg1 Re2 45.Kf1 Rxe3 46.Kf2 Ra3 
+47.Rc7+ Kg6 48.Rc4 f5 49.Rb4 Rc3 50.Rb6+ Bc6 51.Nd3 Rxd3 52.Rxc6+ Kf7 53. 
+Rc5 Ke6 54.Rc6+ Kd5 55.Rf6 Ke4 56.h5 Rd2+ 57.Kg1 f4 58.h6 Rd7 59.Rg6 Kf3  
+60.Rg7 Rd1+ 61.Kh2 fxg3# 0-1 
+ 
+[Event "White Nights"] 
+[Site "St Petersburg RUS"] 
+[Date "2005.06.19"] 
+[Round "2"] 
+[White "Utkin, Aleksey"] 
+[Black "Krasnov, Vasiliy G"] 
+[Result "1-0"] 
+[WhiteElo "2387"] 
+[BlackElo "2208"] 
+[ECO "A41"] 
+[EventDate "2005.06.18"] 
+ 
+1.d4 d6 2.c3 e5 3.e4 Nf6 4.Nd2 Be7 5.Ngf3 exd4 6.cxd4 O-O 7.Be2 Nbd7 8.O-O 
+c5 9.b3 Re8 10.Bb2 Bf8 11.e5 dxe5 12.dxe5 Nd5 13.Ne4 Nf4 14.g3 Nxe2+ 15. 
+Qxe2 b6 16.Rad1 a5 17.Rfe1 Ba6 18.Qd2 Bb5 19.Qf4 h6 20.Qg4 Re6 21.Nf6+ Kh8 
+22.Ng5 Rxf6 23.exf6 hxg5 24.Qxg5 Kg8 25.h4 g6 26.h5 Bg7 27.Rd6 Qf8 28.fxg7 
+Qxd6 29.Qh6 f6 30.hxg6 1-0 

@@ -1,0 +1,23 @@
+ 
+[Event "CAN Ch"] 
+[Site "Richmond CAN"] 
+[Date "2002.03.29"] 
+[Round "9"] 
+[White "Hebert, Jean"] 
+[Black "Glinert, Stephen"] 
+[Result "0-1"] 
+[WhiteElo "2398"] 
+[BlackElo "2278"] 
+[ECO "B00"] 
+[EventDate "2002.03.21"] 
+ 
+1.e4 b6 2.d3 Bb7 3.f4 e6 4.Nf3 d5 5.e5 c5 6.c3 d4 7.Nbd2 Ne7 8.Ne4 Nf5 9. 
+Be2 Be7 10.O-O h5 11.Nfg5 g6 12.Bf3 Nc6 13.Rb1 Qd7 14.b4 dxc3 15.bxc5 Ncd4 
+16.Rb4 c2 17.Qe1 Nxf3+ 18.Rxf3 bxc5 19.Rc4 Bd5 20.Rxc2 Nd4 21.Rff2 Nxc2  
+22.Rxc2 Bxe4 23.Nxe4 Qxd3 24.Rd2 Qc4 25.Nd6+ Bxd6 26.exd6 O-O 27.Bb2 Qxf4  
+28.Be5 Qc4 29.Qe3 f6 30.Bc3 Rab8 31.h3 e5 32.Ba5 Qf4 33.Qxf4 exf4 34.d7  
+Rbd8 35.a3 Kf7 36.Bxd8 Rxd8 37.Rd5 Ke6 38.Rxc5 Rxd7 39.Ra5 h4 40.Kf2 f5  
+41.Ra6+ Kf7 42.Ra5 Kf6 43.Ra6+ Kg5 44.Ra4 Rd2+ 45.Kf3 Rd3+ 46.Kf2 Rg3 47. 
+Rxa7 f3 48.gxf3 Rxh3 49.Kg2 Rg3+ 50.Kf2 Rh3 51.Kg2 Rg3+ 52.Kf2 f4 53.Rh7  
+h3 54.a4 Kf5 55.a5 Ke5 56.a6 Rg2+ 57.Kf1 Ra2 58.Re7+ Kd6 59.Rh7 h2 60.a7  
+Rxa7 0-1 

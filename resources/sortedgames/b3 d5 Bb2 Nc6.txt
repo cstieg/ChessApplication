@@ -1,0 +1,173 @@
+ 
+[Event "1. FIDE World Online Women Blitz 2015"] 
+[Site "Rome ITA"] 
+[Date "2015.11.26"] 
+[Round "14"] 
+[White "Vasilevich, Irina"] 
+[Black "Kosteniuk, Alexandra"] 
+[Result "0-1"] 
+[WhiteElo "2305"] 
+[BlackElo "2534"] 
+[ECO "A01"] 
+[EventDate "2015.11.26"] 
+ 
+1.b3 d5 2.Bb2 Nc6 3.e3 Nf6 4.d3 g6 5.Nd2 Bg7 6.a3 O-O 7.Be2 e5 8.g4 Re8 9. 
+h4 h6 10.Nh3 Nh7 11.h5 g5 12.c4 Nf6 13.Rc1 Be6 14.Nf1 Qd7 15.f3 Rad8 16. 
+cxd5 Qxd5 17.Nf2 Qxb3 18.Qxb3 Bxb3 19.Ng3 Nd5 20.Kd2 Bf8 21.Nfe4 Na5 22. 
+Nf5 Re6 23.Nc5 Rc6 24.d4 exd4 25.exd4 Nf4 26.Ne4 Bd5 27.Rxc6 Bxc6 28.Ke3  
+Nd5+ 29.Kf2 b6 30.Rc1 Bb7 31.Bc4 Nxc4 32.Rxc4 c6 33.Rc1 Re8 34.Rd1 Re6 35. 
+a4 f6 36.Ra1 a5 37.Rb1 Kf7 38.Bc1 Nb4 39.Bd2 c5 0-1 
+ 
+[Event "7. Batavia Blitz 2015"] 
+[Site "Amsterdam NED"] 
+[Date "2015.02.19"] 
+[Round "4.3"] 
+[White "Zwirs, Nico"] 
+[Black "Goudriaan, Etienne"] 
+[Result "1-0"] 
+[WhiteElo "2358"] 
+[BlackElo "2349"] 
+[ECO "A01"] 
+[EventDate "2015.02.19"] 
+ 
+1.b3 d5 2.Bb2 Nc6 3.e3 e5 4.Bb5 Bd6 5.Nf3 f6 6.d4 e4 7.Nfd2 f5 8.c4 a6 9. 
+Bxc6+ bxc6 10.Ba3 Nf6 11.Bxd6 cxd6 12.Nc3 dxc4 13.Nxc4 O-O 14.Rc1 Nd5 15. 
+Qd2 f4 16.Nxe4 fxe3 17.fxe3 Qh4+ 18.Nf2 a5 19.O-O Ba6 20.Nd3 Qe4 21.Ndb2  
+Qe6 22.Rce1 Nf6 23.Rf4 Ne4 24.Qc2 Rxf4 25.exf4 d5 26.Ne5 c5 27.dxc5 Rc8  
+28.Na4 Qf5 29.Qd1 Rd8 30.Nc6 Rd7 31.Nb6 Qxf4 32.Rxe4 Qxe4 33.Nxd7 d4 34. 
+Nxd4 Qe3+ 35.Kh1 a4 36.bxa4 Bd3 37.Nf3 Be2 38.Qe1 Qd3 39.Nde5 Qa6 40.c6 h5 
+41.h3 g5 42.Qg3 g4 43.hxg4 Bxf3 44.gxh5+ Kf8 45.Qxf3+ Ke7 46.Qf7+ 1-0 
+ 
+[Event "63. ch-BUL w 2014"] 
+[Site "Kozloduy BUL"] 
+[Date "2014.05.10"] 
+[Round "1.5"] 
+[White "Raeva, Elitsa"] 
+[Black "Voiska, Margarita"] 
+[Result "0-1"] 
+[WhiteElo "2352"] 
+[BlackElo "2292"] 
+[ECO "A01"] 
+[EventDate "2014.05.10"] 
+ 
+1.b3 d5 2.Bb2 Nc6 3.Nf3 Bg4 4.d4 g6 5.Ne5 Nxe5 6.dxe5 Bg7 7.h3 Be6 8.e3 f6 
+9.Nd2 fxe5 10.Nf3 Qd6 11.Qd2 Bf6 12.Rd1 O-O-O 13.Be2 e4 14.Nd4 Bd7 15.Qa5  
+Qb6 16.Qxd5 c5 17.Qc4 Kb8 18.O-O cxd4 19.Bxd4 Bxd4 20.Rxd4 Nf6 21.Rfd1 Bc8 
+22.b4 Rxd4 23.exd4 Be6 24.d5 Rc8 25.Qb3 Bxd5 26.Rxd5 Nxd5 27.Qxd5 Rxc2 28. 
+Qxe4 Rc1+ 29.Kh2 Qd6+ 30.f4 g5 31.g3 gxf4 32.gxf4 Re1 33.Qc4 Qc6 34.Qg8+  
+Kc7 35.Bg4 Rh1+ 36.Kg3 Rg1+ 37.Kh4 Qh6+ 0-1 
+ 
+[Event "Zagreb Open 2014"] 
+[Site "Zagreb CRO"] 
+[Date "2014.03.22"] 
+[Round "7.18"] 
+[White "Matic, Zeljko"] 
+[Black "Ivekovic, Zvonimir"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2229"] 
+[BlackElo "2367"] 
+[ECO "A01"] 
+[EventDate "2014.03.17"] 
+ 
+1.b3 d5 2.Bb2 Nc6 3.e3 e6 4.Nf3 Nf6 5.Bb5 Bd7 6.Bxc6 Bxc6 7.Ne5 Bb5 8.c4  
+Ba6 9.O-O Bd6 10.d3 c5 11.f4 Qc7 12.Nd2 dxc4 13.bxc4 O-O 14.Rf3 Nd7 15.Rh3 
+Nxe5 16.Qh5 f6 17.fxe5 Bxe5 18.Qxh7+ Kf7 19.Qh5+ Ke7 20.d4 Rh8 21.Qg6  
+Bxh2+ 22.Kh1 Rxh3 23.Qxg7+ Kd6 24.dxc5+ Kc6 25.Qxc7+ Bxc7+ 26.gxh3 Rd8 27. 
+Nb3 Bxc4 28.Bxf6 Rg8 29.Nd2 Bd3 30.Rg1 Rf8 31.Bg7 Rf5 32.Rg4 Rxc5 33.Rd4  
+Be2 34.Kg2 e5 35.Rh4 Rc2 36.Ne4 Bd3+ 37.Kf3 Bxe4+ 38.Rxe4 Kd5 39.Ra4 a5  
+40.e4+ Ke6 41.Ra3 b5 42.Rb3 b4 43.a3 Bd6 44.axb4 Bxb4 45.h4 Rc7 46.Bh6  
+Rf7+ 47.Ke2 Kd6 48.Rh3 a4 49.Bc1 Ra7 50.h5 a3 51.h6 a2 52.Bb2 Rh7 53.Kd3  
+Bc5 54.Rh1 Ke6 55.Kc4 Be3 56.Rh5 Bd4 57.Bxd4 exd4 58.Ra5 Rxh6 59.Kxd4  
+1/2-1/2 
+ 
+[Event "Hanoi VIE, Ch U15 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.16"] 
+[Round "7.11"] 
+[White "Tran, Vo Minh Tam"] 
+[Black "Mai, Hoang Bao"] 
+[Result "1-0"] 
+[WhiteElo "2575"] 
+[BlackElo "2580"] 
+[ECO "A01"] 
+[EventDate "2012.07.12"] 
+ 
+1.b3 d5 2.Bb2 Nc6 3.e3 e5 4.Nf3 Bd6 5.Bb5 Bg4 6.h3 Bxf3 7.Qxf3 Nf6 8.d4 e4 
+9.Qe2 O-O 10.Bxc6 bxc6 11.O-O c5 12.Rd1 c6 13.dxc5 Bxc5 14.c4 Qe7 15.Nc3  
+Rad8 16.Na4 Bb6 17.cxd5 Rxd5 18.Qa6 Qd8 19.Rdc1 c5 20.Qc4 Qe7 21.Bxf6 Qe6  
+22.Nxb6 axb6 23.Bb2 Rc8 24.Qc3 f6 25.Rd1 Rg5 26.Qc4 1-0 
+ 
+[Event "20. Croatian Cup"] 
+[Site "Sibenik CRO"] 
+[Date "2011.05.21"] 
+[Round "5.22"] 
+[White "Dimitrijevic, Darko"] 
+[Black "Bosiocic, Marin"] 
+[Result "0-1"] 
+[WhiteElo "2243"] 
+[BlackElo "2558"] 
+[ECO "A01"] 
+[EventDate "2011.05.18"] 
+ 
+1.b3 d5 2.Bb2 Nc6 3.Nf3 Bg4 4.h3 Bh5 5.g3 f5 6.Bg2 e6 7.Ne5 Nxe5 8.Bxe5  
+Nf6 9.Qc1 Bd6 10.Qb2 O-O 11.d3 Bxe5 12.Qxe5 Qe7 13.Nd2 c6 14.O-O Nd7 15. 
+Qc7 Rfc8 16.Qxb7 a5 17.c4 Qd6 18.cxd5 cxd5 19.Rfc1 Nc5 20.Rxc5 Qxc5 21.Nf3 
+Ra7 0-1 
+ 
+[Event "Open A"] 
+[Site "Zagreb CRO"] 
+[Date "2009.03.22"] 
+[Round "2"] 
+[White "Kalajzic, Ivan"] 
+[Black "Simutowe, Amon"] 
+[Result "0-1"] 
+[WhiteElo "2224"] 
+[BlackElo "2485"] 
+[ECO "A01"] 
+[EventDate "2009.03.21"] 
+ 
+1.b3 d5 2.Bb2 Nc6 3.Nf3 Bg4 4.h3 Bxf3 5.exf3 a6 6.f4 d4 7.Qf3 e6 8.g3 Nge7 
+9.Bg2 g6 10.O-O Bg7 11.d3 Nb4 12.Qe2 Rb8 13.a3 Nbd5 14.Nd2 c5 15.Rfe1 Qc7  
+16.Nf3 b5 17.Ne5 O-O 18.a4 Rfd8 19.axb5 axb5 20.h4 h5 21.Ra3 Qb7 22.Nxf7  
+Kxf7 23.Qxe6+ Kf8 24.Rea1 Qd7 25.Qe4 Nf6 26.Qe2 Nf5 27.Ra7 Re8 28.Qf3 Qe6  
+29.Rc7 Rec8 30.Rca7 Re8 31.Rc7 Rbc8 32.Qb7 Rxc7 33.Qxc7 Rc8 34.Qb7 Qd7 35. 
+Qa6 b4 36.Bc1 Re8 37.Bd2 Re2 38.Be1 Qe6 39.Qa8+ Kf7 40.Kf1 Bf8 41.Rc1 Qe8  
+42.Qb7+ Re7 43.Qb6 Ng4 44.Be4 Rxe4 45.dxe4 Qxe4 46.Bd2 Qf3 0-1 
+ 
+[Event "Open NK"] 
+[Site "Dieren NED"] 
+[Date "2007.07.26"] 
+[Round "3"] 
+[White "Kabanof, Nikolai"] 
+[Black "Op den Kelder, Joram"] 
+[Result "0-1"] 
+[WhiteElo "2282"] 
+[BlackElo "2247"] 
+[ECO "A01"] 
+[EventDate "2007.07.24"] 
+ 
+1.b3 d5 2.Bb2 Nc6 3.g3 e5 4.Bg2 Be6 5.e3 Qd7 6.Ne2 O-O-O 7.h3 d4 8.exd4  
+Bd5 9.f3 exd4 10.Nxd4 Nxd4 11.Bxd4 Qd6 12.Qe2 Qxg3+ 13.Qf2 Qg6 14.c4 Bd6  
+15.O-O Bg3 16.Qe3 Bc6 17.b4 Nh6 18.Qc3 Rhe8 19.b5 Re2 20.Bf2 Rd3 21.bxc6  
+Rxc3 22.cxb7+ Kxb7 23.Nxc3 Rxd2 24.f4+ c6 25.Ne4 Bxf2+ 26.Rxf2 Rxf2 27. 
+Kxf2 Nf5 28.Bf3 Qh6 29.Rd1 Qxf4 30.Rd7+ Kc8 31.Rxf7 Qe3+ 32.Kg2 Nh4+ 33. 
+Kg3 Nxf3 34.Nd6+ Kb8 35.Rf8+ Kc7 36.Nf7 Qc3 0-1 
+ 
+[Event "European Seniors"] 
+[Site "Saint Vincent ITA"] 
+[Date "2002.10.01"] 
+[Round "4"] 
+[White "Rotstein, Jefim"] 
+[Black "Kleiner, Bronislav"] 
+[Result "1-0"] 
+[WhiteElo "2376"] 
+[BlackElo "2271"] 
+[ECO "A01"] 
+[EventDate "2002.09.28"] 
+ 
+1.b3 d5 2.Bb2 Nc6 3.Nf3 Bg4 4.e3 a6 5.c4 e6 6.cxd5 exd5 7.Be2 Nf6 8.d3 Bd6 
+9.Nbd2 O-O 10.O-O Re8 11.a3 a5 12.Re1 Ne5 13.Bxe5 Bxf3 14.Bxf6 Bxe2 15. 
+Bxd8 Bxd1 16.Bxc7 Bxc7 17.Rexd1 Bd6 18.a4 Rec8 19.Rac1 Ba3 20.Rxc8+ Rxc8  
+21.Kf1 Rc2 22.e4 Bc5 23.exd5 f5 24.d4 Bxd4 25.d6 Kf7 26.d7 Bb6 27.Nc4 Bd8  
+28.Re1 Be7 29.Nd6+ Kf6 30.Nxb7 Rd2 31.Rxe7 Kxe7 32.d8=Q+ Rxd8 33.Nxd8 Kxd8 
+34.Ke2 1-0 

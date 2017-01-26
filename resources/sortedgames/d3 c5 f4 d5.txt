@@ -1,0 +1,23 @@
+ 
+[Event "Lisbon Christmas Op 2014"] 
+[Site "Lisbon POR"] 
+[Date "2014.12.28"] 
+[Round "5.8"] 
+[White "Moreno Tejera, Emilio"] 
+[Black "Santos Ruiz, Miguel"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2448"] 
+[BlackElo "2298"] 
+[ECO "A00"] 
+[EventDate "2014.12.26"] 
+ 
+1.d3 c5 2.f4 d5 3.Nf3 g6 4.g3 Nf6 5.Bg2 Bg7 6.O-O Nc6 7.Nc3 d4 8.Na4 Nd7  
+9.c4 dxc3 10.Nxc3 O-O 11.Bd2 b6 12.f5 Bb7 13.Ng5 Nf6 14.Qa4 Qd4+ 15.Qxd4  
+cxd4 16.Nb5 Rad8 17.Nxa7 Nd5 18.Nxc6 Bxc6 19.Rac1 Ba8 20.Ne4 Rd7 21.Rc4  
+Bb7 22.g4 Be5 23.Ng5 Bf6 24.Nh3 Ne3 25.Bxe3 Bxg2 26.Kxg2 dxe3 27.Rc2 Ra8  
+28.a3 Rd5 29.Rf3 Ra4 30.g5 Bd4 31.Rc8+ Kg7 32.Nf4 Rb5 33.h4 Rxf5 34.Nh5+  
+gxh5 35.Rxf5 Bxb2 36.Rc4 Rxc4 37.dxc4 Bxa3 38.Kf3 Kg6 39.Ke4 Bc5 40.Rf3  
+Kg7 41.Kd5 Kg6 42.Kc6 Kg7 43.Rf5 h6 44.gxh6+ Kg6 45.Rxc5 bxc5 46.Kxc5 Kxh6 
+47.Kd4 Kg6 48.Ke5 f6+ 49.Ke6 f5 50.Ke5 e6 51.c5 Kf7 52.Kf4 Kf6 53.Kxe3 e5  
+54.Kd3 Ke6 55.Kc3 Kd5 56.Kb4 f4 57.Kb5 e4 58.c6 f3 59.c7 fxe2 60.c8=Q e1=Q 
+61.Qc5+ 1/2-1/2 

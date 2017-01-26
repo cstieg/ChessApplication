@@ -1,0 +1,37 @@
+ 
+[Event "Belgrade Planetwin 365 Open"] 
+[Site "Belgrade SRB"] 
+[Date "2014.12.29"] 
+[Round "20"] 
+[White "Sedlak, Nikola"] 
+[Black "Damljanovic, Branko"] 
+[Result "1-0"] 
+[WhiteElo "2622"] 
+[BlackElo "2552"] 
+[ECO "A41"] 
+[EventDate "2014.12.29"] 
+ 
+1.d4 d6 2.Bg5 c5 3.dxc5 Qa5+ 4.Nc3 Qxc5 5.Qd2 Nd7 6.e4 Ngf6 7.f3 a6 8. 
+O-O-O h6 9.Be3 Qa5 10.Kb1 e6 11.Nge2 b5 12.Nd4 Bb7 13.a3 Rc8 14.Bd3 Rxc3  
+15.Qxc3 Qxc3 16.bxc3 d5 17.exd5 Nxd5 18.Bd2 N5b6 19.Rhe1 Bxa3 20.Nb3 O-O  
+21.Be3 Na4 22.Bd4 Rc8 23.Be4 Bxe4 24.Rxe4 Ndb6 25.Bxb6 Nxb6 26.Ka2 Be7 27. 
+Rd3 Nd5 28.Rxd5 exd5 29.Rxe7 Rxc3 30.Kb2 Rc6 31.Nd4 Rg6 32.g3 h5 33.Re5  
+Rd6 34.Rxh5 g6 35.Re5 b4 36.Kb3 a5 37.Re8+ Kg7 38.Ra8 Kf6 39.Rxa5 Ke5 40. 
+Ne2 g5 41.Kxb4 Rb6+ 42.Rb5 1-0 
+ 
+[Event "Match EST-FIN"] 
+[Site "Norlandia SEA"] 
+[Date "2001.01.14"] 
+[Round "1"] 
+[White "Ehlvest, Jaan"] 
+[Black "Yrjola, Jouni"] 
+[Result "1-0"] 
+[WhiteElo "2627"] 
+[BlackElo "2442"] 
+[ECO "A41"] 
+[EventDate "2001.01.14"] 
+ 
+1.d4 d6 2.Bg5 c5 3.d5 h6 4.Bh4 Qb6 5.Nd2 Qxb2 6.e4 Qb6 7.f4 g5 8.fxg5 hxg5 
+9.Bxg5 Bg7 10.Rb1 Qc7 11.Ngf3 Nf6 12.Bb5+ Nbd7 13.Nh4 Rg8 14.e5 dxe5 15. 
+Nc4 Ne4 16.Qg4 Bf6 17.Qxe4 Bxg5 18.O-O a6 19.d6 Qd8 20.Qh7 Rf8 21.Nf5 Bf6  
+22.dxe7 1-0 

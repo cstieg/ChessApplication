@@ -1,0 +1,48 @@
+ 
+[Event "ZANOS 2013"] 
+[Site "Novi Sad/Vukovar SRB/CRO"] 
+[Date "2013.05.27"] 
+[Round "2.4"] 
+[White "Pucovski, Miroslav"] 
+[Black "Laketic, Gojko"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2294"] 
+[BlackElo "2420"] 
+[ECO "B02"] 
+[EventDate "2013.05.26"] 
+ 
+1.e4 Nf6 2.Qe2 e5 3.Nf3 Nc6 4.c3 Bc5 5.b4 Bb6 6.h3 O-O 7.a4 a6 8.d3 Re8 9. 
+Qc2 1/2-1/2 
+ 
+[Event "1. TCH-MNE"] 
+[Site "Herceg Novi MNE"] 
+[Date "2006.10.01"] 
+[Round "10"] 
+[White "Cetkovic, Miodrag"] 
+[Black "Dragasevic, Srdja"] 
+[Result "0-1"] 
+[WhiteElo "2260"] 
+[BlackElo "2299"] 
+[ECO "B02"] 
+[EventDate "2006.09.22"] 
+ 
+1.e4 Nf6 2.Qe2 e5 3.f4 d6 4.Nf3 Nc6 5.d3 Bg4 6.c3 Nh5 7.f5 d5 8.Qf2 g6 9. 
+fxg6 hxg6 10.Ng5 f6 11.h3 Bc8 12.Nf3 Be6 13.g4 Nf4 14.Bxf4 exf4 15.Bg2 Qd7 
+16.Nbd2 O-O-O 17.O-O dxe4 18.dxe4 b6 19.b4 g5 20.Nb3 Ne5 21.Rfd1 Qxd1+ 22. 
+Rxd1 Rxd1+ 23.Bf1 Rxh3 24.Nfd2 Bxb3 25.Nxb3 Rf3 0-1 
+ 
+[Event "Ch Montenegro team"] 
+[Site "Herceg Novi (Montenegro)"] 
+[Date "2006.10.01"] 
+[Round "10"] 
+[White "Cetkovic, Miodrag"] 
+[Black "Dragasevic, Srdja"] 
+[Result "0-1"] 
+[WhiteElo "2260"] 
+[BlackElo "2299"] 
+[ECO "B02"] 
+ 
+1.e4 Nf6 2.Qe2 e5 3.f4 d6 4.Nf3 Nc6 5.d3 Bg4 6.c3 Nh5 7.f5 d5 8.Qf2 g6 9. 
+fxg6 hxg6 10.Ng5 f6 11.h3 Bc8 12.Nf3 Be6 13.g4 Nf4 14.Bxf4 exf4 15.Bg2 Qd7 
+16.Nbd2 O-O-O 17.O-O dxe4 18.dxe4 b6 19.b4 g5 20.Nb3 Ne5 21.Rfd1 Qxd1+ 22. 
+Rxd1 Rxd1+ 23.Bf1 Rxh3 24.Nfd2 Bxb3 25.Nxb3 Rf3 0-1 

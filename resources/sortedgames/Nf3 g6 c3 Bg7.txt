@@ -1,0 +1,54 @@
+ 
+[Event "Stare Mesto Open 2012"] 
+[Site "Stade Mesto CZE"] 
+[Date "2012.08.16"] 
+[Round "8.2"] 
+[White "Kireev, Aleksei"] 
+[Black "Kislinsky, Alexey"] 
+[Result "0-1"] 
+[WhiteElo "2345"] 
+[BlackElo "2551"] 
+[ECO "A04"] 
+[EventDate "2012.08.10"] 
+ 
+1.Nf3 g6 2.c3 Bg7 3.d4 d6 4.Bg5 Nd7 5.Nbd2 b6 6.e3 Bb7 7.Bc4 h6 8.Bh4 g5  
+9.Bg3 e6 10.h3 Ne7 11.Qe2 a6 12.a4 Ng6 13.Bd3 f5 14.Kd1 Qf6 15.Ne1 e5 16. 
+Bh2 O-O 17.Bc2 c5 18.dxe5 dxe5 19.f3 Rad8 20.Kc1 Kh8 21.e4 Nf4 22.Qf2 c4  
+23.exf5 Nc5 24.Nxc4 e4 25.Bxf4 gxf4 26.fxe4 Bxe4 27.Qxf4 h5 28.Qf2 Qf7 29. 
+Ne3 Bh6 30.Ra3 Qxf5 31.Qxf5 Bxe3+ 32.Kb1 Rxf5 33.Bxe4 Rd1+ 0-1 
+ 
+[Event "Stare Mesto Open 2012"] 
+[Site "Stare Mesto CZE"] 
+[Date "2012.08.16"] 
+[Round "8.2"] 
+[White "Kireev, Aleksei"] 
+[Black "Kislinsky, Alexey"] 
+[Result "0-1"] 
+[WhiteElo "2345"] 
+[BlackElo "2551"] 
+[ECO "A04"] 
+[EventDate "2012.08.10"] 
+ 
+1.Nf3 g6 2.c3 Bg7 3.d4 d6 4.Bg5 Nd7 5.Nbd2 b6 6.e3 Bb7 7.Bc4 h6 8.Bh4 g5  
+9.Bg3 e6 10.h3 Ne7 11.Qe2 a6 12.a4 Ng6 13.Bd3 f5 14.Kd1 Qf6 15.Ne1 e5 16. 
+Bh2 O-O 17.Bc2 c5 18.dxe5 dxe5 19.f3 Rad8 20.Kc1 Kh8 21.e4 Nf4 22.Qf2 c4  
+23.exf5 Nc5 24.Nxc4 e4 25.Bxf4 gxf4 26.fxe4 Bxe4 27.Qxf4 h5 28.Qf2 Qf7 29. 
+Ne3 Bh6 30.Ra3 Qxf5 31.Qxf5 Bxe3+ 32.Kb1 Rxf5 33.Bxe4 Rd1+ 0-1 
+ 
+[Event "Bogota COL, Panamerican Ch U20 (b)"] 
+[Site "Bogota COL"] 
+[Date "2013.07.15"] 
+[Round "9.2"] 
+[White "Martinez Romero, Martin"] 
+[Black "Hernandez Sanchez, Jairo Andres"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2402"] 
+[BlackElo "2320"] 
+[ECO "A48"] 
+[EventDate "2013.07.10"] 
+ 
+1.Nf3 g6 2.c3 Bg7 3.d4 Nf6 4.Bf4 O-O 5.Nbd2 d6 6.e4 Nbd7 7.Bc4 Nh5 8.Bg5  
+h6 9.Be3 e5 10.dxe5 Nxe5 11.Be2 Nf6 12.O-O Neg4 13.Bd4 c5 14.Bxf6 Nxf6 15. 
+Re1 Be6 16.Bc4 Re8 17.Qb3 Rb8 18.Rad1 b5 19.Bxe6 Rxe6 20.e5 dxe5 21.Nc4  
+Qc7 22.Ncxe5 Rbe8 23.Qxb5 Rxe5 24.Rxe5 Rxe5 25.Nxe5 Qxe5 26.Qc4 Qf5 27.h3  
+Ne4 28.Qe2 Ng5 29.Rd8+ Kh7 30.Qd3 Qe6 31.Rd6 1/2-1/2 

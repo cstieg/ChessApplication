@@ -1,0 +1,79 @@
+ 
+[Event "Copa Mercosur"] 
+[Site "Villa Martelli ARG"] 
+[Date "2006.08.02"] 
+[Round "12"] 
+[White "Hungaski, Robert Andrew"] 
+[Black "Fier, Alexandr"] 
+[Result "0-1"] 
+[WhiteElo "2412"] 
+[BlackElo "2459"] 
+[ECO "B12"] 
+[EventDate "2006.07.24"] 
+ 
+1.e4 Na6 2.d4 c6 3.Nc3 g6 4.f4 Nc7 5.Nf3 d5 6.e5 h5 7.Be3 Nh6 8.Bd3 Bf5 9. 
+g3 Ne6 10.Qd2 Bxd3 11.Qxd3 Qa5 12.O-O-O O-O-O 13.Kb1 Nf5 14.Bf2 Bh6 15.Ne2 
+Qb5 16.Qd2 f6 17.Rhe1 Rde8 18.c3 Rhg8 19.Qc2 Bf8 20.Ka1 Nh6 21.b3 Nc7 22. 
+Nc1 f5 23.c4 Qa6 24.Nd3 e6 25.Nc5 Qa3 26.Nd2 Rd8 27.Nb1 Qa5 28.Nd3 Nf7 29. 
+Re2 Qa6 30.c5 b5 31.cxb6 Qxb6 32.Rc1 Kd7 33.Nc3 Na6 34.Na4 Qb5 35.Qd1 Ba3  
+36.Rc3 Rc8 37.Rec2 Nd8 38.h3 Nb7 39.Be1 c5 40.Ndxc5+ Nbxc5 41.Nxc5+ Nxc5  
+42.dxc5 Rxc5 43.Rxc5 Bxc5 44.Bc3 Rc8 45.Bb2 Bb6 46.Rxc8 Kxc8 47.a4 Qc5 48. 
+Ka2 Qe3 49.Qf1 Qc5 50.g4 hxg4 51.hxg4 Kb7 52.gxf5 gxf5 53.Qh3 d4 54.Qh7+  
+Qc7 55.Qh1+ Qc6 56.Qh7+ Ka6 57.Qh3 Qc2 58.Qh8 d3 59.a5 Bd4 0-1 
+ 
+[Event "FSIMA March"] 
+[Site "Budapest HUN"] 
+[Date "2003.03.07"] 
+[Round "7"] 
+[White "Haznedaroglu, Kivanc"] 
+[Black "Dovzik, Juri"] 
+[Result "0-1"] 
+[WhiteElo "2283"] 
+[BlackElo "2400"] 
+[ECO "B12"] 
+[EventDate "2003.03.01"] 
+ 
+1.e4 Na6 2.d4 c6 3.Nf3 Nc7 4.Bd3 d6 5.h3 g6 6.Be3 Bg7 7.Nbd2 Nf6 8.Qe2 b6  
+9.O-O O-O 10.a4 c5 11.c3 Bb7 12.Nh2 e5 13.dxe5 dxe5 14.Ng4 Nh5 15.g3 Ne6  
+16.Nc4 f5 17.Ngxe5 f4 18.Ng4 fxe3 19.Qxe3 Ng5 20.f4 Nxh3+ 21.Kg2 N3xf4+  
+22.gxf4 Rxf4 23.Rxf4 Qxd3 24.Rf3 Qxc4 25.Re1 Qe6 26.Qg5 Re8 27.Kg1 Bc8 28. 
+Nf2 h6 29.Qd2 g5 30.Rd3 Bf6 31.Rd6 Qe5 32.Re3 Nf4 33.Qd1 Kg7 34.Rc6 Rd8  
+35.Qf3 Bd7 36.Ng4 Bxg4 37.Qxg4 h5 38.Qf5 g4 39.Re1 Rd2 0-1 
+ 
+[Event "5. Cup IM"] 
+[Site "Paks HUN"] 
+[Date "2000.08.19"] 
+[Round "1"] 
+[White "Tancsa, Robert"] 
+[Black "Dovzik, Juri"] 
+[Result "0-1"] 
+[WhiteElo "2209"] 
+[BlackElo "2386"] 
+[ECO "B12"] 
+[EventDate "2000.08.19"] 
+ 
+1.e4 Na6 2.d4 c6 3.Nf3 Nc7 4.Bd3 g6 5.O-O Bg7 6.Nc3 d6 7.h3 e5 8.Be3 Ne7  
+9.a4 Ne6 10.Bc4 O-O 11.Bb3 b6 12.a5 b5 13.d5 cxd5 14.Nxd5 Bb7 15.a6 Bc6  
+16.c3 Nc5 17.Nxe7+ Qxe7 18.Bd5 Qc7 19.Qc2 Bxd5 20.exd5 h6 21.Nd2 Nd7 22. 
+Rfc1 f5 23.f3 Rfc8 24.b4 e4 25.Qb3 Ne5 26.fxe4 Nd3 27.Rc2 f4 28.Bf2 Nxf2  
+29.Kxf2 Qb6+ 30.Kf1 Qe3 31.Rac1 f3 32.Nxf3 Rf8 33.Re1 Rxf3+ 34.gxf3 Qxf3+  
+35.Rf2 Qxh3+ 36.Ke2 Bd4 37.Rff1 Rc8 38.Qd1 Qe3# 0-1 
+ 
+[Event "Corus Reserve Group"] 
+[Site "Wijk aan Zee NED"] 
+[Date "2000.01.24"] 
+[Round "4"] 
+[White "Stellwagen, Daniel"] 
+[Black "Van Geet, Dirk Daniel"] 
+[Result "0-1"] 
+[WhiteElo "2265"] 
+[BlackElo "2346"] 
+[ECO "B12"] 
+[EventDate "2000.01.21"] 
+ 
+1.e4 Na6 2.d4 c6 3.f4 d5 4.e5 Nc7 5.Nf3 Bg4 6.Bd3 Qd7 7.h3 Bf5 8.O-O e6 9. 
+Be2 Be7 10.Nbd2 h5 11.Rf2 h4 12.Nf1 Nh6 13.Ne3 O-O-O 14.b3 Be4 15.a4 Nf5  
+16.Nxf5 exf5 17.Be3 Ne6 18.c3 Rdg8 19.c4 Kb8 20.c5 g5 21.Nxg5 Nxg5 22.fxg5 
+Bxg5 23.Bxg5 Rxg5 24.Bf3 Rhg8 25.Raa2 Qe6 26.b4 Rg3 27.Kh1 f4 28.Qf1 Qg6  
+29.Kh2 Bd3 30.Be2 Bf5 31.Bg4 Bxg4 32.hxg4 h3 33.gxh3 Qxg4 34.Rxf4 Rxh3+  
+35.Qxh3 Qg1# 0-1 

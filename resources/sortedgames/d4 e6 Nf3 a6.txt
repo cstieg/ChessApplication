@@ -1,0 +1,79 @@
+ 
+[Event "GM"] 
+[Site "Skanderborg DEN"] 
+[Date "2010.10.17"] 
+[Round "2"] 
+[White "Miton, Kamil"] 
+[Black "Drazic, Sinisa"] 
+[Result "1-0"] 
+[WhiteElo "2629"] 
+[BlackElo "2546"] 
+[ECO "A40"] 
+[EventDate "2010.10.16"] 
+ 
+1.d4 e6 2.Nf3 a6 3.e4 c5 4.d5 exd5 5.exd5 d6 6.c4 Be7 7.Nc3 Nf6 8.h3 O-O  
+9.Bd3 Re8 10.O-O Nbd7 11.a4 Nf8 12.Re1 Ng6 13.Bd2 Bd7 14.a5 Bf8 15.Na4  
+Rxe1+ 16.Bxe1 Qc7 17.Nb6 Re8 18.Qc2 Nf4 19.Nxd7 Qxd7 20.Bf5 Qd8 21.Bd2 Ng6 
+22.Ng5 Be7 23.Re1 Nf8 24.h4 g6 25.Bh3 Nh5 26.Qa4 Ng7 27.g3 h6 28.Nf3 Kh7  
+29.Qb3 Qc7 30.Qe3 h5 31.Qh6+ Kg8 32.Bc3 f6 33.Ng5 Bd8 34.Rxe8 Nxe8 35.Ne6  
+1-0 
+ 
+[Event "GM"] 
+[Site "Biel SUI"] 
+[Date "2005.07.24"] 
+[Round "7"] 
+[White "Gelfand, Boris"] 
+[Black "Bauer, Christian"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2724"] 
+[BlackElo "2641"] 
+[ECO "A40"] 
+[EventDate "2005.07.17"] 
+ 
+1.d4 e6 2.Nf3 a6 3.e4 d5 4.exd5 exd5 5.c4 Nf6 6.Nc3 Bb4 7.Bg5 O-O 8.Be2  
+dxc4 9.O-O Bxc3 10.bxc3 b5 11.a4 Bb7 12.axb5 axb5 13.Rb1 Ra5 14.Ne5 Be4  
+15.Rb2 Qd6 16.f3 Bf5 17.Bxc4 bxc4 18.Nxc4 Qa6 19.Nxa5 Qxa5 20.Bxf6 gxf6  
+21.Qd2 Nc6 22.Ra2 Qd5 23.Rfa1 Kg7 24.Qf4 Rc8 25.Ra6 Bg6 26.h4 h5 27.Kh2  
+Qd6 28.Qg3 Qd5 29.Qf4 Qd6 30.Qxd6 cxd6 31.d5 Ne5 32.Rxd6 Rxc3 33.Rd1 Rc4  
+34.Kg3 f5 35.Rd2 f4+ 36.Kh2 Rc3 37.Re2 Re3 38.Ra2 Bf5 39.Ra4 Ng6 40.Rb6  
+Rd3 41.d6 Rd2 42.Rbb4 Rxd6 43.Ra5 Kf6 44.Kg1 Rd1+ 45.Kh2 Re1 46.Rb6+ Re6  
+47.Rb4 Re2 48.Rb6+ Re6 49.Rb4 Re5 50.Rxe5 Kxe5 51.Rb5+ Kf6 52.Rb6+ Be6 53. 
+Rb5 Ne5 54.Kg1 Bd7 55.Rb6+ Bc6 56.Ra6 Ke6 57.Ra5 f6 58.Kh2 Be8 59.Ra6+ Kf5 
+60.Ra5 Kg6 61.Ra8 Kf7 62.Ra7+ Kf8 63.Ra5 Kg7 64.Kg1 Bf7 65.Ra4 Ng6 66.Kf2  
+f5 67.Rb4 Kf6 68.Ra4 Be6 69.Rb4 Bf7 70.Rb6+ Ke5 71.Rb7 1/2-1/2 
+ 
+[Event "ACP Blitz Prelim1"] 
+[Site "playchess.com INT"] 
+[Date "2004.04.12"] 
+[Round "15"] 
+[White "Agababean, Naira"] 
+[Black "Pelletier, Yannick"] 
+[Result "0-1"] 
+[WhiteElo "2216"] 
+[BlackElo "2581"] 
+[ECO "A40"] 
+[EventDate "2004.04.12"] 
+ 
+1.d4 e6 2.Nf3 a6 3.g3 b5 4.Bg2 Bb7 5.O-O Nf6 6.Nbd2 Be7 7.Re1 O-O 8.e4 d6  
+9.c3 Nbd7 10.e5 Nd5 11.Ne4 h6 12.h4 dxe5 13.dxe5 c5 14.b3 Qc7 15.Bb2 c4  
+16.bxc4 bxc4 17.Bc1 Rad8 18.Qc2 Bc6 19.a4 Nxe5 20.Nxe5 Qxe5 21.Ng5 Qxe1+  
+0-1 
+ 
+[Event "21. TCh-CRO 1b 2012"] 
+[Site "Sibenik CRO"] 
+[Date "2012.09.25"] 
+[Round "3.3"] 
+[White "Maras, Mile"] 
+[Black "Vlaic, Branko"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2243"] 
+[BlackElo "2225"] 
+[ECO "C07"] 
+[EventDate "2012.09.23"] 
+ 
+1.d4 e6 2.Nf3 a6 3.e4 d5 4.Nbd2 c5 5.dxc5 Bxc5 6.Bd3 Nf6 7.Qe2 Nc6 8.O-O  
+Nb4 9.e5 Nxd3 10.cxd3 Nd7 11.Nb3 Be7 12.Be3 b6 13.Rfc1 Bb7 14.Nbd4 Rc8 15. 
+Rxc8 Qxc8 16.Rc1 Qa8 17.a3 O-O 18.Rc7 Rd8 19.Bg5 Kf8 20.Bxe7+ Kxe7 21.Qe3  
+h6 22.Qf4 Qb8 23.Nc6+ Bxc6 24.Rxc6 Rc8 25.Qb4+ Kd8 26.Rc3 Rc5 27.d4 Rxc3  
+28.Qxc3 Qc7 29.Qd2 Qc4 30.h3 Nb8 31.Qf4 Ke8 32.Qe3 Nc6 33.b3 Qc2 34.Kh2  
+Na5 35.Nd2 b5 36.h4 Qc1 37.b4 Nc4 38.Nxc4 Qxc4 1/2-1/2 

@@ -1,0 +1,81 @@
+ 
+[Event "11. Kheireddine Ameyar Mem 2012"] 
+[Site "Algiers ALG"] 
+[Date "2012.11.18"] 
+[Round "5.5"] 
+[White "Zaibi, Amir"] 
+[Black "Barsov, Alexei"] 
+[Result "0-1"] 
+[WhiteElo "2271"] 
+[BlackElo "2508"] 
+[ECO "A00"] 
+[EventDate "2012.11.16"] 
+ 
+1.e3 d5 2.b3 e5 3.Bb2 Bd6 4.c4 Nf6 5.cxd5 Nxd5 6.Nc3 Nxc3 7.dxc3 O-O 8.Qc2 
+Qe7 9.Bd3 f5 10.e4 Nd7 11.b4 a5 12.a3 fxe4 13.Bxe4 Nf6 14.Bd3 e4 15.Bc4+  
+Kh8 16.O-O-O Ng4 17.Nh3 Bf5 18.Rhe1 Ne5 19.Bb5 e3 20.Qe2 Bxh3 21.gxh3 exf2 
+22.Rf1 c6 23.Bd3 Nxd3+ 24.Qxd3 Rad8 25.Qc2 Bf4+ 26.Kb1 Rxd1+ 27.Qxd1 Bxh2  
+28.bxa5 Bg3 29.Qd3 Qe1+ 30.Ka2 Be5 31.h4 h6 32.h5 Bf6 33.Qc4 Rd8 34.a4 Rd2 
+35.a6 bxa6 36.Qxc6 Qe2 37.Rxf2 Rxb2+ 38.Ka1 Ra2+ 39.Kb1 Qe1+ 40.Kxa2 Qxf2+ 
+41.Kb3 Qf5 42.Qe8+ Kh7 43.a5 Qd3 44.Qc6 Bd8 45.Kb4 Qb1+ 46.Kc4 Bxa5 47.Qc8 
+Qb5+ 48.Kd4 Qxh5 49.c4 Bb6+ 50.Kc3 a5 51.Qc6 Bc5 52.Qe4+ Qg6 53.Qd5 0-1 
+ 
+[Event "32. World Open"] 
+[Site "Philadelphia, PA USA"] 
+[Date "2004.07.03"] 
+[Round "5"] 
+[White "Blatny, Pavel"] 
+[Black "Kaufman, Larry C"] 
+[Result "0-1"] 
+[WhiteElo "2460"] 
+[BlackElo "2364"] 
+[ECO "A00"] 
+[EventDate "2004.07.01"] 
+ 
+1.e3 d5 2.b3 e5 3.Bb2 Nd7 4.d3 Ngf6 5.Nd2 Bd6 6.g3 O-O 7.Bg2 c6 8.Ne2 Re8  
+9.a3 Nc5 10.h3 Bf5 11.b4 Na4 12.Bc1 a5 13.e4 dxe4 14.dxe4 Be6 15.c3 b5 16. 
+O-O Qd7 17.g4 Bc7 18.Qc2 Red8 19.f4 exf4 20.Nf3 Bc4 21.Ned4 Bxf1 22.Bxf1  
+Re8 23.Bd3 Rad8 24.e5 Rxe5 25.Bxf4 Rd5 26.Be3 Re8 27.Bf2 Nxg4 28.Bxh7+ Kh8 
+29.Bf5 Rxf5 30.Nxf5 Nxf2 31.Kxf2 Nxc3 32.Re1 Rxe1 33.Kxe1 axb4 34.axb4  
+Qe6+ 35.Kf1 Qc4+ 36.Kg2 Qa2 37.N3d4 Qxc2+ 38.Nxc2 Nd5 39.Kf3 g6 40.Nfd4  
+Ne7 41.Ke4 Kg7 42.Nb3 Bd6 43.Na5 f5+ 44.Kd4 Kf6 45.Nb7 Bg3 46.Ke3 Ke5 47. 
+Kf3 Bh2 48.Nc5 Kd5 49.Ne3+ Kd4 0-1 
+ 
+[Event "31. World Open"] 
+[Site "Philadelphia, PA USA"] 
+[Date "2003.07.03"] 
+[Round "4"] 
+[White "Sharafuddin, Khalle"] 
+[Black "Stripunsky, Alexander"] 
+[Result "0-1"] 
+[WhiteElo "2315"] 
+[BlackElo "2567"] 
+[ECO "A00"] 
+[EventDate "2003.06.30"] 
+ 
+1.e3 d5 2.b3 e5 3.Bb2 Nc6 4.Bb5 f6 5.c4 a6 6.Ba4 Be6 7.Qe2 Kf7 8.Nf3 Nb4  
+9.O-O dxc4 10.bxc4 Nd3 11.Bc3 Bxc4 12.Ne1 b5 13.Bb3 Bxb3 14.axb3 Nxe1 15. 
+Rxe1 Bd6 16.d4 exd4 17.exd4 Ne7 18.Qe6+ Kf8 19.Nd2 Qc8 20.Qe4 Kf7 21.Qd3  
+Re8 22.Ne4 Kg8 23.Nxd6 cxd6 24.Bb4 Qd7 25.h3 Ng6 26.Rxe8+ Rxe8 27.Rxa6 Nf4 
+28.Qf3 Qf5 29.h4 Ne2+ 30.Kh2 Qb1 31.g3 Qg1+ 32.Kh3 Nxd4 33.Qg2 Qd1 34.Rxd6 
+h5 35.Kh2 Qg4 36.Bc3 Nf3+ 37.Kh1 Re2 0-1 
+ 
+[Event "IRI Ch"] 
+[Site "Tehran IRI"] 
+[Date "2002.07.30"] 
+[Round "5"] 
+[White "Khaghani, Mehdi"] 
+[Black "Nasri, Amin"] 
+[Result "1-0"] 
+[WhiteElo "2276"] 
+[BlackElo "2254"] 
+[ECO "A00"] 
+[EventDate "2002.07.28"] 
+ 
+1.e3 d5 2.b3 e5 3.Bb2 Bd6 4.f4 exf4 5.Bb5+ Kf8 6.Nf3 Nf6 7.O-O Bg4 8.Qe1  
+c6 9.Bd3 Nbd7 10.exf4 Qb6+ 11.Kh1 Re8 12.Qh4 h5 13.Nc3 Ne4 14.Bxe4 dxe4  
+15.Ng5 Bf5 16.Rae1 Qd8 17.Ncxe4 Bxe4 18.Rxe4 Nc5 19.Rxe8+ Qxe8 20.Re1 Qd7  
+21.Qg3 f6 22.Ne4 Nxe4 23.Rxe4 Qg4 24.d4 Qxg3 25.hxg3 Kf7 26.Kg1 f5 27.Re2  
+h4 28.Kf2 hxg3+ 29.Kxg3 g5 30.Bc1 Rh4 31.Kf3 gxf4 32.c4 Rg4 33.Rd2 Rg3+  
+34.Kf2 b6 35.Rc2 Bc7 36.Ba3 Rd3 37.Re2 Bd8 38.Re5 Rd2+ 39.Kf3 Rxa2 40.Bc1  
+Kf6 41.Re8 Be7 42.Bxf4 Rb2 43.Be5+ Ke6 44.d5+ cxd5 45.Bxb2 1-0 

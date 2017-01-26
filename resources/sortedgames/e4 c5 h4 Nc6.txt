@@ -1,0 +1,18 @@
+ 
+[Event "Hanoi VIE, Ch U9 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.13"] 
+[Round "2.34"] 
+[White "Nguyen, Le Trong Nghia"] 
+[Black "Diep, Tuong Nghiem"] 
+[Result "0-1"] 
+[WhiteElo "2533"] 
+[BlackElo "2561"] 
+[ECO "B20"] 
+[EventDate "2012.07.12"] 
+ 
+1.e4 c5 2.h4 Nc6 3.Rh3 d5 4.exd5 Bxh3 5.gxh3 Qxd5 6.Be2 Qh1 7.Bf3 Qxg1+ 8. 
+Ke2 Qxd1+ 9.Kxd1 Nf6 10.h5 e6 11.d3 Bd6 12.Bg5 Nd5 13.Bxd5 exd5 14.c4 dxc4 
+15.dxc4 O-O 16.Nc3 f6 17.Be3 Rad8 18.Ne4 Be5+ 19.Kc1 Bd4 20.Bxd4 cxd4 21. 
+b4 Rfe8 22.Nd2 Re1+ 23.Kb2 Rxa1 24.Kxa1 Nxb4 25.c5 d3 26.Kb2 Na6 27.f4  
+Nxc5 0-1 

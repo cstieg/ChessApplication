@@ -1,0 +1,137 @@
+ 
+[Event "Hotel Sajam 14 GM 2016"] 
+[Site "Novi Sad SRB"] 
+[Date "2016.02.18"] 
+[Round "8.1"] 
+[White "Fang, Yuxiang"] 
+[Black "Drazic, Sinisa"] 
+[Result "1-0"] 
+[WhiteElo "2448"] 
+[BlackElo "2424"] 
+[ECO "A40"] 
+[EventDate "2016.02.13"] 
+ 
+1.d4 b5 2.c3 e6 3.e4 Bb7 4.Nd2 b4 5.Ngf3 a5 6.Bd3 c5 7.O-O Na6 8.Re1 bxc3  
+9.bxc3 cxd4 10.cxd4 Bb4 11.a3 Bc3 12.Rb1 Qc7 13.Qb3 Bc8 14.Bc4 Bxd2 15. 
+Bxd2 Ne7 16.Rec1 Rb8 17.Qd3 Rxb1 18.Rxb1 Nb8 19.d5 exd5 20.exd5 d6 21.Bb5+ 
+Bd7 22.Bxd7+ Nxd7 23.Re1 Nc5 24.Qe2 Qd7 25.Bxa5 f6 26.Nd4 Kf7 27.Ne6 Ra8  
+28.Bb4 Ng6 29.Nxc5 dxc5 30.Qe6+ Qxe6 31.dxe6+ Ke8 32.Bxc5 Rc8 33.Bb4 Ne5  
+34.h3 Nd3 35.Rd1 Nxb4 36.axb4 Rc7 37.Kh2 Ke7 38.Rd7+ Rxd7 39.exd7 Kxd7 40. 
+Kg3 1-0 
+ 
+[Event "13. Kesarovski-Stanchev"] 
+[Site "Sunny Beach BUL"] 
+[Date "2014.09.08"] 
+[Round "3.7"] 
+[White "Vasilev, Milen"] 
+[Black "Badev, Kiril"] 
+[Result "0-1"] 
+[WhiteElo "2486"] 
+[BlackElo "2322"] 
+[ECO "A40"] 
+[EventDate "2014.09.06"] 
+ 
+1.d4 b5 2.c3 e6 3.Bf4 Nf6 4.Nd2 Bb7 5.Qb3 a6 6.a4 b4 7.Ngf3 c5 8.e3 Nc6 9. 
+cxb4 cxd4 10.b5 Na5 11.Qd1 Bb4 12.exd4 Bxf3 13.Qxf3 Nd5 14.O-O-O Qf6 15. 
+Be3 Qg6 16.Ne4 Rc8+ 17.Kb1 Nxe3 18.fxe3 d5 19.Bd3 dxe4 20.Bxe4 f5 21.Bd3  
+axb5 22.Bxb5+ Kf7 23.d5 Rhd8 24.Qf4 Qg4 25.Qxg4 fxg4 26.e4 e5 27.Rhf1+ Ke7 
+28.Rf5 Kd6 29.Rf7 Nb3 30.Rxg7 Nd2+ 31.Ka2 Nxe4 32.Rxh7 Nf6 33.Rh6 Ke7 34. 
+Kb3 Bc5 35.Rf1 Rd6 36.Bc6 Be3 37.Rg6 Rh8 38.Rg7+ Kf8 39.Rxg4 Bf4 40.Rfxf4  
+exf4 41.Rxf4 Ke7 42.Kc4 Rc8 43.Kb5 Nxd5 44.Rc4 Rb8+ 45.Kc5 Nc7 46.Bb5 Nxb5 
+47.axb5 Rc8+ 0-1 
+ 
+[Event "Caissa GM April 2014"] 
+[Site "Kecskemet HUN"] 
+[Date "2014.04.22"] 
+[Round "5.3"] 
+[White "Becskei, Zoltan"] 
+[Black "Fernandez, Daniel Howard"] 
+[Result "1-0"] 
+[WhiteElo "2389"] 
+[BlackElo "2380"] 
+[ECO "A40"] 
+[EventDate "2014.04.18"] 
+ 
+1.d4 b5 2.c3 e6 3.e4 Bb7 4.Nd2 a6 5.Ngf3 c5 6.Bd3 d6 7.O-O Nd7 8.Qe2 Be7  
+9.b3 Ngf6 10.a4 b4 11.Bb2 bxc3 12.Bxc3 cxd4 13.Bxd4 e5 14.Bb2 Nc5 15.Bc2  
+O-O 16.Ba3 Rc8 17.a5 Ne6 18.Nc4 Nf4 19.Qe3 Qd7 20.h3 Nxh3+ 21.gxh3 Qxh3  
+22.Nfd2 Qh5 23.f3 Qh3 24.Rf2 Nh5 25.Rh2 Qg3+ 26.Rg2 Qh3 27.Nf1 Nf4 28.Rh2  
+Qe6 29.Kh1 Bc6 30.Ng3 Bb5 31.Nf5 Bxc4 32.bxc4 g6 33.Rg1 Kh8 34.Nxe7 Qxe7  
+35.Bb3 Qc7 36.Qe1 Rb8 37.Ba2 f5 38.Qh4 Nh5 39.exf5 Rxf5 40.Qe4 Rf4 41.Qd5  
+Rd4 42.Qe6 Qc6 43.Qf7 Rf4 44.Qd5 Qxd5 45.cxd5 Rd8 46.Bb1 Rxf3 47.Bxg6 Nf6  
+48.Bb4 Rb3 49.Bd2 Rg8 50.Bf5 Rxg1+ 51.Kxg1 Rb5 52.Bg5 Kg7 53.Rh6 Rb3 54. 
+Kf2 Rb2+ 55.Kf1 Nxd5 56.Rxh7+ Kf8 57.Ra7 Nb4 58.Bg6 Nc6 59.Rc7 Rb3 60.Bh6+ 
+1-0 
+ 
+[Event "Yuzhny Open"] 
+[Site "Yuzhny UKR"] 
+[Date "2011.09.05"] 
+[Round "5.2"] 
+[White "Kovalenko, Igor"] 
+[Black "Gubanov, Oleg"] 
+[Result "1-0"] 
+[WhiteElo "2578"] 
+[BlackElo "2361"] 
+[ECO "A40"] 
+[EventDate "2011.09.03"] 
+ 
+1.d4 b5 2.c3 e6 3.e4 Bb7 4.f3 a6 5.Be3 Nf6 6.Nd2 Be7 7.Bd3 d6 8.a4 bxa4 9. 
+Qxa4+ Nfd7 10.Ne2 O-O 11.O-O c5 12.Qc2 h6 13.Ra2 cxd4 14.Nxd4 d5 15.Rfa1  
+Nc5 16.e5 Nxd3 17.Qxd3 Nd7 18.f4 Rc8 19.N2b3 Nc5 20.Nxc5 Bxc5 21.Nb3 Bxe3+ 
+22.Qxe3 d4 23.Nxd4 Qd5 24.Qe2 Rc5 25.Ra3 g5 26.b4 Rc7 27.fxg5 Rfc8 28.gxh6 
+Kh8 29.Rf1 Rg8 30.Rf2 Rg6 31.Ra5 Qd8 32.Rc5 Rd7 33.Qe3 Qh4 34.b5 axb5 35. 
+Rxb5 Rxh6 36.Qf4 Qh5 37.h3 Rg6 38.Kh2 Kg7 39.Rb1 Bd5 40.Re1 Rc7 41.Re3 Kh7 
+42.Nb5 Rc8 43.Qxf7+ Kh8 44.Rg3 Rcg8 45.Rf6 1-0 
+ 
+[Event "ch-PriFO"] 
+[Site "Kazan RUS"] 
+[Date "2009.01.25"] 
+[Round "5"] 
+[White "Svetlov, Dmitry"] 
+[Black "Dimukhametov, Artur"] 
+[Result "1-0"] 
+[WhiteElo "2328"] 
+[BlackElo "2250"] 
+[ECO "A40"] 
+[EventDate "2009.01.21"] 
+ 
+1.d4 b5 2.c3 e6 3.Qb3 a6 4.e4 Bb7 5.Nd2 c5 6.Ngf3 Qc7 7.Be2 Nf6 8.e5 Nd5  
+9.Ne4 cxd4 10.cxd4 Nb4 11.Nc3 N8c6 12.O-O Be7 13.a4 bxa4 14.Rxa4 O-O 15.d5 
+exd5 16.Nxd5 Nxd5 17.Qxd5 d6 18.exd6 Bxd6 19.Qh5 Nb4 20.Bd2 a5 21.Nd4 Qd7  
+22.Rxa5 Bxh2+ 23.Qxh2 Qxd4 24.Bc3 Qe4 25.Re5 Qg6 26.Bxb4 Rfe8 27.Bh5 Qd3  
+28.Bc3 g6 29.Rfe1 Red8 30.Re7 Qd5 31.Bf3 1-0 
+ 
+[Event "UKR Ch sf"] 
+[Site "Alushta UKR"] 
+[Date "2005.05.18"] 
+[Round "3"] 
+[White "Hermanov, Alexander"] 
+[Black "Tarlev, Konstantin"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2323"] 
+[BlackElo "2384"] 
+[ECO "A40"] 
+[EventDate "2005.05.16"] 
+ 
+1.d4 b5 2.c3 e6 3.Nf3 Bb7 4.Qb3 a6 5.a4 b4 6.Bg5 Nf6 7.Nbd2 Nc6 8.a5 Be7  
+9.e4 d5 10.Bxf6 Bxf6 11.Bd3 dxe4 12.Nxe4 Be7 13.O-O O-O 14.Rfd1 Rb8 15.Qc2 
+Qd5 16.Ng3 g6 17.Qe2 Rfd8 18.Bc4 Qd7 19.h4 Kg7 20.Ne4 Ra8 21.Neg5 Bf6 22. 
+Ne4 Be7 23.Nfg5 h6 24.Nf3 Bd6 25.Qe3 Ne7 26.Ne5 Nf5 27.Qe2 Qe7 28.h5 g5  
+29.Nd3 Bd5 30.Ndc5 1/2-1/2 
+ 
+[Event "Hotel Irottko GM"] 
+[Site "Koszeg HUN"] 
+[Date "2000.??.??"] 
+[Round "1"] 
+[White "Kraai, Jesse"] 
+[Black "Csom, Istvan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2421"] 
+[BlackElo "2464"] 
+[ECO "A40"] 
+ 
+1.d4 b5 2.c3 e6 3.Qb3 a6 4.a4 b4 5.Nf3 c5 6.Nbd2 Nc6 7.e3 Nf6 8.Be2 bxc3  
+9.bxc3 Rb8 10.Qc2 cxd4 11.cxd4 Nb4 12.Qd1 Nfd5 13.Bb2 Be7 14.O-O O-O 15. 
+Nc4 a5 16.Qd2 Bb7 17.Rfc1 Nf6 18.Nfe5 Ne4 19.Qe1 Bh4 20.g3 Be7 21.Ba3 f6  
+22.Nf3 Bc6 23.Qd1 Rb7 24.Ncd2 Qa8 25.Nxe4 Bxe4 26.Nd2 Bc6 27.Bf3 d5 28.Nb1 
+Rc8 29.Nc3 Rbc7 1/2-1/2 

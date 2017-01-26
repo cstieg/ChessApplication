@@ -1,0 +1,77 @@
+ 
+[Event "4. OCF Thanksgiving"] 
+[Site "Stillwater USA"] 
+[Date "2012.11.23"] 
+[Round "3.1"] 
+[White "Langer, Michael"] 
+[Black "Wall, Brian D"] 
+[Result "1-0"] 
+[WhiteElo "2219"] 
+[BlackElo "2202"] 
+[ECO "B00"] 
+[EventDate "2012.11.23"] 
+ 
+1.e4 a6 2.d4 g6 3.f4 Bg7 4.Nf3 d6 5.Bd3 c5 6.dxc5 Qa5+ 7.c3 Qxc5 8.Qe2 Bg4 
+9.Be3 Qc7 10.Nbd2 Nd7 11.h3 Bxf3 12.Nxf3 Ngf6 13.O-O-O e5 14.Bc2 O-O 15.g4 
+exf4 16.Bxf4 Ne5 17.Nxe5 dxe5 18.Bg5 Nd7 19.Be7 Rfe8 20.Bd6 Qa5 21.Kb1 Nf8 
+22.Rdf1 b5 23.Qf2 Ne6 24.Qxf7+ Kh8 25.Bb4 1-0 
+ 
+[Event "Karen Asrian Memorial"] 
+[Site "Jermuk ARM"] 
+[Date "2010.10.08"] 
+[Round "4"] 
+[White "Paikidze, Nazi"] 
+[Black "Gharagyozyan, Artur"] 
+[Result "1-0"] 
+[WhiteElo "2376"] 
+[BlackElo "2207"] 
+[ECO "B00"] 
+[EventDate "2010.10.05"] 
+ 
+1.e4 a6 2.d4 g6 3.c4 Bg7 4.Nf3 d6 5.h3 c5 6.d5 Nf6 7.Nc3 O-O 8.Bd3 e5 9.g4 
+b6 10.Bg5 h6 11.Be3 Ne8 12.Rg1 Kh7 13.h4 Ra7 14.h5 g5 15.Qd2 Bf6 16.a3 Bd7 
+17.Nh2 Qc8 18.f3 Bd8 19.Kf2 Rb7 20.Qe2 Be7 21.Nf1 Nc7 22.Ng3 f6 23.b4 b5  
+24.bxc5 dxc5 25.Rgb1 b4 26.axb4 cxb4 27.Na2 Na8 28.Nc1 Nb6 29.Nb3 Na4 30. 
+Nf5 Rf7 31.Nxe7 Rxe7 32.Rxa4 Bxa4 33.Nc5 Be8 34.Nxb7 Rxb7 35.c5 a5 36.Ba6  
+Nxa6 37.Qxa6 Qc7 38.Qxf6 b3 39.d6 Qg7 40.Qf5+ Kh8 41.c6 Rf7 42.d7 Bxd7 43. 
+cxd7 Rxf5 44.d8=Q+ Rf8 45.Qd6 a4 46.Bc5 Rc8 47.Kg3 Kh7 48.Ba3 Qf7 49.Qxe5  
+Rc2 50.Bb2 Qc7 51.Qxc7+ Rxc7 52.Rc1 Rf7 53.Rc8 Rg7 54.Bxg7 Kxg7 55.Rb8 1-0 
+ 
+[Event "UKR Ch"] 
+[Site "Alushta UKR"] 
+[Date "2010.05.06"] 
+[Round "4"] 
+[White "Goreskul, Alyona"] 
+[Black "Kislinsky, Alexey"] 
+[Result "0-1"] 
+[WhiteElo "2228"] 
+[BlackElo "2472"] 
+[ECO "B00"] 
+[EventDate "2010.05.03"] 
+ 
+1.e4 a6 2.d4 g6 3.Bd3 Bg7 4.c3 Nf6 5.Nf3 O-O 6.O-O d6 7.Re1 Nc6 8.e5 dxe5  
+9.dxe5 Ng4 10.Bf4 Qd5 11.Qe2 Be6 12.Nbd2 Rad8 13.Be4 Qc5 14.Bxc6 Qxc6 15. 
+Nd4 Qb6 16.Nxe6 Qxe6 17.Nf3 Rd5 18.h3 Nh6 19.Nd4 Qc8 20.Rad1 Rfd8 21.Nf3  
+c6 22.Rxd5 Rxd5 23.Rd1 Rxd1+ 24.Qxd1 Bf8 25.g4 Kg7 26.Bxh6+ Kxh6 27.Qd4 e6 
+28.Ng5 Kg7 29.Ne4 c5 30.Qd3 c4 31.Qd4 Qc6 32.f3 Be7 33.f4 Qb5 34.Qd2 Qa5  
+35.a3 Qd5 36.Qxd5 exd5 37.Nd2 Bc5+ 38.Kf1 Be3 39.Ke2 Bxf4 0-1 
+ 
+[Event "Lviv UKR, Vasylyshyn Memorial 07"] 
+[Site "Lvov UKR"] 
+[Date "2007.11.09"] 
+[Round "14"] 
+[White "Zherebukh, Yaroslav"] 
+[Black "Kislinsky, Alexey"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2450"] 
+[BlackElo "2436"] 
+[ECO "B08"] 
+[EventDate "2007.11.01"] 
+ 
+1.e4 a6 2.d4 g6 3.a4 Bg7 4.Nc3 d6 5.Nf3 Nf6 6.Be2 O-O 7.O-O b6 8.Be3 Bb7  
+9.Nd2 Nc6 10.d5 Nb4 11.Bc4 c6 12.Nf3 Nxe4 13.Nxe4 cxd5 14.Nxd6 Qxd6 15.Be2 
+Bxb2 16.Rb1 Bg7 17.Qd2 a5 18.c3 d4 19.Nxd4 Nd5 20.Nb5 Qe5 21.Bd4 Qf4 22. 
+Rfd1 e5 23.Be3 Nxe3 24.Qxe3 Qxe3 25.fxe3 Bh6 26.Kf2 Bc6 27.Rd6 Rfc8 28.Bg4 
+f5 29.Bxf5 Rf8 30.Rxc6 Rxf5+ 31.Ke2 Raf8 32.Re6 Rf2+ 33.Kd3 Rxg2 34.Rxe5  
+Rxh2 35.Nd6 Rd8 36.Rxb6 Bf8 37.Re6 g5 38.Ke4 Bxd6 39.Rbxd6 Rxd6 40.Rxd6  
+Rf2 41.Rd5 h6 42.Rf5 Rc2 43.Rxa5 Rxc3 44.Ra7 h5 1/2-1/2 

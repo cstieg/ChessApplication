@@ -1,0 +1,20 @@
+ 
+[Event "Hanoi VIE, Ch U9 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.13"] 
+[Round "3.31"] 
+[White "Nguyen, Cong Nam"] 
+[Black "Pham, Anh Dang"] 
+[Result "1-0"] 
+[WhiteElo "2579"] 
+[BlackElo "2545"] 
+[ECO "C00"] 
+[EventDate "2012.07.12"] 
+ 
+1.e4 e6 2.d4 Nh6 3.c4 Bb4+ 4.Nd2 d5 5.cxd5 exd5 6.e5 Ng4 7.Nf3 O-O 8.Be2  
+f6 9.exf6 Qxf6 10.h3 Bd6 11.O-O Nh6 12.Nb3 Kh8 13.Bg5 Qg6 14.Qd2 Rg8 15. 
+Nh4 Qe6 16.Qe3 Qd7 17.Qf3 Qe6 18.Rfe1 b6 19.Bc4 Qd7 20.Bxd5 c6 21.Bxg8  
+Nxg8 22.Bf4 Be7 23.Qg3 Bb4 24.Red1 Be7 25.Bxb8 Rxb8 26.Nf3 Bd6 27.Ne5 Qc7  
+28.Nf7+ Qxf7 29.Qxd6 Qb7 30.Rac1 Bd7 31.d5 cxd5 32.Qxd5 Bc6 33.Qxc6 Qf7  
+34.Qc7 Rf8 35.Qxf7 Rxf7 36.Rd8 Re7 37.Rcc8 Re1+ 38.Kh2 h6 39.Rxg8+ Kh7 40. 
+Rce8 Rxe8 41.Rxe8 a5 1-0 

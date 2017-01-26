@@ -1,0 +1,81 @@
+ 
+[Event "It (cat.2) (b)"] 
+[Site "Budapest HUN"] 
+[Date "2006.12.03"] 
+[Round "2"] 
+[White "Vukovic, Ivo"] 
+[Black "Valenti, Giuseppe"] 
+[Result "0-1"] 
+[WhiteElo "2305"] 
+[BlackElo "2252"] 
+[ECO "A04"] 
+ 
+1.Nf3 c5 2.b3 e6 3.Bb2 Nf6 4.g3 b6 5.Bg2 Bb7 6.O-O Be7 7.d3 Qc7 8.e4 Nc6  
+9.Re1 O-O 10.Nbd2 d5 11.e5 Nd7 12.Qe2 Rfe8 13.h4 b5 14.h5 a5 15.Nf1 a4 16. 
+N1h2 c4 17.dxc4 bxc4 18.bxc4 Ba6 19.Ng4 Bxc4 20.Qd2 a3 21.Bc3 Rab8 22.Bh3  
+Nc5 23.h6 Ne4 24.Qe3 Bc5 25.Qf4 f5 26.exf6 Qxf4 27.gxf4 Nxc3 28.hxg7 h5  
+29.Nh6+ Kh7 30.Rxe6 Rxe6 31.Bxe6 Kxh6 32.g8=Q Rxg8+ 33.Bxg8 Ne2+ 34.Kh2  
+Nxf4 35.Rg1 Ng6 36.Bf7 Nce5 37.Nxe5 Nxe5 38.Rg7 Bxf2 39.Be6 Bxa2 40.Rg8  
+Bc4 41.f7 Nxf7 42.Bxf7 a2 43.Ra8 Bd4 0-1 
+ 
+[Event "5. Open"] 
+[Site "Ubeda ESP"] 
+[Date "2000.01.22"] 
+[Round "4"] 
+[White "Stocek, Jiri"] 
+[Black "Ippolito, Dean"] 
+[Result "1-0"] 
+[WhiteElo "2496"] 
+[BlackElo "2373"] 
+[ECO "A04"] 
+[EventDate "2000.01.19"] 
+ 
+1.Nf3 c5 2.b3 e6 3.Bb2 Nf6 4.e3 b6 5.d4 Bb7 6.Bd3 cxd4 7.exd4 Be7 8.O-O  
+O-O 9.Nbd2 Nd5 10.Re1 f5 11.c4 Nf4 12.Bf1 Bf6 13.g3 Ng6 14.Qe2 Nc6 15.Bg2  
+Qc7 16.Rad1 Rae8 17.h4 d6 18.Ng5 Bxg5 19.hxg5 e5 20.dxe5 dxe5 21.c5 Nd4  
+22.Bxd4 Bxg2 23.cxb6 axb6 24.Kxg2 exd4 25.Qc4+ Qxc4 26.Nxc4 Rd8 27.f4 b5  
+28.Na5 Rc8 29.Rxd4 Rc2+ 30.Kf3 Rxa2 31.Nc6 Rc8 32.Rd8+ Rxd8 33.Nxd8 Rd2  
+34.Re8+ Nf8 35.Nc6 Rd3+ 36.Re3 Rd7 37.Ke2 g6 38.Re5 Rc7 39.Nd4 b4 40.Re8  
+Rb7 41.Kd3 Kf7 42.Re2 Kg7 43.Kc4 h6 44.gxh6+ Kxh6 45.Nf3 Nd7 46.Re6 Kh5  
+47.Rd6 Rc7+ 48.Kxb4 Nc5 49.Ne5 g5 50.Rf6 Rb7+ 51.Kxc5 Rxb3 52.Rf8 Kh6 53. 
+Rxf5 Rxg3 54.fxg5+ Kh5 55.g6+ Kh6 56.Kd5 Kg7 57.Ke6 Kg8 58.Rf1 Kg7 59.Ra1  
+Kg8 60.Kf6 1-0 
+ 
+[Event "2. ShakkiNet IM"] 
+[Site "Helsinki FIN"] 
+[Date "2000.07.11"] 
+[Round "2"] 
+[White "Kiik, Kalle"] 
+[Black "Gamback, Bjorn"] 
+[Result "1-0"] 
+[WhiteElo "2445"] 
+[BlackElo "2235"] 
+[ECO "B40"] 
+[EventDate "2000.07.10"] 
+ 
+1.Nf3 c5 2.b3 e6 3.e4 b6 4.Bb2 Bb7 5.Nc3 Be7 6.Be2 d6 7.d4 cxd4 8.Qxd4 Nf6 
+9.Bb5+ Nc6 10.Qa4 Qc7 11.Nd4 Rc8 12.Qxa7 O-O 13.Bxc6 Bxc6 14.Qxc7 Rxc7 15. 
+f3 Rfc8 16.Nce2 d5 17.e5 Nd7 18.f4 Bb7 19.Kd2 Ba6 20.Rac1 Nc5 21.Ke3 f6  
+22.h4 fxe5 23.fxe5 Bf8 24.Nf4 g6 25.g4 Bg7 26.Nf3 Nd7 27.c4 Nc5 28.cxd5  
+exd5 29.b4 Na4 30.Rxc7 Rxc7 31.Rc1 Rc4 32.Rxc4 Bxc4 33.Bd4 Bxa2 34.Ne6  
+Bh6+ 35.g5 Bf8 36.Nxf8 Kxf8 37.Nh2 Kf7 38.Ng4 Ke6 39.Nf6 Nc5 40.bxc5 bxc5  
+41.Bxc5 Kxe5 42.Bd4+ Kf5 43.Kf3 Bb3 44.Nxh7 Bd1+ 45.Ke3 Kg4 46.Nf6+ Kf5  
+47.Nxd5 Ke6 48.Nc3 Bc2 49.Kf4 Bd3 50.Bf2 Bc2 51.Bg3 Bd3 52.Ke3 Bc2 53.Kd4  
+Bb3 54.Kc5 Kd7 55.Ne2 Bd1 56.Nd4 Bg4 57.Kd5 Ke7 58.Bd6+ Kf7 59.Bb4 Bh3 60. 
+Ke5 Bg4 61.Nc6 Bh3 62.Nd8+ Ke8 63.Kf6 1-0 
+ 
+[Event "Open"] 
+[Site "Bucharest ROU"] 
+[Date "2005.09.20"] 
+[Round "5"] 
+[White "Vajda, Albert"] 
+[Black "Rogozenco, Dorian"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2439"] 
+[BlackElo "2517"] 
+[ECO "E14"] 
+[EventDate "2005.09.17"] 
+ 
+1.Nf3 c5 2.b3 e6 3.Bb2 Nf6 4.e3 b6 5.d4 Bb7 6.Bd3 Be7 7.O-O O-O 8.c4 Nc6  
+9.Nbd2 Re8 10.Rc1 Bf8 11.Bb1 Rc8 12.e4 cxd4 13.e5 Ng4 14.Qe2 d6 15.Qe4 f5  
+16.exf6 Nxf6 17.Qh4 e5 18.Bf5 h6 19.Bxc8 Qxc8 1/2-1/2 

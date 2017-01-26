@@ -1,0 +1,147 @@
+ 
+[Event "FSIM October 2015"] 
+[Site "Budapest HUN"] 
+[Date "2015.10.05"] 
+[Round "3.5"] 
+[White "Mostbauer, Florian"] 
+[Black "Alonso Bouza, Julio Javier"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2211"] 
+[BlackElo "2290"] 
+[ECO "A40"] 
+[EventDate "2015.10.03"] 
+ 
+1.d4 e6 2.Bf4 d5 3.e3 f5 4.Nf3 Nf6 5.Nbd2 Be7 6.Bd3 O-O 7.O-O c5 8.dxc5  
+Bxc5 9.c4 Nc6 10.a3 a5 11.Rc1 Ba7 12.cxd5 exd5 13.Ne5 Nxe5 14.Bxe5 Ng4 15. 
+Bc7 Qe8 16.Qf3 Kh8 17.Rfe1 Bd7 18.Qg3 Rc8 19.h3 Nf6 20.Nf3 Ne4 21.Bxe4  
+dxe4 22.Be5 Qg6 23.Qxg6 hxg6 24.Bd4 exf3 25.Bxa7 1/2-1/2 
+ 
+[Event "Belgrade Planetwin 365 Open"] 
+[Site "Belgrade SRB"] 
+[Date "2014.12.29"] 
+[Round "7"] 
+[White "Ivanisevic, Ivan"] 
+[Black "Sedlak, Nikola"] 
+[Result "0-1"] 
+[WhiteElo "2648"] 
+[BlackElo "2622"] 
+[ECO "A40"] 
+[EventDate "2014.12.29"] 
+ 
+1.d4 e6 2.Bf4 d5 3.e3 Nf6 4.Nd2 Bd6 5.Bg3 O-O 6.Bd3 b6 7.Qe2 c5 8.c3 Bb7  
+9.Bh4 Nbd7 10.f4 Qc7 11.Nh3 Ne4 12.O-O Rae8 13.Nxe4 dxe4 14.Bb5 Bc6 15.a4  
+f5 16.Rfd1 cxd4 17.cxd4 Bxb5 18.axb5 Rc8 19.Ng5 Rfe8 20.d5 e5 21.Ne6 Qb8  
+22.Qh5 exf4 23.Qxf5 fxe3 24.Rf1 Ne5 25.Nxg7 Kxg7 26.Bf6+ Kg8 27.Rf4 Ng6  
+28.Rg4 Bxh2+ 29.Kh1 Qc7 30.Rxg6+ hxg6 31.Qxg6+ Kf8 32.Rf1 Bf4 33.Bc3 Qf7  
+34.Bb4+ Rc5 35.Qg4 Ke7 36.Rxf4 Rh8+ 37.Kg1 Qh7 38.Qe6+ Kd8 39.Qh3 Qxh3 40. 
+gxh3 Rxd5 0-1 
+ 
+[Event "4. HD Bank Cup 2014"] 
+[Site "Ho Chi Minh City VIE"] 
+[Date "2014.03.15"] 
+[Round "9.16"] 
+[White "Duong, The Anh"] 
+[Black "Tran, Thanh Tu"] 
+[Result "1-0"] 
+[WhiteElo "2335"] 
+[BlackElo "2277"] 
+[ECO "A40"] 
+[EventDate "2014.03.10"] 
+ 
+1.d4 e6 2.Bf4 d5 3.e3 Bd6 4.Bg3 f5 5.c4 c6 6.Nc3 Nf6 7.Bd3 O-O 8.Qc2 Qe7  
+9.Nge2 Bd7 10.Qb3 dxc4 11.Bxc4 b5 12.Bd3 Kh8 13.e4 Bxg3 14.hxg3 e5 15.dxe5 
+Qxe5 16.Nf4 Qe8 17.O-O-O fxe4 18.Nxe4 g6 19.Nxg6+ Qxg6 20.Nxf6 Qg5+ 21.f4  
+Qc5+ 22.Kb1 Bf5 23.Nxh7 1-0 
+ 
+[Event "TCh-FIN SM 2013-14"] 
+[Site "Espoo FIN"] 
+[Date "2014.02.08"] 
+[Round "7.5"] 
+[White "Valli, Frans"] 
+[Black "Kekki, Petri"] 
+[Result "0-1"] 
+[WhiteElo "2275"] 
+[BlackElo "2354"] 
+[ECO "A40"] 
+[EventDate "2013.09.21"] 
+ 
+1.d4 e6 2.Bf4 d5 3.e3 Bd6 4.Bg3 Qe7 5.c3 Nf6 6.Nf3 Nbd7 7.Ne5 Ne4 8.f4  
+Bxe5 9.fxe5 Nxg3 10.hxg3 Qg5 11.Qf3 Qg6 12.Kd2 f5 13.Bd3 Nf8 14.Na3 Bd7  
+15.Rh4 O-O-O 16.Rah1 h6 17.g4 Nh7 18.gxf5 exf5 19.Rf4 Qb6 20.Kc1 g5 21. 
+Rxf5 Bxf5 22.Bxf5+ Kb8 23.Nc2 Nf8 24.Nb4 c6 25.e4 dxe4 26.Qxe4 Re8 27.Nd3  
+Qc7 28.Nc5 h5 29.Qe3 Qg7 30.Ne4 g4 31.Qf4 Ne6 32.Bxe6 Rxe6 33.Nf6 Qg6 34. 
+Nxg4 Rg8 35.Ne3 Ree8 36.Qf5 Qxf5 37.Nxf5 Rxg2 38.Rxh5 Rf2 39.a3 Rg8 40.Ne3 
+Rg1+ 41.Nd1 Rff1 42.Rh2 Rxd1+ 43.Kc2 Rh1 44.Rg2 Rdg1 45.Rf2 Rg7 46.b4 Rh3  
+47.Kb3 b5 48.Rc2 Rgg3 49.Rc1 Kc7 50.Rc2 Kd7 51.Rc1 Ke6 52.Rc2 Kd5 53.Rc1  
+Rd3 54.Rc2 Rxd4 55.a4 Rdd3 56.axb5 cxb5 57.Rc1 Kxe5 58.Rc2 Kd5 59.Rc1 Rd2  
+60.Rg1 Rhh2 61.Rg5+ Kc6 62.Rg6+ Kd7 63.c4 Rd3# 0-1 
+ 
+[Event "TCh-2a 2013"] 
+[Site "Bol CRO"] 
+[Date "2013.09.14"] 
+[Round "1.1"] 
+[White "Doric, Darko"] 
+[Black "Djurovic, Goran"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2495"] 
+[BlackElo "2395"] 
+[ECO "A40"] 
+[EventDate "2013.09.14"] 
+ 
+1.d4 e6 2.Bf4 d5 3.e3 Bd6 4.Bg3 Qe7 5.c3 Nf6 6.Nf3 Bxg3 7.hxg3 Nbd7 8.Nbd2 
+O-O 9.Bd3 e5 10.Nxe5 Nxe5 11.dxe5 Qxe5 12.Qc2 h6 13.Nf3 Qe7 14.O-O c5 15. 
+c4 1/2-1/2 
+ 
+[Event "FIDE World Blitz 2013"] 
+[Site "Khanty-Mansiysk RUS"] 
+[Date "2013.06.09"] 
+[Round "16.17"] 
+[White "Kamsky, Gata"] 
+[Black "Rakhmanov, Aleksandr"] 
+[Result "0-1"] 
+[WhiteElo "2741"] 
+[BlackElo "2602"] 
+[ECO "A40"] 
+[EventDate "2013.06.09"] 
+ 
+1.d4 e6 2.Bf4 d5 3.e3 Bd6 4.Bg3 Nf6 5.Nd2 c5 6.c3 Nc6 7.Bd3 e5 8.dxc5 Bxc5 
+9.Bb5 Qe7 10.Ngf3 e4 11.Nd4 Bd7 12.N4b3 Bd6 13.Bxc6 bxc6 14.c4 O-O 15.Bxd6 
+Qxd6 16.c5 Qe5 17.Qc2 a5 18.Nd4 Qg5 19.g3 Ng4 20.Qc3 Qf6 21.Rf1 Nxh2 22. 
+Rh1 Ng4 23.Rf1 Nh2 24.Rh1 Ng4 25.Rf1 Ne5 26.O-O-O Rfb8 27.Kb1 Bg4 28.Rc1  
+Nd3 29.f3 Rxb2+ 30.Qxb2 Nxb2 31.fxg4 Qg5 32.Kxb2 Qxe3 33.N2b3 a4 34.Rc3  
+Qg5 35.Na1 Qd2+ 36.Nac2 Rb8+ 37.Nb3 axb3 38.Rxb3 Rxb3+ 39.axb3 d4 40.Ra1  
+h5 0-1 
+ 
+[Event "TCh-TUR 2. League 2011"] 
+[Site "Konya TUR"] 
+[Date "2011.07.09"] 
+[Round "8"] 
+[White "Ozkan, Ervin"] 
+[Black "Erden, Kadir"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2219"] 
+[BlackElo "2240"] 
+[ECO "A40"] 
+[EventDate "2011.07.04"] 
+ 
+1.d4 e6 2.Bf4 d5 3.e3 Bd6 4.Bg3 Ne7 5.Bd3 h5 6.Nf3 Nf5 7.c4 1/2-1/2 
+ 
+[Event "FSIMB April"] 
+[Site "Budapest HUN"] 
+[Date "2003.04.13"] 
+[Round "9"] 
+[White "Boguszlavszkij, Jevgenyij"] 
+[Black "Lund, Silas"] 
+[Result "1-0"] 
+[WhiteElo "2280"] 
+[BlackElo "2269"] 
+[ECO "A40"] 
+[EventDate "2003.04.05"] 
+ 
+1.d4 e6 2.Bf4 d5 3.e3 Bd6 4.Nh3 Nf6 5.Nd2 O-O 6.Bd3 c5 7.c3 Nc6 8.Bxd6  
+Qxd6 9.f4 Rb8 10.O-O b5 11.g4 e5 12.fxe5 Nxe5 13.dxe5 Qxe5 14.Nf2 Qxe3 15. 
+Qe2 Qg5 16.Nf3 Qf4 17.Qe5 Qxf3 18.Qxb8 c4 19.Bc2 Bf5 20.Bd1 Qe3 21.Qg3 Qd2 
+22.gxf5 Qxb2 23.Bg4 h5 24.Rfb1 Qd2 25.Rd1 Qc2 26.Bh3 Re8 27.Re1 Rd8 28.Qc7 
+Rd7 29.Qe5 a5 30.Re2 Qa4 31.Rb1 Kh7 32.Bf1 b4 33.Nh3 Ne4 34.f6 Nxf6 35. 
+Ng5+ Kg6 36.Bh3 Ng4 37.Bxg4 hxg4 38.Rf1 f6 39.Qf5+ Kh6 40.Re8 fxg5 41.Rh8# 
+1-0 

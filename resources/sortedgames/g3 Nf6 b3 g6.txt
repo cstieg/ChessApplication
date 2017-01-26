@@ -1,0 +1,19 @@
+ 
+[Event "2. Open 2012"] 
+[Site "Split CRO"] 
+[Date "2012.08.15"] 
+[Round "5.5"] 
+[White "Curic, Drazen"] 
+[Black "Dragomirescu, Robin-Alexandru"] 
+[Result "0-1"] 
+[WhiteElo "2274"] 
+[BlackElo "2377"] 
+[ECO "A00"] 
+[EventDate "2012.08.11"] 
+ 
+1.g3 Nf6 2.b3 g6 3.Bb2 Bg7 4.Bg2 O-O 5.e3 d6 6.Ne2 e5 7.d3 Nc6 8.Nd2 Be6  
+9.h3 Qd7 10.a3 a5 11.c4 d5 12.Qc2 Rad8 13.c5 Rfe8 14.Rb1 b5 15.cxb6 cxb6  
+16.Rc1 Rc8 17.Qb1 d4 18.e4 Bh6 19.Rd1 b5 20.Bc1 Bf8 21.f4 Nh5 22.f5 gxf5  
+23.exf5 Bxf5 24.g4 Nf4 25.Nxf4 exf4+ 26.Ne4 Bxe4 27.dxe4 Ne5 28.Bxf4 Bxa3  
+29.O-O Ng6 30.Qa1 Nxf4 31.Rxf4 Bb4 32.Rdf1 Re7 33.e5 d3 34.Kh1 d2 35.Qb1  
+Rxe5 0-1 

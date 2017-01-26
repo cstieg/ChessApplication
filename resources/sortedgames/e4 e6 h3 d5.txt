@@ -1,0 +1,22 @@
+ 
+[Event "Porzellancup"] 
+[Site "Dresden GER"] 
+[Date "2010.01.16"] 
+[Round "5"] 
+[White "Drazic, Sinisa"] 
+[Black "Zumsande, Martin"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2540"] 
+[BlackElo "2413"] 
+[ECO "C00"] 
+[EventDate "2010.01.16"] 
+ 
+1.e4 e6 2.h3 d5 3.exd5 exd5 4.d4 Nf6 5.Bd3 c5 6.dxc5 Bxc5 7.Nf3 O-O 8.O-O  
+Nc6 9.a3 Qd6 10.Be3 Bxe3 11.fxe3 Re8 12.Qd2 Qc5 13.Re1 Bd7 14.Nc3 Rad8 15. 
+b4 Qe7 16.Nd4 Ne5 17.Qf2 Rc8 18.Qd2 a6 19.Re2 Qd6 20.Rf1 Nh5 21.Qe1 Nxd3  
+22.cxd3 Ng3 23.Rf3 Nxe2+ 24.Ncxe2 Rc7 25.Qd2 a5 26.Qb2 axb4 27.axb4 Qe5  
+28.Kf2 g6 29.Qa3 Bc8 30.Qa5 Rce7 31.Qc5 Qg5 32.Nb5 Bf5 33.Qd4 Ra8 34.Nbc3  
+Be6 35.Rg3 Qh6 36.Nf4 Qg7 37.Nfxd5 Bxd5 38.Nxd5 Re6 39.Rg4 Ra2+ 40.Kf3  
+Qxd4 41.Rxd4 Kg7 42.Rc4 h5 43.Rc7 b6 44.h4 Rb2 45.Rb7 Rb3 46.d4 Rd6 47.Ke4 
+Rb2 48.Rxb6 Rxb6 49.Nxb6 Rxb4 50.Nd5 Rb2 51.Kf3 f6 52.Nf4 Kf7 53.Kg3 Rb5  
+54.Kf3 g5 55.hxg5 Rxg5 1/2-1/2 

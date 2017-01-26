@@ -1,0 +1,27 @@
+ 
+[Event "Open"] 
+[Site "Reykjavik ISL"] 
+[Date "2002.03.11"] 
+[Round "5"] 
+[White "Danielsen, Henrik"] 
+[Black "Kristjansson, Stefan"] 
+[Result "0-1"] 
+[WhiteElo "2520"] 
+[BlackElo "2389"] 
+[ECO "A00"] 
+[EventDate "2002.03.07"] 
+ 
+1.d3 g6 2.f4 Bg7 3.g3 d6 4.Bg2 c6 5.Nf3 Nd7 6.Nc3 b5 7.O-O b4 8.Ne4 Bb7 9. 
+Qe1 Qb6+ 10.Kh1 c5 11.Ned2 e6 12.e4 Ne7 13.Nc4 Qc7 14.e5 dxe5 15.fxe5 O-O  
+16.Qe2 Nf5 17.Bf4 Nb6 18.Nd6 Nxd6 19.exd6 Qc6 20.Rf2 Nd5 21.Ne5 Qxd6 22. 
+Nxf7 Nxf4 23.Rxf4 Bxg2+ 24.Qxg2 Qd5 25.Raf1 Qxg2+ 26.Kxg2 Bxb2 27.g4 Bg7  
+28.h4 Rac8 29.R4f3 Rc7 30.Ng5 Rxf3 31.Rxf3 Rc6 32.Re3 e5 33.Re2 Ra6 34.c3  
+Rd6 35.cxb4 cxb4 36.Rc2 h6 37.Rc8+ Bf8 38.Ne4 Ra6 39.Rc2 Be7 40.h5 gxh5  
+41.gxh5 Ra3 42.Nf2 Bg5 43.Kg3 Kf7 44.Ne4 Rxd3+ 45.Kg4 Bf4 46.Kf5 Ke7 47. 
+Rc7+ Rd7 48.Rc6 Rb7 49.Rg6 Kd8 50.Nc5 Rb5 51.Rc6 Be3 52.Ne4 Kd7 53.Rc2 a5  
+54.Nf6+ Kd6 55.Ke4 Bg5 56.Ne8+ Kd7 57.Nc7 Rb7 58.Na6 Rb6 59.Nc5+ Kd6 60. 
+Rc4 Rb5 61.Nd3 Rd5 62.Nb2 Rd2 63.Na4 Rxa2 64.Nb6 Re2+ 65.Kd3 Re3+ 66.Kc2  
+Ke6 67.Rc5 b3+ 68.Kb2 e4 69.Rc6+ Kf5 70.Nc4 Rg3 71.Ka3 Be7+ 72.Ka4 e3 73. 
+Rg6 e2 74.Rxg3 e1=Q 75.Rxb3 Bb4 76.Rd3 Qe2 77.Rd5+ Ke6 78.Rd4 Bc3 79.Rd6+  
+Ke7 80.Rc6 Qa2+ 81.Kb5 Qb3+ 82.Ka6 a4 83.Nb6 Bd4 84.Rxh6 Qxb6+ 85.Rxb6  
+Bxb6 86.h6 Bd4 0-1 

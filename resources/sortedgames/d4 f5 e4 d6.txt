@@ -1,0 +1,42 @@
+ 
+[Event "XXXIV Open"] 
+[Site "Badalona ESP"] 
+[Date "2008.08.05"] 
+[Round "5"] 
+[White "Hernando Rodrigo, Jose Maria"] 
+[Black "Tscharotschkin, Michael"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2377"] 
+[BlackElo "2236"] 
+[ECO "A82"] 
+[EventDate "2008.08.01"] 
+ 
+1.d4 f5 2.e4 d6 3.Nc3 Nf6 4.Bd3 fxe4 5.Nxe4 Nc6 6.Nxf6+ exf6 7.Qh5+ g6 8. 
+Bxg6+ hxg6 9.Qxh8 Qe7+ 10.Be3 Nb4 11.Kd2 Bf5 12.g4 Be4 13.f3 O-O-O 14.Qh3  
+Nxc2 15.fxe4 Nxa1 16.Ne2 Nc2 17.Nc3 Nxe3 18.Qxe3 c6 19.d5 c5 20.h4 Bg7 21. 
+h5 Rh8 22.Kc2 f5 23.gxf5 Bxc3 24.bxc3 gxf5 25.Kd3 Re8 26.e5 dxe5 27.Kc4  
+Kb8 28.h6 Qd7 29.h7 Qa4+ 30.Kd3 e4+ 31.Ke2 Qxa2+ 32.Kf1 Qa6+ 33.Kg2 Qg6+  
+34.Qg3+ Qxg3+ 35.Kxg3 Rh8 36.Kf4 b5 37.Kxf5 e3 38.c4 e2 39.Kg6 bxc4 40.Re1 
+Kc7 41.Rxe2 Kd6 42.Rd2 1/2-1/2 
+ 
+[Event "101. US Open"] 
+[Site "Saint Paul, MN USA"] 
+[Date "2000.08.08"] 
+[Round "4"] 
+[White "Heurung, David"] 
+[Black "Alexandrov, A."] 
+[Result "1/2-1/2"] 
+[WhiteElo "2271"] 
+[BlackElo "2206"] 
+[ECO "A82"] 
+[EventDate "2000.08.05"] 
+ 
+1.d4 f5 2.e4 d6 3.exf5 Bxf5 4.Bd3 Qd7 5.Ne2 Bxd3 6.Qxd3 Nc6 7.d5 Ne5 8.Qb3 
+c6 9.f4 Nf7 10.c4 Nf6 11.Nd4 Nd8 12.f5 g6 13.O-O gxf5 14.Nxf5 e6 15.dxe6  
+Nxe6 16.Qc3 Qf7 17.Nxd6+ Bxd6 18.Rxf6 Bc5+ 19.Kf1 Bd4 20.Rxf7 Bxc3 21.Rf3  
+Bg7 22.Re3 O-O+ 23.Ke1 Nf4 24.Rg3 Rae8+ 25.Kd1 Ne2 26.Rf3 Nxc1 27.Rxf8+  
+Rxf8 28.Kxc1 Rf1+ 29.Kc2 Rf2+ 30.Nd2 Rxg2 31.h4 Rh2 32.Kd3 Rxh4 33.Nf3 Rg4 
+34.Rh1 Bf6 35.b3 Kg7 36.Nd2 Kg6 37.Ne4 Be7 38.Ke3 h5 39.Kf3 Bg5 40.Re1  
+Rf4+ 41.Kg3 h4+ 42.Kh3 Kh5 43.Kg2 Bd8 44.Nf2 Bb6 45.c5 Ba5 46.Re7 Bb4 47. 
+Re5+ Kg6 48.Nd3 Rd4 49.Re3 Kf6 50.Kh3 b6 51.cxb6 axb6 52.Nxb4 Rxb4 53.a3  
+Rd4 54.a4 Kf5 55.Rc3 Kg5 56.Rf3 c5 57.Rc3 Rb4 58.a5 1/2-1/2 

@@ -1,0 +1,52 @@
+ 
+[Event "Ch Romania"] 
+[Site "Baile Tusnad ROU"] 
+[Date "2005.11.27"] 
+[Round "2"] 
+[White "Pessi, Emil-George"] 
+[Black "Moldovan, Daniel"] 
+[Result "0-1"] 
+[WhiteElo "2270"] 
+[BlackElo "2425"] 
+[ECO "A06"] 
+ 
+1.e4 d5 2.Nf3 dxe4 3.Ng5 e5 4.Nxe4 f5 5.Ng3 Be6 6.Nc3 Nf6 7.d4 exd4 8.Nb5  
+Nc6 9.Bg5 Bb4+ 10.c3 dxc3 11.bxc3 Qxd1+ 12.Kxd1 O-O-O+ 13.Kc2 Bc5 14.Bd3  
+a6 15.a4 h6 16.Bxf6 gxf6 17.Rhe1 Bd7 18.Nxf5 Ne5 19.Be4 axb5 20.axb5 Kb8  
+21.Ra2 Bxb5 22.f4 Nc4 23.Nd4 Bxd4 24.Rea1 Nb6 0-1 
+ 
+[Event "ROM Ch"] 
+[Site "Baile Tusnad ROM"] 
+[Date "2005.11.27"] 
+[Round "2"] 
+[White "Pessi, Emil-George"] 
+[Black "Moldovan, Daniel"] 
+[Result "0-1"] 
+[WhiteElo "2270"] 
+[BlackElo "2425"] 
+[ECO "A06"] 
+[EventDate "2005.11.26"] 
+ 
+1.e4 d5 2.Nf3 dxe4 3.Ng5 e5 4.Nxe4 f5 5.Ng3 Be6 6.Nc3 Nf6 7.d4 exd4 8.Nb5  
+Nc6 9.Bg5 Bb4+ 10.c3 dxc3 11.bxc3 Qxd1+ 12.Kxd1 O-O-O+ 13.Kc2 Bc5 14.Bd3  
+a6 15.a4 h6 16.Bxf6 gxf6 17.Rhe1 Bd7 18.Nxf5 Ne5 19.Be4 axb5 20.axb5 Kb8  
+21.Ra2 Bxb5 22.f4 Nc4 23.Nd4 Bxd4 24.Rea1 Nb6 0-1 
+ 
+[Event "Constantin Ungureanu Memorial"] 
+[Site "Bucharest ROU"] 
+[Date "2004.04.22"] 
+[Round "8"] 
+[White "Pessi, Emil-George"] 
+[Black "Badea, Bela"] 
+[Result "0-1"] 
+[WhiteElo "2239"] 
+[BlackElo "2509"] 
+[ECO "A06"] 
+[EventDate "2004.04.15"] 
+ 
+1.e4 d5 2.Nf3 dxe4 3.Ng5 e5 4.Nxe4 f5 5.Ng3 Be6 6.Bb5+ c6 7.Ba4 Nf6 8.Qe2  
+Qa5 9.Nc3 Bb4 10.Bb3 Bxb3 11.cxb3 g6 12.O-O O-O 13.d4 e4 14.f3 exf3 15. 
+Qe6+ Kg7 16.Rxf3 Nbd7 17.Bf4 Rfe8 18.Qc4 Rad8 19.Raf1 Bxc3 20.bxc3 Qd5 21. 
+Qd3 Nc5 22.Qc2 Nce4 23.Be5 Rxe5 24.dxe5 Qxe5 25.Qe2 Qc5+ 26.Kh1 Rd2 27.Qe1 
+Rxa2 28.b4 Qe5 29.Qc1 Nxg3+ 30.Rxg3 Ne4 31.Rgf3 h5 32.Qb1 Re2 33.Qd3 Nd2  
+34.Qd7+ Kh6 35.Qxb7 Nxf3 0-1 

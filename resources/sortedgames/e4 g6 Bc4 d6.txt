@@ -1,0 +1,39 @@
+ 
+[Event "14. European Maccabi"] 
+[Site "Berlin GER"] 
+[Date "2015.07.29"] 
+[Round "2.3"] 
+[White "Brener, Ilja"] 
+[Black "Lapidus, Mark"] 
+[Result "1-0"] 
+[WhiteElo "2401"] 
+[BlackElo "2202"] 
+[ECO "B06"] 
+[EventDate "2015.07.29"] 
+ 
+1.e4 g6 2.Bc4 d6 3.d3 e5 4.Nc3 Bg7 5.f4 Qh4+ 6.g3 Qe7 7.Nf3 Nf6 8.fxe5  
+dxe5 9.Bg5 c6 10.Qe2 b5 11.Bb3 Nbd7 12.a4 b4 13.Nd1 a5 14.O-O Nc5 15.Bc4  
+h6 16.Bd2 Bh3 17.Re1 O-O 18.Nf2 Be6 19.Bxe6 Nxe6 20.Be3 Nd7 21.Nh4 Nd4 22. 
+Bxd4 exd4 23.b3 h5 24.Nf3 Rae8 25.Qd2 Qc5 26.Re2 Kh7 27.Qg5 Qc3 28.Rf1 Ne5 
+29.Nd1 Qa1 30.Nxe5 Rxe5 31.Qh4 Qa2 32.Qh3 Rc5 33.Qg2 Kg8 34.Rfe1 Re8 35. 
+Qf2 Re7 36.Kg2 f5 37.exf5 Rxf5 38.Qg1 Ref7 39.Kh3 g5 40.g4 Rf3+ 41.Kg2  
+hxg4 42.Nf2 g3 43.hxg3 Be5 44.Nh1 Bg7 45.Qh2 Re3 46.Qh5 Rfe7 47.Nf2 Rxe2  
+48.Rxe2 Rxe2 49.Qxe2 Qb1 50.Qe6+ Kh8 51.Qxc6 Qc1 52.Qa8+ Kh7 53.Qe4+ Kg8  
+54.Qe2 Bf6 55.Ne4 Kg7 56.Nd6 1-0 
+ 
+[Event "SVK, 1.Liga Vychod 2014/15 rounds 1-7"] 
+[Site "Zilina SVK"] 
+[Date "2014.11.29"] 
+[Round "3.1"] 
+[White "Sorkovsky, Miroslav"] 
+[Black "Mede, Istvan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2204"] 
+[BlackElo "2306"] 
+[ECO "B06"] 
+[EventDate "2014.10.18"] 
+ 
+1.e4 g6 2.Bc4 d6 3.Nc3 Bg7 4.f4 Nf6 5.Nf3 Nxe4 6.Bxf7+ Kxf7 7.Nxe4 Rf8 8. 
+d4 Kg8 9.O-O c6 10.c3 Qb6 11.Kh1 Nd7 12.Qe1 Nf6 13.Neg5 Qb5 14.Ne6 Bxe6  
+15.Qxe6+ Kh8 16.Bd2 Nd5 17.Ng5 Qd3 18.Rad1 Rf6 19.Nf7+ Kg8 20.Nh6+ Kh8 21. 
+Nf7+ 1/2-1/2 

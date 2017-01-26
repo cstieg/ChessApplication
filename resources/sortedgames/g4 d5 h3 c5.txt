@@ -1,0 +1,20 @@
+ 
+[Event "TCh-CZE Liga1 Vychod"] 
+[Site "Czech Rep CZE"] 
+[Date "2011.10.23"] 
+[Round "2"] 
+[White "Zigo, Viktor"] 
+[Black "Beil, Zdenek"] 
+[Result "0-1"] 
+[WhiteElo "2272"] 
+[BlackElo "2256"] 
+[ECO "A00"] 
+[EventDate "2011.10.02"] 
+ 
+1.g4 d5 2.h3 c5 3.Bg2 e5 4.d3 Nc6 5.Nc3 Be6 6.e4 Nge7 7.f4 exf4 8.Bxf4 Ng6 
+9.Bg3 dxe4 10.Bxe4 Bd6 11.Nge2 Bxg3+ 12.Nxg3 Qd6 13.Nh5 O-O 14.Qd2 f5 15. 
+gxf5 Bxf5 16.Qh2 Nge5 17.Bd5+ Qxd5 18.Nxd5 Nf3+ 19.Kd1 Nxh2 20.Rxh2 Bg4+  
+21.hxg4 Rf1+ 22.Kd2 Rxa1 23.a3 Ne5 24.Re2 Nf3+ 25.Kc3 Re1 26.Rf2 Nd4 27.b4 
+Rd8 28.Nhf4 Re5 29.Kc4 g5 30.Nf6+ Kf7 31.N4d5 Ke6 32.bxc5 Rexd5 33.Nxd5  
+Rxd5 34.c3 Nc6 35.Re2+ Ne5+ 36.Kb4 Rxd3 37.Rh2 Rd7 38.Rh6+ Kd5 39.Rh5 Rg7  
+40.Rh1 Nxg4 0-1 

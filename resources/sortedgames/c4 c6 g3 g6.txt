@@ -1,0 +1,31 @@
+ 
+[Event "FIDE WCh Women KO"] 
+[Site "Elista RUS"] 
+[Date "2004.05.27"] 
+[Round "3.2"] 
+[White "Stefanova, Antoaneta"] 
+[Black "Zhukova, Natalia"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2490"] 
+[BlackElo "2471"] 
+[ECO "A11"] 
+[EventDate "2004.05.22"] 
+ 
+1.c4 c6 2.g3 g6 3.Bg2 Bg7 4.Nc3 Nf6 5.e4 e5 6.Nge2 d6 7.d4 exd4 8.Nxd4 O-O 
+1/2-1/2 
+ 
+[Event "Open"] 
+[Site "Olomouc CZE"] 
+[Date "2003.08.06"] 
+[Round "8"] 
+[White "Sikora-Lerch, Jan"] 
+[Black "Kireev, A."] 
+[Result "1/2-1/2"] 
+[WhiteElo "2324"] 
+[BlackElo "2276"] 
+[ECO "A11"] 
+[EventDate "2003.07.30"] 
+ 
+1.c4 c6 2.g3 g6 3.Bg2 Bg7 4.Nc3 d6 5.d3 e5 6.f4 f5 7.Nf3 Nd7 8.e4 Nh6 9. 
+Qe2 O-O 10.fxe5 Nxe5 11.Nxe5 dxe5 12.O-O Nf7 13.exf5 gxf5 14.Be3 Qf6 15. 
+Rad1 Qg6 16.Kh1 Ng5 17.Qd2 1/2-1/2 

@@ -1,0 +1,55 @@
+ 
+[Event "72. NY Masters"] 
+[Site "New York, NY USA"] 
+[Date "2003.09.09"] 
+[Round "3"] 
+[White "Yudasin, Leonid"] 
+[Black "Benjamin, Joel"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2558"] 
+[BlackElo "2583"] 
+[ECO "B21"] 
+[EventDate "2003.09.09"] 
+ 
+1.e4 c5 2.f4 Nf6 3.d3 Nc6 4.Nf3 g6 5.g3 Bg7 6.Bg2 O-O 7.O-O d5 8.e5 Ne8 9. 
+Nc3 Nc7 10.Bd2 b6 11.Qe2 Bb7 12.Rae1 Qd7 13.a3 Rae8 14.Qd1 f6 15.exf6 exf6 
+16.Rxe8 Rxe8 17.Re1 f5 18.Rxe8+ Qxe8 19.Qe1 Qxe1+ 20.Bxe1 Nd4 21.Nxd4  
+Bxd4+ 22.Kf1 Kf7 23.Nd1 Ke6 24.Bc3 Bxc3 25.Nxc3 Kd6 26.Ke2 Bc6 27.Nb1 d4  
+28.Bxc6 Kxc6 29.Nd2 Kd5 30.Nf3 Ne6 31.h4 b5 32.Ng5 Nxg5 1/2-1/2 
+ 
+[Event "It Open"] 
+[Site "Forchheim GER"] 
+[Date "2002.??.??"] 
+[Round "2"] 
+[White "Villing, Dieter"] 
+[Black "Bartsch, Berthold"] 
+[Result "0-1"] 
+[WhiteElo "2231"] 
+[BlackElo "2324"] 
+[ECO "B21"] 
+ 
+1.e4 c5 2.f4 Nf6 3.Nc3 d5 4.exd5 Nxd5 5.Bb5+ Bd7 6.Bxd7+ Qxd7 7.d3 Nc6 8. 
+Nf3 g6 9.O-O Bg7 10.Bd2 O-O 11.Nxd5 Qxd5 12.Bc3 Nd4 13.Nxd4 cxd4 14.Bb4  
+Rfe8 15.Qf3 Qxf3 16.Rxf3 f5 17.Re1 e5 18.fxe5 Rxe5 19.Rxe5 Bxe5 20.Rf1 Kf7 
+21.Re1 Kf6 22.g3 h5 23.Kg2 Rc8 24.Re2 Rc7 25.a4 g5 26.Be1 g4 27.Bf2 h4 28. 
+Bg1 a6 29.Bf2 b5 30.axb5 axb5 31.b3 Rd7 32.Be1 Ra7 33.Bf2 h3+ 34.Kf1 Ra1+  
+35.Re1 Rxe1+ 36.Bxe1 f4 37.gxf4 Bxf4 38.Kg1 Kf5 39.c4 dxc3 40.Bxc3 Be3+  
+41.Kf1 Kf4 42.Ba5 Kf3 43.Bc7 Bf2 44.Be5 g3 0-1 
+ 
+[Event "SWE Team Ch 0102"] 
+[Site "Sweden"] 
+[Date "2001.10.14"] 
+[Round "3"] 
+[White "Djurhuus, Rune"] 
+[Black "Ernst, Thomas"] 
+[Result "1-0"] 
+[WhiteElo "2469"] 
+[BlackElo "2436"] 
+[ECO "B21"] 
+ 
+1.e4 c5 2.f4 Nf6 3.d3 Nc6 4.Nf3 d6 5.h3 e5 6.g4 exf4 7.Bxf4 Be7 8.Bg2 h5  
+9.g5 Nd7 10.Nc3 Nde5 11.Qd2 Nxf3+ 12.Bxf3 Nd4 13.Bg2 Ne6 14.h4 Nxf4 15. 
+Qxf4 Be6 16.O-O-O Qd7 17.Nd5 O-O-O 18.Rdf1 Rhf8 19.Qf3 g6 20.Bh3 Rde8 21. 
+Qg3 Bd8 22.Bxe6 Rxe6 23.Kb1 Kb8 24.Rf3 Ree8 25.Rhf1 Qe6 26.Qf2 f5 27.gxf6  
+Rf7 28.Rg1 Rg8 29.a3 Bb6 30.Rfg3 c4 31.Nxb6 axb6 32.Rxg6 Rxg6 33.Rxg6 cxd3 
+34.cxd3 Ka7 35.Qd4 Rc7 36.Rg7 Rc5 37.Qa4+ Ra5 38.Qc6 1-0 

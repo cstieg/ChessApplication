@@ -1,0 +1,35 @@
+ 
+[Event "ChInt Open"] 
+[Site "Paris FRA"] 
+[Date "2008.07.05"] 
+[Round "8"] 
+[White "Debray, Christopher"] 
+[Black "Leconte, Maria"] 
+[Result "1-0"] 
+[WhiteElo "2381"] 
+[BlackElo "2336"] 
+[ECO "A37"] 
+[EventDate "2008.06.28"] 
+ 
+1.g3 e5 2.c4 c5 3.Bg2 Nc6 4.d3 g6 5.Nc3 Bg7 6.Nf3 Nge7 7.O-O O-O 8.Rb1 Rb8 
+9.a3 a6 10.b4 cxb4 11.axb4 b5 12.cxb5 axb5 13.e4 d6 14.Be3 Nd4 15.Ne2 Bg4  
+16.Bxd4 exd4 17.h3 Bxf3 18.Bxf3 Nc8 19.Ra1 Nb6 20.Ra5 Na4 21.Nf4 Be5 22. 
+Nd5 Ra8 23.Rxb5 Qd7 24.Ra5 Rxa5 25.bxa5 Qb5 26.Qd2 Ra8 27.Nc7 Qxa5 28.Qxa5 
+Rxa5 29.Ra1 Ra7 30.Nd5 Ra6 31.Nb4 Ra8 32.Bd1 Nb6 33.Rxa8+ Nxa8 34.Nd5 1-0 
+ 
+[Event "Ch Central Region (club)"] 
+[Site "Tula RUS"] 
+[Date "2005.11.27"] 
+[Round "3"] 
+[White "Okun, Leonid"] 
+[Black "Tishin, Petr"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2311"] 
+[BlackElo "2418"] 
+[ECO "A37"] 
+ 
+1.g3 e5 2.c4 c5 3.Nc3 Nc6 4.Bg2 g6 5.d3 Bg7 6.Nf3 Nge7 7.Bd2 d6 8.Qc1 O-O  
+9.h4 h5 10.Bh6 f6 11.O-O Be6 12.Rb1 Rc8 13.Bxg7 Kxg7 14.Qd2 d5 15.cxd5  
+Nxd5 16.Rfc1 b6 17.a3 Qd7 18.Ne4 a5 19.Qd1 Rfd8 20.Ned2 Rb8 21.b3 Bg4 22. 
+Nh2 Be6 23.Nc4 Nd4 24.Ne3 Nb5 25.Ra1 Ndc3 26.Qd2 Nxe2+ 27.Qxe2 Nd4 28.Qb2  
+Nxb3 29.Bf1 a4 30.Nf3 b5 31.Rab1 Nxc1 32.Rxc1 Rdc8 33.Be2 Bg4 1/2-1/2 

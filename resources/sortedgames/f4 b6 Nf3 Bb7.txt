@@ -1,0 +1,143 @@
+ 
+[Event "8. Batavia GM 2016"] 
+[Site "Amsterdam NED"] 
+[Date "2016.02.19"] 
+[Round "1.1"] 
+[White "Nijboer, Friso"] 
+[Black "Van Foreest, Lucas"] 
+[Result "1-0"] 
+[WhiteElo "2545"] 
+[BlackElo "2350"] 
+[ECO "A02"] 
+[EventDate "2016.02.19"] 
+ 
+1.f4 b6 2.Nf3 Bb7 3.e3 f5 4.b3 Nf6 5.Bb2 e6 6.c4 c5 7.Nc3 Nc6 8.a3 d5 9.d4 
+Bd6 10.Ne5 O-O 11.Be2 cxd4 12.exd4 Ne4 13.Nxe4 fxe4 14.O-O Qe7 15.b4 Bxe5  
+16.fxe5 Rxf1+ 17.Bxf1 Qg5 18.Bc1 e3 19.cxd5 Ne7 20.dxe6 Rf8 21.Ra2 Bd5 22. 
+Re2 Bf3 23.Bxe3 Qxe3+ 24.Rxe3 Bxd1 25.d5 Ba4 26.d6 Nd5 27.Re1 Bb3 28.Bb5  
+Nc3 29.e7 1-0 
+ 
+[Event "European Blitz 2015"] 
+[Site "Minsk BLR"] 
+[Date "2015.12.18"] 
+[Round "11.21"] 
+[White "Bulanov, Dmitri"] 
+[Black "Roiz, Michael"] 
+[Result "0-1"] 
+[WhiteElo "2369"] 
+[BlackElo "2594"] 
+[ECO "A02"] 
+[EventDate "2015.12.18"] 
+ 
+1.f4 b6 2.Nf3 Bb7 3.d3 Bxf3 4.gxf3 e6 5.Be3 c5 6.Qd2 Nc6 7.Nc3 d5 8.Bf2 d4 
+9.Ne4 Nge7 10.c4 Nf5 11.Bh3 Be7 12.O-O-O Qc7 13.Kb1 Bh4 14.Bxf5 Bxf2 15. 
+Nxf2 exf5 16.Rhg1 g6 17.h4 O-O-O 18.h5 Rde8 19.Nh3 Re7 20.Rg2 Re3 21.h6  
+Rhe8 22.Qe1 Qe7 23.Rd2 Rxf3 24.Qh1 Re3 25.Rf2 Kc7 26.Qg2 f6 27.Ng1 Qd6 28. 
+Qh2 Nd8 29.Nf3 Ne6 30.Nh4 Nf8 31.a3 a5 32.Rg2 Qc6 33.Qg1 Kb7 34.Rc2 Ka7  
+35.Rh2 a4 36.Rd2 Qd6 37.Qd1 Qxf4 38.Qxa4+ Kb7 39.Rh1 Qc7 40.Qd1 Qe7 41.Rh2 
+Qe6 42.Rf2 Nd7 43.Ng2 Re5 44.Nf4 Qc6 45.Qg1 Nf8 46.Nd5 Rxd5 47.cxd5 Qxd5  
+48.Rg2 Nd7 49.Rd1 Ne5 50.Rf1 Re6 51.Rc1 Ng4 52.Qe1 Qxg2 53.b4 Rxe2 0-1 
+ 
+[Event "FIDE World Blitz 2013"] 
+[Site "Khanty-Mansiysk RUS"] 
+[Date "2013.06.10"] 
+[Round "25.30"] 
+[White "Akbaev, Kazbek"] 
+[Black "Gordievsky, Dmitry"] 
+[Result "0-1"] 
+[WhiteElo "2475"] 
+[BlackElo "2474"] 
+[ECO "A02"] 
+[EventDate "2013.06.09"] 
+ 
+1.f4 b6 2.Nf3 Bb7 3.e3 g6 4.d4 Bg7 5.Bd3 Nf6 6.Nbd2 O-O 7.O-O d6 8.c3 Nbd7 
+9.h3 c5 10.Qe2 Qc7 11.e4 cxd4 12.cxd4 e5 13.fxe5 dxe5 14.d5 Nh5 15.Qf2 Nc5 
+16.Bb1 Ba6 17.Re1 Nf4 18.Nb3 Ncd3 19.Bxd3 Nxd3 20.Qf1 Nxe1 21.Qxa6 Nxf3+  
+22.gxf3 f5 23.Qd3 fxe4 24.fxe4 Qd7 25.Bd2 a5 26.Rc1 a4 27.Na1 Rac8 28.Re1  
+Rf7 29.Bb4 Bf8 30.Bc3 Bc5+ 31.Kh1 Rcf8 32.Nc2 Rf3 0-1 
+ 
+[Event "2. Bundesliga Ost 2010/11 rounds 8-9"] 
+[Site "AUT"] 
+[Date "2011.01.30"] 
+[Round "9.1"] 
+[White "Petran, Peter"] 
+[Black "Polak, Tomas"] 
+[Result "0-1"] 
+[WhiteElo "2325"] 
+[BlackElo "2535"] 
+[ECO "A02"] 
+[EventDate "2011.01.29"] 
+ 
+1.f4 b6 2.Nf3 Bb7 3.e3 g6 4.d4 Bg7 5.Bd3 c5 6.c3 Nf6 7.Nbd2 Nd5 8.Nb3 Qc7  
+9.Bc4 cxd4 10.Bxd5 Bxd5 11.cxd4 O-O 12.Bd2 d6 13.O-O Nd7 14.Bc3 Qb7 15. 
+Nbd2 Rac8 16.Qe2 f5 17.Rfc1 Rc7 18.Qd1 Rfc8 19.a3 Nf6 20.h3 a5 21.Ne1 h6  
+22.Nef3 Bf7 23.Nf1 Ne4 24.Bd2 g5 25.fxg5 hxg5 26.Rxc7 Rxc7 27.Rc1 Bd5 28. 
+Rxc7 Qxc7 29.Be1 Bf6 30.Ng3 Nxg3 31.Bxg3 Qc6 32.Ne1 Kg7 33.Qc2 Qxc2 34. 
+Nxc2 Kg6 35.Kf1 f4 36.exf4 gxf4 37.Bxf4 Be4 38.Ne1 Bxd4 39.Bc1 a4 40.Ke2  
+d5 41.g4 Bf6 42.Nd3 Bxd3+ 43.Kxd3 e5 44.Kc2 e4 45.b3 d4 46.bxa4 d3+ 47.Kd1 
+Bd4 48.h4 e3 49.Bd2 Kf6 50.a5 bxa5 51.Bxa5 Ke5 52.h5 Ke4 53.h6 e2+ 54.Ke1  
+Be3 55.h7 Kf3 0-1 
+ 
+[Event "ch-SRB women"] 
+[Site "Pancevo SRB"] 
+[Date "2010.04.20"] 
+[Round "1"] 
+[White "Chelushkina, Irina"] 
+[Black "Benderac, Ana"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2319"] 
+[BlackElo "2299"] 
+[ECO "A02"] 
+[EventDate "2010.04.20"] 
+ 
+1.f4 b6 2.Nf3 Bb7 3.c4 Nf6 4.Nc3 e6 5.d3 d5 6.Qa4+ Qd7 7.Qxd7+ Nbxd7 8. 
+cxd5 Nxd5 9.Nxd5 exd5 10.Bd2 a5 11.O-O-O Bb4 12.Bc3 Bxc3 13.bxc3 O-O 14.h4 
+a4 15.h5 a3 1/2-1/2 
+ 
+[Event "3. GM"] 
+[Site "Mysliborz POL"] 
+[Date "2008.06.10"] 
+[Round "2"] 
+[White "Danielsen, Henrik"] 
+[Black "Cyborowski, Lukasz"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2510"] 
+[BlackElo "2541"] 
+[ECO "A02"] 
+[EventDate "2008.06.09"] 
+ 
+1.f4 b6 2.Nf3 Bb7 3.g3 Bxf3 4.exf3 e6 5.d4 d5 6.Be3 Ne7 7.Nd2 g6 8.Nb3 Bg7 
+9.c3 Nd7 10.Bf2 O-O 11.Be2 Qc8 12.O-O c5 13.Re1 c4 14.Nd2 b5 1/2-1/2 
+ 
+[Event "GMA"] 
+[Site "Gausdal NOR"] 
+[Date "2005.04.19"] 
+[Round "7"] 
+[White "Lie, Kjetil A"] 
+[Black "Kulaots, Kaido"] 
+[Result "0-1"] 
+[WhiteElo "2495"] 
+[BlackElo "2572"] 
+[ECO "A02"] 
+[EventDate "2005.04.13"] 
+ 
+1.f4 b6 2.Nf3 Bb7 3.e3 g6 4.c4 c5 5.Nc3 Bg7 6.Be2 Nf6 7.O-O O-O 8.d3 d5 9. 
+Qe1 e6 10.Bd2 Nc6 11.cxd5 Nxd5 12.Rd1 Qe7 13.Qg3 Rad8 14.a3 Ba6 15.Qh3 Rd7 
+16.e4 Nxc3 17.bxc3 Bxd3 18.Ng5 Qxg5 19.Bxd3 Qd8 20.Bc1 Bxc3 21.f5 Ne5 22. 
+Bc2 Rxd1 23.Rxd1 Bd4+ 24.Kh1 Qe7 25.Rf1 Nd7 26.Bb3 exf5 27.exf5 Qe2 28.Rd1 
+Ne5 29.fxg6 hxg6 30.Bh6 Ng4 31.Be3 Bxe3 32.Bxf7+ Kg7 0-1 
+ 
+[Event "32. Open"] 
+[Site "Mar del Plata ARG"] 
+[Date "2001.04.08"] 
+[Round "2"] 
+[White "Palermo, Vicente"] 
+[Black "Garcia Palermo, Carlos"] 
+[Result "0-1"] 
+[WhiteElo "2247"] 
+[BlackElo "2470"] 
+[ECO "A02"] 
+[EventDate "2001.04.07"] 
+ 
+1.f4 b6 2.Nf3 Bb7 3.e3 g6 4.c4 Bg7 5.Be2 c5 6.Nc3 Nf6 7.O-O O-O 8.d3 d5 9. 
+cxd5 Nxd5 10.Bd2 Nc6 11.a3 e6 12.Qc2 Rc8 13.Rad1 Nd4 14.Qb1 0-1 

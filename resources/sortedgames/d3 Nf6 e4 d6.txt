@@ -1,0 +1,47 @@
+ 
+[Event "17. OIBM 2013"] 
+[Site "Bad Wiessee GER"] 
+[Date "2013.10.27"] 
+[Round "3.18"] 
+[White "Pohle, Dirk"] 
+[Black "Carlstedt, Jonathan"] 
+[Result "0-1"] 
+[WhiteElo "2234"] 
+[BlackElo "2421"] 
+[ECO "B02"] 
+[EventDate "2013.10.26"] 
+ 
+1.d3 Nf6 2.e4 d6 3.Be2 Nc6 4.c3 h6 5.f4 e5 6.Nf3 Be7 7.O-O exf4 8.Bxf4 Bg4 
+9.Nd4 Bxe2 10.Qxe2 Nxd4 11.cxd4 Qd7 12.Nc3 Qg4 13.Qc2 c6 14.Rae1 Nh5 15. 
+Be3 O-O 16.d5 c5 17.Qe2 Qxe2 18.Rxe2 a6 19.d4 cxd4 20.Bxd4 Rfe8 21.Rf5 Bg5 
+22.g3 Rac8 23.Kg2 Rc4 24.Bb6 Nf6 25.h4 Bc1 26.e5 Nd7 27.Ne4 Rxe5 28.Rxe5  
+dxe5 29.b3 Rc8 30.Nd6 Rc3 31.Bf2 b5 32.Ne4 Rd3 33.Rc2 Ba3 34.Rc8+ Kh7 35. 
+Rc6 a5 36.d6 f5 37.Nc5 Bxc5 38.Bxc5 Rc3 39.Rc7 Rxc5 40.Rxd7 Kg6 41.Ra7 Kf6 
+42.Rxa5 Ke6 43.d7 Kxd7 44.a4 Rc2+ 45.Kh3 bxa4 46.bxa4 Kd6 47.h5 Rc5 48.Ra8 
+Rc7 49.a5 Kd5 50.Rd8+ Ke6 51.Rb8 Kf6 52.a6 Ra7 53.Rb6+ Kg5 54.Rb5 Rxa6 55. 
+Rxe5 Ra1 56.Kg2 Kg4 57.Re7 Ra2+ 58.Kf1 Kxg3 59.Rxg7+ Kh4 60.Rf7 Kg5 61.Kg1 
+f4 62.Kh1 Ra5 63.Kg2 Kg4 64.Rf6 Rxh5 65.Rg6+ Kf5 66.Ra6 Rg5+ 67.Kf3 Rg3+  
+68.Kf2 Rg6 69.Ra5+ Kg4 70.Ra1 h5 71.Rg1+ Kf5 72.Rh1 Rg5 73.Rh4 Ke4 74.Rh1  
+Ra5 75.Re1+ Kf5 76.Rh1 Ra2+ 77.Kf3 Ra3+ 78.Kf2 Kg4 79.Rg1+ Rg3 80.Rh1 h4  
+81.Rc1 h3 82.Rc7 Rg2+ 83.Kf1 Ra2 84.Kg1 Kg3 85.Rg7+ Kf3 86.Re7 Rg2+ 87.Kh1 
+Re2 88.Rh7 Kf2 89.Rf7 f3 90.Kh2 Ke1+ 91.Kg1 f2+ 92.Kh1 Re8 0-1 
+ 
+[Event "DMP Ekstraliga"] 
+[Site "Karpacz POL"] 
+[Date "2008.09.07"] 
+[Round "2"] 
+[White "Pakleza, Zbigniew"] 
+[Black "Hudziak, Pawel"] 
+[Result "1-0"] 
+[WhiteElo "2495"] 
+[BlackElo "2206"] 
+[ECO "B02"] 
+[EventDate "2008.09.06"] 
+ 
+1.d3 Nf6 2.e4 d6 3.f4 g6 4.Nf3 Bg7 5.g3 O-O 6.Bg2 c5 7.O-O Nc6 8.a4 Rb8 9. 
+h3 a6 10.Kh2 b5 11.axb5 axb5 12.Be3 Nd7 13.Qc1 Nd4 14.Nbd2 b4 15.Bf2 Bb7  
+16.Rb1 Qc7 17.Qd1 Bc6 18.g4 Ba4 19.b3 Bc6 20.Nxd4 cxd4 21.Bh4 Nc5 22.Kg1  
+Ra8 23.f5 Ra2 24.Nf3 Bb5 25.Rf2 Rc8 26.c4 Rxf2 27.Bxf2 Be8 28.Nxd4 e5 29. 
+fxe6 fxe6 30.Nc2 Bc3 31.d4 Na6 32.g5 e5 33.dxe5 dxe5 34.Ne3 Bd4 35.Nd5  
+Bxf2+ 36.Kxf2 Qc5+ 37.Kg3 Nb8 38.Qg4 Rd8 39.Qe6+ Bf7 40.Qxe5 Bxd5 41.exd5  
+1-0 

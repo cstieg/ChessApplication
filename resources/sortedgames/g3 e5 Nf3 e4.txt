@@ -1,0 +1,70 @@
+ 
+[Event "Vladimir Petrov Mem 2015"] 
+[Site "Jurmala LAT"] 
+[Date "2015.03.08"] 
+[Round "9.8"] 
+[White "Rapport, Richard"] 
+[Black "Gleizerov, Evgeny"] 
+[Result "1-0"] 
+[WhiteElo "2709"] 
+[BlackElo "2531"] 
+[ECO "A00"] 
+[EventDate "2015.03.07"] 
+ 
+1.g3 e5 2.Nf3 e4 3.Nh4 d5 4.d3 Be7 5.dxe4 dxe4 6.Qxd8+ Bxd8 7.Nc3 f5 8.Bh3 
+Ne7 9.Bg5 O-O 10.O-O-O Nbc6 11.f3 exf3 12.exf3 h6 13.Bxe7 Nxe7 14.Ng2 Ng6  
+15.Rhe1 f4 16.Bxc8 Rxc8 17.g4 c6 18.Rd6 Nh4 19.Nxh4 Bxh4 20.Red1 Rc7 21. 
+Ne4 Rff7 22.c4 Kh7 23.Kc2 Rce7 24.Kd3 Bf6 25.b4 Be5 26.Rd8 Bc7 27.Ra8 Rd7+ 
+28.Ke2 Rxd1 29.Kxd1 a6 30.Ke2 Rd7 31.a3 Be5 32.a4 Rd4 33.Re8 Bf6 34.Nxf6+  
+gxf6 35.Re4 Rd7 36.Rxf4 Kg7 37.h4 Rd8 38.h5 Kf7 39.Ke3 Rd7 40.Rd4 Re7+ 41. 
+Kf4 Kg7 42.b5 cxb5 43.cxb5 axb5 44.axb5 Kf7 45.b6 Re1 46.Rd7+ Ke6 47.Rxb7  
+Rb1 48.Kg3 Rb4 49.Rh7 Rxb6 50.Rxh6 Rb5 51.Rh7 Rb1 52.Ra7 Kd5 1-0 
+ 
+[Event "Middlesex vs Young England"] 
+[Site "London ENG"] 
+[Date "2007.07.17"] 
+[Round "7"] 
+[White "Summerscale, Aaron P"] 
+[Black "Roberson, Peter T"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2493"] 
+[BlackElo "2209"] 
+[ECO "A00"] 
+[EventDate "2007.07.09"] 
+ 
+1.g3 e5 2.Nf3 e4 3.Nd4 c5 4.Nb3 c4 5.Nd4 Bc5 6.e3 d5 7.d3 cxd3 8.cxd3 Nf6  
+9.Nb3 Bb6 10.d4 Bg4 11.Be2 Bxe2 12.Qxe2 Nc6 13.Nc3 Qd7 14.a3 1/2-1/2 
+ 
+[Event "It (cat.3) \"] 
+[Site "St Petersburg RUS"] 
+[Date "2007.02.02"] 
+[Round "11"] 
+[White "Zacurdajev, Mikhail"] 
+[Black "Serov, Maksim"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2374"] 
+[BlackElo "2275"] 
+[ECO "A00"] 
+ 
+1.g3 e5 2.Nf3 e4 3.Nd4 d5 4.d3 exd3 5.cxd3 Nf6 6.Bg2 Be7 7.O-O O-O 8.Nc3  
+c5 9.Nb3 h6 10.Bf4 Nc6 11.Rc1 Bg4 12.h3 Bh5 13.g4 Bg6 14.Bg3 Rc8 15.Bh4 b6 
+16.Nd2 d4 17.Bxf6 Bxf6 18.Nd5 Be7 1/2-1/2 
+ 
+[Event "Gibraltar Masters"] 
+[Site "Catalan Bay ENG"] 
+[Date "2003.01.29"] 
+[Round "2"] 
+[White "Wohl, Aleksandar H"] 
+[Black "Hamdouchi, Hicham"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2415"] 
+[BlackElo "2615"] 
+[ECO "A00"] 
+[EventDate "2003.01.28"] 
+ 
+1.g3 e5 2.Nf3 e4 3.Nd4 c5 4.Nb3 c4 5.Nd4 Nc6 6.c3 Bc5 7.Bg2 Nf6 8.O-O Nxd4 
+9.cxd4 Bxd4 10.Qa4 O-O 11.Qxc4 Bb6 12.d4 d5 13.Qa4 h6 14.Nc3 Bg4 15.f3  
+exf3 16.exf3 Bd7 17.Qd1 Re8 18.Qd3 Qe7 19.a3 Qe5 20.Rd1 Bf5 21.Qd2 Rac8  
+22.Qf2 Qc7 23.g4 Bg6 24.g5 hxg5 25.Bxg5 Qd6 26.Bxf6 gxf6 27.f4 Ba5 28.f5  
+Bxc3 29.fxg6 Ba5 30.gxf7+ Kxf7 31.Qf5 Rh8 32.Qxd5+ Qxd5 33.Bxd5+ Ke7 34.b4 
+Bb6 35.Ra2 Rh4 36.Re2+ Kd6 37.Bxb7 Rc7 38.Bf3 1/2-1/2 

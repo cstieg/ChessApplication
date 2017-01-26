@@ -1,0 +1,210 @@
+ 
+[Event "24. TCh-CRO Div 1a 2015"] 
+[Site "Bol CRO"] 
+[Date "2015.10.08"] 
+[Round "6.14"] 
+[White "Bukal, Vladimir Jr"] 
+[Black "Doric, Darko"] 
+[Result "0-1"] 
+[WhiteElo "2420"] 
+[BlackElo "2481"] 
+[ECO "A01"] 
+[EventDate "2015.10.03"] 
+ 
+1.b3 d5 2.e3 c5 3.Bb2 a6 4.f4 Nc6 5.Nf3 Bg4 6.Be2 e6 7.O-O Nf6 8.Ne5 Bxe2  
+9.Qxe2 Rc8 10.c4 Be7 11.d3 O-O 12.Nd2 Nd7 13.Nxc6 Rxc6 14.e4 d4 15.e5 f5  
+16.exf6 Rxf6 17.Rae1 Qf8 18.g3 h6 19.Bc1 Qd8 20.Qg2 Rf7 21.Qh3 Nf8 22.Nf3  
+Bd6 23.Re4 a5 24.Kh1 Ra6 25.g4 Qc7 26.f5 exf5 27.gxf5 Qd7 28.Rg4 Qxf5 29. 
+Nd2 Qe6 30.Rxf7 Qxf7 31.Ne4 Be7 32.Rf4 Qe6 33.Qg3 Bd6 34.Nxd6 Qxd6 35.Rf5  
+Qe7 36.Qe5 Re6 37.Qd5 Kh7 38.Rf1 Ng6 39.Qf5 b6 40.Kg1 Re2 41.Bf4 Rxa2 42. 
+Bg3 Re2 43.Kh1 Re6 44.Qd5 Qe8 45.Qb7 Nh8 46.Rg1 Nf7 47.Qd5 Kh8 48.Rf1 Nd8  
+49.Bc7 Nf7 50.Bg3 Ng5 51.Kg2 Nh7 52.Bh4 g5 53.Bg3 Kg7 54.b4 axb4 55.Ra1  
+Kg6 56.Ra7 Nf6 57.Qf3 Qc6 0-1 
+ 
+[Event "41. ch-IND w 2014"] 
+[Site "Sangli IND"] 
+[Date "2014.11.01"] 
+[Round "7.3"] 
+[White "Kulkarni, Bhakti"] 
+[Black "Gomes, Mary Ann"] 
+[Result "0-1"] 
+[WhiteElo "2295"] 
+[BlackElo "2355"] 
+[ECO "A01"] 
+[EventDate "2014.10.25"] 
+ 
+1.b3 d5 2.e3 c5 3.Bb2 Nc6 4.Bc1 Nb8 5.Bb2 Nc6 6.Nf3 a6 7.d4 cxd4 8.exd4  
+Bg4 9.Be2 e6 10.O-O Bd6 11.h3 Bh5 12.c4 Nge7 13.Nc3 O-O 14.cxd5 Nxd5 15. 
+Nxd5 exd5 16.g4 Bg6 17.Ne5 Qh4 18.Kg2 Rae8 19.Nxg6 fxg6 20.Bc1 Nxd4 21. 
+Qxd4 Rxe2 22.Kg1 Rfxf2 23.Rxf2 Re1+ 0-1 
+ 
+[Event "I Cerrado Ciutat De Manresa"] 
+[Site "Manresa ESP"] 
+[Date "2012.11.16"] 
+[Round "4.4"] 
+[White "Gonzalez Rodriguez, Jorge A"] 
+[Black "Herreros Fernandez, Miguel"] 
+[Result "1-0"] 
+[WhiteElo "2372"] 
+[BlackElo "2279"] 
+[ECO "A01"] 
+[EventDate "2012.10.19"] 
+ 
+1.b3 d5 2.e3 c5 3.Bb2 Nf6 4.Nf3 e6 5.d4 Nc6 6.Nbd2 Be7 7.Bd3 O-O 8.a3 b6  
+9.O-O Bb7 10.Qe2 Nd7 11.c4 Bf6 12.Rac1 Qe7 13.Rfd1 Rfd8 14.Nf1 g6 15.cxd5  
+exd5 16.dxc5 bxc5 17.Bxf6 Nxf6 18.Ba6 Rab8 19.Bxb7 Rxb7 20.Qc2 Rb5 21.N1d2 
+Ra5 22.Qb2 Ra6 23.Rc2 d4 24.Re1 d3 25.Rc4 Na5 26.Ra4 c4 27.bxc4 Rb6 28.Rb4 
+Nd7 29.Rb1 Rc8 30.Qc3 Rd6 31.Rb5 Nc6 32.Rd5 Nb6 1-0 
+ 
+[Event "Czech Open GMA"] 
+[Site "Pardubice CZE"] 
+[Date "2007.07.20"] 
+[Round "1"] 
+[White "Janturin, Artur"] 
+[Black "Baeumler, Ilja"] 
+[Result "1-0"] 
+[WhiteElo "2435"] 
+[BlackElo "2236"] 
+[ECO "A01"] 
+[EventDate "2007.07.20"] 
+ 
+1.b3 d5 2.e3 c5 3.Bb2 Nc6 4.Bb5 Bd7 5.Nf3 Nf6 6.O-O e6 7.d3 Bd6 8.Nbd2 O-O 
+9.Bxc6 Bxc6 10.Ne5 Qc7 11.f4 Nd7 12.Nxc6 bxc6 13.Qg4 e5 14.f5 f6 15.Kh1  
+Qa5 16.Qe2 Rab8 17.Rf3 Rf7 18.Rh3 c4 19.dxc4 e4 20.a3 Be5 21.Bd4 Qc7 22. 
+Rh4 Qa5 23.b4 Qa4 24.Nb3 a5 25.cxd5 cxd5 26.Qa6 Bxd4 27.exd4 Nb6 28.bxa5  
+Nc4 29.Rh3 Re7 30.Rc3 e3 31.g4 e2 32.Re1 Qxa3 33.Rxc4 dxc4 34.Qxc4+ Kh8  
+35.Rxe2 Rbe8 36.Re6 Rxe6 37.fxe6 Qd6 38.d5 Qe5 39.Qd3 Rc8 40.c4 Rb8 41.a6  
+Rb6 42.d6 Rxa6 43.d7 Qe1+ 44.Kg2 Ra2+ 45.Kh3 Rxh2+ 46.Kxh2 Qh4+ 47.Kg2  
+Qxg4+ 48.Kf2 Qf4+ 49.Ke2 1-0 
+ 
+[Event "22. North Sea Cup"] 
+[Site "Esbjerg DEN"] 
+[Date "2007.07.14"] 
+[Round "3"] 
+[White "Matras, Ondrej"] 
+[Black "Nielsen, JB."] 
+[Result "0-1"] 
+[WhiteElo "2218"] 
+[BlackElo "2232"] 
+[ECO "A01"] 
+[EventDate "2007.07.13"] 
+ 
+1.b3 d5 2.e3 c5 3.Bb2 Nc6 4.Nf3 Nf6 5.Be2 e6 6.d3 Bd6 7.Nbd2 O-O 8.h3 e5  
+9.e4 d4 10.g4 Qe7 11.Nh2 Nd8 12.Nc4 Bc7 13.g5 Ne8 14.h4 b5 15.Nd2 Rb8 16. 
+Bg4 Ne6 17.Qf3 Nd6 18.a4 a6 19.axb5 axb5 20.c3 f6 21.Bxe6+ Bxe6 22.gxf6  
+Rxf6 23.Qe2 Rbf8 24.Ndf3 Bxb3 25.Rg1 c4 26.Rg3 cxd3 27.Qxd3 Bc4 28.Qb1 Rf4 
+29.Ba3 Ba5 30.Bxd6 Bxc3+ 31.Nd2 Bxd2+ 32.Kxd2 Rxf2+ 33.Ke1 Qxd6 34.Ra7 g6  
+0-1 
+ 
+[Event "65. ch-GEO"] 
+[Site "Tbilisi GEO"] 
+[Date "2006.01.23"] 
+[Round "2"] 
+[White "Gelashvili, Tamaz"] 
+[Black "Margvelashvili, Giorgi"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2575"] 
+[BlackElo "2434"] 
+[ECO "A01"] 
+[EventDate "2006.01.22"] 
+ 
+1.b3 d5 2.e3 c5 3.Bb2 a6 4.Nf3 Nc6 5.d4 cxd4 6.Nxd4 Nf6 7.Be2 e6 8.O-O Bd7 
+9.c4 dxc4 10.Bxc4 Nxd4 11.Qxd4 Bc6 12.Nd2 Qxd4 13.Bxd4 Bd6 14.Be2 O-O 15. 
+Nc4 Bc7 16.Rac1 Rfd8 17.Rfd1 Rac8 18.Bb6 Rxd1+ 19.Rxd1 Bd5 20.Bf3 Kf8 21. 
+Bd4 Bxf3 22.gxf3 Ke7 23.a4 Nd7 24.Bb2 f6 25.Ba3+ Ke8 26.f4 Nb8 27.Kf1 b5  
+28.Nd6+ Bxd6 29.Rxd6 Rc6 30.axb5 axb5 31.f5 exf5 32.Rd5 b4 33.Bxb4 Rb6 34. 
+Bd6 Rxb3 35.Rxf5 Rb6 36.Bg3 Nd7 37.Ra5 Rb7 38.Ke2 Kf7 39.Kd3 Nf8 40.e4 Ne6 
+41.h4 Rb3+ 42.Kc4 Rb7 43.Kd5 Rd7+ 44.Kc6 Rd4 45.Ra7+ Kg6 46.e5 h5 1/2-1/2 
+ 
+[Event "ROM Ch women"] 
+[Site "Baile Tusnad ROM"] 
+[Date "2005.11.29"] 
+[Round "4"] 
+[White "Padurariu, Ioana-Smaranda"] 
+[Black "Olarasu, Gabriela"] 
+[Result "0-1"] 
+[WhiteElo "2204"] 
+[BlackElo "2323"] 
+[ECO "A01"] 
+[EventDate "2005.11.26"] 
+ 
+1.b3 d5 2.e3 c5 3.Bb2 a6 4.f4 Nc6 5.Nf3 Nh6 6.g3 d4 7.e4 e5 8.f5 g6 9.fxg6 
+hxg6 10.Bg2 Ng4 11.h3 Nf6 12.d3 Nh5 13.g4 Nf4 14.Qd2 c4 15.bxc4 Bb4 16.c3  
+dxc3 17.Bxc3 Nxg2+ 18.Qxg2 Qxd3 19.Bxb4 Nxb4 20.Nbd2 Nc2+ 21.Kf2 Nxa1 22. 
+Rxa1 Be6 23.Rb1 Bxc4 24.Qg3 O-O-O 25.Re1 Qe2+ 26.Kg1 Rxd2 27.Nxd2 Qxd2 0-1 
+ 
+[Event "Ch Romania women"] 
+[Site "Baile Tusnad ROU"] 
+[Date "2005.11.29"] 
+[Round "4"] 
+[White "Padurariu, Ioana-Smaranda"] 
+[Black "Olarasu, Gabriela"] 
+[Result "0-1"] 
+[WhiteElo "2204"] 
+[BlackElo "2323"] 
+[ECO "A01"] 
+ 
+1.b3 d5 2.e3 c5 3.Bb2 a6 4.f4 Nc6 5.Nf3 Nh6 6.g3 d4 7.e4 e5 8.f5 g6 9.fxg6 
+hxg6 10.Bg2 Ng4 11.h3 Nf6 12.d3 Nh5 13.g4 Nf4 14.Qd2 c4 15.bxc4 Bb4 16.c3  
+dxc3 17.Bxc3 Nxg2+ 18.Qxg2 Qxd3 19.Bxb4 Nxb4 20.Nbd2 Nc2+ 21.Kf2 Nxa1 22. 
+Rxa1 Be6 23.Rb1 Bxc4 24.Qg3 O-O-O 25.Re1 Qe2+ 26.Kg1 Rxd2 27.Nxd2 Qxd2 0-1 
+ 
+[Event "36. Olympiad"] 
+[Site "Calvia ESP"] 
+[Date "2004.10.29"] 
+[Round "14"] 
+[White "Berkes, Ferenc"] 
+[Black "Antonio, Rogelio Jr"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2630"] 
+[BlackElo "2524"] 
+[ECO "A01"] 
+[EventDate "2004.10.15"] 
+ 
+1.b3 d5 2.e3 c5 3.Bb2 Nc6 4.f4 Nf6 5.Nf3 Bg4 6.h3 Bxf3 7.Qxf3 e6 8.g4 Ne4  
+9.h4 Qa5 10.Bd3 Nd6 11.a3 Qb6 12.Nc3 c4 13.Be2 cxb3 14.Na4 Qd8 15.cxb3 Be7 
+16.g5 O-O 17.Rc1 Rc8 18.Bd3 Nf5 19.b4 Qd7 20.Nc5 Bxc5 21.Rxc5 Nce7 22.Rxc8 
+Rxc8 23.Kf2 Qa4 24.Rb1 Nd6 25.h5 Nef5 26.Qd1 Qd7 27.Rc1 Ne4+ 28.Bxe4 dxe4  
+29.Rxc8+ Qxc8 30.Qa4 Qd8 31.Ke1 h6 32.gxh6 Qh4+ 33.Kd1 Qxh5+ 34.Kc1 Nxh6  
+35.Qxa7 Qd5 36.Qb8+ Kh7 37.Qc7 Kg6 38.a4 Nf5 39.b5 f6 40.Qc3 Nd6 41.Kc2  
+Kf5 42.Qd4 Qxd4 43.Bxd4 g5 44.fxg5 fxg5 45.Kd1 g4 46.Ke2 g3 47.Kf1 Nc4  
+1/2-1/2 
+ 
+[Event "It Open"] 
+[Site "Sitges ESP"] 
+[Date "2004.07.??"] 
+[Round "6"] 
+[White "Gonzalez Rodriguez, Jorge A"] 
+[Black "Borges Matos, Juan"] 
+[Result "0-1"] 
+[WhiteElo "2348"] 
+[BlackElo "2456"] 
+[ECO "A01"] 
+ 
+1.b3 d5 2.e3 c5 3.Bb2 Nc6 4.Bb5 Bd7 5.Nf3 Rc8 6.O-O Nf6 7.c4 a6 8.Bxc6  
+Bxc6 9.Ne5 e6 10.d4 dxc4 11.bxc4 Be7 12.Nc3 cxd4 13.exd4 O-O 14.Qb3 Qc7  
+15.Rac1 Rfd8 16.Rfd1 Be8 17.Ba3 Bxa3 18.Qxa3 h6 19.h3 Nd7 20.Nxd7 Bxd7 21. 
+Ne4 Bc6 22.d5 exd5 23.cxd5 Qe5 24.dxc6 Rxd1+ 25.Rxd1 Qxe4 26.cxb7 Qxb7 27. 
+Rd6 Qe4 28.Rd1 Qe2 29.Ra1 Rc2 30.Qf3 Qxf3 31.gxf3 a5 32.a4 Rc4 33.Kg2 h5  
+34.Kg3 h4+ 35.Kg2 Kh7 36.Kf1 Kg6 37.Ke2 Kf6 38.Ke3 g5 39.Ra3 Rb4 40.Rc3  
+Rxa4 41.Rc6+ Kf5 42.Rc5+ Kg6 43.f4 gxf4+ 44.Kf3 f5 45.Rc8 Rb4 46.Ra8 a4  
+47.Ra7 Kg5 48.Rg7+ Kf6 49.Ra7 Rc4 50.Ra8 Re4 51.Ra6+ Kg5 52.Ra8 Rb4 53. 
+Rg8+ Kf6 54.Ra8 Ke5 55.Ra5+ Kd4 56.Kxf4 Kc4 57.Rxf5 a3 58.Ra5 a2 59.Rxa2  
+Kb3+ 60.Kg5 Kxa2 61.f4 Kb3 62.Kxh4 Kc4 63.Kg5 Kd5 64.Kf5 Kd6 0-1 
+ 
+[Event "National Open Blitz"] 
+[Site "Las Vegas, NV USA"] 
+[Date "2004.06.17"] 
+[Round "5"] 
+[White "Blatny, Pavel"] 
+[Black "Gurevich, D."] 
+[Result "1-0"] 
+[WhiteElo "2451"] 
+[BlackElo "2497"] 
+[ECO "A01"] 
+[EventDate "2004.06.17"] 
+ 
+1.b3 d5 2.e3 c5 3.Bb2 a6 4.Be2 Nc6 5.f4 Nh6 6.Nf3 f6 7.O-O e6 8.Re1 Bd6 9. 
+d4 O-O 10.c4 Nf5 11.Bd3 dxc4 12.Bxf5 exf5 13.d5 c3 14.Nxc3 Ne7 15.a4 b6  
+16.Nd2 Bb7 17.Nc4 Qc7 18.Qd3 Rad8 19.Rad1 g6 20.g3 Nc8 21.e4 fxe4 22.Nxe4  
+Be7 23.d6 Nxd6 24.Ncxd6 Bxd6 25.Nxd6 Qc6 26.Qc4+ 1-0 

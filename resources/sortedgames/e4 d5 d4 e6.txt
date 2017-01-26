@@ -1,0 +1,56 @@
+ 
+[Event "Visma IMA 2014"] 
+[Site "Vaxjo SWE"] 
+[Date "2014.06.28"] 
+[Round "6.5"] 
+[White "Wiander, Michael"] 
+[Black "Westerberg, Jonathan"] 
+[Result "0-1"] 
+[WhiteElo "2209"] 
+[BlackElo "2409"] 
+[ECO "C02"] 
+[EventDate "2014.06.25"] 
+ 
+1.e4 d5 2.d4 e6 3.e5 c5 4.Nf3 cxd4 5.c3 dxc3 6.Nxc3 Nc6 7.Bd3 f6 8.Bf4  
+fxe5 9.Nxe5 Nf6 10.Ng6 hxg6 11.Bxg6+ Kd7 12.O-O Bd6 13.Bxd6 Kxd6 14.Nb5+  
+Ke7 15.Qd3 Kf8 16.Rae1 a6 17.Qa3+ Qe7 18.Nd6 Rh6 19.Qg3 Rxg6 20.Qxg6 Qxd6  
+21.Re3 Ne5 22.Qg5 Nf7 23.Qg6 e5 24.Rg3 Ne8 25.Qh7 Qh6 26.Qc2 Bd7 27.Rg6  
+Rc8 0-1 
+ 
+[Event "1. League Cent-SRB 2013"] 
+[Site "Kragujevac SRB"] 
+[Date "2013.09.18"] 
+[Round "6.3"] 
+[White "Nestorovic, Nikola"] 
+[Black "Zajic, Milan"] 
+[Result "0-1"] 
+[WhiteElo "2439"] 
+[BlackElo "2302"] 
+[ECO "C15"] 
+[EventDate "2013.09.14"] 
+ 
+1.e4 d5 2.d4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 dxe4 6.Qg4 Nf6 7.Qxg7 Rg8 8. 
+Qh6 Nbd7 9.a4 c5 10.a5 Qc7 11.Qd2 Qc6 12.Ne2 b6 13.c4 Ba6 14.Qc3 b5 15. 
+cxb5 Bxb5 16.dxc5 Bxe2 17.Bxe2 Rxg2 18.Rb1 Qxc5 19.Qxc5 Nxc5 20.Bf4 Rg8  
+21.Bd6 Nfd7 22.Bb5 a6 23.Be2 Rc8 24.Kd2 Rc6 25.Bxc5 Rxc5 26.Bxa6 Rxa5 27. 
+Bb5 Ke7 28.Bxd7 Rd8 29.Rb7 Rxd7+ 30.Rxd7+ Kxd7 31.Ke3 f5 32.Rg1 Ra3+ 33. 
+Kd4 Rf3 34.Rg2 Kd6 35.c3 h5 36.Kc4 h4 37.Kd4 h3 38.Rg3 e5+ 39.Kc4 Rxg3 40. 
+fxg3 Kc6 0-1 
+ 
+[Event "3. It"] 
+[Site "Badalona ESP"] 
+[Date "2005.03.01"] 
+[Round "1"] 
+[White "Fluvia Poyatos, J."] 
+[Black "Moskalenko, V."] 
+[Result "0-1"] 
+[WhiteElo "2478"] 
+[BlackElo "2530"] 
+[ECO "C16"] 
+[EventDate "2005.03.01"] 
+ 
+1.e4 d5 2.d4 e6 3.Nc3 Bb4 4.e5 b6 5.a3 Bf8 6.Nf3 c5 7.Bg5 Be7 8.Bxe7 Nxe7  
+9.Nb5 O-O 10.Bd3 h6 11.c3 Ba6 12.a4 Nbc6 13.b3 Na5 14.O-O Bxb5 15.axb5 c4  
+16.b4 cxd3 17.bxa5 bxa5 18.Qa4 a6 19.Rfb1 axb5 20.Rxb5 Ng6 21.Qd1 Qc7 22. 
+Rc5 Qb6 23.Qxd3 Rfb8 24.g3 a4 25.c4 Qb2 26.Ra3 Rb3 27.Qxb3 Qxb3 28.Rxb3  
+axb3 29.Nd2 b2 30.Kg2 Ra1 31.cxd5 Rd1 32.d6 0-1 

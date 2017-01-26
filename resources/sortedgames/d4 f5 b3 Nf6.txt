@@ -1,0 +1,137 @@
+ 
+[Event "1. Cidade Velha Open"] 
+[Site "Belem BRA"] 
+[Date "2015.05.03"] 
+[Round "6.3"] 
+[White "Perdomo, Leandro"] 
+[Black "Rodi, Luis Ernesto"] 
+[Result "1-0"] 
+[WhiteElo "2424"] 
+[BlackElo "2351"] 
+[ECO "A80"] 
+[EventDate "2015.04.30"] 
+ 
+1.d4 f5 2.b3 Nf6 3.Bb2 d6 4.e3 e6 5.Bd3 Nc6 6.Nf3 Be7 7.Nbd2 O-O 8.a3 Kh8  
+9.Qe2 d5 10.c4 Ne4 11.b4 Bf6 12.b5 Na5 13.cxd5 exd5 14.O-O Be6 15.Rab1 c6  
+16.bxc6 Nxc6 17.Ne5 Rc8 18.f3 Ng5 19.Nb3 Qd6 20.Rfc1 Rc7 21.Bb5 Ne7 22. 
+Rxc7 Qxc7 23.Rc1 Qd6 24.Nc5 Rc8 25.Rc2 b6 26.Nxe6 Qxe6 27.Bd7 Rxc2 28.Qxc2 
+Qd6 29.Bxf5 g6 30.Bd3 Kg7 31.Kf2 Ne6 32.Qa4 Qc7 33.Qd7 Bxe5 34.Qxe6 Bf6  
+35.g3 h5 36.e4 dxe4 37.fxe4 h4 38.e5 Bg5 39.Bc4 Kh6 40.gxh4 Bxh4+ 41.Ke2  
+b5 42.Bd3 Qa5 43.Bc1+ Kg7 44.Bd2 Qxa3 45.Qh3 g5 46.Qe6 a6 47.Qf6+ Kg8 48. 
+e6 1-0 
+ 
+[Event "SportAccord Blitz Women 2013"] 
+[Site "Beijing CHN"] 
+[Date "2013.12.14"] 
+[Round "1.4"] 
+[White "Paehtz, Elisabeth"] 
+[Black "Muzychuk, Anna"] 
+[Result "0-1"] 
+[WhiteElo "2452"] 
+[BlackElo "2566"] 
+[ECO "A80"] 
+[EventDate "2013.12.14"] 
+ 
+1.d4 f5 2.b3 Nf6 3.e3 g6 4.Bb2 Bg7 5.Be2 d6 6.h4 e5 7.dxe5 Nfd7 8.f4 dxe5  
+9.h5 Qe7 10.hxg6 hxg6 11.Rxh8+ Bxh8 12.Nf3 Nc6 13.Nc3 Nb6 14.Qd2 Bd7 15. 
+O-O-O O-O-O 16.Bb5 exf4 17.exf4 Bf6 18.Qf2 Qg7 19.Bxc6 Bxc6 20.Rxd8+ Kxd8  
+21.Nd1 Bxb2+ 22.Nxb2 Kc8 23.Ne5 Be4 24.g3 Qh6 25.Qd4 Qh1+ 26.Nd1 Qg2 27. 
+Ne3 Qg1+ 28.Kb2 Qxg3 29.Nf7 Kb8 30.Qd8+ Nc8 31.Ne5 b6 32.N3c4 Qxf4 33.Nd7+ 
+Kb7 34.Nde5 Qf2 35.Na3 Qg3 36.Nac4 Qh2 37.Qd1 g5 38.Nf7 g4 39.a4 a5 40. 
+Nfe5 Qf4 41.Qd4 Qh2 42.Qc3 g3 43.Ne3 g2 44.Nxg2 Qxg2 45.Nc4 Qg6 46.Qd4 Qc6 
+47.Qe5 Nd6 48.Ne3 Qc5 49.Qf4 Qd4+ 50.Ka2 Qc3 0-1 
+ 
+[Event "2. Open"] 
+[Site "Sabadell ESP"] 
+[Date "2009.09.09"] 
+[Round "8"] 
+[White "Fier, Alexandr"] 
+[Black "Alonso Moyano, Jonathan"] 
+[Result "1-0"] 
+[WhiteElo "2644"] 
+[BlackElo "2389"] 
+[ECO "A80"] 
+[EventDate "2009.09.01"] 
+ 
+1.d4 f5 2.b3 Nf6 3.Bb2 g6 4.e3 Bg7 5.Be2 d6 6.h4 Ne4 7.h5 Nc6 8.Nd2 Nxd2  
+9.Qxd2 e5 10.d5 Ne7 11.f4 g5 12.Nf3 g4 13.h6 Bf6 14.Nxe5 dxe5 15.fxe5 Bg5  
+16.Bc4 Nxd5 17.Bxd5 c6 18.Bc4 Qxd2+ 19.Kxd2 b5 20.Bd3 Be6 21.Rh5 Rg8 22. 
+Rf1 O-O-O 23.Ke2 Rdf8 24.g3 Rg6 25.Bd4 a6 26.a4 Kb7 27.Bc5 Rf7 28.c4 bxa4  
+29.bxa4 Bxh6 30.Rb1+ Ka8 31.Rb6 Rb7 32.Rxa6+ Kb8 33.Bd6+ Kc8 34.Bxf5 Bxf5  
+35.Rxf5 Rb2+ 36.Kd3 Kb7 37.Ra5 Rb3+ 38.Kc2 Rxe3 39.Rf7+ Kb6 40.Bc5+ 1-0 
+ 
+[Event "XI Sants Open"] 
+[Site "Barcelona ESP"] 
+[Date "2009.08.24"] 
+[Round "4"] 
+[White "Fier, Alexandr"] 
+[Black "Grafl, Florian"] 
+[Result "1-0"] 
+[WhiteElo "2604"] 
+[BlackElo "2426"] 
+[ECO "A80"] 
+[EventDate "2009.08.21"] 
+ 
+1.d4 f5 2.b3 Nf6 3.Bb2 e6 4.e3 Be7 5.h3 O-O 6.Bd3 b6 7.Qf3 Nc6 8.a3 Bb7 9. 
+Qe2 Ne4 10.Nd2 Bh4 11.Bxe4 fxe4 12.g3 Bg5 13.h4 Bh6 14.g4 g6 15.Nxe4 Ne5  
+16.dxe5 Bxe4 17.f3 Bc6 18.O-O-O Qe7 19.h5 Qc5 20.hxg6 Qxe3+ 21.Kb1 hxg6  
+22.Qh2 Bg7 23.Rd3 Qf4 24.Qh7+ Kf7 25.Ne2 Qg5 26.Rhd1 Rad8 27.Qh2 Rh8 28. 
+Qg3 Ke7 29.Nd4 Bb7 30.Bc1 Qxe5 31.Bf4 Qf6 32.g5 Qf7 33.Bxc7 Rc8 34.Re1  
+Bxd4 35.Rxd4 Bc6 36.Rf4 Qh7 37.Rf6 Rxc7 38.Qxc7 Qh2 39.Rexe6# 1-0 
+ 
+[Event "XXXV Open"] 
+[Site "La Roda ESP"] 
+[Date "2008.03.23"] 
+[Round "9"] 
+[White "Granda Zuniga, Julio E"] 
+[Black "Herraiz Hidalgo, Herminio"] 
+[Result "1-0"] 
+[WhiteElo "2588"] 
+[BlackElo "2485"] 
+[ECO "A80"] 
+[EventDate "2008.03.19"] 
+ 
+1.d4 f5 2.b3 Nf6 3.Bb2 g6 4.e3 Bg7 5.Bd3 d6 6.Nf3 Nc6 7.Nbd2 e5 8.dxe5 Nd7 
+9.Nd4 Ndxe5 10.Nxc6 bxc6 11.O-O O-O 12.Be2 Be6 13.Qc1 Qe7 14.Nf3 Bf7 15. 
+Nxe5 Bxe5 16.Bf3 Bd5 17.Bxd5+ cxd5 18.Rd1 Qe6 19.g3 Rf7 20.Rd3 c5 21.Rb1  
+c4 22.bxc4 dxc4 23.Ra3 Qd5 24.Bc3 Bxc3 25.Rxc3 Rc8 26.Ra3 c3 27.Ra4 Qd2  
+28.Rd4 Qxc1+ 29.Rxc1 Rc6 30.Rb1 Re7 31.Kf1 Kf7 32.Ke2 Ke6 33.Kd3 Rec7 34. 
+Rbb4 d5 35.Ra4 Rb6 36.Rdb4 Kd6 37.Rb3 Rbc6 38.h4 Rc4 39.Ra6+ R4c6 40.Rxc6+ 
+Rxc6 41.Rb7 Ra6 42.Rxh7 Ke6 43.h5 1-0 
+ 
+[Event "PER Ch"] 
+[Site "Lima PER"] 
+[Date "2002.10.09"] 
+[Round "12"] 
+[White "Granda Zuniga, Julio E"] 
+[Black "Soto, Jo"] 
+[Result "1-0"] 
+[WhiteElo "2605"] 
+[BlackElo "2412"] 
+[ECO "A80"] 
+[EventDate "2002.10.01"] 
+ 
+1.d4 f5 2.b3 Nf6 3.Nf3 g6 4.Bb2 Bg7 5.g3 O-O 6.Bg2 d6 7.O-O c6 8.Qd3 Na6  
+9.a3 Ne4 10.b4 Nc7 11.c4 a5 12.b5 a4 13.Nc3 Nxc3 14.Bxc3 Bd7 15.b6 Ne6 16. 
+Rab1 Qe8 17.Qc2 h6 18.e4 fxe4 19.Qxe4 Qf7 20.Qe3 Rae8 21.Rfe1 Nd8 22.Nd2  
+Kh7 23.f4 e5 24.dxe5 dxe5 25.Bxe5 Bxe5 26.fxe5 Bf5 27.Rbc1 Qe7 28.c5 Ne6  
+29.Nc4 Qxc5 30.Nd6 Qxe3+ 31.Rxe3 Re7 32.Rc4 Ra8 33.g4 Bb1 34.Rb4 Bc2 35. 
+Nxb7 Rxb7 36.Bxc6 Rab8 37.Bxb7 Rxb7 38.Rc3 Bb3 39.Rc8 Kg7 40.Ra8 Kf7 41. 
+Ra7 Nc5 42.Rb5 Ke6 43.Rxc5 Rxb6 44.Rg7 1-0 
+ 
+[Event "ch"] 
+[Site "Ashgabat TKM"] 
+[Date "2000.05.15"] 
+[Round "4"] 
+[White "Geldyeva, Mekhri"] 
+[Black "Geldyev, Kochmurad"] 
+[Result "0-1"] 
+[WhiteElo "2339"] 
+[BlackElo "2308"] 
+[ECO "A80"] 
+[EventDate "2000.05.12"] 
+ 
+1.d4 f5 2.b3 Nf6 3.Bb2 g6 4.Nd2 Bg7 5.g3 O-O 6.Bg2 d6 7.Ngf3 c6 8.c4 Qe8  
+9.Qc2 h6 10.Nh4 Na6 11.e4 fxe4 12.Nxe4 g5 13.Nf3 Bf5 14.Nxf6+ exf6+ 15.Qe2 
+Qg6 16.O-O-O Nb4 17.Ba3 Rfe8 18.Qf1 a5 19.Bxb4 axb4 20.Kb2 Bb1 21.Rxb1  
+Rxa2+ 22.Kxa2 Qc2+ 0-1 

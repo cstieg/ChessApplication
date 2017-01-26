@@ -1,0 +1,16 @@
+ 
+[Event "Open"] 
+[Site "Ubeda ESP"] 
+[Date "2001.01.29"] 
+[Round "9"] 
+[White "Yandemirov, Valeri"] 
+[Black "Yagupov, Igor"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2494"] 
+[BlackElo "2417"] 
+[ECO "B10"] 
+[EventDate "2001.01.21"] 
+ 
+1.e4 c6 2.e5 d6 3.exd6 exd6 4.d4 d5 5.Nf3 Bd6 6.Bd3 Ne7 7.O-O O-O 8.Re1  
+Bf5 9.Bg5 Bg6 10.Bxg6 hxg6 11.Qd3 Na6 12.Nbd2 Nc7 13.Bxe7 Bxe7 14.Ne5 Bd6  
+15.Ndf3 Qc8 16.Re3 Qf5 17.Rae1 Qxd3 18.Rxd3 1/2-1/2 

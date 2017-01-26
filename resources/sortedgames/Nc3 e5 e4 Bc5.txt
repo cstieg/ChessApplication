@@ -1,0 +1,36 @@
+ 
+[Event "ch"] 
+[Site "Ulaanbaatar MGL"] 
+[Date "2009.04.17"] 
+[Round "12"] 
+[White "Lhagva, Jambaldoo"] 
+[Black "Bayarmandakh, Balgan"] 
+[Result "0-1"] 
+[WhiteElo "2213"] 
+[BlackElo "2345"] 
+[ECO "C25"] 
+[EventDate "2009.04.11"] 
+ 
+1.Nc3 e5 2.e4 Bc5 3.Nf3 d6 4.Na4 Nd7 5.g3 Ngf6 6.d3 O-O 7.Bg2 c6 8.Nxc5  
+Nxc5 9.O-O Re8 10.h3 b6 11.Re1 Bb7 12.c3 Ba6 13.Bf1 d5 14.Qc2 dxe4 15.dxe4 
+Bxf1 16.Kxf1 Qd3+ 17.Qxd3 Nxd3 18.Re2 h6 19.Ne1 Rad8 20.Nc2 Nc5 21.f3 Na4  
+22.Ne3 Rd3 23.Rc2 Nh5 24.Kf2 Nc5 25.b4 Na4 26.Bd2 Red8 27.Be1 b5 28.Ke2  
+Nf6 29.a3 Nb6 30.g4 Nc4 31.Nd1 Ne8 32.a4 a6 33.axb5 axb5 34.Nf2 Re3+ 35. 
+Kf1 Rxf3 36.Kg2 Rf4 37.Rca2 Nf6 38.Ra8 Rxa8 39.Rxa8+ Kh7 40.Rc8 Nxe4 41. 
+Rxc6 Ne3+ 42.Kg1 Ng5 43.Nd3 Rf1+ 0-1 
+ 
+[Event "58. Ch"] 
+[Site "Rhodes GRE"] 
+[Date "2008.12.08"] 
+[Round "9"] 
+[White "Banikas, Hristos"] 
+[Black "Nikolaidis, Ioannis"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2572"] 
+[BlackElo "2529"] 
+[ECO "C25"] 
+[EventDate "2008.11.30"] 
+ 
+1.Nc3 e5 2.e4 Bc5 3.Na4 Bxf2+ 4.Kxf2 Qh4+ 5.Ke3 Qf4+ 6.Kd3 d5 7.Kc3 Qxe4  
+8.Kb3 Na6 9.a3 Qxa4+ 10.Kxa4 Nc5+ 11.Kb4 a5+ 12.Kxc5 Ne7 13.Bb5+ Kd8 14. 
+Bc6 b6+ 15.Kb5 Nxc6 16.Kxc6 Bb7+ 17.Kb5 Ba6+ 1/2-1/2 

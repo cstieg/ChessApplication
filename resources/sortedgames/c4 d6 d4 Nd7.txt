@@ -1,0 +1,77 @@
+ 
+[Event "ch-SRB Women 2012"] 
+[Site "Kac SRB"] 
+[Date "2012.03.26"] 
+[Round "5"] 
+[White "Chelushkina, Irina"] 
+[Black "Drljevic, Ljilja"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2263"] 
+[BlackElo "2278"] 
+[ECO "A55"] 
+[EventDate "2012.03.22"] 
+ 
+1.c4 d6 2.d4 Nd7 3.Nc3 e5 4.Nf3 Ngf6 5.g3 Be7 6.Bg2 O-O 7.O-O c6 8.e4 a6  
+9.Nh4 exd4 10.Qxd4 Qb6 11.Qxb6 Nxb6 12.b3 g6 13.Bg5 Kg7 14.h3 Re8 15.Rad1  
+a5 16.Bf4 a4 17.Nf3 axb3 18.axb3 Ra3 19.Nd2 Be6 20.Ncb1 Ra2 21.Be3 Nfd7  
+22.f4 f5 23.Nc3 Ra3 24.Ne2 fxe4 25.Bd4+ Bf6 26.Nxe4 Rxb3 27.Nxd6 Re7 28. 
+Bxf6+ Nxf6 29.Nd4 Re3 30.c5 Na4 31.Rde1 Bd7 32.Rxe3 Rxe3 33.Nxb7 Rxg3 34. 
+f5 gxf5 35.Nxf5+ Bxf5 36.Rxf5 Nd5 37.Rf3 Rg5 38.Kh2 Nf6 39.Re3 Nxc5 40.Nd8 
+Nd5 41.Rg3 1/2-1/2 
+ 
+[Event "10. EICC"] 
+[Site "Budva MNE"] 
+[Date "2009.03.08"] 
+[Round "3"] 
+[White "Skoberne, Jure"] 
+[Black "Serov, Maksim"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2489"] 
+[BlackElo "2352"] 
+[ECO "A55"] 
+[EventDate "2009.03.06"] 
+ 
+1.c4 d6 2.d4 Nd7 3.Nc3 e5 4.Nf3 Ngf6 5.e4 Be7 6.Be2 O-O 7.O-O c6 8.Be3 h6  
+9.Qc2 Nh7 10.Rad1 Bf6 11.dxe5 dxe5 12.c5 Ng5 13.b4 Nxf3+ 14.Bxf3 Qc7 15. 
+Na4 Rd8 16.Nb2 Nf8 17.Rxd8 Bxd8 18.Nc4 Bg5 19.Rd1 1/2-1/2 
+ 
+[Event "4. ch-Mediterranean"] 
+[Site "Cannes FRA"] 
+[Date "2007.02.22"] 
+[Round "6"] 
+[White "Bogut, Zeljko"] 
+[Black "Drljevic, Ljilja"] 
+[Result "1-0"] 
+[WhiteElo "2437"] 
+[BlackElo "2243"] 
+[ECO "A54"] 
+[EventDate "2007.02.18"] 
+ 
+1.c4 d6 2.d4 Nd7 3.Nc3 e5 4.g3 Ngf6 5.Nf3 c6 6.Qc2 Be7 7.Bg2 O-O 8.O-O Qc7 
+9.Rd1 Re8 10.b3 Bf8 11.d5 cxd5 12.Nxd5 Nxd5 13.Rxd5 Nf6 14.Rd1 Bg4 15.Ng5  
+Bh5 16.Ne4 Bg6 17.Nxf6+ gxf6 18.Qd2 Rad8 19.Bd5 Rb8 20.a4 a5 21.Bb2 h5 22. 
+Bc3 b6 23.Bb2 Kh7 24.Ba3 Bh6 25.e3 Rbd8 26.Bg2 Bf8 27.h4 Be7 28.Qe2 f5 29. 
+Rd5 Bf8 30.Rad1 Re6 31.Bh3 Rf6 32.Bb2 Re8 33.R1d2 Qb8 34.Qd1 Kh6 35.Ba3 f4 
+36.exf4 exf4 37.Bb2 Rfe6 38.Bxe6 fxe6 39.Rxd6 Bxd6 40.Rxd6 fxg3 41.Qd2+  
+Kh7 42.Rd7+ 1-0 
+ 
+[Event "13. Open A"] 
+[Site "Zadar CRO"] 
+[Date "2006.12.15"] 
+[Round "7"] 
+[White "Kovacevic, Blazimir"] 
+[Black "Dimitrov, Pavel"] 
+[Result "1-0"] 
+[WhiteElo "2471"] 
+[BlackElo "2371"] 
+[ECO "A42"] 
+[EventDate "2006.12.11"] 
+ 
+1.c4 d6 2.d4 Nd7 3.e4 e5 4.Nf3 g6 5.Nc3 Bg7 6.Be2 Ne7 7.h4 h5 8.Bg5 O-O 9. 
+Qd2 exd4 10.Nxd4 Nc5 11.O-O-O Qe8 12.Bh6 Nc6 13.Bxg7 Kxg7 14.Ndb5 Qe7 15. 
+Nd5 Qxe4 16.Qc3+ Ne5 17.Bf3 Qxc4 18.Qxc4 Nxc4 19.Ndxc7 Rb8 20.Be2 Ne5 21. 
+Nxd6 Be6 22.Kb1 Rfd8 23.f4 Nc6 24.Bf3 Rxd6 25.Rxd6 Bf5+ 26.Ka1 Nb4 27.b3  
+Rc8 28.Nb5 Nc2+ 29.Kb2 Nd3+ 30.Rxd3 Bxd3 31.Nd6 Rc5 32.Nxb7 Rb5 33.Rd1 Bf5 
+34.Nd6 Rc5 35.Nxf5+ gxf5 36.Rc1 Nb4 37.Rxc5 Nd3+ 38.Kc3 Nxc5 39.Bxh5 Ne4+  
+40.Kd4 Kf6 41.Bf3 Nd6 42.Kc5 Ne8 43.b4 Nc7 44.Kc6 Ne6 45.Kb7 Nxf4 46.Kxa7  
+Ke7 47.b5 Ne6 48.b6 Nd4 49.b7 Nb5+ 50.Kb6 1-0 

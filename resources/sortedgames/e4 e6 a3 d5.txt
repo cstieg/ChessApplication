@@ -1,0 +1,98 @@
+ 
+[Event "53. TCh-DEN Ex 2014-15"] 
+[Site "Copenhagen DEN"] 
+[Date "2015.01.11"] 
+[Round "5.5"] 
+[White "Rewitz, Poul"] 
+[Black "Helledie, Anders"] 
+[Result "0-1"] 
+[WhiteElo "2253"] 
+[BlackElo "2266"] 
+[ECO "C00"] 
+[EventDate "2014.10.25"] 
+ 
+1.e4 e6 2.a3 d5 3.e5 Bd7 4.Nf3 a6 5.b4 f6 6.Bb2 fxe5 7.Nxe5 Nf6 8.g4 Ne4  
+9.d3 Nd6 10.Nd2 Nc6 11.Ndf3 Nf7 12.Nxf7 Kxf7 13.Qd2 Bd6 14.c4 Rf8 15.c5  
+Kg8 16.cxd6 Rxf3 17.Bg2 Rf7 18.dxc7 Qxc7 19.O-O Raf8 20.Rae1 Rf4 21.h3 Qd8 
+22.Qe3 Qh4 23.Qg3 Qxg3 24.fxg3 Rxf1+ 25.Rxf1 Rxf1+ 26.Kxf1 Be8 27.Kf2 Bf7  
+28.d4 Bg6 29.h4 Kf7 30.Ke3 Bc2 31.Kf4 Ke7 32.g5 g6 33.Ke3 b5 34.Bf3 Na7  
+35.Be2 Nc8 36.Kd2 Bb3 37.Bd3 Nd6 38.Ke2 Bc4 39.Bxc4 dxc4 40.g4 Nc8 41.Ke3  
+Kd6 42.Ke4 Nb6 43.Bc3 Nd5 44.Be1 c3 45.Kd3 Nf4+ 46.Kxc3 Kd5 47.Bd2 Ne2+  
+48.Kd3 Nxd4 49.h5 Nf3 50.Bf4 e5 51.Bc1 e4+ 52.Ke3 Ne5 53.h6 Nxg4+ 54.Kf4  
+Ne5 55.Be3 Nc4 56.Bc1 Kd4 57.Kg3 Kd3 58.Kf4 Kd4 59.Kg3 e3 0-1 
+ 
+[Event "Classics IM"] 
+[Site "Gausdal NOR"] 
+[Date "2003.04.04"] 
+[Round "2"] 
+[White "Hoogendoorn, Joost"] 
+[Black "Rodgaard, John"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2429"] 
+[BlackElo "2349"] 
+[ECO "C00"] 
+[EventDate "2003.04.03"] 
+ 
+1.e4 e6 2.a3 d5 3.e5 d4 4.Nf3 c5 5.b4 cxb4 6.axb4 Bxb4 7.Bd3 Nc6 8.O-O  
+Nge7 9.Na3 Ng6 10.Re1 O-O 11.Rb1 Bc5 12.Be4 Ncxe5 13.Nxe5 Nxe5 14.Bxh7+  
+Kxh7 15.Rxe5 Be7 16.Qh5+ Kg8 17.Rb3 f6 18.Re4 f5 1/2-1/2 
+ 
+[Event "NED Ch sf"] 
+[Site "Leeuwarden NED"] 
+[Date "2001.12.09"] 
+[Round "2.4"] 
+[White "Hoogendoorn, Joost"] 
+[Black "Werle, Jan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2388"] 
+[BlackElo "2459"] 
+[ECO "C00"] 
+[EventDate "2001.11.17"] 
+ 
+1.e4 e6 2.a3 d5 3.e5 c5 4.b4 a5 5.bxc5 Bxc5 6.d4 Be7 7.Bd3 Nc6 8.Nf3 h5 9. 
+h4 Nh6 10.Bg5 b6 11.Nc3 Ba6 12.Nb5 Kf8 13.Rh3 Na7 14.a4 Nxb5 15.axb5 Bc8  
+16.Qd2 Qc7 17.Bxe7+ Qxe7 18.Kf1 Nf5 19.Kg1 Bd7 20.c4 dxc4 21.Bxc4 Rd8 22. 
+Rc1 Qb4 23.Qxb4+ axb4 24.Bd3 g6 25.Rb1 Bc8 26.Rxb4 Bb7 27.Ng5 Rxd4 28.Rxd4 
+Nxd4 29.Be4 Bxe4 30.Nxe4 Nxb5 31.Rb3 Nd4 32.Rxb6 Kg7 33.Rd6 Nf5 34.Rd7 Re8 
+35.g3 1/2-1/2 
+ 
+[Event "NED Team Ch"] 
+[Site "Leeuwarden NED"] 
+[Date "2000.03.18"] 
+[Round "5"] 
+[White "Hoogendoorn, Joost"] 
+[Black "Kerkmeester, Heico"] 
+[Result "1-0"] 
+[WhiteElo "2296"] 
+[BlackElo "2281"] 
+[ECO "C00"] 
+[EventDate "2000.02.05"] 
+ 
+1.e4 e6 2.a3 d5 3.e5 b6 4.b4 a5 5.b5 c5 6.bxc6 Nxc6 7.d4 Nge7 8.Nf3 g6 9. 
+Bg5 Bg7 10.Bb5 Bd7 11.a4 O-O 12.O-O Na7 13.Bd3 Re8 14.Qe2 Qc7 15.Nbd2 Rab8 
+16.Rab1 Bc6 17.c3 Qd7 18.Qd1 Rec8 19.h4 Kh8 20.h5 Ng8 21.Be3 Qe8 22.Ng5  
+Rc7 23.hxg6 fxg6 24.Ndf3 h6 25.Nh3 g5 26.Nh2 Bd7 27.Bd2 b5 28.f4 bxa4 29. 
+fxg5 Nb5 30.Rc1 Rbc8 31.Qe1 Bf8 32.Nf3 Ba3 33.Rc2 Bb2 34.gxh6 Bxc3 35.h7  
+Ne7 36.Qh4 Ng6 37.Bg5 1-0 
+ 
+[Event "Belgian Interteams 1999-2000"] 
+[Site "Antwerp BEL"] 
+[Date "2000.01.09"] 
+[Round "7"] 
+[White "Hoogendoorn, Joost"] 
+[Black "Tolk, Pieter"] 
+[Result "1-0"] 
+[WhiteElo "2296"] 
+[BlackElo "2269"] 
+[ECO "C00"] 
+[EventDate "2000.01.05"] 
+ 
+1.e4 e6 2.a3 d5 3.e5 Ne7 4.d4 h5 5.Nf3 Nf5 6.Bd3 Be7 7.Nbd2 a5 8.c4 c6 9. 
+b3 b6 10.Bb2 Ba6 11.Nf1 a4 12.Ne3 Nxe3 13.fxe3 axb3 14.Qxb3 Bxc4 15.Bxc4  
+dxc4 16.Qxc4 b5 17.Qd3 Nd7 18.O-O Nb6 19.Nd2 O-O 20.Rad1 Qd5 21.Rf2 Nc4  
+22.Nxc4 bxc4 23.Qe2 c3 24.Bxc3 Rxa3 25.Bb2 Ra2 26.Qxh5 Qb3 27.Bc1 Rxf2 28. 
+Kxf2 Ra8 29.Rf1 g6 30.Qf3 Qd5 31.Kg3 Qxf3+ 32.gxf3 Ra1 33.Kg2 c5 34.Bb2  
+Ra2 35.Rf2 c4 36.Bc3 Ra3 37.Rc2 Ra4 38.e4 f6 39.f4 Kf7 40.d5 f5 41.exf5  
+gxf5 42.d6 Bd8 43.Be1 Bb6 44.Rb2 Bc5 45.Rb7+ Kg6 46.Rc7 Ra2+ 47.Kf1 Bb6  
+48.Rxc4 Rxh2 49.Rc6 Rb2 50.d7 Bd8 51.Rc8 Be7 52.d8=Q Bxd8 53.Rxd8 Kh5 54. 
+Rg8 Ra2 55.Bf2 Ra4 56.Be3 Ra2 57.Rg2 Ra3 58.Kf2 Rb3 59.Kf3 Ra3 60.Rg8 1-0 

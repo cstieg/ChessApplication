@@ -1,0 +1,24 @@
+ 
+[Event "3. IECC"] 
+[Site "Batumi GEO"] 
+[Date "2002.06.14"] 
+[Round "3"] 
+[White "Mamedjarova, Zeinab"] 
+[Black "Kantaria, Mikheil"] 
+[Result "0-1"] 
+[WhiteElo "2312"] 
+[BlackElo "2259"] 
+[ECO "A40"] 
+[EventDate "2002.06.12"] 
+ 
+1.d4 a6 2.Nf3 d6 3.c4 Nf6 4.Nbd2 Nbd7 5.g3 e5 6.Bg2 Be7 7.Qc2 O-O 8.O-O  
+Re8 9.b3 Bf8 10.Bb2 c6 11.e4 b6 12.Rad1 Qc7 13.Rfe1 Bb7 14.Nb1 Rac8 15.Nc3 
+exd4 16.Nxd4 d5 17.Nf5 Re6 18.Ne3 dxc4 19.Nxc4 b5 20.Ne3 Rd8 21.Ncd5 Qb8  
+22.Nf4 Ree8 23.a4 Bb4 24.Re2 bxa4 25.bxa4 a5 26.Nf5 Ne5 27.Qc1 Rxd1+ 28. 
+Qxd1 Rd8 29.Qc1 Ba6 30.Rc2 Bb7 31.Nxg7 Kxg7 32.Ne6+ fxe6 33.Qg5+ Kf7 34. 
+Bxe5 Rd1+ 35.Bf1 Qd8 36.Bxf6 Rxf1+ 37.Kxf1 Qxf6 38.Qh5+ Qg6 39.Qe5 Qf6 40. 
+Qh5+ Kg7 41.Qd1 c5 42.Qd3 Kg8 43.Re2 Bc6 44.Re3 Bxa4 45.Kg2 Be8 46.Qa6 a4  
+47.Qa8 Qe7 48.Rd3 a3 49.Rd8 Kf8 50.Rb8 c4 51.Rb7 Qd6 52.Rxh7 Qc6 53.Qa7  
+Qxe4+ 54.f3 Qc2+ 55.Kh3 Qa4 56.Kg2 Qc2+ 57.Kh3 Qf5+ 58.Kg2 Qf6 59.g4 c3  
+60.h4 c2 61.Rc7 Qb2 62.Kh3 c1=Q 63.Rxc1 Qxc1 64.h5 Bd6 65.Kh4 Qe1+ 66.Kg5  
+Qe5+ 67.Kh4 Qh2+ 68.Kg5 Be7+ 0-1 

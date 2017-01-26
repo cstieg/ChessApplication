@@ -1,0 +1,41 @@
+ 
+[Event "Politiken Cup"] 
+[Site "Helsingor DEN"] 
+[Date "2008.07.27"] 
+[Round "10"] 
+[White "Bach, Matthias"] 
+[Black "Antonsen, Mikkel"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2272"] 
+[BlackElo "2455"] 
+[ECO "A00"] 
+[EventDate "2008.07.??"] 
+ 
+1.b4 c6 2.c4 d5 3.e3 Bf5 4.Bb2 e6 5.Nf3 Nd7 6.Nd4 Bg6 7.cxd5 cxd5 8.f4  
+Ngf6 9.b5 Bd6 10.Be2 e5 11.fxe5 Bxe5 12.O-O Qb8 13.h3 Ne4 14.Bf3 Ndf6 15. 
+Nc3 O-O 16.Nxe4 Nxe4 17.Bxe4 dxe4 18.Qb3 Rd8 19.Rac1 Rd7 20.Rc5 Qe8 21.Ne2 
+Bxb2 22.Qxb2 h6 23.Rfc1 Kh7 24.Nd4 Qe7 25.Qc3 Rad8 26.Rc7 Qh4 27.Rxd7 Rxd7 
+28.Qc8 Rd5 29.Qb8 Rg5 30.Rc8 Bh5 31.Rh8+ Kg6 32.Qd6+ f6 33.Qb8 Qe1+ 34.Kh2 
+Rxg2+ 35.Kxg2 Qxd2+ 36.Kf1 Qd1+ 37.Kf2 Qd2+ 38.Kf1 Qd1+ 1/2-1/2 
+ 
+[Event "AUS Masters"] 
+[Site "Melbourne AUS"] 
+[Date "2002.07.09"] 
+[Round "9"] 
+[White "Teichmann, Erik O M C"] 
+[Black "Solomon, Stephen J"] 
+[Result "1-0"] 
+[WhiteElo "2326"] 
+[BlackElo "2375"] 
+[ECO "A00"] 
+ 
+1.b4 c6 2.c4 d5 3.e3 e6 4.Bb2 Nf6 5.b5 Bd6 6.Nf3 O-O 7.Be2 dxc4 8.a4 a6 9. 
+Bxc4 Qe7 10.O-O e5 11.d3 cxb5 12.axb5 Nbd7 13.bxa6 bxa6 14.Nbd2 Bb7 15.Qe2 
+a5 16.Rfc1 a4 17.Rab1 a3 18.Ba1 Rfb8 19.e4 Nc5 20.d4 Ncxe4 21.dxe5 Nxd2  
+22.Nxd2 a2 23.Rb5 Ba3 24.Re1 Ne8 25.Bxa2 Nc7 26.Rbb1 Bb4 27.Bc4 Qg5 28.Nf3 
+Bxf3 29.Qxf3 Bxe1 30.Qxf7+ Kh8 31.Rxe1 Qd2 32.Rf1 Nb5 33.e6 Rxa1 34.e7  
+Raa8 35.Bxb5 h6 36.e8=Q+ Rxe8 37.Bxe8 Qd6 38.Ba4 Rf8 39.Qd7 Qc5 40.Qc6 Qe5 
+41.Bc2 Rb8 42.Qe4 Qxe4 43.Bxe4 Rb4 44.Re1 g5 45.h3 Kg7 46.Bf3 Kf6 47.Rc1  
+Ra4 48.Rc6+ Kg7 49.Bg4 Rf4 50.g3 Rf8 51.Kg2 Kh7 52.Bd1 Kg7 53.Bc2 Rh8 54. 
+f4 gxf4 55.gxf4 h5 56.f5 Rd8 57.f6+ Kh6 58.f7+ Kg7 59.Bb3 h4 60.Rc2 Rb8  
+61.Ba2 Ra8 62.Kg1 Kh6 63.Re2 Kg7 64.Re8 1-0 

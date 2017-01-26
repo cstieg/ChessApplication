@@ -1,0 +1,19 @@
+ 
+[Event "Autumn Cup IM"] 
+[Site "Bucharest ROU"] 
+[Date "2000.12.01"] 
+[Round "11"] 
+[White "Berechet, Otiliu-Octavian"] 
+[Black "Vioreanu, Bogdan-Gabriel"] 
+[Result "0-1"] 
+[WhiteElo "2224"] 
+[BlackElo "2280"] 
+[ECO "A13"] 
+[EventDate "2000.11.04"] 
+ 
+1.c4 e6 2.Qa4 c6 3.Nf3 d5 4.g3 Nf6 5.Bg2 Nbd7 6.cxd5 exd5 7.O-O Bd6 8.d3  
+O-O 9.Bg5 h6 10.Bxf6 Nxf6 11.Nc3 Re8 12.Rfe1 Bg4 13.e4 Qb6 14.exd5 Qxb2  
+15.Ne4 Nxe4 16.dxe4 Bc5 17.Rf1 cxd5 18.exd5 Bf5 19.Rae1 Rxe1 20.Nxe1 Bb1  
+21.Qd7 Qxa2 22.d6 Bg6 23.Bxb7 Rf8 24.Qc6 Bb6 25.d7 Rd8 26.Bc8 Bf5 27.Qb5  
+Qa5 28.Qe2 Bh3 29.Ng2 Qf5 30.Re1 Bg4 31.Qe8+ Kh7 32.Qe4 Bxf2+ 33.Kf1 Bxe1+ 
+34.Qxf5+ Bxf5 35.Nxe1 Bxd7 36.Ba6 Rb8 37.Bd3+ g6 38.Bc4 Kg7 39.Nd3 Bb5 0-1 

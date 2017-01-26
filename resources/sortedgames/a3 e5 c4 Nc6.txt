@@ -1,0 +1,41 @@
+ 
+[Event "Bargteheide GER, 6. Open   "] 
+[Site "Bargteheide GER"] 
+[Date "2003.06.01"] 
+[Round "7"] 
+[White "Michailow, Sergej"] 
+[Black "Plueg, Andreas"] 
+[Result "0-1"] 
+[WhiteElo "2204"] 
+[BlackElo "2283"] 
+[ECO "A00"] 
+[EventDate "2003.05.29"] 
+ 
+1.a3 e5 2.c4 Nc6 3.Nc3 f5 4.e3 Nf6 5.d4 d6 6.d5 Ne7 7.Nf3 h6 8.Be2 g6 9.b4 
+Bg7 10.Bb2 O-O 11.c5 g5 12.Bc4 a6 13.Nxe5 dxe5 14.d6+ Kh8 15.dxe7 Qxe7 16. 
+Qb3 b5 17.cxb6 cxb6 18.Nd5 Nxd5 19.Bxd5 Bb7 20.O-O Bxd5 21.Qxd5 Rad8 22. 
+Qc4 b5 23.Qe2 Rd7 24.Rac1 Rfd8 25.Rc2 Rd3 26.h3 Qd7 27.Rfc1 Rd2 28.Rxd2  
+Qxd2 29.Qxd2 Rxd2 30.Rc8+ Kh7 31.Bc3 Rd1+ 32.Kh2 Rc1 33.Rc7 Kg6 34.g3 g4  
+35.e4 h5 36.Rc6+ Bf6 37.hxg4 hxg4 38.Kg2 fxe4 39.Rc7 e3 40.fxe3 e4 41.Be5  
+Rxc7 42.Bxc7 Kf5 43.Kf2 Bb2 44.Ke2 Bxa3 45.Ba5 Bb2 46.Bb6 Be5 47.Kf2 Ke6  
+48.Bd4 Bd6 0-1 
+ 
+[Event "FSIMA March"] 
+[Site "Budapest HUN"] 
+[Date "2003.03.10"] 
+[Round "10"] 
+[White "Dovzik, Juri"] 
+[Black "Banusz, Tamas"] 
+[Result "0-1"] 
+[WhiteElo "2400"] 
+[BlackElo "2255"] 
+[ECO "A00"] 
+[EventDate "2003.03.01"] 
+ 
+1.a3 e5 2.c4 Nc6 3.Nc3 Nf6 4.e3 d5 5.cxd5 Nxd5 6.Qc2 Be6 7.Nf3 Bd6 8.Ne4  
+h6 9.Bc4 O-O 10.d3 Qd7 11.O-O a6 12.b4 b5 13.Bb3 a5 14.Qa2 Nce7 15.bxa5  
+Rxa5 16.Qb2 f6 17.Bd2 Raa8 18.Rfc1 Rfb8 19.d4 exd4 20.Nxd4 Bf7 21.Nc5 Bxc5 
+22.Rxc5 c6 23.Rac1 Nb6 24.Bxf7+ Kxf7 25.Qb3+ Nc4 26.a4 Qa7 27.R5xc4 bxc4  
+28.Qxc4+ Kg6 29.Qd3+ Kf7 30.Qc4+ Kg6 31.a5 Qd7 32.Bb4 Nd5 33.Nxc6 Nxb4 34. 
+Nxb4 Rc8 35.Nc6 Kh7 36.h4 Rc7 37.a6 Rac8 38.a7 Rxc6 39.Qxc6 Rxc6 40.Ra1  
+Rc8 41.a8=Q Rxa8 42.Rxa8 g5 43.hxg5 fxg5 44.Rb8 Qd1+ 45.Kh2 Qd6+ 0-1 

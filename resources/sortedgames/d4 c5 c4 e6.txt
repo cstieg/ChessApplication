@@ -1,0 +1,36 @@
+ 
+[Event "ch-Catalunya 3rd-4th"] 
+[Site "Lleida ESP"] 
+[Date "2009.05.22"] 
+[Round "4.1"] 
+[White "Oms Pallisse, Josep"] 
+[Black "Narciso Dublan, Marc"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2522"] 
+[BlackElo "2534"] 
+[ECO "A43"] 
+[EventDate "2009.05.16"] 
+ 
+1.d4 c5 2.c4 e6 3.d5 exd5 4.cxd5 d6 5.Nc3 Ne7 6.Nf3 Ng6 7.g3 Be7 8.Bg2 O-O 
+9.O-O Re8 10.Nd2 f5 11.e3 Nd7 12.Qc2 Nde5 13.Re1 Bf6 14.Bf1 Bd7 15.b3 Qa5  
+16.Bb2 b5 17.Be2 c4 18.bxc4 Nxc4 19.Nxc4 bxc4 20.Rac1 Rac8 21.Kg2 Rc5 22. 
+Bh5 Rb8 23.f4 Ne7 24.Ba1 Nxd5 25.Nxd5 Rxd5 26.Qxc4 Bxa1 27.Rxa1 Rc8 28.Qb3 
+Ba4 29.Qb7 Rd2+ 30.Kg1 Qc7 31.Qxc7 Rxc7 32.Rac1 Rcc2 33.Rxc2 Rxc2 34.Rb1  
+g6 35.Bf3 Rc7 36.Rb2 Be8 37.Bd5+ Bf7 38.Bxf7+ Kxf7 39.Kf2 1/2-1/2 
+ 
+[Event "TCh-ESP CECLUB Norte Div 1"] 
+[Site "Sabadell ESP"] 
+[Date "2007.08.19"] 
+[Round "6"] 
+[White "Lasanta Rica, Cesar"] 
+[Black "Fontana Sotomayor, Luis Javier"] 
+[Result "0-1"] 
+[WhiteElo "2244"] 
+[BlackElo "2340"] 
+[ECO "A67"] 
+[EventDate "2007.08.15"] 
+ 
+1.d4 c5 2.c4 e6 3.d5 exd5 4.Nc3 d6 5.cxd5 g6 6.e4 Bg7 7.f4 Nf6 8.Bb5+ Nfd7 
+9.Be2 O-O 10.Nf3 a6 11.a4 Nf6 12.O-O Bg4 13.Ng5 Bxe2 14.Qxe2 h6 15.Nf3 Re8 
+16.Bd2 Nxe4 17.Nxe4 f5 18.Bc3 Rxe4 19.Qd2 Nd7 20.Rae1 Nf6 21.h3 Qd7 22.a5  
+Rae8 23.Rxe4 Rxe4 24.Kf2 Qf7 25.Rd1 Rd4 0-1 

@@ -1,0 +1,15 @@
+ 
+[Event "19. Czech Chladek & Tintera A Open"] 
+[Site "Pardubice CZE"] 
+[Date "2008.07.19"] 
+[Round "2"] 
+[White "Majdan-Gajewska, Joanna"] 
+[Black "Neuman, Petr"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2323"] 
+[BlackElo "2444"] 
+[ECO "B06"] 
+[EventDate "2008.07.18"] 
+ 
+1.e4 g6 2.d3 c6 3.Nc3 Bg7 4.Nf3 d5 5.h3 dxe4 6.Nxe4 Nf6 7.Nxf6+ exf6 8.Bf4 
+Qe7+ 9.Be2 b5 1/2-1/2 

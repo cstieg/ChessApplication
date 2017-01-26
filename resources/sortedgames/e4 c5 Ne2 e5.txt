@@ -1,0 +1,122 @@
+ 
+[Event "Chess in Kecskemet IM Dec"] 
+[Site "Kecskemet HUN"] 
+[Date "2015.12.20"] 
+[Round "7.3"] 
+[White "Marholev, Dimitar"] 
+[Black "Radlovacki, Jovan"] 
+[Result "1-0"] 
+[WhiteElo "2284"] 
+[BlackElo "2372"] 
+[ECO "B20"] 
+[EventDate "2015.12.15"] 
+ 
+1.e4 c5 2.Ne2 e5 3.d4 Nf6 4.Nbc3 d6 5.h3 Be7 6.g4 Nfd7 7.Bg2 Bg5 8.Ng3 g6  
+9.d5 Bxc1 10.Qxc1 Nb6 11.a4 c4 12.Qh6 Qe7 13.Qg7 Rf8 14.a5 N6d7 15.Nb5 Kd8 
+16.Qxh7 a6 17.Nc3 Qg5 18.h4 Qxg4 19.Nce2 Ke7 20.Qg7 Nf6 21.Bh3 Qf3 22.Ra3  
+1-0 
+ 
+[Event "Baltic zt Ilyumzhinov Cup 2014"] 
+[Site "Liepaja LAT"] 
+[Date "2014.06.06"] 
+[Round "1.5"] 
+[White "Sulskis, Sarunas"] 
+[Black "Miezis, Normunds"] 
+[Result "1-0"] 
+[WhiteElo "2550"] 
+[BlackElo "2554"] 
+[ECO "B20"] 
+[EventDate "2014.06.06"] 
+ 
+1.e4 c5 2.Ne2 e5 3.Nec3 Nf6 4.Bc4 d6 5.d3 h6 6.Nd5 Nc6 7.Nxf6+ Qxf6 8.O-O  
+Be6 9.Nc3 Bxc4 10.dxc4 Qe6 11.Nd5 Rc8 12.f4 exf4 13.Bxf4 Be7 14.Nxe7 Kxe7  
+15.Bxd6+ Qxd6 16.Rxf7+ Ke6 17.Qh5 Qd4+ 18.Kh1 Ne5 19.Rxg7 Rcf8 20.Rxb7  
+Qxe4 21.Rxa7 Rf5 22.Ra6+ Ke7 23.Ra7+ Kf6 24.Qd1 Rf2 25.Qd6+ Kf5 26.Rf7+  
+Nxf7 27.Qxc5+ Kg6 28.Qxf2 Re8 29.Rf1 Ne5 30.b3 Ng4 31.Qf7+ Kg5 32.h3 Ne3  
+33.Rf3 Qe5 34.h4+ Kxh4 35.Rh3+ Kg4 36.Qg6+ 1-0 
+ 
+[Event "XXVI Tadeusza Gniota"] 
+[Site "Police POL"] 
+[Date "2011.07.11"] 
+[Round "7.6"] 
+[White "Starostits, Ilmars"] 
+[Black "Kantans, Toms"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2500"] 
+[BlackElo "2345"] 
+[ECO "B23"] 
+[EventDate "2011.07.05"] 
+ 
+1.e4 c5 2.Ne2 e5 3.Nbc3 Nc6 4.Nd5 d6 5.Nec3 Nf6 6.a3 Be6 7.Bc4 a6 8.d3 Nd4 
+9.Bg5 Be7 10.Nxe7 Qxe7 11.Nd5 Bxd5 12.Bxd5 1/2-1/2 
+ 
+[Event "SCT Ladies Open"] 
+[Site "Stockholm SWE"] 
+[Date "2008.03.21"] 
+[Round "3"] 
+[White "Sudakova, Irina"] 
+[Black "Worek, Joanna"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2333"] 
+[BlackElo "2244"] 
+[ECO "B20"] 
+[EventDate "2008.03.20"] 
+ 
+1.e4 c5 2.Ne2 e5 3.Nbc3 Nf6 4.g3 Be7 5.Bg2 O-O 6.O-O Nc6 7.d3 d6 8.f4 Rb8  
+9.Nd5 Nxd5 10.exd5 Nd4 11.c3 Nxe2+ 12.Qxe2 Bf6 13.fxe5 Bxe5 14.Bf4 Bxf4  
+15.Rxf4 b5 16.Re1 a5 17.b4 axb4 18.cxb4 cxb4 19.Rxb4 Bf5 20.Be4 Re8 21.Qf2 
+Bg6 22.Reb1 Bxe4 23.dxe4 Ra8 24.Rf1 Qd7 25.Qe2 h6 26.Qxb5 Qxb5 27.Rxb5  
+Rxa2 28.Rf2 Rxf2 29.Kxf2 Rxe4 30.Rb6 Kf8 31.Rxd6 Ke7 32.Ra6 Rd4 33.Ra7+  
+Kf6 34.Ra6+ Ke5 35.Ra7 1/2-1/2 
+ 
+[Event "WJun"] 
+[Site "Instanbul TUR"] 
+[Date "2005.11.17"] 
+[Round "8"] 
+[White "Kurnosov, Igor"] 
+[Black "Negi, Parimarjan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2523"] 
+[BlackElo "2352"] 
+[ECO "B20"] 
+[EventDate "2005.11.09"] 
+ 
+1.e4 c5 2.Ne2 e5 3.Nec3 Nf6 4.Bc4 d6 5.O-O Be6 6.d3 Nc6 7.Nd5 Be7 8.Nbc3  
+O-O 9.f4 exf4 10.Bxf4 Nd7 11.Nxe7+ Qxe7 12.Nd5 Bxd5 13.Bxd5 Nb6 14.Qh5  
+Nxd5 15.Qxd5 Ne5 16.b4 b6 17.Rab1 Rab8 18.Rb2 Rfe8 19.bxc5 bxc5 20.Rfb1  
+Rxb2 21.Rxb2 Qh4 22.Bg3 Qg5 23.Rb1 h5 24.Qxd6 h4 25.Bxe5 Rxe5 26.h3 f6 27. 
+Kh1 Qd2 28.c4 1/2-1/2 
+ 
+[Event "Staufer Open 14th"] 
+[Site "Schwaebisch Gmuend"] 
+[Date "2002.??.??"] 
+[Round "8"] 
+[White "Kupreichik, Viktor D"] 
+[Black "Miezis, Normunds"] 
+[Result "0-1"] 
+[WhiteElo "2421"] 
+[BlackElo "2498"] 
+[ECO "B23"] 
+ 
+1.e4 c5 2.Ne2 e5 3.Nbc3 Nc6 4.Ng3 g6 5.Bc4 Bg7 6.d3 Nge7 7.f4 exf4 8.Bxf4  
+d6 9.O-O Be6 10.Nb5 Ne5 11.Bxe6 fxe6 12.d4 cxd4 13.Nxd4 Qd7 14.c3 O-O 15. 
+Qb3 d5 16.Rad1 Nc4 17.Bg5 Rxf1+ 18.Nxf1 Nc6 19.Nxc6 Qxc6 20.exd5 Qc5+ 21. 
+Kh1 b5 22.a4 a6 23.Qa2 Rf8 24.Ng3 exd5 25.axb5 axb5 26.b3 Nb6 27.Qe2 Qc6  
+28.Bd2 Nd7 29.Be1 Nc5 30.Qd2 Ne4 31.Qe3 Bxc3 32.h3 Be5 33.Qd3 Bb8 34.Nxe4  
+dxe4 0-1 
+ 
+[Event "Chigorin Mem Open"] 
+[Site "St Petersburg RUS"] 
+[Date "2001.10.02"] 
+[Round "8"] 
+[White "Balashov, Yuri S"] 
+[Black "Chuiko, Alexander"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2555"] 
+[BlackElo "2413"] 
+[ECO "B20"] 
+[EventDate "2001.10.26"] 
+ 
+1.e4 c5 2.Ne2 e5 3.Nec3 Nf6 4.Bc4 d6 5.d3 Be7 6.O-O O-O 7.Nd5 Nxd5 8.Bxd5  
+Bg5 9.Nc3 Nc6 10.Qh5 Bxc1 11.Raxc1 Be6 12.f4 exf4 13.Rxf4 Ne5 14.Bxe6 fxe6 
+15.Rxf8+ 1/2-1/2 

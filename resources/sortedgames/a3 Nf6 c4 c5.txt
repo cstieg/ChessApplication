@@ -1,0 +1,15 @@
+ 
+[Event "IMA"] 
+[Site "Dimitrov RUS"] 
+[Date "2007.07.28"] 
+[Round "13"] 
+[White "Grebenschikov, Vladimir"] 
+[Black "Skurygin, Anton"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2307"] 
+[BlackElo "2319"] 
+[ECO "A38"] 
+[EventDate "2007.07.07"] 
+ 
+1.a3 Nf6 2.c4 c5 3.Nc3 g6 4.Nf3 Bg7 5.g3 O-O 6.Bg2 Nc6 7.O-O d6 8.d3 Bg4  
+9.h3 Bd7 10.Bg5 a6 11.Kh2 h6 12.Bd2 1/2-1/2 

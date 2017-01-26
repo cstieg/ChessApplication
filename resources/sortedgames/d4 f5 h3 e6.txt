@@ -1,0 +1,39 @@
+ 
+[Event "Nachod CZE, Open 2009"] 
+[Site "Nachod CZE"] 
+[Date "2009.07.08"] 
+[Round "5.7"] 
+[White "Mudrak, Josef"] 
+[Black "Vanek, Tomas"] 
+[Result "1-0"] 
+[WhiteElo "2344"] 
+[BlackElo "2292"] 
+[ECO "A80"] 
+[EventDate "2009.07.04"] 
+ 
+1.d4 f5 2.h3 e6 3.g4 d5 4.g5 c5 5.c3 Nc6 6.Nf3 Qc7 7.Bg2 Bd7 8.h4 Bd6 9. 
+dxc5 Bxc5 10.Nbd2 Nge7 11.Nb3 Bd6 12.Nfd4 Ne5 13.Bf4 N7g6 14.Bxe5 Nxe5 15. 
+e3 O-O 16.Qe2 a6 17.O-O-O a5 18.Nb5 Bxb5 19.Qxb5 Kh8 20.Nd4 Rfe8 21.Kb1 a4 
+22.Rc1 Nc4 23.Rc2 Be5 24.Bf1 Re7 25.Bxc4 dxc4 26.Rd1 Bd6 27.Rcd2 Ra5 28. 
+Nxe6 Rxb5 29.Nxc7 Rxc7 30.Rxd6 Kg8 31.Rd8+ Kf7 32.Ra8 Re5 33.Rxa4 Re4 34. 
+Rd4 Kg6 35.Ra5 Rf7 36.Rc5 Rxd4 37.cxd4 Kh5 38.Rxc4 Kxh4 39.g6 hxg6 40.d5+  
+Kh3 41.Rd4 Kg2 42.Rd2 Kf3 43.Kc2 f4 44.exf4 Kxf4 45.d6 Rd7 46.Kc3 g5 47. 
+Kc4 Ke5 48.Kc5 g4 49.a4 Rd8 50.d7 1-0 
+ 
+[Event "Winter Open"] 
+[Site "Belgrade SRB"] 
+[Date "2008.01.26"] 
+[Round "5"] 
+[White "Prelevic, Dusko"] 
+[Black "Jovanovic, Alek SRB"] 
+[Result "0-1"] 
+[WhiteElo "2354"] 
+[BlackElo "2201"] 
+[ECO "A80"] 
+[EventDate "2008.01.22"] 
+ 
+1.d4 f5 2.h3 e6 3.c4 Nf6 4.Nc3 Bb4 5.g4 O-O 6.Bg2 Nc6 7.Nf3 d5 8.Qd3 Ne4  
+9.gxf5 exf5 10.cxd5 Qxd5 11.a3 Bxc3+ 12.bxc3 Qa5 13.Bb2 Nd6 14.d5 Ne7 15. 
+Nd2 Rf6 16.c4 Rf7 17.Bc3 Qa4 18.c5 Ne4 19.Nxe4 fxe4 20.Qxe4 Qa6 21.d6 cxd6 
+22.cxd6 Qxd6 23.Rd1 Qb6 24.Qd4 Qg6 25.Be4 Bf5 26.Bxb7 Nc6 27.Bxc6 Qxc6 28. 
+Rg1 Bg6 29.h4 Re8 30.h5 Qb5 31.Rd2 Qxh5 32.f3 0-1 

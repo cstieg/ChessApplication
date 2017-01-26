@@ -1,0 +1,66 @@
+ 
+[Event "Krasnoyarsk RUS, Maestro Marchko Memorial"] 
+[Site "Krasnoyarsk RUS"] 
+[Date "2014.12.27"] 
+[Round "8"] 
+[White "Anikonov, Dmitry"] 
+[Black "Mikhalchenko, Petr"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2226"] 
+[BlackElo "2354"] 
+[ECO "A50"] 
+[EventDate "2014.12.20"] 
+ 
+1.d4 e6 2.c4 Nc6 3.Nf3 Nf6 4.Nc3 d6 5.e4 Be7 6.a3 O-O 7.Bd3 Re8 8.O-O Bf8  
+9.e5 dxe5 10.dxe5 Ng4 11.Qe2 Ncxe5 12.Nxe5 Nxe5 13.Bxh7+ Kxh7 14.Qxe5 f5  
+15.Rd1 Bd6 16.Qe2 Qh4 17.g3 Qh3 18.Nb5 Bd7 19.Nxd6 cxd6 20.Rd4 f4 21.Rxf4  
+Kg8 22.Rh4 Qf5 23.Be3 Bc6 24.Qg4 Bf3 25.Qxf5 exf5 26.Rd4 Re4 27.Rxe4 fxe4  
+28.Rc1 a6 29.h4 Kf7 30.Kf1 Ke6 31.Ke1 Rc8 32.Kd2 Rc6 33.b3 g6 34.Kc3 d5  
+35.c5 Rc8 36.Kd4 Bg4 37.Bf4 Be2 38.Rc2 Bd1 39.Rd2 Bg4 40.Rc2 Bd1 41.Rc1  
+Be2 42.Ke3 Bg4 43.Kd4 Be2 44.Re1 Bg4 45.b4 Rc6 46.a4 Rc8 47.Rb1 Be2 48.Ke3 
+Bf3 49.Rc1 Bg4 50.b5 axb5 51.axb5 Ra8 52.c6 Ra3+ 53.Kd2 bxc6 54.Rxc6+ Kf5  
+55.b6 Rb3 56.Be3 d4 57.Bf4 Bf3 58.Rd6 Rb4 59.Bh6 Rb2+ 60.Kc1 Rb4 61.Kc2 e3 
+62.fxe3 Be4+ 1/2-1/2 
+ 
+[Event "Krasnoyarsk RUS, Maestro Marchko Memorial"] 
+[Site "Krasnoyarsk RUS"] 
+[Date "2014.12.24"] 
+[Round "6"] 
+[White "Ubiennykh, Ekaterina"] 
+[Black "Mikhalchenko, Petr"] 
+[Result "1-0"] 
+[WhiteElo "2285"] 
+[BlackElo "2354"] 
+[ECO "A40"] 
+[EventDate "2014.12.20"] 
+ 
+1.d4 e6 2.c4 Nc6 3.Nc3 Nf6 4.Bg5 d6 5.Nf3 h6 6.Bh4 g5 7.Bg3 Nh5 8.e3 Bg7  
+9.Bd3 a6 10.Rb1 O-O 11.Nd2 Nxg3 12.hxg3 f5 13.g4 fxg4 14.Nde4 d5 15.Ng3  
+Nb4 16.Nh5 e5 17.Nxd5 Nxd3+ 18.Qxd3 Bf5 19.e4 Bg6 20.Nxg7 Kxg7 21.Qg3 exd4 
+22.Qe5+ Kh7 23.Nxc7 Rf4 24.f3 gxf3 25.gxf3 Rxf3 26.Ne6 Qf6 27.Nxg5+ Kg8  
+28.Nxf3 Qxf3 29.Qe6+ Kh7 30.Rh3 Qxe4+ 31.Qxe4 Bxe4 32.Rd1 Re8 33.Kd2 Bf5  
+34.Rh4 Rd8 35.Rf1 Bg6 36.Rff4 d3 37.Rd4 Rf8 38.Rd7+ Kg8 39.Rxh6 Rf2+ 40. 
+Kc3 Bf5 41.Rd8+ Kg7 42.Rb6 Rc2+ 43.Kb3 Rf2 44.Rdd6 Be4 45.Rd7+ Kf8 46.Rbd6 
+a5 47.Ka3 Rc2 48.Rd4 Re2 49.b4 axb4+ 50.Kxb4 Ke8 51.a4 Rh2 52.Ka3 Rh1 53. 
+a5 Ra1+ 54.Kb4 Bc6 55.Rg7 Ra4+ 56.Kc5 Rxa5+ 57.Kd6 Kf8 58.Rg3 Rf5 59.Rdxd3 
+Rf6+ 60.Kc7 Rf7+ 61.Kb6 Rf6 62.c5 Bd5+ 63.Kc7 Rf5 64.Kd6 Bf7 65.Rgf3 Rh5  
+66.Rd2 Rh6+ 67.Kd7 Re6 68.Rxf7+ 1-0 
+ 
+[Event "11. Master Open"] 
+[Site "Voronezh RUS"] 
+[Date "2007.06.14"] 
+[Round "3"] 
+[White "Bocharov, Dmitry"] 
+[Black "Dmitriev, Igor"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2614"] 
+[BlackElo "2310"] 
+[ECO "A40"] 
+[EventDate "2007.06.12"] 
+ 
+1.d4 e6 2.c4 Nc6 3.Nf3 d5 4.Nc3 Bb4 5.Bf4 Nge7 6.e3 dxc4 7.Bxc4 Nd5 8.Rc1  
+Bxc3+ 9.bxc3 Nxf4 10.exf4 Qd6 11.Qd2 O-O 12.O-O b6 13.Ne5 Bb7 14.Rfe1 Nxe5 
+15.fxe5 Qe7 16.Qf4 c5 17.Rcd1 Rfd8 18.dxc5 Qxc5 19.h4 h6 20.Rxd8+ Rxd8 21. 
+Re3 Qa3 22.Kh2 Qc1 23.Be2 Bd5 24.Bh5 Rf8 25.Qg4 Kh8 26.Qb4 Kg8 27.Rg3 g6  
+28.Bf3 Bxf3 29.Rxf3 h5 30.a4 Qd1 31.Qf4 Qd7 32.Re3 Qe7 33.Rd3 Rd8 34.Rd6  
+Rc8 35.g3 Kg7 36.c4 Rc5 37.Qd4 Qc7 38.Qf4 Qe7 39.Qd4 1/2-1/2 

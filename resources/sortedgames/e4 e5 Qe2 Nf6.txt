@@ -1,0 +1,25 @@
+ 
+[Event "83. ch-ARG s/f"] 
+[Site "Buenos Aires ARG"] 
+[Date "2008.07.28"] 
+[Round "9"] 
+[White "Claverie, Raul"] 
+[Black "Malbran, Guillermo"] 
+[Result "0-1"] 
+[WhiteElo "2378"] 
+[BlackElo "2241"] 
+[ECO "C20"] 
+[EventDate "2008.07.21"] 
+ 
+1.e4 e5 2.Qe2 Nf6 3.Nf3 Nc6 4.g3 Bc5 5.Bg2 O-O 6.O-O d6 7.h3 Re8 8.d3 h6  
+9.c3 a6 10.b4 Ba7 11.a3 Be6 12.Nbd2 Qd7 13.Kh2 Nh7 14.Nh4 Qe7 15.Nc4 Rad8  
+16.Ne3 Bxe3 17.fxe3 g6 18.d4 Nb8 19.c4 Bc8 20.Bb2 Ng5 21.Rad1 Nd7 22.Qf2  
+Kg7 23.Qc2 Kg8 24.Nf3 Nxf3+ 25.Rxf3 b6 26.Rdf1 Rf8 27.R3f2 Bb7 28.Qb3 Rb8  
+29.Rd2 Rfd8 30.Qc3 Re8 31.Rfd1 Nf6 32.d5 Nd7 33.Rf2 Ra8 34.Rdf1 Rf8 35.Bf3 
+a5 36.Bg4 axb4 37.axb4 Bc8 38.Qc2 h5 39.Bd1 Kg7 40.h4 Bb7 41.Kg1 f6 42.Rg2 
+Rh8 43.Qe2 Rh6 44.g4 hxg4 45.Qxg4 Rah8 46.h5 Bc8 47.Kf2 Qf7 48.Qg3 Nf8 49. 
+Ke1 g5 50.Qf2 Qe7 51.Kd2 Bh3 52.Rh1 Bxg2 53.Qxg2 Qe8 54.Qg4 Qd7 55.Qg2 Qe8 
+56.Qg4 Qd7 57.Qf3 Ng6 58.Qg3 Ne7 59.Bg4 Qe8 60.Qf3 Qf7 61.Be6 Qe8 62.Bg4  
+Qf7 63.Ke2 Ra8 64.Ra1 Rxa1 65.Bxa1 Rh8 66.b5 Ra8 67.Bb2 Qe8 68.Kd3 Ng8 69. 
+Qh3 Nh6 70.Bd7 g4 71.Bxg4 Nxg4 72.Qxg4+ Kh6 73.Qf5 Qf7 74.Bc3 Rg8 75.Bb4  
+Rg5 76.Qc8 Rxh5 77.Bc3 Qg7 78.Be1 Rh1 79.Qe6 Qg6 80.Bd2 Kg5 81.Qc8 0-1 

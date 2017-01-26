@@ -1,0 +1,36 @@
+ 
+[Event "Bundesliga 0001"] 
+[Site "Deutschland"] 
+[Date "2001.02.18"] 
+[Round "9.5"] 
+[White "Vogler, Tillmann"] 
+[Black "Brynell, Stellan"] 
+[Result "0-1"] 
+[WhiteElo "2373"] 
+[BlackElo "2484"] 
+[ECO "A40"] 
+[EventDate "2000.10.14"] 
+ 
+1.d4 e6 2.f4 f5 3.Nf3 Nf6 4.e3 b6 5.Bd3 Bb7 6.O-O Be7 7.c4 Ne4 8.Nc3 O-O  
+9.Qc2 Nxc3 10.bxc3 Qe8 11.e4 fxe4 12.Bxe4 Bxe4 13.Qxe4 Nc6 14.Kh1 Na5 15. 
+Qd3 Qh5 16.Bd2 Qf5 17.Qe2 Bf6 18.Rac1 Qh5 19.Rf2 Rae8 20.Rg1 d5 21.g4 Qg6  
+22.g5 Be7 23.cxd5 exd5 24.Ne5 Qf5 25.Qb5 c6 26.Nxc6 Nc4 27.Re1 a6 28.Qb3  
+Bxg5 29.Ne5 Bh4 30.Ree2 Bxf2 31.Rxf2 Qe4+ 32.Kg1 Nxd2 33.Rxd2 Qe1+ 0-1 
+ 
+[Event "Bundesliga 2000-1"] 
+[Site "Mainz GER"] 
+[Date "2001.02.18"] 
+[Round "9"] 
+[White "Vogler, Tillmann"] 
+[Black "Brynell, Stellan"] 
+[Result "0-1"] 
+[WhiteElo "2373"] 
+[BlackElo "2484"] 
+[ECO "A40"] 
+[EventDate "2000.10.14"] 
+ 
+1.d4 e6 2.f4 f5 3.Nf3 Nf6 4.e3 b6 5.Bd3 Bb7 6.O-O Be7 7.c4 Ne4 8.Nc3 O-O  
+9.Qc2 Nxc3 10.bxc3 Qe8 11.e4 fxe4 12.Bxe4 Bxe4 13.Qxe4 Nc6 14.Kh1 Na5 15. 
+Qd3 Qh5 16.Bd2 Qf5 17.Qe2 Bf6 18.Rac1 Qh5 19.Rf2 Rae8 20.Rg1 d5 21.g4 Qg6  
+22.g5 Be7 23.cxd5 exd5 24.Ne5 Qf5 25.Qb5 c6 26.Nxc6 Nc4 27.Re1 a6 28.Qb3  
+Bxg5 29.Ne5 Bh4 30.Ree2 Bxf2 31.Rxf2 Qe4+ 32.Kg1 Nxd2 33.Rxd2 Qe1+ 0-1 

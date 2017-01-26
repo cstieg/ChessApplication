@@ -1,0 +1,22 @@
+ 
+[Event "Heusenstamm Schloss Open"] 
+[Site "Heusenstamm GER"] 
+[Date "2015.11.29"] 
+[Round "7.8"] 
+[White "Van Foreest, Lucas"] 
+[Black "Zubarev, Alexander"] 
+[Result "0-1"] 
+[WhiteElo "2299"] 
+[BlackElo "2540"] 
+[ECO "B07"] 
+[EventDate "2015.11.26"] 
+ 
+1.e4 g6 2.c3 d6 3.d4 Nf6 4.Bd3 Bg7 5.Nf3 O-O 6.O-O c5 7.h3 cxd4 8.cxd4 Nc6 
+9.Nc3 e5 10.dxe5 dxe5 11.Bc4 Be6 12.Bxe6 fxe6 13.Qxd8 Raxd8 14.Bg5 h6 15. 
+Be3 Nh5 16.Rad1 Nd4 17.Nd2 b6 18.Nb3 Nf4 19.Rd2 g5 20.Rfd1 Nfe2+ 21.Nxe2  
+Nxe2+ 22.Kf1 Rxd2 23.Rxd2 Ng3+ 24.Ke1 Nxe4 25.Rd7 Rf7 26.Rd8+ Rf8 27.Rd7  
+Rf7 28.Rd8+ Kh7 29.Re8 Nd6 30.Rxe6 Nc4 31.Bc1 Rc7 32.Kd1 Kg8 33.Re8+ Kf7  
+34.Rd8 Bf6 35.Ra8 e4 36.Nd2 Nxd2 37.Bxd2 Bxb2 38.h4 gxh4 39.Bxh6 Bd4 40. 
+Bf4 Rd7 41.Ke2 Ke6 42.Bg5 Rc7 43.Re8+ Kf5 44.Bxh4 Rc2+ 45.Kd1 Rxa2 46.g4+  
+Kf4 47.g5 Bxf2 48.Rf8+ Ke3 49.g6 Bxh4 50.g7 Kd3 51.Rc8 e3 52.Kc1 Ra1+ 53. 
+Kb2 Bf6+ 54.Kb3 Rb1+ 0-1 

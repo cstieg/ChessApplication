@@ -1,0 +1,16 @@
+ 
+[Event "Extraliga"] 
+[Site "Ostrava CZE"] 
+[Date "2000.03.18"] 
+[Round "10"] 
+[White "Bazant, Petr Jr"] 
+[Black "Kupka, Slavoj"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2233"] 
+[BlackElo "2326"] 
+[ECO "A00"] 
+[EventDate "1999.10.23"] 
+ 
+1.c3 e5 2.Nf3 d6 3.Qc2 g6 4.d4 Bg7 5.Bg5 Ne7 6.g3 h6 7.Bxe7 Qxe7 8.Nbd2  
+O-O 9.Bg2 Re8 10.dxe5 dxe5 11.e4 Nd7 12.O-O a5 13.Nc4 Qc5 14.Ne3 c6 15. 
+Rfd1 Nf8 16.Rd2 Ne6 17.Rad1 1/2-1/2 

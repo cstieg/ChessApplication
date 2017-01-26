@@ -1,0 +1,76 @@
+ 
+[Event "23. Heart of"] 
+[Site "Jyvaskyla FIN"] 
+[Date "2013.07.12"] 
+[Round "7.3"] 
+[White "Moiseenko, Vadim"] 
+[Black "Karasev, Vladimir I"] 
+[Result "1-0"] 
+[WhiteElo "2473"] 
+[BlackElo "2358"] 
+[ECO "A20"] 
+[EventDate "2013.07.08"] 
+ 
+1.g3 e5 2.c4 d5 3.cxd5 Qxd5 4.Nf3 Bb4 5.Nc3 Bxc3 6.bxc3 e4 7.Nd4 c5 8.Nb5  
+Qc6 9.c4 a6 10.Nc3 Nf6 11.Bg2 Qe6 12.d3 Qe5 13.Bb2 e3 14.fxe3 Qxe3 15.Nd5  
+Nxd5 16.Bxd5 O-O 17.Qd2 Qxd2+ 18.Kxd2 Ra7 19.a4 a5 20.Bc3 Ra6 21.Rab1 Nc6  
+22.Rb5 Nd8 23.Rxc5 Bd7 24.Rxa5 Rh6 25.Ra8 Re8 26.a5 Bc6 27.Bd4 g5 28.Bb6  
+1-0 
+ 
+[Event "Odintsovo RUS, Seniors Ch (m)"] 
+[Site "Odintsovo RUS"] 
+[Date "2009.10.08"] 
+[Round "6.3"] 
+[White "Dmitriev, Igor"] 
+[Black "Karasev, Vladimir I"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2362"] 
+[BlackElo "2364"] 
+[ECO "A20"] 
+[EventDate "2009.10.02"] 
+ 
+1.g3 e5 2.c4 d5 3.cxd5 Qxd5 4.Nf3 Bb4 5.Nc3 Bxc3 6.dxc3 Qxd1+ 7.Kxd1 f6 8. 
+e4 Bg4 9.Be2 Nc6 10.Be3 O-O-O+ 11.Nd2 Bxe2+ 12.Kxe2 Nge7 13.f3 b6 14.Rhd1  
+g5 15.Nc4 h5 16.Rxd8+ Nxd8 17.Bf2 Nf7 18.a4 g4 19.h4 gxf3+ 20.Kxf3 f5 21. 
+exf5 Nxf5 22.Ke4 N7d6+ 23.Nxd6+ Nxd6+ 24.Kxe5 Rf8 25.Be3 Kd7 26.Bf4 c5 27. 
+Kd5 Rf5+ 28.Be5 Nf7 29.Re1 a5 30.Re2 Ke7 31.Re1 1/2-1/2 
+ 
+[Event "Bygger'n Masters"] 
+[Site "Gausdal NOR"] 
+[Date "2005.10.02"] 
+[Round "2"] 
+[White "Karlsson, Lars"] 
+[Black "Richards, Heather S"] 
+[Result "1-0"] 
+[WhiteElo "2501"] 
+[BlackElo "2239"] 
+[ECO "A22"] 
+[EventDate "2005.10.01"] 
+ 
+1.g3 e5 2.c4 d5 3.cxd5 Nf6 4.Nc3 Nxd5 5.Bg2 c6 6.Nf3 Bd6 7.O-O O-O 8.d4  
+Nxc3 9.bxc3 Nd7 10.e4 Re8 11.Re1 Qc7 12.Nd2 b5 13.Nf1 Nb6 14.f4 f6 15.dxe5 
+fxe5 16.f5 a5 17.g4 Nc4 18.Kh1 Rd8 19.g5 Qf7 20.Ne3 Be7 21.Qe2 Nb6 22.Ng4  
+Nc4 23.Qf3 b4 24.Bf1 Bd6 25.Qg3 Ba6 26.Bh3 bxc3 27.g6 hxg6 28.fxg6 Qe8 29. 
+Ne3 Nd2 30.Bf5 Be7 31.Be6+ Kf8 32.Qf2+ Bf6 33.Ba3+ 1-0 
+ 
+[Event "FSIM November"] 
+[Site "Budapest HUN"] 
+[Date "2000.11.12"] 
+[Round "9"] 
+[White "Nemeth, Z."] 
+[Black "Jamrich, Gyorgy"] 
+[Result "0-1"] 
+[WhiteElo "2308"] 
+[BlackElo "2225"] 
+[ECO "A20"] 
+[EventDate "2000.11.04"] 
+ 
+1.g3 e5 2.c4 d5 3.cxd5 Qxd5 4.Nf3 Nf6 5.Nc3 Qa5 6.Bg2 e4 7.Nd4 Qe5 8.Nb3  
+Bb4 9.O-O O-O 10.d4 exd3 11.Qxd3 c6 12.Bd2 Nbd7 13.a3 Be7 14.e4 Qh5 15.Qe2 
+Ne5 16.Qxh5 Nxh5 17.f4 Nc4 18.Bc1 a5 19.Re1 a4 20.Bf1 Nxa3 21.bxa3 axb3  
+22.Bc4 Bc5+ 23.Kg2 Bd4 24.Bb2 Be6 25.Be2 Nf6 26.f5 Bxc3 27.Bxc3 Nxe4 28. 
+Bb4 Bd5 29.Bxf8 Nc3+ 30.Bf3 Bxf3+ 31.Kxf3 Kxf8 32.Rac1 Nd5 33.Ra1 b2 34. 
+Rab1 Rxa3+ 35.Kg2 Ne3+ 36.Kh3 Nc4 37.Rbd1 Re3 38.Rxe3 Nxe3 39.Rb1 Nc4 40. 
+Kg2 Ke7 41.Kf2 Kf6 42.Ke2 Kxf5 43.Kd3 b5 44.Rf1+ Ke5 45.Re1+ Kd5 46.Kc2 b4 
+47.Re8 b3+ 48.Kb1 Kd4 49.Rc8 c5 50.g4 f6 51.h4 g6 52.h5 Kc3 53.Rxc5 gxh5  
+54.gxh5 h6 0-1 

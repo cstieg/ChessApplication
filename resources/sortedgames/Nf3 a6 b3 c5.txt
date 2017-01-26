@@ -1,0 +1,14 @@
+ 
+[Event "Belgrade Premier League"] 
+[Site "Belgrade SRB"] 
+[Date "2008.10.11"] 
+[Round "7"] 
+[White "Vukovic, Dusan"] 
+[Black "Blesic, Vaso"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2264"] 
+[BlackElo "2301"] 
+[ECO "A04"] 
+[EventDate "2008.10.05"] 
+ 
+1.Nf3 a6 2.b3 c5 3.g3 e6 4.Bb2 Nf6 5.Bg2 Nc6 6.O-O 1/2-1/2 

@@ -1,0 +1,21 @@
+ 
+[Event "20. Mukachevo Rating 2013"] 
+[Site "Mukachevo UKR"] 
+[Date "2013.11.06"] 
+[Round "2.5"] 
+[White "Malyi, Viacheslav"] 
+[Black "Okhotnik, Vladimir"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2250"] 
+[BlackElo "2421"] 
+[ECO "C30"] 
+[EventDate "2013.11.05"] 
+ 
+1.e4 e5 2.f4 c6 3.Nf3 d5 4.Nxe5 dxe4 5.Nc3 Qe7 6.Bc4 Be6 7.Bxe6 Qxe6 8.O-O 
+f5 9.d3 Bc5+ 10.Kh1 Nf6 11.dxe4 fxe4 12.Qe2 O-O 13.Nxe4 Nxe4 14.Qxe4 Nd7  
+15.Be3 Bxe3 16.Qxe3 Rae8 17.Qxa7 Nxe5 18.fxe5 Qc4 19.Rxf8+ Rxf8 20.h3 h6  
+21.c3 Qe2 22.Qxb7 Rf1+ 23.Rxf1 Qxf1+ 24.Kh2 Qf4+ 25.Kg1 Qe3+ 26.Kf1 Qf4+  
+27.Ke1 Qxe5+ 28.Kd2 Qd5+ 29.Kc2 Qxg2+ 30.Kb3 Qd5+ 31.c4 Qf3+ 32.Ka4 Qxh3  
+33.Qxc6 h5 34.b4 h4 35.b5 Qh2 36.a3 h3 37.b6 Qc2+ 38.Ka5 Qc3+ 39.Ka6 Qxa3+ 
+40.Kb7 Qe7+ 41.Ka8 Qa3+ 42.Kb8 Qf8+ 43.Kc7 Qe7+ 44.Kc8 Qf8+ 45.Kc7 Qe7+  
+46.Kc8 Qf8+ 47.Kc7 1/2-1/2 

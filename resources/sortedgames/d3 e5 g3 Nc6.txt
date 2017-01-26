@@ -1,0 +1,19 @@
+ 
+[Event "10. UTD vs UB match 2015"] 
+[Site "Internet Chess Club INT"] 
+[Date "2015.11.06"] 
+[Round "1.3"] 
+[White "Kadric, Denis"] 
+[Black "Stankovic, Milos"] 
+[Result "0-1"] 
+[WhiteElo "2537"] 
+[BlackElo "2424"] 
+[ECO "A25"] 
+[EventDate "2015.11.06"] 
+ 
+1.d3 e5 2.g3 Nc6 3.Bg2 g6 4.c4 Bg7 5.Nc3 Nge7 6.e3 O-O 7.Nge2 d6 8.O-O Be6 
+9.Nd5 Qd7 10.Nec3 Nc8 11.b4 Nd8 12.Ne4 f5 13.Ng5 c6 14.Nxe6 Nxe6 15.Nc3  
+Ne7 16.b5 f4 17.bxc6 bxc6 18.Bh3 Nf5 19.e4 Nfd4 20.f3 Qe7 21.Bxe6+ Qxe6  
+22.Kg2 Rab8 23.Ba3 fxg3 24.hxg3 Rb7 25.Nb1 Bh6 26.Bc1 Bxc1 27.Qxc1 Rbf7  
+28.Nd2 Qf6 29.Nb3 Nxf3 30.Nd2 Nh4+ 31.gxh4 Qxh4 32.Qe1 Qg4+ 33.Kh2 Qh5+  
+34.Kg2 Rf4 35.Rxf4 Rxf4 36.Qe3 Qg5+ 0-1 

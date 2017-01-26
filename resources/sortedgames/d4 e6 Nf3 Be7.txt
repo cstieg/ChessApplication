@@ -1,0 +1,18 @@
+ 
+[Event "Chigorin Mem Open"] 
+[Site "St Petersburg RUS"] 
+[Date "2001.10.01"] 
+[Round "7"] 
+[White "Chepukaitis, Genrikh"] 
+[Black "Zuttis, Sergey"] 
+[Result "1-0"] 
+[WhiteElo "2404"] 
+[BlackElo "2317"] 
+[ECO "D63"] 
+[EventDate "2001.10.26"] 
+ 
+1.d4 e6 2.Nf3 Be7 3.c4 d5 4.Nc3 Nf6 5.Bg5 O-O 6.e3 Nbd7 7.Rc1 h6 8.Bh4 c6  
+9.Be2 dxc4 10.a4 Nd5 11.Bxe7 Qxe7 12.Bxc4 Nxc3 13.bxc3 e5 14.O-O exd4 15. 
+cxd4 Nf6 16.Qb3 Rb8 17.Ne5 Be6 18.a5 Nd7 19.Bxe6 Nxe5 20.Bf5 Nd7 21.e4 Nf6 
+22.e5 Nd5 23.f4 Rfd8 24.Bb1 Qb4 25.Qd3 Kf8 26.Kh1 f6 27.Rc5 Ne7 28.exf6  
+gxf6 29.Qh3 Qxd4 30.Qxh6+ Ke8 31.Rcc1 Nd5 32.Qg7 1-0 

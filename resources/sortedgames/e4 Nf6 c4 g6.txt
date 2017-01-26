@@ -1,0 +1,17 @@
+ 
+[Event "AB Puchko Memorial"] 
+[Site "Alushta UKR"] 
+[Date "2000.03.25"] 
+[Round "7"] 
+[White "Khurtsidze, Nino"] 
+[Black "Kovalev, A."] 
+[Result "0-1"] 
+[WhiteElo "2464"] 
+[BlackElo "2490"] 
+[ECO "E72"] 
+[EventDate "2000.03.22"] 
+ 
+1.e4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.d4 d6 6.Nc3 c5 7.d5 e6 8.Nge2 exd5  
+9.cxd5 Re8 10.O-O b5 11.Nxb5 Nxe4 12.Qa4 Bd7 13.Re1 Nxf2 14.Kxf2 a6 15.Bf4 
+Bxb5 16.Qb3 g5 17.Bd2 Qf6+ 18.Qf3 Qxb2 19.Rad1 Nd7 20.Kg1 Ne5 21.Qf5 Nd3  
+0-1 

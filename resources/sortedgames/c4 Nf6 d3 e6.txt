@@ -1,0 +1,18 @@
+ 
+[Event "10. Amitie"] 
+[Site "Bagneux FRA"] 
+[Date "2002.12.13"] 
+[Round "5"] 
+[White "Le Quang, Kim"] 
+[Black "Brochet, Philippe"] 
+[Result "0-1"] 
+[WhiteElo "2274"] 
+[BlackElo "2425"] 
+[ECO "A15"] 
+[EventDate "2002.12.09"] 
+ 
+1.c4 Nf6 2.d3 e6 3.Nf3 d5 4.Nbd2 c5 5.e3 Nc6 6.Be2 dxc4 7.Nxc4 b5 8.Ncd2  
+Bb7 9.O-O Bd6 10.b3 O-O 11.Bb2 a6 12.Rc1 Rc8 13.a3 Qe7 14.Rc2 Rfd8 15.Qa1  
+e5 16.Rfc1 h6 17.Bf1 Qe6 18.h3 Re8 19.d4 cxd4 20.exd4 e4 21.Ne5 Nxd4 22. 
+Rxc8 Qxe5 23.Rxe8+ Nxe8 24.g3 e3 25.Bxd4 Qd5 26.fxe3 Nf6 27.e4 Qg5 28.Qc3  
+Nh5 29.g4 Qf4 30.e5 Bxa3 31.Rd1 Bb2 0-1 

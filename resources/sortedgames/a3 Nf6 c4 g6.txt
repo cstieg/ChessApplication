@@ -1,0 +1,85 @@
+ 
+[Event "ch-NCA 2011"] 
+[Site "Managua NCA"] 
+[Date "2011.03.20"] 
+[Round "8.1"] 
+[White "Davila, Carlos"] 
+[Black "Bravo, William"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2319"] 
+[BlackElo "2243"] 
+[ECO "A00"] 
+[EventDate "2011.03.05"] 
+ 
+1.a3 Nf6 2.c4 g6 3.b4 Bg7 4.Bb2 O-O 5.g3 d5 6.cxd5 Qxd5 7.Nf3 1/2-1/2 
+ 
+[Event "FSIMA October"] 
+[Site "Budapest HUN"] 
+[Date "2009.10.11"] 
+[Round "8"] 
+[White "Kahn, Evarth Dr"] 
+[Black "Dencsi, Tibor"] 
+[Result "0-1"] 
+[WhiteElo "2245"] 
+[BlackElo "2338"] 
+[ECO "A00"] 
+[EventDate "2009.10.03"] 
+ 
+1.a3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 O-O 5.g3 c5 6.Bg2 Nc6 7.Nge2 Ne8 8.O-O Nc7 
+9.d3 Ne6 10.Rb1 a5 11.Be3 d6 12.f4 Ned4 13.h3 e6 14.Nb5 f5 15.Nexd4 cxd4  
+16.Bd2 a4 17.Bb4 Nxb4 18.axb4 Qb6 19.Qd2 Bd7 20.Na3 Rfc8 21.e5 dxe5 22.c5  
+Qc7 23.Nc4 Rab8 24.Rfe1 exf4 25.Qxf4 Qxf4 26.gxf4 Rc7 27.Nb6 Kf7 28.Nxd7  
+Rxd7 29.b5 Rc7 30.c6 bxc6 31.Bxc6 Bf8 32.Rbc1 a3 33.bxa3 Ra7 34.Ra1 Rxa3  
+35.Rxa3 Bxa3 36.Kg2 h6 37.Kf3 g5 38.Ra1 Bc5 39.Ra8 Rxa8 40.Bxa8 Kf6 41.Bc6 
+e5 42.fxe5+ Kxe5 43.Be8 Kf6 44.Bh5 g4+ 45.Kg2 Kg5 46.Be8 h5 47.Bd7 f4 48. 
+hxg4 hxg4 49.Bc6 f3+ 50.Kg3 Bb6 51.Kf2 Kf4 52.Kf1 g3 53.Bb7 Ke3 54.Be4 g2+ 
+55.Kg1 Bc7 56.Bf5 Bg3 0-1 
+ 
+[Event "FSIMA March"] 
+[Site "Budapest HUN"] 
+[Date "2003.03.08"] 
+[Round "8"] 
+[White "Dovzik, Juri"] 
+[Black "Boros, Denes"] 
+[Result "1-0"] 
+[WhiteElo "2400"] 
+[BlackElo "2289"] 
+[ECO "A00"] 
+[EventDate "2003.03.01"] 
+ 
+1.a3 Nf6 2.c4 g6 3.d4 Bg7 4.Nf3 O-O 5.e3 d5 6.Nc3 b6 7.cxd5 Nxd5 8.Bc4  
+Nxc3 9.bxc3 c5 10.O-O Nc6 11.Qe2 Bg4 12.Rd1 e5 13.h3 Bxf3 14.Qxf3 Qc7 15. 
+Bd5 Rac8 16.dxc5 bxc5 17.e4 Na5 18.h4 c4 19.h5 Nc6 20.h6 Bh8 21.Bg5 Qb6  
+22.Rab1 Qa6 23.Rb2 Rc7 24.Rbd2 Na5 25.Bd8 Rd7 26.Bxc4 Rxd2 27.Bxa6 Rfxd8  
+28.Rxd2 Rxd2 29.Qe3 Rd1+ 30.Kh2 Bf6 31.Qc5 Nb3 32.Qb5 1-0 
+ 
+[Event "ch-EGY 3. Stage"] 
+[Site "Cairo EGY"] 
+[Date "2003.01.31"] 
+[Round "6"] 
+[White "Abdel Razik, Khaled"] 
+[Black "Ezat, Mohamed"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2347"] 
+[BlackElo "2381"] 
+[ECO "A00"] 
+[EventDate "2003.01.25"] 
+ 
+1.a3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d3 O-O 6.Nge2 c5 1/2-1/2 
+ 
+[Event "It (cat.3)"] 
+[Site "Budapest HUN"] 
+[Date "2003.??.??"] 
+[Round "8"] 
+[White "Dovzik, Juri"] 
+[Black "Borisek, Jure SLO"] 
+[Result "1-0"] 
+[WhiteElo "2425"] 
+[BlackElo "2465"] 
+[ECO "A00"] 
+ 
+1.a3 Nf6 2.c4 g6 3.d4 Bg7 4.Nf3 O-O 5.e3 d5 6.Nc3 b6 7.cxd5 Nxd5 8.Bc4  
+Nxc3 9.bxc3 c5 10.O-O Nc6 11.Qe2 Bg4 12.Rd1 e5 13.h3 Bxf3 14.Qxf3 Qc7 15. 
+Bd5 Rac8 16.dxc5 bxc5 17.e4 Na5 18.h4 c4 19.h5 Nc6 20.h6 Bh8 21.Bg5 Qb6  
+22.Rab1 Qa6 23.Rb2 Rc7 24.Rbd2 Na5 25.Bd8 Rd7 26.Bxc4 Rxd2 27.Bxa6 Rfxd8  
+28.Rxd2 Rxd2 29.Qe3 Rd1+ 30.Kh2 Bf6 31.Qc5 Nb3 32.Qb5 1-0 

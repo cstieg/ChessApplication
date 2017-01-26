@@ -1,0 +1,43 @@
+ 
+[Event "Yuzhny UKR, Open 2009"] 
+[Site "Yuzhny UKR"] 
+[Date "2009.09.11"] 
+[Round "5"] 
+[White "Kovalev, Denis"] 
+[Black "Voronov, Yuri"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2451"] 
+[BlackElo "2242"] 
+[ECO "A10"] 
+[EventDate "2009.09.08"] 
+ 
+1.c4 g6 2.Nf3 f5 3.Nc3 Nf6 4.g3 Bg7 5.Bg2 O-O 6.O-O Nc6 7.Rb1 d6 8.b4 e5  
+9.b5 Nd4 10.d3 h6 11.Bb2 Ne6 12.e3 g5 13.Nd5 a6 14.a4 axb5 15.Nxf6+ Bxf6  
+16.axb5 g4 17.Nd2 h5 18.Ra1 Rxa1 19.Qxa1 h4 20.Bd5 Kg7 21.d4 Ng5 22.f3  
+gxf3 23.dxe5 dxe5 24.Nxf3 Nxf3+ 25.Rxf3 Re8 26.gxh4 Kh6 27.Rg3 Bxh4 28. 
+Bxe5 Bxg3 29.Bxg3 Be6 30.Bxc7 Rg8+ 31.Kf1 Qxc7 32.Bxe6 Rf8 33.Kg2 Qd6 34. 
+Bd5 b6 35.Qd4 Rf6 36.Qf4+ Kg7 37.Qxd6 Rxd6 38.Kf3 Rh6 39.e4 fxe4+ 40.Kxe4  
+Kf6 41.Bg8 Rh8 42.Bd5 Rh4+ 43.Kd3 Ke5 44.Kc3 Rxh2 45.Bg8 Rh3+ 46.Kc2 Kd4  
+47.Bd5 Ra3 48.Bf7 Kc5 49.Bd5 Kb4 50.Bf7 Rc3+ 51.Kd2 Rh3 52.Kc2 Kc5 53.Bd5  
+Kd4 54.Bf7 Rh8 55.Bd5 Rh2+ 56.Kb3 Rf2 57.Bg8 Kd3 58.Bh7+ Kd2 59.Bg8 Kc1  
+60.Bh7 Rf3+ 61.Ka2 Rh3 62.Bg6 Rg3 63.Bf5 Rf3 64.Bg6 Rc3 65.Bf7 Rd3 66.Bg6  
+Rg3 67.Bf5 Rg5 68.Bh7 Rg2+ 69.Kb3 Rg3+ 70.Ka2 Rc3 71.Bg8 Kd2 72.Kb2 Rc2+  
+73.Kb3 Rc1 74.Kb2 Rg1 75.Bd5 Kd3 76.Bf7 1/2-1/2 
+ 
+[Event "4. Hainan Danzhou GM"] 
+[Site "Danzhou CHN"] 
+[Date "2013.05.23"] 
+[Round "4.5"] 
+[White "Xiu, Deshun"] 
+[Black "Lu, Shanglei"] 
+[Result "1-0"] 
+[WhiteElo "2534"] 
+[BlackElo "2551"] 
+[ECO "A87"] 
+[EventDate "2013.05.20"] 
+ 
+1.c4 g6 2.Nf3 f5 3.d4 Nf6 4.g3 Bg7 5.Bg2 d6 6.O-O O-O 7.Nc3 Qe8 8.d5 Na6  
+9.Rb1 c6 10.b4 Bd7 11.c5 dxc5 12.dxc6 bxc6 13.bxc5 e5 14.Qd3 Bc8 15.Qc4+  
+Kh8 16.Rd1 e4 17.Nd4 Ng4 18.Nb3 Qe6 19.Qxe6 Bxe6 20.f3 Bxc3 21.fxg4 fxg4  
+22.Bxe4 Nb4 23.Na5 Nxa2 24.Nxc6 Bg7 25.Rd6 Bf5 26.Bxf5 Rxf5 27.Be3 Rff8  
+28.Rb7 Rfe8 29.Rdd7 Rxe3 30.Rxg7 Rxe2 31.Rxh7+ Kg8 32.Rbg7+ Kf8 33.Ne7 1-0 

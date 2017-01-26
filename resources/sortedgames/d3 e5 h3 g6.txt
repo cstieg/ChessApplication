@@ -1,0 +1,17 @@
+ 
+[Event "3. ch-GER Internet Blitz Candidates"] 
+[Site "playchess INT"] 
+[Date "2005.04.02"] 
+[Round "8"] 
+[White "Phildius, Bernhard"] 
+[Black "Heyken, Enno"] 
+[Result "1-0"] 
+[WhiteElo "2312"] 
+[BlackElo "2331"] 
+[ECO "A00"] 
+[EventDate "2005.04.02"] 
+ 
+1.d3 e5 2.h3 g6 3.g4 Bg7 4.Bg2 d5 5.Nc3 Ne7 6.e4 d4 7.Nce2 h5 8.g5 O-O 9. 
+f4 Nbc6 10.Nf3 f5 11.gxf6 Bxf6 12.O-O Qd6 13.Qe1 Kh7 14.a3 Be6 15.Qg3 Rae8 
+16.Bd2 a5 17.Rf2 exf4 18.Bxf4 Ne5 19.Nxe5 Bxe5 20.Bxe5 Qb6 21.Raf1 Rxf2  
+22.Rxf2 Qxb2 23.Nf4 Bg8 24.Nxh5 1-0 

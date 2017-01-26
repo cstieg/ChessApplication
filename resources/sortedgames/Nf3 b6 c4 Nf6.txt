@@ -1,0 +1,16 @@
+ 
+[Event "TCh-FRA Top 16 Poule Basse"] 
+[Site "Evry FRA"] 
+[Date "2008.06.01"] 
+[Round "11"] 
+[White "Marzolo, Cyril"] 
+[Black "Nguyen, Chi-Minh"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2476"] 
+[BlackElo "2415"] 
+[ECO "A17"] 
+[EventDate "2008.05.29"] 
+ 
+1.Nf3 b6 2.c4 Nf6 3.Nc3 e6 4.e4 Bb7 5.Bd3 d5 6.cxd5 exd5 7.e5 Nfd7 8.O-O  
+Nc5 9.Bf5 d4 10.Nb5 Nc6 11.b4 Ne6 12.Qb3 g6 13.Bxe6 fxe6 14.Qxe6+ Be7 15. 
+Nd6+ cxd6 16.exd6 Kf8 1/2-1/2 

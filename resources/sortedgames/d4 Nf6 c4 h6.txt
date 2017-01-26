@@ -1,0 +1,15 @@
+ 
+[Event "chT"] 
+[Site "Bled SLO"] 
+[Date "2000.10.20"] 
+[Round "7"] 
+[White "Soln, Primoz"] 
+[Black "Kovac, B."] 
+[Result "1/2-1/2"] 
+[WhiteElo "2413"] 
+[BlackElo "2306"] 
+[ECO "A50"] 
+[EventDate "2000.10.14"] 
+ 
+1.d4 Nf6 2.c4 h6 3.Nf3 d5 4.Nc3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3  
+1/2-1/2 

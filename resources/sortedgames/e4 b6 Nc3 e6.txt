@@ -1,0 +1,45 @@
+ 
+[Event "e2e4 Dublin Easter Masters"] 
+[Site "Dublin IRL"] 
+[Date "2012.04.06"] 
+[Round "3"] 
+[White "Astaneh Lopez, Alex"] 
+[Black "Firstov, Juri"] 
+[Result "1-0"] 
+[WhiteElo "2400"] 
+[BlackElo "2264"] 
+[ECO "B00"] 
+[EventDate "2012.04.05"] 
+ 
+1.e4 b6 2.Nc3 e6 3.Nf3 Bb7 4.a3 d5 5.exd5 exd5 6.d4 Nf6 7.Bb5+ c6 8.Bd3  
+Be7 9.O-O O-O 10.Re1 Re8 11.Ne2 Ba6 12.Bxa6 Nxa6 13.Ng3 Nd7 14.Bf4 Nc7 15. 
+Nf5 Ne6 16.Bg3 Ng5 17.Nxg5 Bxg5 18.Qg4 Rxe1+ 19.Rxe1 h5 20.Qf3 g6 21.Nd6  
+Qf6 22.Qd3 h4 23.Ne8 Qd8 24.Bc7 Qc8 25.Qf3 Nf8 26.Nf6+ Bxf6 27.Qxf6 Qf5  
+28.Qxh4 g5 29.Qg3 Ne6 30.c3 Re8 31.Bb8 a6 32.h4 Rc8 33.Bd6 Kh7 34.Re5 Qb1+ 
+35.Kh2 Rg8 36.Qf3 Rg7 37.hxg5 Kg8 38.Rxe6 fxe6 39.Qf8+ Kh7 40.Be5 Rxg5 41. 
+Qf7+ Kh6 42.Bf4 Qg6 43.Qxg6+ Kxg6 44.Bxg5 Kxg5 45.Kg3 Kf5 46.Kf3 e5 47.g4+ 
+Ke6 48.dxe5 Kxe5 49.Ke3 1-0 
+ 
+[Event "Open"] 
+[Site "Pula CRO"] 
+[Date "2000.05.19"] 
+[Round "4"] 
+[White "Jurkovic, Ante"] 
+[Black "Filipovic, Branko"] 
+[Result "0-1"] 
+[WhiteElo "2326"] 
+[BlackElo "2435"] 
+[ECO "B00"] 
+[EventDate "2000.05.16"] 
+ 
+1.e4 b6 2.Nc3 e6 3.g3 Bb7 4.Bg2 f5 5.Nge2 Nf6 6.d3 fxe4 7.O-O Nc6 8.dxe4  
+Bc5 9.Bf4 O-O 10.Nc1 e5 11.Bg5 h6 12.Bxf6 Rxf6 13.Nd5 Rf7 14.Nd3 Ba6 15.c3 
+Bf8 16.Qe2 d6 17.Bh3 Qe8 18.Rad1 g6 19.Qg4 Kh7 20.Qe6 Bg7 21.f4 exf4 22. 
+Rxf4 Rxf4 23.N3xf4 Bc4 24.Nf6+ Bxf6 25.Qxc4 b5 26.Qxb5 Rb8 27.Qe2 Ne5 28. 
+Rf1 Qc6 29.Nd5 Bg7 30.b3 a5 31.Be6 Re8 32.Bh3 Qc5+ 33.Kh1 c6 34.Nc7 Re7  
+35.Ne6 Qxc3 36.Rd1 Qb4 37.Nf4 a4 38.bxa4 Ra7 39.Nd3 Qc4 40.Nf4 Qxe2 41. 
+Nxe2 Rxa4 42.Rxd6 Rxa2 43.Ng1 h5 44.Rd1 Bh6 45.Re1 c5 46.Re2 Ra3 47.Kg2 c4 
+48.Rc2 c3 49.Be6 Nd3 50.Ra2 c2 51.Ne2 Rxa2 52.Bxa2 c1=Q 53.Nxc1 Bxc1 54.h4 
+Ne5 55.Kf2 Kg7 56.Ke2 Kf6 57.Bd5 Ba3 58.Ke3 Bb4 59.Ke2 Ba5 60.Bb3 Bc7 61. 
+Bd5 Ke7 62.Ke3 Bb6+ 63.Ke2 Kd6 64.Bg8 Bg1 65.Kf1 Bd4 66.Ke2 Kc5 67.Be6 Bb2 
+68.Bd5 Kd4 69.Bb7 Ba3 70.Bd5 Bd6 71.Bb7 Nc4 72.e5 0-1 

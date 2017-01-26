@@ -1,0 +1,36 @@
+ 
+[Event "TCh-2012-13"] 
+[Site "Nagykanizsa HUN"] 
+[Date "2012.09.16"] 
+[Round "1"] 
+[White "Kantor, Gergely"] 
+[Black "Szieberth, Adam"] 
+[Result "1-0"] 
+[WhiteElo "2310"] 
+[BlackElo "2341"] 
+[ECO "A40"] 
+[EventDate "2012.09.16"] 
+ 
+1.d4 g6 2.c4 d5 3.cxd5 Qxd5 4.Nc3 Qd8 5.e4 Bg7 6.Nf3 Nf6 7.Bc4 c6 8.e5 Nd5 
+9.Qb3 O-O 10.Nxd5 cxd5 11.Bxd5 Nc6 12.Bxc6 bxc6 13.O-O Bg4 14.Be3 Bxf3 15. 
+gxf3 Rb8 16.Qc4 Rxb2 17.Qxc6 e6 18.Rfb1 Qb8 19.Rc1 h5 20.Bg5 Qb4 21.Qd7  
+Qa3 22.Qc6 Qd3 23.Qe4 Qxe4 24.fxe4 Rfb8 25.Rc7 a5 26.Kg2 a4 27.Ra7 R2b4  
+28.Be3 Rc4 29.Rc1 Rxc1 30.Bxc1 Rb4 31.Be3 Rc4 32.Kf3 g5 33.h3 Kh7 34.Rxf7  
+Rc2 35.Ra7 Rxa2 36.d5 Kg6 37.d6 Bxe5 38.d7 Bf6 39.e5 Be7 40.Ra8 Ra1 41.Bc5 
+Rd1 42.Bxe7 Rxd7 43.Bd6 Rf7+ 44.Kg3 h4+ 45.Kg2 Rf4 46.Rf8 Rxf8 47.Bxf8 Kf5 
+48.Kf3 Kxe5 49.Kg4 Ke4 50.Kxg5 Kf3 51.Bc5 1-0 
+ 
+[Event "12. It"] 
+[Site "Zenica BIH"] 
+[Date "2008.12.06"] 
+[Round "9"] 
+[White "Tomic, Bosko"] 
+[Black "Nikac, Predrag"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2405"] 
+[BlackElo "2390"] 
+[ECO "D78"] 
+[EventDate "2008.11.29"] 
+ 
+1.d4 g6 2.c4 d5 3.Nc3 Nf6 4.g3 Bg7 5.Bg2 O-O 6.Nf3 c6 7.O-O Qe8 8.b3  
+1/2-1/2 

@@ -1,0 +1,15 @@
+ 
+[Event "TCh-SRB Premier 2014"] 
+[Site "Palic SRB"] 
+[Date "2014.08.31"] 
+[Round "2.6"] 
+[White "Indjic, Aleksandar"] 
+[Black "Stevic, Hrvoje"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2539"] 
+[BlackElo "2606"] 
+[ECO "C44"] 
+[EventDate "2014.08.30"] 
+ 
+1.Nf3 Nc6 2.d3 d5 3.Nbd2 e5 4.e4 Nf6 5.Be2 Bc5 6.Nb3 Bd6 7.exd5 Nxd5 8.O-O 
+O-O 9.d4 Nxd4 10.Nfxd4 exd4 11.Nxd4 Be5 12.c3 c6 1/2-1/2 

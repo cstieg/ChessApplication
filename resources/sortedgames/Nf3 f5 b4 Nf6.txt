@@ -1,0 +1,134 @@
+ 
+[Event "26. Czech Open A 2015"] 
+[Site "Pardubice CZE"] 
+[Date "2015.07.25"] 
+[Round "2.36"] 
+[White "Kutynec, Vladimir"] 
+[Black "Simacek, Pavel"] 
+[Result "1-0"] 
+[WhiteElo "2310"] 
+[BlackElo "2454"] 
+[ECO "A04"] 
+[EventDate "2015.07.24"] 
+ 
+1.Nf3 f5 2.b4 Nf6 3.Bb2 e6 4.b5 d5 5.e3 Nbd7 6.c4 Be7 7.cxd5 exd5 8.Bd3  
+Nc5 9.Bc2 a6 10.Nc3 axb5 11.Nxb5 c6 12.Nbd4 Nfe4 13.Nb3 Ne6 14.O-O O-O 15. 
+Ne5 f4 16.f3 Nf6 17.Nd4 Nxd4 18.Bxd4 c5 19.Bb2 Qb6 20.Qb1 Qb4 21.Bc3 Qxb1  
+22.Rfxb1 Ne8 23.Nd3 fxe3 24.dxe3 Ra3 25.Bb2 Ra7 26.Nf4 Nf6 27.Rd1 Rd8 28. 
+Rab1 Rxa2 29.Bb3 Ra6 30.e4 b5 31.Bxf6 gxf6 32.Bxd5+ Kf8 33.Rxb5 Bd6 34.Nd3 
+Bd7 35.Rxc5 Ba4 36.Ra1 Bb5 37.Rxa6 Bxa6 38.Rc3 Ke7 39.g3 Rb8 40.Kg2 Bxd3  
+41.Rxd3 Rb2+ 42.Kh3 h5 43.Rb3 Rxb3 44.Bxb3 Bc5 45.f4 Bg1 46.Kg2 Be3 47.h4  
+f5 48.e5 Bd2 49.Bd1 Kf7 50.Bxh5+ Kg7 51.Be8 Be1 52.h5 Kh6 53.Bg6 Bb4 54. 
+Kf3 Be1 55.Bxf5 Kxh5 56.g4+ Kh6 57.g5+ Kg7 58.Kg4 Kf7 59.Bd3 Bd2 60.Bc4+  
+1-0 
+ 
+[Event "Deltalift Open 2015"] 
+[Site "Tylosand SWE"] 
+[Date "2015.05.16"] 
+[Round "7.5"] 
+[White "Rosberg, Simon"] 
+[Black "Semcesen, Daniel"] 
+[Result "1-0"] 
+[WhiteElo "2262"] 
+[BlackElo "2475"] 
+[ECO "A04"] 
+[EventDate "2015.05.14"] 
+ 
+1.Nf3 f5 2.b4 Nf6 3.Bb2 e6 4.b5 g6 5.g3 Bg7 6.Bg2 O-O 7.O-O d6 8.d4 Nbd7  
+9.Nbd2 Qe7 10.Nc4 h6 11.Qd3 Re8 12.a4 Ne4 13.a5 Rb8 14.Ba3 Qd8 15.Rab1 b6  
+16.a6 Ndf6 17.Ne3 Bd7 18.c4 Kh7 19.Nc2 Rf8 20.Nb4 Qe8 21.Nd2 e5 22.dxe5  
+Qxe5 23.Nf3 Qe8 24.Nd4 Rc8 25.Nbc6 Ra8 26.Qc2 Ng4 27.Rb3 Ngf6 28.Re3 h5  
+29.Bc1 Bh6 30.Ra3 Bg7 31.f3 Nc5 32.Re3 Qf7 33.Re7 Qg8 34.e4 fxe4 35.fxe4  
+Ng4 36.Nf3 Kh8 37.Bb2 Rf6 38.h3 Bxc6 39.hxg4 Bxe4 40.Rxe4 Nxe4 41.Qxe4 Re8 
+42.Qc2 Rff8 43.Nh4 Rxf1+ 44.Bxf1 Qe6 45.Nxg6+ Kg8 46.Bxg7 Kxg7 47.gxh5 Qg4 
+48.Qc3+ Kh6 49.Nf4 Re5 50.Be2 Qg5 51.Kf2 Re8 52.Qd3 Qc5+ 53.Kg2 Rg8 54.Qd5 
+1-0 
+ 
+[Event "Open 2013"] 
+[Site "Leuven BEL"] 
+[Date "2013.11.10"] 
+[Round "5.1"] 
+[White "Hovhanisian, Mher"] 
+[Black "Froeyman, Helmut"] 
+[Result "1-0"] 
+[WhiteElo "2505"] 
+[BlackElo "2312"] 
+[ECO "A04"] 
+[EventDate "2013.11.08"] 
+ 
+1.Nf3 f5 2.b4 Nf6 3.c4 e6 4.Qb3 Be7 5.g3 O-O 6.Bg2 d6 7.O-O e5 8.Nc3 Kh8  
+9.d3 Qe8 10.a4 Nc6 11.b5 Nd8 12.a5 Qh5 13.a6 f4 14.axb7 Nxb7 15.Nd5 Nc5  
+16.Qc2 Nxd5 17.cxd5 fxg3 18.fxg3 Bd7 19.Ra5 Nb7 20.Ra3 Nc5 21.Qa2 e4 22. 
+dxe4 Bxb5 23.Nd4 Rxf1+ 24.Bxf1 Bd7 25.Rxa7 Rc8 26.Bg2 Nxe4 27.Bxe4 Qe5 28. 
+Bf3 Qxd4+ 29.Kg2 Bf6 30.Ra8 Qb6 31.Rxc8+ Bxc8 32.Qa4 c6 33.dxc6 h6 34.c7  
+Kh7 35.Qe8 1-0 
+ 
+[Event "2. Magic Valley IM"] 
+[Site "Rodatychi UKR"] 
+[Date "2011.03.26"] 
+[Round "8"] 
+[White "Molnar, Peter SVK"] 
+[Black "Meleshko, Vladimir"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2294"] 
+[BlackElo "2282"] 
+[ECO "A04"] 
+[EventDate "2011.03.20"] 
+ 
+1.Nf3 f5 2.b4 Nf6 3.Bb2 g6 4.c4 Bg7 5.g3 O-O 6.Bg2 d6 7.d4 Qe8 8.O-O Nbd7  
+9.d5 e5 10.dxe6 Nb6 11.e7 Qxe7 12.Nbd2 c6 13.e3 h6 14.Qc2 Be6 15.Rac1  
+1/2-1/2 
+ 
+[Event "70. ch-ITA S/F"] 
+[Site "Turin ITA"] 
+[Date "2010.06.24"] 
+[Round "5"] 
+[White "Cocchi, Andrea"] 
+[Black "Bentivegna, Francesco"] 
+[Result "1-0"] 
+[WhiteElo "2244"] 
+[BlackElo "2343"] 
+[ECO "A04"] 
+[EventDate "2010.06.20"] 
+ 
+1.Nf3 f5 2.b4 Nf6 3.Bb2 g6 4.e3 Bg7 5.c4 d6 6.d4 O-O 7.Be2 c6 8.Nc3 Na6 9. 
+Qb3 Nc7 10.O-O Kh8 11.d5 Qe8 12.Rfd1 Bd7 13.a4 h6 14.dxc6 bxc6 15.b5 Ne6  
+16.Nd4 Nc5 17.Qc2 cxb5 18.axb5 g5 19.Bf3 Nfe4 20.Nxe4 fxe4 21.Bxe4 Nxe4  
+22.Qxe4 Qf7 23.Rd2 Qxc4 24.Qxe7 Rf7 25.Qxd6 Bf8 26.Ne6+ Kh7 27.Nxf8+ Raxf8 
+28.Ra6 Rf6 29.Bxf6 Rxf6 30.Qxd7+ 1-0 
+ 
+[Event "Michael Franett Memorial"] 
+[Site "San Francisco, CA USA"] 
+[Date "2005.01.03"] 
+[Round "2"] 
+[White "Baginskaite, Camilla"] 
+[Black "Aigner, Michael USA"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2336"] 
+[BlackElo "2263"] 
+[ECO "A04"] 
+[EventDate "2005.01.02"] 
+ 
+1.Nf3 f5 2.b4 Nf6 3.Bb2 c6 4.c4 d6 5.d4 g6 6.g3 Bg7 7.Bg2 O-O 8.O-O Na6 9. 
+Qb3 Nc7 10.a4 Ne4 11.b5 c5 12.e3 Ne8 13.Nbd2 N8f6 14.Rad1 Qc7 15.Nxe4 Nxe4 
+16.Nd2 Be6 17.d5 Nxd2 18.Rxd2 Bd7 19.Bxg7 Kxg7 20.Qc3+ Rf6 21.a5 Rf8 22. 
+Rfd1 Kg8 23.f4 R8f7 24.Re1 Qd8 25.Rde2 Qf8 26.e4 fxe4 27.Rxe4 Qg7 28.Qe3  
+Kf8 29.h3 h5 30.Kh2 Bc8 31.Re6 Ke8 32.h4 Kd8 33.Bh3 Bd7 34.Re2 Qf8 35.Bg2  
+Rg7 36.Qc3 Bc8 37.Bh3 Bd7 38.Rxf6 Qxf6 39.Qxf6 exf6 40.Be6 Re7 41.f5 gxf5  
+42.Kg2 Bxe6 43.dxe6 Rg7 44.Rf2 Ke7 45.Rxf5 Rh7 46.a6 b6 47.Kf3 Kxe6 48.Ke4 
+Rh8 49.Rd5 Rh7 50.Rf5 Rh8 51.Rd5 Rh7 1/2-1/2 
+ 
+[Event "34. Olympiad women"] 
+[Site "Istanbul TUR"] 
+[Date "2000.10.30"] 
+[Round "3"] 
+[White "Baginskaite, Camilla"] 
+[Black "Hoang, Thanh Trang"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2287"] 
+[BlackElo "2489"] 
+[ECO "A04"] 
+[EventDate "2000.10.28"] 
+ 
+1.Nf3 f5 2.b4 Nf6 3.Bb2 e6 4.b5 Be7 5.e3 O-O 6.Be2 c5 7.O-O d5 8.c4 Nbd7  
+9.a4 Ne4 10.d3 Nd6 11.cxd5 exd5 12.Qb3 Nf6 1/2-1/2 

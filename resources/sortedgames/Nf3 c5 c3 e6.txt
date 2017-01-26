@@ -1,0 +1,79 @@
+ 
+[Event "98. ch-GBR"] 
+[Site "Sheffield ENG"] 
+[Date "2011.07.27"] 
+[Round "3.2"] 
+[White "Conquest, Stuart C"] 
+[Black "Jones, Gawain C B"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2519"] 
+[BlackElo "2606"] 
+[ECO "A04"] 
+[EventDate "2011.07.25"] 
+ 
+1.Nf3 c5 2.c3 e6 3.d4 d5 4.e3 Nf6 5.Nbd2 Qc7 6.Bd3 Nbd7 7.O-O Bd6 8.c4 O-O 
+9.b3 e5 10.cxd5 cxd4 11.Bb2 Nc5 12.Rc1 Qe7 13.Bb1 e4 14.exd4 Nd3 15.Bxd3  
+exd3 16.Nc4 Bf5 17.Nh4 Be4 18.f3 Bg6 19.Nxg6 hxg6 20.Re1 Qd8 21.Qxd3 Nxd5  
+22.Re4 Nf6 23.Ree1 Nd5 24.Re4 Nf6 25.Ree1 1/2-1/2 
+ 
+[Event "Mancha Real Open 3rd"] 
+[Site "Mancha Real"] 
+[Date "2000.07.26"] 
+[Round "8"] 
+[White "Stefanova, Antoaneta"] 
+[Black "Teran Alvarez, Ismael"] 
+[Result "0-1"] 
+[WhiteElo "2514"] 
+[BlackElo "2347"] 
+[ECO "A04"] 
+ 
+1.Nf3 c5 2.c3 e6 3.d4 Nc6 4.a3 Nf6 5.Bf4 Qb6 6.Ra2 a5 7.e3 d5 8.a4 Nh5 9. 
+Bg3 Nxg3 10.hxg3 Be7 11.Bd3 Bd7 12.Nbd2 O-O-O 13.Bb5 Kb8 14.Nb3 f6 15.O-O  
+cxd4 16.exd4 g5 17.Re1 h5 18.Bxc6 bxc6 19.c4 Bb4 20.Re3 h4 21.c5 Qc7 22. 
+Ne1 hxg3 23.fxg3 Bc8 24.Nd3 Qh7 25.Kf2 g4 26.Qxg4 e5 27.Qf3 Rhg8 28.dxe5  
+fxe5 29.Rxe5 Rgf8 30.Nf4 Qc2+ 31.Re2 Bxc5+ 32.Nxc5 Qxc5+ 33.Qe3 d4 34.Qe5+ 
+Qxe5 35.Rxe5 d3 36.Re1 d2 37.Rd1 Bg4 38.Raa1 Bxd1 39.Rxd1 Rd4 40.Ke3 Rd7  
+41.Rxd2 Re8+ 0-1 
+ 
+[Event "IMB2"] 
+[Site "Marianske Lazne CZE"] 
+[Date "2010.01.19"] 
+[Round "4"] 
+[White "Ganaus, Hannes"] 
+[Black "Bebel, Arkadiusz"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2282"] 
+[BlackElo "2285"] 
+[ECO "A46"] 
+[EventDate "2010.01.16"] 
+ 
+1.Nf3 c5 2.c3 e6 3.d4 Nf6 4.g3 b6 5.Bg2 Bb7 6.O-O Be7 7.a3 O-O 8.Re1 Ne4  
+9.Nbd2 f5 10.Ne5 d6 11.Nd3 Qc8 12.f3 Nxd2 13.Bxd2 Nc6 14.Be3 Na5 15.Bf2 c4 
+16.Nc1 e5 17.e4 fxe4 18.fxe4 Qe6 19.d5 Qh6 20.Be3 Bg5 21.Qd2 Bxe3+ 22.Qxe3 
+Qh5 23.Qe2 Qg6 24.Na2 Bc8 25.Rf1 Bg4 26.Qe3 Nb3 27.Rxf8+ Rxf8 28.Rf1 Nc5  
+29.Nb4 Bd7 30.Rxf8+ Kxf8 31.Qe2 b5 32.a4 a6 33.axb5 axb5 34.Nc2 Qg5 35.Ne3 
+Kg8 36.Bf3 Nd3 37.b4 Qd8 38.Bg4 Bxg4 39.Qxg4 g6 40.Qe6+ Kg7 41.Kg2 h5 42. 
+Nd1 Qf8 43.Kh3 Qf3 44.Kh4 Qxe4+ 45.Kg5 Qg4+ 46.Qxg4 hxg4 47.Kxg4 e4 48.Kg5 
+Nb2 49.Ne3 Na4 50.Nd1 e3 51.Nxe3 Nxc3 52.h4 Ne2 53.g4 Nd4 54.Nd1 Ne2 55. 
+Ne3 Nd4 56.Nd1 Ne2 57.Ne3 Nd4 1/2-1/2 
+ 
+[Event "SCCF State Ch"] 
+[Site "Los Angeles, CA USA"] 
+[Date "2001.07.15"] 
+[Round "3"] 
+[White "Lakdawala, Cyrus"] 
+[Black "Khachiyan, Melikset"] 
+[Result "1-0"] 
+[WhiteElo "2438"] 
+[BlackElo "2480"] 
+[ECO "A46"] 
+[EventDate "2001.07.14"] 
+ 
+1.Nf3 c5 2.c3 e6 3.d4 Nf6 4.e3 b6 5.Nbd2 Bb7 6.Bd3 d6 7.e4 Be7 8.O-O O-O  
+9.Re1 Re8 10.a3 Bf8 11.Nf1 e5 12.d5 Nbd7 13.Ng3 Qc7 14.c4 Be7 15.Nf5 Bd8  
+16.h3 Nf8 17.Nh2 Bc8 18.Qf3 Ng6 19.g3 Bxf5 20.Qxf5 Qc8 21.Qxc8 Rxc8 22.Bd2 
+Re7 23.Ng4 Rb7 24.Ne3 Ne8 25.h4 Nf8 26.b4 g6 27.Reb1 f6 28.Kg2 Rf7 29.Ra2  
+Ng7 30.bxc5 dxc5 31.Bc3 Bc7 32.Ng4 Kh8 33.Nh6 Re7 34.Rf1 Ne8 35.f4 Kg7 36. 
+Ng4 h5 37.Ne3 exf4 38.gxf4 Nd7 39.Kf3 Nd6 40.Rg2 Rg8 41.Nf5+ Nxf5 42.exf5  
+Nf8 43.fxg6 Nd7 44.Bf5 Rge8 45.Bd2 Nf8 46.a4 a5 47.Rff2 Bd6 48.Bd3 Bc7 49. 
+Re2 Rxe2 50.Bxe2 Re7 51.Bc3 Bd8 52.Bd3 Rd7 53.Bf5 Rb7 54.Be6 1-0 

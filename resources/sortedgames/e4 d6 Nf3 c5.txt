@@ -1,0 +1,54 @@
+ 
+[Event "I Vecindario GM"] 
+[Site "Vecindario ESP"] 
+[Date "2013.08.07"] 
+[Round "9.2"] 
+[White "Garcia Blanco, Omar"] 
+[Black "Alvarado Diaz, Alejandro"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2253"] 
+[BlackElo "2313"] 
+[ECO "B98"] 
+[EventDate "2013.08.01"] 
+ 
+1.e4 d6 2.Nf3 c5 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 h6  
+9.Bh4 g5 10.fxg5 Nfd7 11.Nxe6 fxe6 12.Qh5+ Kf8 13.Bb5 Rh7 14.O-O+ Kg8 15. 
+g6 Rg7 16.Rf7 Bxh4 17.Qxh6 Rxf7 18.gxf7+ Kxf7 19.Qh7+ Ke8 20.Qg8+ Ke7 21. 
+Qg7+ Ke8 22.Qg8+ Ke7 1/2-1/2 
+ 
+[Event "TCh-CAT 2012"] 
+[Site "Catalunya ESP"] 
+[Date "2012.01.28"] 
+[Round "1.8"] 
+[White "Bravo Barranco, Narciso"] 
+[Black "Colon Garcia, Enrique"] 
+[Result "1-0"] 
+[WhiteElo "2238"] 
+[BlackElo "2308"] 
+[ECO "B51"] 
+[EventDate "2012.01.28"] 
+ 
+1.e4 d6 2.Nf3 c5 3.Bb5+ Nd7 4.O-O a6 5.Bxd7+ Bxd7 6.Re1 e5 7.c3 c4 8.d4  
+cxd3 9.Qxd3 h6 10.c4 Nf6 11.Nc3 Rc8 12.b3 Be7 13.Ba3 Qa5 14.Bb2 O-O 15.Nd2 
+b5 16.a3 Qb6 17.b4 Rfd8 18.h3 Bf8 19.Rac1 Rb8 20.Nd5 Nxd5 21.cxd5 Be7 22. 
+Nb3 Bg5 23.Rc2 Rf8 24.Bc1 Bxc1 25.Rexc1 f5 26.Rc7 Rf7 27.Na5 fxe4 28.Qe3  
+Qd4 29.Qxd4 exd4 30.Nb7 Be8 31.Nxd6 Rxc7 32.Rxc7 Rd8 33.Nf5 Bf7 34.d6 Be6  
+35.Rxg7+ Kh8 36.Nxd4 Rxd6 37.Nxe6 Rxe6 38.Ra7 Kg8 39.Kf1 Kf8 40.Ke2 Rg6  
+41.g4 Rf6 42.Ke3 Re6 43.h4 Kg8 44.h5 Kf8 45.Kf4 Kg8 46.Kf5 e3 47.fxe3 Rxe3 
+48.Rxa6 Kg7 49.Ra7+ Kg8 50.Rb7 Rxa3 1-0 
+ 
+[Event "GRE Ch"] 
+[Site "Igoumenitsa GRE"] 
+[Date "2007.12.04"] 
+[Round "4"] 
+[White "Nikolaidis, Ioannis"] 
+[Black "Banikas, Hristos"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2525"] 
+[BlackElo "2591"] 
+[ECO "B97"] 
+[EventDate "2007.12.01"] 
+ 
+1.e4 d6 2.Nf3 c5 3.Nc3 a6 4.d4 cxd4 5.Nxd4 Nf6 6.Bg5 e6 7.f4 Qb6 8.Qd2  
+Qxb2 9.Rb1 Qa3 10.f5 Nc6 11.fxe6 fxe6 12.Nxc6 bxc6 13.Be2 Be7 14.O-O O-O  
+15.Rb3 Qc5+ 16.Be3 Qe5 17.Bf4 Qc5+ 18.Be3 Qe5 19.Bd4 Qa5 20.Bb6 1/2-1/2 

@@ -1,0 +1,18 @@
+ 
+[Event "CC NED-GER Match"] 
+[Site "Venlo NED"] 
+[Date "2000.08.26"] 
+[Round "3"] 
+[White "Reinderman, Dimitri"] 
+[Black "Luther, Thomas"] 
+[Result "0-1"] 
+[WhiteElo "2551"] 
+[BlackElo "2547"] 
+[ECO "A03"] 
+[EventDate "2000.08.24"] 
+ 
+1.f4 d5 2.c3 Nf6 3.d3 g6 4.Nf3 Bg7 5.g3 O-O 6.Bg2 b6 7.O-O Bb7 8.h3 c5 9. 
+Qe1 Nc6 10.e4 dxe4 11.dxe4 e5 12.f5 Qd3 13.Nbd2 Rad8 14.g4 gxf5 15.gxf5  
+Nh5 16.Qh4 Nf4 17.Ng5 h6 18.Ndf3 Nxg2 19.Kxg2 Rd6 20.Rg1 hxg5 21.Nxg5 Rh6  
+22.Qg4 Ba6 23.Kf2 Qc2+ 24.Ke1 Rh4 25.Qf3 Rd8 26.f6 Rd3 27.Be3 Rf4 28.Nxf7  
+Rxf3 29.Nh6+ Kf8 30.fxg7+ Ke7 31.g8=Q Rdxe3# 0-1 

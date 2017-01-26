@@ -1,0 +1,42 @@
+ 
+[Event "33. Taminco Open"] 
+[Site "Ghent BEL"] 
+[Date "2010.07.19"] 
+[Round "5"] 
+[White "Draftian, Ashote"] 
+[Black "Ikonnikov, Vyacheslav"] 
+[Result "0-1"] 
+[WhiteElo "2275"] 
+[BlackElo "2578"] 
+[ECO "A02"] 
+[EventDate "2010.07.17"] 
+ 
+1.f4 Nf6 2.e3 d6 3.Nf3 g6 4.d4 Bg7 5.c4 O-O 6.Nc3 Nbd7 7.Be2 c6 8.O-O a6  
+9.a4 a5 10.Kh1 e5 11.b3 exd4 12.exd4 Nb8 13.Be3 Na6 14.Rc1 Re8 15.Bg1 Nb4  
+16.d5 c5 17.Bd3 Nxd3 18.Qxd3 Bf5 19.Qd2 Ne4 20.Nxe4 Bxe4 21.Ng5 Bf5 22. 
+Rfe1 Qb6 23.Rxe8+ Rxe8 24.Re1 Rf8 25.Ne4 Bxe4 26.Rxe4 Qxb3 27.Qxa5 Qc2 28. 
+Qe1 Qxa4 29.Qe2 Qa1 30.h3 Bd4 31.Qe1 Ra8 32.Bxd4 cxd4 33.Qxa1 Rxa1+ 34.Kh2 
+d3 35.Rd4 Ra4 36.Rxd3 Rxc4 37.Rb3 Rxf4 38.Rb6 Rf6 39.g4 g5 40.Kg3 Kf8 41. 
+Rxb7 Ke8 42.Rb6 Kd7 43.Rb7+ Kd8 44.Ra7 Rf4 45.Ra8+ Ke7 46.Rh8 Rd4 47.Rxh7  
+Rxd5 48.h4 Rd3+ 49.Kg2 gxh4 50.Rxh4 d5 51.Rh6 f6 52.g5 fxg5 53.Rg6 Re3 54. 
+Rxg5 Kd6 55.Kf2 Re8 56.Rg4 Kc5 57.Rh4 d4 58.Rh7 Kc4 59.Rc7+ Kb3 60.Rd7 Kc3 
+61.Rc7+ Kd2 62.Kf3 d3 63.Ra7 Rf8+ 64.Ke4 Ke2 65.Rh7 d2 66.Rh2+ Rf2 67.Rh3  
+Kd1 0-1 
+ 
+[Event "11. EICC women"] 
+[Site "Rijeka CRO"] 
+[Date "2010.03.17"] 
+[Round "11"] 
+[White "Bogumil, Tatiana"] 
+[Black "Borsuk, Angela"] 
+[Result "0-1"] 
+[WhiteElo "2201"] 
+[BlackElo "2338"] 
+[ECO "A02"] 
+[EventDate "2010.03.06"] 
+ 
+1.f4 Nf6 2.e3 d6 3.Nf3 g6 4.b3 Bg7 5.Bb2 O-O 6.Bc4 Nc6 7.d4 a6 8.a4 Bf5 9. 
+O-O Nb4 10.Na3 b5 11.axb5 axb5 12.Bd3 Nxd3 13.cxd3 Bd7 14.Qd2 Qb8 15.e4 c5 
+16.Nc2 Qb7 17.Ne3 cxd4 18.Bxd4 Rfc8 19.Rxa8 Rxa8 20.Qb2 Bc6 21.h3 Ne8 22. 
+Rc1 Bh6 23.Qc3 Bd7 24.Nd5 Be6 25.Qc6 Bxd5 26.exd5 Qxc6 27.dxc6 Bxf4 28.Rc2 
+Nc7 0-1 

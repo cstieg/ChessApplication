@@ -1,0 +1,16 @@
+ 
+[Event "MTO Open"] 
+[Site "Biel SUI"] 
+[Date "2000.07.31"] 
+[Round "7"] 
+[White "Meyer, Bernhard"] 
+[Black "Toth, Christian Endre"] 
+[Result "1-0"] 
+[WhiteElo "2235"] 
+[BlackElo "2377"] 
+[ECO "A04"] 
+[EventDate "2000.07.24"] 
+ 
+1.Nf3 d6 2.b4 e5 3.c4 a5 4.b5 c6 5.Bb2 cxb5 6.cxb5 Nf6 7.g3 b6 8.Bg2 Bb7  
+9.O-O g6 10.d4 e4 11.Nfd2 Bg7 12.d5 e3 13.Nc4 O-O 14.Nxe3 Nxd5 15.Bxg7  
+Nxe3 16.fxe3 Bxg2 17.Bf6 1-0 

@@ -1,0 +1,73 @@
+ 
+[Event "Czech GM Open A"] 
+[Site "Pardubice CZE"] 
+[Date "2011.07.27"] 
+[Round "6.45"] 
+[White "Dmitrenko, Viktor"] 
+[Black "Llorente Zaro, Alfonso"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2353"] 
+[BlackElo "2453"] 
+[ECO "D94"] 
+[EventDate "2011.07.22"] 
+ 
+1.Nf3 g6 2.d4 d5 3.c4 c6 4.Nc3 Nf6 5.e3 Bg7 6.cxd5 cxd5 7.Bb5+ Nbd7 8.Qb3  
+e6 1/2-1/2 
+ 
+[Event "MP Reykjavik Open"] 
+[Site "Reykjavik ISL"] 
+[Date "2011.03.10"] 
+[Round "2.2"] 
+[White "Miroshnichenko, Evgenij"] 
+[Black "Ariel, Donny"] 
+[Result "1-0"] 
+[WhiteElo "2670"] 
+[BlackElo "2389"] 
+[ECO "D90"] 
+[EventDate "2011.03.09"] 
+ 
+1.Nf3 g6 2.d4 d5 3.c4 c6 4.Nc3 Nf6 5.cxd5 cxd5 6.Bf4 Bg7 7.e3 O-O 8.h3 Nc6 
+9.Bd3 Re8 10.O-O a6 11.Rc1 Bf5 12.Bxf5 gxf5 13.Ne5 Rc8 14.Nd3 e6 15.Na4  
+Ne4 16.f3 Nf6 17.Qb3 Na5 18.Qb6 Qxb6 19.Nxb6 Rc6 20.Rxc6 Nxc6 21.Rc1 Nh5  
+22.Be5 Bh6 23.Kf2 f6 24.Bc7 e5 25.Nxd5 exd4 26.f4 dxe3+ 27.Nxe3 Ng3 28.Re1 
+Ne4+ 29.Kg1 Ne7 30.Nf2 Rc8 31.Nxe4 fxe4 32.Bd6 Bf8 33.Kf1 Ng6 34.Nf5 Rc2  
+35.Bxf8 Kxf8 36.Rxe4 Rxb2 37.a4 b5 38.Re6 bxa4 39.Rxf6+ Kg8 40.Rxa6 Nxf4  
+41.Rxa4 Ng6 42.Ra7 Rc2 43.Kg1 Nf4 44.Rg7+ Kh8 45.Rg4 Ng6 46.Ra4 Kg8 47. 
+Ra8+ Kf7 48.Ra7+ Kf6 49.Ne3 Rc1+ 50.Kf2 Ne7 51.Kf3 Rc6 52.Ng4+ Ke6 53.Ne5  
+Rb6 54.Nd7 Rb3+ 55.Kg4 Kf7 56.Nc5 Re3 57.Kf4 Re1 58.Ne4 h6 59.h4 Rc1 60.h5 
+Rf1+ 61.Kg4 Re1 62.Kf3 Rf1+ 63.Ke2 Rc1 64.g4 Rg1 65.Kf3 Rf1+ 66.Kg3 Kf8  
+67.Ra6 Kg7 68.Re6 Ng8 69.Rg6+ Kh7 70.Rb6 Kg7 71.Rg6+ Kh7 72.Rb6 Kg7 73. 
+Rb7+ Rf7 74.Rb1 Rd7 75.Rb6 Ra7 76.Rg6+ Kh7 77.Kh4 Rb7 78.Nd6 Ra7 79.Nf5  
+Rb7 80.Ra6 Rc7 81.Kg3 Rb7 82.Rg6 Ra7 83.Kf4 Rb7 84.Rd6 Ra7 85.Ke5 Rb7 86. 
+Ke6 Ra7 87.Rd8 Ra6+ 88.Nd6 Ra7 89.Re8 Ra1 90.Rb8 Ra7 91.Rb7+ Rxb7 92.Nxb7  
+Kg7 93.Nd6 Kf8 94.Nc4 Kg7 95.Ne3 Kf8 96.Nd5 Kg7 97.Ne7 Nxe7 98.Kxe7 Kh8  
+99.Kf8 Kh7 100.Kf7 1-0 
+ 
+[Event "It (cat.4)"] 
+[Site "Sao Jose do Rio Preto BRA"] 
+[Date "2007.04.19"] 
+[Round "1"] 
+[White "Borges, Leomar Barbero"] 
+[Black "Marre, Erwan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2225"] 
+[BlackElo "2290"] 
+[ECO "D94"] 
+ 
+1.Nf3 g6 2.d4 d5 3.e3 Bg7 4.Be2 Nf6 5.O-O O-O 6.c4 c6 7.Nc3 a6 8.b3 Bf5 9. 
+Bb2 Ne4 10.Rc1 Nxc3 11.Bxc3 1/2-1/2 
+ 
+[Event "6. It"] 
+[Site "San Jose do Rio Preto ARG"] 
+[Date "2007.04.19"] 
+[Round "1"] 
+[White "Borges, Leomar Barbero"] 
+[Black "Marra, Eduardo da Costa"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2225"] 
+[BlackElo "2290"] 
+[ECO "D94"] 
+[EventDate "2007.04.19"] 
+ 
+1.Nf3 g6 2.d4 d5 3.e3 Bg7 4.Be2 Nf6 5.O-O O-O 6.c4 c6 7.Nc3 a6 8.b3 Bf5 9. 
+Bb2 Ne4 10.Rc1 Nxc3 11.Bxc3 1/2-1/2 

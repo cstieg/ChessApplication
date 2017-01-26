@@ -1,0 +1,81 @@
+ 
+[Event "Beograd SRB, Kvalitetna liga 2010"] 
+[Site "Beograd SRB"] 
+[Date "2010.10.16"] 
+[Round "3"] 
+[White "Ilijc, Milan"] 
+[Black "Sarenac, David"] 
+[Result "0-1"] 
+[WhiteElo "2200"] 
+[BlackElo "2255"] 
+[ECO "A15"] 
+[EventDate "2010.10.09"] 
+ 
+1.c4 Nf6 2.b3 e6 3.Bb2 d5 4.Nf3 g6 5.g3 Bg7 6.Bg2 O-O 7.O-O b6 8.cxd5 exd5 
+9.d4 Bb7 10.Ne5 Nbd7 11.Nd2 Nxe5 12.dxe5 Ng4 13.Nc4 Rb8 14.h3 Nxf2 15.Rxf2 
+dxc4 16.bxc4 Bxg2 17.Kxg2 Qe7 18.Qd5 Rbd8 19.Qe4 Rde8 20.Raf1 Bxe5 21.Bxe5 
+Qxe5 22.Qf3 Qc5 23.Rd1 Qxc4 24.Rd7 Re5 25.Qb7 Rxe2 26.Rxc7 Qxa2 27.Rxe2  
+Qxe2+ 28.Kg1 Rd8 29.Rc8 Qe3+ 30.Kg2 Rxc8 31.Qxc8+ Kg7 32.Qa6 Qd2+ 33.Kf3  
+Qc3+ 34.Kf2 Qc5+ 35.Kf3 b5 36.Qa1+ Kg8 37.Qa5 Qb6 38.Qe1 b4 39.Kg2 Qc6+  
+40.Kh2 b3 41.Qe5 Qb6 42.Qe8+ Kg7 43.Qe5+ Qf6 44.Qb8 b2 45.h4 h5 46.g4  
+Qxh4+ 47.Kg2 Qxg4+ 48.Kh2 Qh4+ 49.Kg2 Qf6 50.Kh2 a5 51.Kh3 a4 52.Qb4 a3  
+53.Qb3 Qe6+ 0-1 
+ 
+[Event "TCh-FIN 2009-10"] 
+[Site "Finland FIN"] 
+[Date "2009.09.20"] 
+[Round "2"] 
+[White "Valkesalmi, Kimmo"] 
+[Black "Salo, Tapio"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2366"] 
+[BlackElo "2302"] 
+[ECO "A14"] 
+[EventDate "2009.09.19"] 
+ 
+1.c4 Nf6 2.b3 e6 3.Nf3 d5 4.g3 Be7 5.Bb2 O-O 6.Bg2 c5 7.O-O Nc6 8.d3 d4 9. 
+e3 Ne8 10.exd4 cxd4 11.Ba3 f6 1/2-1/2 
+ 
+[Event "Rijeka CRO,  Women GM march 04"] 
+[Site "Rijeka CRO"] 
+[Date "2004.03.13"] 
+[Round "8"] 
+[White "Jelica, Mara"] 
+[Black "Medic, Mirjana"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2222"] 
+[BlackElo "2256"] 
+[ECO "A14"] 
+[EventDate "2004.03.06"] 
+ 
+1.c4 Nf6 2.b3 e6 3.Bb2 c5 4.g3 Nc6 5.Bg2 Be7 6.Nf3 O-O 7.O-O d5 8.cxd5  
+exd5 9.d3 h6 10.Nbd2 Be6 11.Ne5 Nxe5 12.Bxe5 Qd7 13.Rc1 Rac8 14.Bb2 Bh3  
+15.Nf3 Bxg2 16.Kxg2 Qe6 17.Rc2 b6 18.Bxf6 Bxf6 19.Qd2 Rc6 20.Qf4 Rfc8  
+1/2-1/2 
+ 
+[Event "TCh-CZE 2001-2"] 
+[Site "CZE"] 
+[Date "2001.10.20"] 
+[Round "1"] 
+[White "Cicak, Slavko"] 
+[Black "Berezjuk, Sergej"] 
+[Result "1-0"] 
+[WhiteElo "2545"] 
+[BlackElo "2432"] 
+[ECO "A15"] 
+[EventDate "2002.01.04"] 
+ 
+1.c4 Nf6 2.b3 e6 3.Bb2 a6 4.e3 b6 5.Nf3 Bb7 6.Be2 d5 7.O-O Nbd7 8.Qc2 c5  
+9.cxd5 exd5 10.d4 Rc8 11.dxc5 Bxc5 12.Qf5 O-O 13.Nc3 Qe7 14.Na4 Ba3 15. 
+Bxf6 Nxf6 16.Nxb6 Rc7 17.Bd3 g6 18.Qg5 Qe6 19.Na4 Ne4 20.Bxe4 Qxe4 21.Rad1 
+f6 22.Qg3 Qe7 23.Nb6 Rc5 24.e4 Qe6 25.Na4 Rcc8 26.Nd4 Qf7 27.exd5 Bxd5 28. 
+Nf5 Qe6 29.Nh6+ Kh8 30.Rfe1 Qc6 31.h4 Bb4 32.Re3 Bd6 33.Qg4 Be5 34.Red3  
+Be6 35.Qe2 Qc2 36.R3d2 Qc7 37.Ng4 Bxg4 38.Qxg4 f5 39.Qe2 Rce8 40.Qxa6 Qe7  
+41.g3 f4 42.Rd7 Qb4 43.Rb7 Qe4 44.Nc5 Qf5 45.Qd3 fxg3 46.Qxf5 Rxf5 47.fxg3 
+Bxg3 48.Ne4 Be5 49.Rdd7 Kg8 50.Re7 Ref8 51.Kg2 Bd4 52.Rbd7 Bb2 53.Rxh7 Rf4 
+54.Ng3 Rf2+ 55.Kh3 Bf6 56.a4 Rb2 57.Rb7 Be5 58.Rh6 Rf3 59.Rxg6+ Kf8 60.Rb5 
+Bf4 61.h5 Rff2 62.Ne4 Rf1 63.Rf5+ Ke7 64.Ng3 Rxb3 65.h6 Rh1+ 66.Kg2 Rxh6  
+67.Rg7+ Ke6 68.Rxf4 Rb2+ 69.Kf3 Rb3+ 70.Kg4 Rf6 71.Ne4 Rxf4+ 72.Kxf4 Ra3  
+73.Ra7 Kd5 74.Ra8 Kc4 75.Rc8+ Kb4 76.Nc3 Ra1 77.Nd5+ Kb3 78.Nb6 Kb4 79.Rb8 
+Re1 80.Ra8 Ra1 81.Ke4 Kc5 82.Nd5 Re1+ 83.Ne3 Kb4 84.a5 Ra1 85.a6 Kb5 86. 
+Nd5 Kc6 87.Nb4+ Kc5 1-0 

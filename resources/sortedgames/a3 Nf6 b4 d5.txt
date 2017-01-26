@@ -1,0 +1,21 @@
+ 
+[Event "WJun"] 
+[Site "Erevan ARM"] 
+[Date "2006.10.13"] 
+[Round "10"] 
+[White "Filippov, Anton UZB"] 
+[Black "Alavi, Sayed Javad"] 
+[Result "0-1"] 
+[WhiteElo "2501"] 
+[BlackElo "2368"] 
+[ECO "A00"] 
+[EventDate "2006.10.03"] 
+ 
+1.a3 Nf6 2.b4 d5 3.Bb2 Bf5 4.Nf3 e6 5.e3 Bd6 6.c4 c6 7.Be2 Nbd7 8.Nh4 Bxb1 
+9.Rxb1 O-O 10.O-O a5 11.g3 axb4 12.axb4 dxc4 13.Bxc4 b5 14.Bd3 Qe7 15.Qc2  
+Rfc8 16.Bc3 g6 17.e4 e5 18.Rfe1 Nb6 19.f4 Nfd7 20.f5 c5 21.fxg6 hxg6 22. 
+Qd1 cxb4 23.Ba1 Nc4 24.Bc2 Na3 25.Bb3 Nxb1 26.Qg4 Rc4 27.Rxb1 Nf6 28.Qf3  
+Kg7 29.d3 Rc7 30.Bb2 Rac8 31.Kh1 Rc3 32.Bxc3 bxc3 33.Rf1 Ba3 34.Nf5+ gxf5  
+35.Qxf5 Rc6 36.Qg5+ Kf8 37.Rf5 c2 38.Bxc2 Rxc2 39.Rxf6 Rc1+ 40.Kg2 Rc2+  
+41.Kh1 Qb4 42.Rf1 Qd6 43.Qh5 Qe6 44.Qh4 Ke8 45.Qh8+ Ke7 46.Qb8 Bd6 47.Qb7+ 
+Kf8 48.Rf5 Qa2 0-1 

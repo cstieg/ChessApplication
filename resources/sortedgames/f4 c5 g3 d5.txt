@@ -1,0 +1,16 @@
+ 
+[Event "Greenland Open"] 
+[Site "Qaqortoq GRL"] 
+[Date "2003.06.30"] 
+[Round "8"] 
+[White "Danielsen, Henrik"] 
+[Black "Oral, Tomas"] 
+[Result "0-1"] 
+[WhiteElo "2501"] 
+[BlackElo "2537"] 
+[ECO "A02"] 
+[EventDate "2003.06.28"] 
+ 
+1.f4 c5 2.g3 d5 3.Bg2 Nf6 4.Nf3 b6 5.c4 e6 6.Ne5 Nbd7 7.Nc3 Bb7 8.Qa4 Bd6  
+9.d3 Bxe5 10.fxe5 Ng4 11.O-O Nxe5 12.cxd5 O-O 13.dxe6 Bxg2 14.Kxg2 fxe6  
+15.Bf4 Ng6 16.Bd6 Rxf1 17.Rxf1 Nf6 18.Ne4 Rc8 19.Qc4 Nd5 20.h4 0-1 

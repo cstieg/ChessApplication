@@ -1,0 +1,21 @@
+ 
+[Event "Hanoi VIE, Ch U9 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.13"] 
+[Round "3.11"] 
+[White "Nguyen, The Van"] 
+[Black "Le, Kha Duy"] 
+[Result "1-0"] 
+[WhiteElo "2587"] 
+[BlackElo "2543"] 
+[ECO "A40"] 
+[EventDate "2012.07.12"] 
+ 
+1.d4 e6 2.c3 Qf6 3.e4 Nh6 4.Be3 d5 5.e5 Qg6 6.Bxh6 Qxh6 7.Nd2 Be7 8.g3 Bg5 
+9.f4 Be7 10.Bg2 O-O 11.Ne2 Na6 12.O-O c5 13.Nf3 Bd7 14.dxc5 Bxc5+ 15.Ned4  
+Bxd4+ 16.Nxd4 Nc7 17.Qb3 b6 18.Rae1 Na6 19.f5 exf5 20.Nxf5 Bxf5 21.Rxf5  
+Qd2 22.Rd1 Qe3+ 23.Kh1 Nc5 24.Qxd5 Ne6 25.Rdf1 Rad8 26.Qf3 Qxf3 27.R5xf3  
+h6 28.h4 Rd7 29.Bh3 Rfd8 30.Rxf7 Rxf7 31.Bxe6 Rf8 32.Kg2 g6 33.g4 Kg7 34. 
+Bxf7 Rxf7 35.Rxf7+ Kxf7 36.Kf3 Ke6 37.Ke4 g5 38.h5 a6 39.c4 a5 40.a3 Ke7  
+41.Kf5 Kf7 42.e6+ Ke7 43.Ke5 Ke8 44.Kd6 Kf8 45.Kd7 Kg7 46.e7 Kh7 47.e8=Q  
+1-0 

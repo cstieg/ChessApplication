@@ -1,0 +1,30 @@
+ 
+[Event "Copa Puma Mercosur"] 
+[Site "Villa Martelli ARG"] 
+[Date "2007.07.02"] 
+[Round "11"] 
+[White "Claverie, Raul"] 
+[Black "Fernandez, Dan USA"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2397"] 
+[BlackElo "2447"] 
+[ECO "B01"] 
+[EventDate "2007.07.23"] 
+ 
+1.e4 d5 2.d3 Nf6 3.Nd2 e5 4.Ngf3 Nc6 5.g3 Bc5 6.Bg2 O-O 7.exd5 Nxd5 8.O-O  
+Re8 9.Re1 Bg4 10.c3 Qd7 11.Qc2 a5 12.Nc4 1/2-1/2 
+ 
+[Event "Open"] 
+[Site "Olomouc CZE"] 
+[Date "2003.08.01"] 
+[Round "3"] 
+[White "Kireev, A."] 
+[Black "Maslak, Konstantin"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2276"] 
+[BlackElo "2439"] 
+[ECO "C00"] 
+[EventDate "2003.07.30"] 
+ 
+1.e4 d5 2.d3 Nf6 3.Nd2 e6 4.g3 c5 5.Bg2 Nc6 6.Nh3 Be7 7.O-O O-O 8.f4 dxe4  
+9.dxe4 e5 10.f5 b6 11.c3 Bb7 12.Nf2 b5 13.Qe2 a6 14.Rd1 1/2-1/2 

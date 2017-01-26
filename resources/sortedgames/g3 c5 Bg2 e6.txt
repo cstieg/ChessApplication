@@ -1,0 +1,85 @@
+ 
+[Event "48. Groningen Open A"] 
+[Site "Groningen NED"] 
+[Date "2011.12.29"] 
+[Round "8.4"] 
+[White "Romanov, Evgeny"] 
+[Black "Plat, Vojtech"] 
+[Result "1-0"] 
+[WhiteElo "2627"] 
+[BlackElo "2425"] 
+[ECO "A00"] 
+[EventDate "2011.12.21"] 
+ 
+1.g3 c5 2.Bg2 e6 3.c4 Nf6 4.Nf3 Be7 5.O-O Qc7 6.Nc3 a6 7.d4 cxd4 8.Qxd4 d6 
+9.Rd1 O-O 10.Bg5 Nc6 11.Qf4 Ne5 12.Rac1 h6 13.Bxf6 Bxf6 14.b3 Nxf3+ 15. 
+Qxf3 Rb8 16.Rc2 b5 17.Ne4 Be7 18.Qd3 Rd8 19.cxb5 Qa5 20.bxa6 d5 21.Qc3 Bb4 
+22.Qd4 Bxa6 23.Nc5 e5 24.Qe3 Rbc8 25.Nxa6 Rxc2 26.Nxb4 Qxb4 27.Bxd5 Kh8  
+28.Qxe5 Rxa2 29.Kg2 Qb6 30.Rd3 Ra5 31.Qe4 Ra7 32.Rf3 Kg8 33.h4 Qc5 34.Rf5  
+Qd6 35.h5 Re7 36.Qf3 Rdd7 37.Bc4 Qc7 38.Qa8+ Rd8 39.Qf3 Rdd7 40.e3 Rd2 41. 
+e4 Rdd7 42.Bd5 Qd6 43.Qc3 Rc7 44.Qd4 Kh7 45.e5 Qc5 46.Qe4 Kh8 47.e6 f6 48. 
+Rf3 Qd6 49.b4 Qb6 50.Ra3 Rc8 51.Qf5 Qb5 52.Ra5 Qe8 53.Be4 Qg8 54.Ra6 Rce8  
+55.b5 Rb8 56.Rd6 g6 57.hxg6 Kg7 58.b6 Qf8 59.Qd5 Qe8 60.Qb3 Qc8 61.Bc6  
+Kxg6 62.Qf3 f5 63.b7 Rbxb7 64.Bxb7 Qxb7 65.Qxb7 Rxb7 66.e7+ Kf7 67.Rxh6  
+Rb8 68.Rh7+ Kf6 69.Kf3 Re8 70.Rh6+ Kxe7 71.Kf4 Ra8 72.Rh5 Kf6 73.Rxf5+ Kg6 
+74.Kg4 1-0 
+ 
+[Event "18. Zadar Open A"] 
+[Site "Zadar CRO"] 
+[Date "2011.12.12"] 
+[Round "3.18"] 
+[White "Kovacevic, Blazimir"] 
+[Black "Mandekic, Ivan"] 
+[Result "1-0"] 
+[WhiteElo "2460"] 
+[BlackElo "2288"] 
+[ECO "A00"] 
+[EventDate "2011.12.11"] 
+ 
+1.g3 c5 2.Bg2 e6 3.Nf3 Nf6 4.c4 Nc6 5.O-O a6 6.Nc3 Be7 7.d4 cxd4 8.Nxd4  
+Qc7 9.b3 d6 10.Bb2 O-O 11.Rc1 Ne5 12.e4 Re8 13.Qe2 Bd7 14.Kh1 Ng6 15.f4 h6 
+16.Nf3 Red8 17.e5 Ne8 18.Ne4 Rac8 19.exd6 Nxd6 20.Ne5 Nxe4 21.Qxe4 Nxe5  
+22.Bxe5 Bd6 23.Bxd6 Qxd6 24.Qxb7 Bc6 25.Bxc6 Rxc6 26.Qa7 Rc5 27.Qb7 Rc6  
+28.Rf2 Rb8 29.Qa7 Rc5 30.Kg1 a5 31.Rcc2 Qd1+ 32.Kg2 Qd6 33.Rcd2 Qc6+ 34. 
+Rf3 a4 35.Qxb8+ 1-0 
+ 
+[Event "TCh-AUT 2002-3"] 
+[Site "Fuerstenfeld AUT"] 
+[Date "2003.03.15"] 
+[Round "10"] 
+[White "Blatny, Pavel"] 
+[Black "Atlas, Valery"] 
+[Result "1-0"] 
+[WhiteElo "2475"] 
+[BlackElo "2477"] 
+[ECO "A00"] 
+[EventDate "2003.01.01"] 
+ 
+1.g3 c5 2.Bg2 e6 3.c4 a6 4.Nc3 Nf6 5.e4 d6 6.Nge2 Ra7 7.d4 cxd4 8.Nxd4 b6  
+9.O-O Be7 10.Qe2 O-O 11.b3 Rc7 12.Bb2 Bb7 13.Rad1 Nfd7 14.Rfe1 Re8 15.Ba3  
+Bf8 16.Rd2 Qf6 17.Nd1 Nc5 18.Ne3 Qg6 19.Nec2 h6 20.h4 Rec8 21.h5 Qh7 22. 
+Bb2 Nbd7 23.f3 Be7 24.Ne3 Nf6 25.Bh3 Nxh5 26.b4 Nxg3 27.Qg2 Ncxe4 28.fxe4  
+Nxe4 29.Rde2 Ng5 30.Nd5 Qg6 31.Kh2 Bf6 32.Nxe6 Bxd5 33.Nxg5 hxg5 34.cxd5  
+Bxb2 35.Bxc8 Be5+ 36.Rxe5 dxe5 37.Bxa6 Qh5+ 38.Kg1 g4 39.Qg3 f6 40.d6 Rd7  
+41.Rd1 g6 42.Bb5 Rh7 43.Bc6 e4 44.Bxe4 Rd7 45.Bc6 Rd8 46.d7 Qg5 47.Re1 Rf8 
+48.Qd6 f5 49.Bd5+ Kg7 50.Re7+ 1-0 
+ 
+[Event "4NCL"] 
+[Site "Birmingham ENG"] 
+[Date "2001.03.18"] 
+[Round "8"] 
+[White "Hennigan, Michael T"] 
+[Black "Bezold, Michael"] 
+[Result "1-0"] 
+[WhiteElo "2455"] 
+[BlackElo "2510"] 
+[ECO "A00"] 
+[EventDate "2001.09.22"] 
+ 
+1.g3 c5 2.Bg2 e6 3.Nf3 Nf6 4.O-O Be7 5.d3 d5 6.Nbd2 d4 7.c3 Nc6 8.cxd4  
+cxd4 9.Nc4 Nd7 10.a4 O-O 11.a5 Nc5 12.Bd2 Na6 13.Qb3 f6 14.Ne1 Kh8 15.Nc2  
+Rb8 16.Rfb1 e5 17.Qa2 Ncb4 18.Nxb4 Bxb4 19.Bxb4 Nxb4 20.Qb3 Qe7 21.Ra4 Na6 
+22.Qa3 Qxa3 23.Rxa3 Rd8 24.Rb3 Bg4 25.Kf1 Rd7 26.Rb5 Be6 27.Ke1 Kg8 28.Kd1 
+Kf8 29.f4 exf4 30.gxf4 Rc7 31.Nd2 Bd7 32.Rh5 h6 33.b4 Ba4+ 34.Ke1 Be8 35. 
+Rh4 Rbc8 36.b5 Rc1+ 37.Kf2 Rxb1 38.bxa6 Rb4 39.axb7 Rc2 40.Nc4 f5 41.Nb6  
+Rbb2 42.Bf3 1-0 

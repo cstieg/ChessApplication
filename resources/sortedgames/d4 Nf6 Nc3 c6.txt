@@ -1,0 +1,14 @@
+ 
+[Event "Glitnir Blitz"] 
+[Site "Reykjavik ISL"] 
+[Date "2006.03.16"] 
+[Round "3.2"] 
+[White "Ivanisevic, Ivan"] 
+[Black "Harikrishna, Pendyala"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2588"] 
+[BlackElo "2673"] 
+[ECO "A45"] 
+[EventDate "2006.03.15"] 
+ 
+1.d4 Nf6 2.Nc3 c6 3.Nf3 e6 4.Nh4 c5 5.a4 Bd6 6.d5 Qe7 7.g3 1/2-1/2 

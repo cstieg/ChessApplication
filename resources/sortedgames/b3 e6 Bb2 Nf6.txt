@@ -1,0 +1,114 @@
+ 
+[Event "FIDE World Blitz 2013"] 
+[Site "Khanty-Mansiysk RUS"] 
+[Date "2013.06.10"] 
+[Round "26.30"] 
+[White "Gordievsky, Dmitry"] 
+[Black "Akbaev, Kazbek"] 
+[Result "1-0"] 
+[WhiteElo "2474"] 
+[BlackElo "2475"] 
+[ECO "A01"] 
+[EventDate "2013.06.09"] 
+ 
+1.b3 e6 2.Bb2 Nf6 3.g3 d5 4.Bg2 Bd6 5.e3 c5 6.Ne2 Nc6 7.O-O O-O 8.d3 a5 9. 
+a4 e5 10.Nbc3 Be6 11.Qd2 d4 12.Nb5 Bb8 13.exd4 cxd4 14.Rae1 Bd5 15.f3 h6  
+16.Kh1 Bd6 17.c4 Bb4 18.Qc1 Be6 19.Rd1 Qd7 20.Ba3 Rac8 21.Bxb4 Nxb4 22.Qd2 
+Bf5 23.Nc1 Bh3 24.Rde1 Bxg2+ 25.Kxg2 e4 26.dxe4 Rfd8 27.Nd3 Nxd3 28.Qxd3  
+Nh7 29.Rd1 Ng5 30.f4 Qh3+ 31.Kg1 Ne6 32.Qf3 Rc5 33.e5 d3 34.Rxd3 Rxd3 35. 
+Qxd3 Rc8 36.Nd6 Rd8 37.Qe4 h5 38.Qxb7 Rf8 39.Qg2 Qg4 40.h3 Qg6 41.f5 Qh6  
+42.fxe6 Qe3+ 43.Kh1 Qxe5 44.exf7+ Kh8 45.Qd5 Qe2 46.Qf3 Qe5 47.Ne4 g6 48. 
+Qf6+ Qxf6 49.Rxf6 Kg7 50.Rf1 1-0 
+ 
+[Event "Crikvenica CRO, Closed IM"] 
+[Site "Crikvenica CRO"] 
+[Date "2007.10.15"] 
+[Round "1"] 
+[White "Lovric, Branko"] 
+[Black "Andonov, Bogomil"] 
+[Result "1-0"] 
+[WhiteElo "2322"] 
+[BlackElo "2363"] 
+[ECO "A01"] 
+[EventDate "2007.10.15"] 
+ 
+1.b3 e6 2.Bb2 Nf6 3.e3 Be7 4.g4 O-O 5.g5 Nd5 6.h4 c5 7.Bd3 f5 8.f4 b6 9. 
+Be2 Nc6 10.c4 Nc7 11.Bf3 Bb7 12.Nc3 Kh8 13.h5 d6 14.h6 e5 15.hxg7+ Kxg7  
+16.Nd5 Nxd5 17.Bxd5 Nb4 18.Rxh7+ 1-0 
+ 
+[Event "Oberliga East B 2005/06"] 
+[Site "GER"] 
+[Date "2006.01.29"] 
+[Round "7"] 
+[White "Nothnagel, Holger"] 
+[Black "Gmeiner, Peter"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2309"] 
+[BlackElo "2234"] 
+[ECO "A01"] 
+ 
+1.b3 e6 2.Bb2 Nf6 3.g3 d5 4.c4 c5 5.Bg2 Nc6 6.Nf3 d4 7.O-O Bd6 8.e3 e5 9. 
+exd4 cxd4 10.a3 a5 11.b4 axb4 12.axb4 Rxa1 13.Bxa1 O-O 14.b5 Nb8 15.Qc2 b6 
+16.d3 Nbd7 17.Re1 Qc7 18.Bb2 Bb7 19.Nbd2 Ra8 20.Nb3 h6 21.Ra1 Qb8 22.Qb1  
+Nh7 23.Ra2 Rxa2 24.Qxa2 Nhf8 25.Nfd2 Bxg2 26.Kxg2 Ne6 27.Ne4 Bc5 28.Qa4 f5 
+29.Ned2 Qb7+ 30.f3 Bf8 31.Ba3 Bxa3 32.Qxa3 Ndc5 33.Nxc5 Nxc5 34.Nb3 Nxd3  
+35.Nxd4 Ne1+ 36.Kf2 exd4 37.Kxe1 Qc8 38.Qb3 Qe6+ 39.Kd2 Kf7 40.Qd3 Qe5 41. 
+Qe2 Qc5 42.Kd3 Qa3+ 43.Kxd4 Qc5+ 44.Kd3 Qa3+ 45.Kc2 Qa2+ 46.Kd1 Qb1+ 47. 
+Kd2 Qb4+ 48.Kc1 Qc3+ 49.Kd1 g5 50.g4 f4 51.Qe4 Qa1+ 52.Kd2 Qb2+ 53.Kd3  
+Qa3+ 54.Ke2 Qb2+ 55.Kf1 Qc1+ 56.Kf2 Qd2+ 57.Qe2 Qd4+ 1/2-1/2 
+ 
+[Event "Belgrade Premier League"] 
+[Site "Belgrade SRB"] 
+[Date "2005.10.03"] 
+[Round "3"] 
+[White "Popchev, Milko"] 
+[Black "Mirkovic, Slobodan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2457"] 
+[BlackElo "2372"] 
+[ECO "A01"] 
+[EventDate "2005.10.01"] 
+ 
+1.b3 e6 2.Bb2 Nf6 3.Nf3 b6 4.d4 Bb7 5.e3 Bb4+ 6.Nbd2 Ne4 7.c4 Qf6 8.Qe2  
+Nc3 9.Qd3 Ne4 10.Qe2 Nc3 11.Qd3 Ne4 12.Qe2 Nc3 1/2-1/2 
+ 
+[Event "Open A"] 
+[Site "Pardubice CZE"] 
+[Date "2005.07.24"] 
+[Round "3"] 
+[White "Zurek, Milan"] 
+[Black "Jaracz, Barbara"] 
+[Result "1-0"] 
+[WhiteElo "2403"] 
+[BlackElo "2251"] 
+[ECO "A01"] 
+[EventDate "2005.07.22"] 
+ 
+1.b3 e6 2.Bb2 Nf6 3.e3 d5 4.f4 Be7 5.Nf3 c5 6.Bb5+ Bd7 7.Be2 Nc6 8.O-O O-O 
+9.Ne5 Qc7 10.Bf3 Nxe5 11.Bxe5 Qd8 12.c4 Bc6 13.d3 Rc8 14.Qe2 dxc4 15.dxc4  
+Nd7 16.Bb2 Bf6 17.Bxc6 Bxb2 18.Qxb2 Rxc6 19.Rd1 Qh4 20.Nc3 Nf6 21.Qf2 Qh5  
+22.Qf3 Qh4 23.h3 g5 24.Qf2 Qh5 25.Qg3 g4 26.e4 Qg6 27.e5 Nh5 28.Qxg4 Qxg4  
+29.hxg4 Nxf4 30.Rd7 b6 31.Nb5 Ng6 32.Nxa7 Nxe5 33.Nxc6 Nxd7 34.Kf2 Kg7 35. 
+Rd1 Nf6 36.Kf3 Rc8 37.Ne5 h6 38.a4 Rc7 39.Rd6 Rb7 40.Rd8 Nh7 41.Ke3 Kf6  
+42.Kf4 Ng5 43.Rd1 Kg7 44.Rd7 Rb8 45.Rd6 f6 46.Nc6 Re8 47.Rd7+ Nf7 48.Rb7  
+Kg6 49.Rxb6 e5+ 50.Ke3 Kg5 51.Rb7 Nd6 52.Rd7 Nc8 53.Rg7+ Kh4 54.Rg6 Ne7  
+55.Nxe7 Rxe7 56.Kf3 e4+ 57.Kf4 h5 58.Rh6 1-0 
+ 
+[Event "3. ch-GER Internet Blitz Candidates"] 
+[Site "playchess INT"] 
+[Date "2005.04.02"] 
+[Round "5"] 
+[White "Phildius, Bernhard"] 
+[Black "Drabke, Lorenz Maximilian"] 
+[Result "0-1"] 
+[WhiteElo "2312"] 
+[BlackElo "2456"] 
+[ECO "A01"] 
+[EventDate "2005.04.02"] 
+ 
+1.b3 e6 2.Bb2 Nf6 3.f4 d5 4.Nf3 c5 5.e3 Nc6 6.Bb5 Bd7 7.O-O Be7 8.d3 O-O  
+9.Nbd2 g6 10.Bxc6 Bxc6 11.Ne5 Rc8 12.a4 Nd7 13.Nxc6 Rxc6 14.e4 Bf6 15.e5  
+Bg7 16.Qe2 b6 17.c4 Nb8 18.Nf3 Rc7 19.Rae1 Nc6 20.h4 Rd7 21.h5 Nb4 22.hxg6 
+hxg6 23.Bc1 dxc4 24.dxc4 Qa8 25.Ng5 Nd3 26.Rd1 Rfd8 27.Be3 Bh6 28.Qg4 Bxg5 
+29.Qxg5 Qe4 30.Rf3 Qf5 31.Qh4 Qh5 32.Qxh5 gxh5 33.Bf2 Nxe5 34.Rxd7 Nxf3+  
+35.gxf3 Rxd7 36.Kg2 Rd3 37.Kg3 Rxb3 38.f5 exf5 0-1 

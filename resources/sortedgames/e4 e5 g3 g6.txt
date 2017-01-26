@@ -1,0 +1,14 @@
+ 
+[Event "Bihac BIH, Team Ch 1. League 2014"] 
+[Site "Bihac BIH"] 
+[Date "2014.09.24"] 
+[Round "2"] 
+[White "Tomic, Bosko"] 
+[Black "Nurkic, Sahbaz"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2463"] 
+[BlackElo "2384"] 
+[ECO "C20"] 
+[EventDate "2014.08.23"] 
+ 
+1.e4 e5 2.g3 g6 3.Bg2 Bg7 4.Nf3 Nf6 5.Nc3 Nc6 6.O-O O-O 7.d3 d6 1/2-1/2 

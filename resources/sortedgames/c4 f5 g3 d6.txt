@@ -1,0 +1,63 @@
+ 
+[Event "GER Ch"] 
+[Site "Koenigshofen GER"] 
+[Date "2007.01.26"] 
+[Round "8"] 
+[White "Seuffert, Gabriel"] 
+[Black "Zill, Christoph"] 
+[Result "1-0"] 
+[WhiteElo "2339"] 
+[BlackElo "2305"] 
+[ECO "A10"] 
+[EventDate "2007.01.19"] 
+ 
+1.c4 f5 2.g3 d6 3.Bg2 g6 4.d3 Bg7 5.e4 Nh6 6.Ne2 O-O 7.Nbc3 fxe4 8.dxe4 c6 
+9.f3 Be6 10.b3 Qb6 11.Na4 Qc7 12.Bb2 Bxb2 13.Nxb2 Qa5+ 14.Qd2 Qxd2+ 15. 
+Kxd2 Na6 16.Nd3 Nc7 17.Rac1 a5 18.Nc3 Rad8 19.f4 b5 20.cxb5 Nxb5 21.Nxb5  
+cxb5 22.Rc7 Rd7 23.Rhc1 Rfd8 24.Rxd7 Bxd7 25.Rc7 Ng4 26.h3 Nf6 27.g4 h6  
+28.e5 dxe5 29.fxe5 Ne8 30.Ra7 a4 31.Kc3 axb3 32.axb3 Rc8+ 33.Kb4 Rc7 34. 
+Rxc7 Nxc7 35.Nc5 Bc8 36.Ka5 Kg7 37.Kb6 Ne6 38.Kxb5 Nf4 39.Bf1 h5 40.gxh5  
+gxh5 41.Kc6 Bxh3 42.Bxh3 Nxh3 43.Nd3 Ng5 44.Kd7 e6 45.b4 h4 46.Nf2 Kf7 47. 
+b5 Nf3 48.Kd6 Nd2 49.Kc5 Ke7 50.b6 Nf3 51.Ng4 Kd7 52.Nf6+ Kc8 53.Kd6 h3  
+54.Ng4 Nd4 55.Kc5 Nf5 56.Kc6 Nh6 57.b7+ Kb8 58.Nf6 1-0 
+ 
+[Event "Ch Germany"] 
+[Site "Bad Koenigshofen GER"] 
+[Date "2007.01.26"] 
+[Round "8"] 
+[White "Seuffert, Gabriel"] 
+[Black "Zill, Christoph"] 
+[Result "1-0"] 
+[WhiteElo "2339"] 
+[BlackElo "2305"] 
+[ECO "A10"] 
+ 
+1.c4 f5 2.g3 d6 3.Bg2 g6 4.d3 Bg7 5.e4 Nh6 6.Ne2 O-O 7.Nbc3 fxe4 8.dxe4 c6 
+9.f3 Be6 10.b3 Qb6 11.Na4 Qc7 12.Bb2 Bxb2 13.Nxb2 Qa5+ 14.Qd2 Qxd2+ 15. 
+Kxd2 Na6 16.Nd3 Nc7 17.Rac1 a5 18.Nc3 Rad8 19.f4 b5 20.cxb5 Nxb5 21.Nxb5  
+cxb5 22.Rc7 Rd7 23.Rhc1 Rfd8 24.Rxd7 Bxd7 25.Rc7 Ng4 26.h3 Nf6 27.g4 h6  
+28.e5 dxe5 29.fxe5 Ne8 30.Ra7 a4 31.Kc3 axb3 32.axb3 Rc8+ 33.Kb4 Rc7 34. 
+Rxc7 Nxc7 35.Nc5 Bc8 36.Ka5 Kg7 37.Kb6 Ne6 38.Kxb5 Nf4 39.Bf1 h5 40.gxh5  
+gxh5 41.Kc6 Bxh3 42.Bxh3 Nxh3 43.Nd3 Ng5 44.Kd7 e6 45.b4 h4 46.Nf2 Kf7 47. 
+b5 Nf3 48.Kd6 Nd2 49.Kc5 Ke7 50.b6 Nf3 51.Ng4 Kd7 52.Nf6+ Kc8 53.Kd6 h3  
+54.Ng4 Nd4 55.Kc5 Nf5 56.Kc6 Nh6 57.b7+ Kb8 58.Nf6 1-0 
+ 
+[Event "74. ch-Absoluto"] 
+[Site "Palma de Majorca ESP"] 
+[Date "2009.10.02"] 
+[Round "7"] 
+[White "Teran Alvarez, Ismael"] 
+[Black "Menvielle Laccourreye, Augusto"] 
+[Result "1-0"] 
+[WhiteElo "2432"] 
+[BlackElo "2254"] 
+[ECO "A86"] 
+[EventDate "2009.09.26"] 
+ 
+1.c4 f5 2.g3 d6 3.d4 Nf6 4.Nf3 g6 5.b4 Bg7 6.Bb2 O-O 7.Bg2 Ne4 8.O-O c6 9. 
+Nbd2 Nxd2 10.Qxd2 Nd7 11.d5 Bxb2 12.Qxb2 c5 13.Ng5 Qb6 14.Ne6 Rf6 15.a3 a5 
+16.b5 Ne5 17.f4 Ng4 18.Qc3 Bxe6 19.dxe6 Rff8 20.e4 fxe4 21.Bxe4 Nf6 22.Bf3 
+Rad8 23.Rad1 Ne8 24.Bd5 Nc7 25.h4 Nxd5 26.Rxd5 Rf6 27.Qe3 Rdf8 28.h5 gxh5  
+29.Rxh5 Qd8 30.Qe4 Rg6 31.Kg2 Qc8 32.f5 Rg7 33.g4 b6 34.Kg3 Qa8 35.Qxa8  
+Rxa8 36.Kf4 Rd8 37.Rd1 Kh8 38.g5 Rf8 39.Rdh1 d5 40.cxd5 c4 41.Ke5 c3 42.f6 
+Rxg5+ 43.Rxg5 exf6+ 44.Kd6 1-0 

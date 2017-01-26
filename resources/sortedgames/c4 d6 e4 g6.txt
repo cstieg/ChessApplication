@@ -1,0 +1,53 @@
+ 
+[Event "6. Rabat Blitz Marathon"] 
+[Site "Rabat MAR"] 
+[Date "2015.05.16"] 
+[Round "9.2"] 
+[White "Romero Holmes, Alfonso"] 
+[Black "Mamedyarov, Shakhriyar"] 
+[Result "0-1"] 
+[WhiteElo "2469"] 
+[BlackElo "2735"] 
+[ECO "A42"] 
+[EventDate "2015.05.16"] 
+ 
+1.c4 d6 2.e4 g6 3.d4 Bg7 4.Nc3 Nc6 5.Nge2 Nf6 6.h3 O-O 7.Be3 a6 8.g4 b5 9. 
+g5 Nh5 10.cxb5 axb5 11.Nxb5 Ba6 12.Nec3 e5 13.d5 Nd4 14.h4 f5 15.Nxd4 exd4 
+16.Bxd4 Bxf1 17.Rxf1 fxe4 18.Bxg7 Nxg7 19.Qg4 Nh5 20.O-O-O Nf4 21.Kb1 Qb8  
+22.Rd4 Nd3 23.Qe2 Nc5 24.h5 Qa7 25.Rb4 gxh5 26.Qxh5 Rf7 27.Rh1 Qa6 28.g6  
+Qd3+ 29.Ka1 Rg7 30.gxh7+ Kh8 31.Rd1 Qc2 32.Qe2 Nb3+ 33.Rxb3 Qxb3 34.Qxe4  
+Rxa2+ 35.Kb1 Qxb2# 0-1 
+ 
+[Event "1. Chiuso It"] 
+[Site "Rome ITA"] 
+[Date "2004.03.15"] 
+[Round "11"] 
+[White "Marzano, Carlo"] 
+[Black "Piscopo, Pierluigi"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2228"] 
+[BlackElo "2318"] 
+[ECO "A42"] 
+[EventDate "2004.03.08"] 
+ 
+1.c4 d6 2.e4 g6 3.Nc3 Bg7 4.d4 Nc6 5.d5 Nd4 6.Be3 c5 7.Nge2 Qb6 8.Nxd4  
+cxd4 9.Na4 Qa5+ 10.b4 Qxb4+ 11.Bd2 Qa3 12.h4 h5 13.Bc1 Qb4+ 14.Bd2 Qa3 15. 
+Rh3 Bxh3 16.Bc1 Qb4+ 17.Bd2 Qa3 18.Bc1 Qb4+ 19.Bd2 Bg4 20.f3 Bxf3 21.gxf3  
+Qa3 22.Bc1 1/2-1/2 
+ 
+[Event "Villa Martelli ARG, 56 Aniversario"] 
+[Site "Villa Martelli ARG"] 
+[Date "2010.08.12"] 
+[Round "9.2"] 
+[White "Liascovich, Lucas"] 
+[Black "Guerrero, Alvaro"] 
+[Result "1-0"] 
+[WhiteElo "2427"] 
+[BlackElo "2267"] 
+[ECO "E76"] 
+[EventDate "2010.08.04"] 
+ 
+1.c4 d6 2.e4 g6 3.d4 Bg7 4.Nc3 Nf6 5.f4 O-O 6.Nf3 c5 7.d5 e6 8.dxe6 fxe6  
+9.Bd3 Nc6 10.O-O Nh5 11.Ng5 Bd4+ 12.Kh1 Ng7 13.Bd2 Bf6 14.a3 Bd7 15.Qg4  
+Nd4 16.Nxh7 Kxh7 17.e5 Ngf5 18.exf6 Qxf6 19.Ne4 Qg7 20.Rae1 Rae8 21.Bc3  
+Kg8 22.Ng5 1-0 

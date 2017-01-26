@@ -1,0 +1,42 @@
+ 
+[Event "It (open) \"] 
+[Site "Moscow RUS"] 
+[Date "2006.02.12"] 
+[Round "6"] 
+[White "Kharitonov, Alexandr"] 
+[Black "Kuderinov, Kirill"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2523"] 
+[BlackElo "2442"] 
+[ECO "B00"] 
+ 
+1.d4 a6 2.e4 c5 3.d5 d6 4.c4 Nf6 5.Nc3 e6 6.a4 Be7 7.f4 exd5 8.cxd5 O-O 9. 
+Nf3 Re8 10.Be2 Bf8 11.e5 Ng4 12.h3 Nh6 13.O-O Nf5 14.Re1 Nd4 15.Bc4 Nd7  
+16.e6 Nb6 17.Ba2 fxe6 18.Nxd4 cxd4 19.Qxd4 e5 20.fxe5 dxe5 21.Rxe5 Rxe5  
+22.Qxe5 Bd6 23.Bg5 Qf8 24.Qe2 Bd7 25.Rf1 Qe8 26.Qxe8+ Rxe8 27.Bb3 Nc8 28. 
+Bf4 Bc5+ 29.Kh1 Nd6 30.Rc1 Nf5 31.Bc2 Ne3 32.Bd3 Bd4 33.d6 Bc6 34.Bxe3  
+Rxe3 35.Bc4+ Kf8 36.Bd5 Ke8 37.Rd1 Be5 38.Bxc6+ bxc6 39.d7+ Kd8 40.Kg1  
+Bxc3 41.bxc3 Rxc3 42.Rb1 Rg3 43.Kf2 Rg6 44.Rd1 c5 45.Rd5 Rb6 46.Ke3 c4 47. 
+Kd2 Rg6 48.g4 Rf6 49.Kc3 Rf3+ 50.Kxc4 Rxh3 51.Kc5 Rh4 52.Rg5 g6 53.Kc6 Rh1 
+54.Kb6 Rd1 55.Kxa6 Rd6+ 56.Kb5 h6 57.Re5 Kxd7 58.a5 Kc7 59.a6 Kb8 60.Rc5  
+1/2-1/2 
+ 
+[Event "Wilbert Paige Memorial"] 
+[Site "New York, NY USA"] 
+[Date "2001.07.14"] 
+[Round "1"] 
+[White "Muhammad, S."] 
+[Black "Colding, Ernest"] 
+[Result "1-0"] 
+[WhiteElo "2307"] 
+[BlackElo "2258"] 
+[ECO "B00"] 
+[EventDate "2001.07.14"] 
+ 
+1.d4 a6 2.e4 c5 3.d5 e5 4.a4 d6 5.Ne2 Be7 6.Ng3 Bg5 7.Nd2 Nh6 8.Be2 O-O 9. 
+O-O f5 10.exf5 Nxf5 11.Nge4 Nd4 12.Bd3 Bf5 13.c3 Bxd2 14.Bxd2 Bxe4 15.Bxe4 
+Nf5 16.Qb3 Qe7 17.Rae1 g6 18.f4 Nd7 19.fxe5 Nxe5 20.Bxf5 Rxf5 21.Rxf5 gxf5 
+22.Rf1 Rf8 23.Qc2 Qf6 24.Bf4 Rf7 25.Qf2 Kh8 26.Bxe5 Qxe5 27.Re1 Qg7 28.Re6 
+Rf6 29.Qf4 Qg6 30.Qxd6 Rxe6 31.dxe6 Qf6 32.Qb8+ Kg7 33.Qxb7+ Kh6 34.Qd5  
+Qg5 35.Kf2 Qh4+ 36.Ke2 Qg4+ 37.Ke3 f4+ 38.Kd2 Qg8 39.Qe4 Qg5 40.Kc2 f3 41. 
+gxf3 Qg2+ 42.Kb1 Qf1+ 43.Ka2 1-0 

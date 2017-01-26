@@ -1,0 +1,14 @@
+ 
+[Event "34. Olympiad"] 
+[Site "Istanbul TUR"] 
+[Date "2000.10.29"] 
+[Round "2"] 
+[White "Pavasovic, Dusko"] 
+[Black "Wong, Meng Kong"] 
+[Result "1-0"] 
+[WhiteElo "2523"] 
+[BlackElo "2507"] 
+[ECO "C20"] 
+[EventDate "2000.10.28"] 
+ 
+1.e4 e5 2.b4 a5 3.c3 h5 4.g4 hxg4 1-0 

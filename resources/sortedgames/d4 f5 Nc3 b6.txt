@@ -1,0 +1,19 @@
+ 
+[Event "Open"] 
+[Site "Pilsen CZE"] 
+[Date "2009.12.10"] 
+[Round "7"] 
+[White "Szablowski, Pawel"] 
+[Black "Golcman, Evgeny"] 
+[Result "1-0"] 
+[WhiteElo "2217"] 
+[BlackElo "2290"] 
+[ECO "A80"] 
+[EventDate "2009.12.05"] 
+ 
+1.d4 f5 2.Nc3 b6 3.e4 e6 4.exf5 exf5 5.Qf3 Nc6 6.Be3 g6 7.O-O-O Bg7 8.Re1  
+Kf8 9.h4 Bb7 10.h5 Rb8 11.Qd1 Nh6 12.d5 Ne5 13.Nh3 Nhf7 14.Be2 Nd6 15.f4  
+Nef7 16.g4 fxg4 17.Bxg4 gxh5 18.Bxh5 Qf6 19.Ng5 Re8 20.Bxf7 Rxe3 21.Rxe3  
+h6 22.Nge4 Nxe4 23.Rxe4 Qxf7 24.Rhe1 h5 25.Qe2 Kg8 26.Qd3 Kf8 27.Qe3 Bf6  
+28.Re8+ Kg7 29.Rg1+ Kh7 30.Rxh8+ Kxh8 31.f5 Bg7 32.Qf3 Kh7 33.Rg6 Kg8 34. 
+Qxh5 Kf8 35.Qg5 Be5 36.Qd8+ 1-0 

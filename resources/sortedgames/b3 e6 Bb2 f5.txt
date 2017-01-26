@@ -1,0 +1,29 @@
+ 
+[Event "25. Open"] 
+[Site "Oberwart AUT"] 
+[Date "2003.07.06"] 
+[Round "2"] 
+[White "Madan, Augustin"] 
+[Black "Balinov, Ilia"] 
+[Result "0-1"] 
+[WhiteElo "2257"] 
+[BlackElo "2417"] 
+[ECO "A01"] 
+[EventDate "2003.07.05"] 
+ 
+1.b3 e6 2.Bb2 f5 3.e4 Qh4 4.exf5 Qe4+ 5.Ne2 Qxf5 6.Ng3 Qf7 7.Ne4 Be7 8.h4  
+h6 9.Bd3 d5 10.Ng3 Bf6 11.Nc3 Nc6 12.Qh5 Nge7 13.Qxf7+ Kxf7 14.O-O-O e5  
+15.Nh5 Nb4 16.Nxf6 Nxd3+ 17.cxd3 gxf6 18.f4 d4 19.Ne4 Nd5 20.fxe5 fxe5 21. 
+Rdf1+ Kg7 22.Ba3 b6 23.g3 Bg4 24.Rh2 c5 25.Rhf2 Rhf8 26.Nd6 Rxf2 27.Rxf2  
+Rd8 28.Nc4 Re8 29.Nd6 Rd8 30.Nc4 Re8 31.Nd6 Re7 32.Kb1 Kg8 33.Kc2 Re6 34. 
+Ne4 Kg7 35.Rf1 a5 36.Rf2 Re8 37.Nd6 Rf8 38.Rxf8 Kxf8 39.Nc4 Kg7 40.Nxe5  
+Be2 41.Nd7 Kg6 42.Nxb6 Nxb6 43.Bxc5 Nd5 44.a3 Kf5 45.Bxd4 h5 46.Bc5 Ke6  
+47.Bd4 Ne7 48.Bb6 Nc6 49.Kc3 Kd5 50.Bc7 Kc5 51.a4 Kd5 52.Bb6 Bd1 53.d4 Be2 
+54.d3 Bd1 55.Bc5 Bg4 56.Bb6 Bf5 57.Bc5 Bc8 58.Bb6 Ba6 59.Bc5 Bb7 60.Bb6  
+Bc8 61.Bc5 Be6 62.Bb6 Kd6 63.Bc5+ Kc7 64.Bf8 Bd5 65.Bc5 Kb7 66.Bd6 Kb6 67. 
+Bc5+ Ka6 68.Bd6 Kb6 69.Bc5+ Kc7 70.Bf8 Nd8 71.Be7 Ne6 72.Bf6 Kc6 73.Be5  
+Nd8 74.Bf6 Nf7 75.Be7 Kd7 76.Bf6 Nd6 77.Be5 Bb7 78.Bxd6 Kxd6 79.b4 Kd5 80. 
+bxa5 Ba6 81.Kd2 Kxd4 82.Ke2 Ke5 83.Kf3 Kf5 84.d4 Bb7+ 85.Ke3 Ba6 86.Kf3  
+Bb7+ 87.Ke3 Bd5 88.a6 Kg4 89.Kf2 Kh3 90.a7 Kg4 91.a5 Kh3 92.a6 Kg4 93.Ke2  
+Kxg3 94.Ke3 Kg4 95.Kd3 Kxh4 96.a8=Q Bxa8 97.Kc4 Kg5 98.Kc5 Kf6 99.d5 Ke5  
+100.d6 Ke6 101.Kd4 Kxd6 102.Ke3 Ke5 0-1 

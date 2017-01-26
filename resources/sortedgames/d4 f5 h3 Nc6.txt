@@ -1,0 +1,23 @@
+ 
+[Event "RUS Ch Rapid 2015"] 
+[Site "St Petersburg RUS"] 
+[Date "2015.05.13"] 
+[Round "1.6"] 
+[White "Grachev, Boris"] 
+[Black "Potapov, Pavel"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2666"] 
+[BlackElo "2477"] 
+[ECO "A80"] 
+[EventDate "2015.05.13"] 
+ 
+1.d4 f5 2.h3 Nc6 3.Nf3 d6 4.d5 Ne5 5.Nxe5 dxe5 6.e4 Nf6 7.Nc3 e6 8.Bb5+  
+Bd7 9.Bxd7+ Qxd7 10.dxe6 Qxd1+ 11.Kxd1 O-O-O+ 12.Ke2 Nxe4 13.Nxe4 fxe4 14. 
+Bg5 Re8 15.Rad1 Bd6 16.e7 Bxe7 17.Bxe7 Rxe7 18.Ke3 Rf8 19.Rhe1 Rd7 20.Rxd7 
+Kxd7 21.Rd1+ Ke6 22.Rd2 a5 23.Kxe4 b5 24.g3 c6 25.h4 g6 26.f3 a4 27.Rd3  
+Ra8 28.a3 Rb8 29.b4 axb3 30.cxb3 Ra8 31.b4 Rf8 32.Rc3 Kd6 33.Rc1 Ra8 34. 
+Rd1+ Ke6 35.Rd3 Rf8 36.Rc3 Kd6 37.Re3 Re8 38.Rd3+ Ke6 39.Rc3 Kd6 40.Rd3+  
+Ke6 41.f4 exf4 42.Kxf4 Rf8+ 43.Kg5 Rf5+ 44.Kh6 Rf7 45.g4 Ke5 46.Rc3 Rc7  
+47.Rf3 Ra7 48.g5 Kd5 49.Rc3 Kd6 50.Rf3 Kd5 51.Re3 c5 52.bxc5 Kxc5 53.Rc3+  
+Kd4 54.Rb3 Kc4 55.Rb4+ Kc5 56.Rf4 Rxa3 57.Kxh7 Ra6 58.Kh6 Ra4 59.Rxa4 bxa4 
+60.h5 gxh5 61.g6 a3 62.g7 a2 1/2-1/2 

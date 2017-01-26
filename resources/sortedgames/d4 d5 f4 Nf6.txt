@@ -1,0 +1,78 @@
+ 
+[Event "American Continental 2014"] 
+[Site "Praia da Pipa BRA"] 
+[Date "2014.10.22"] 
+[Round "6.23"] 
+[White "Abarca Gonzalez, Nicolas"] 
+[Black "Brito, Luismar"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2328"] 
+[BlackElo "2261"] 
+[ECO "D00"] 
+[EventDate "2014.10.18"] 
+ 
+1.d4 d5 2.f4 Nf6 3.Nf3 Nbd7 4.e3 g6 5.Bd3 Bg7 6.Nbd2 e6 7.O-O Ng4 8.Qe2 f5 
+9.Ng5 Ndf6 10.h3 Nh6 11.Ndf3 Nh5 12.Kh2 Qd6 13.Bd2 Nf6 14.c4 c6 15.Qe1 Ne4 
+16.Bb4 Qc7 17.Rc1 Bf6 18.Bxe4 Bxg5 1/2-1/2 
+ 
+[Event "Subotica SRB, Closed IM Nov 2010"] 
+[Site "Subotica SRB"] 
+[Date "2010.11.03"] 
+[Round "5"] 
+[White "Vasiljev, Dusan"] 
+[Black "Krivokapic, Marko"] 
+[Result "0-1"] 
+[WhiteElo "2224"] 
+[BlackElo "2417"] 
+[ECO "D00"] 
+[EventDate "2010.10.30"] 
+ 
+1.d4 d5 2.f4 Nf6 3.Nf3 Bf5 4.e3 e6 5.Bd3 Nbd7 6.O-O Ne4 7.Qe1 Be7 8.Nc3  
+Nxc3 9.Qxc3 O-O 10.b3 Nf6 11.Qe1 a5 12.a4 c5 13.Qe2 Qb6 14.Ba3 Rfe8 15.Bb5 
+Rec8 16.c4 dxc4 17.Bxc4 Rc7 18.Bb2 Ne4 19.d5 exd5 20.Bxd5 Rd8 21.Rad1 Rcd7 
+22.Qc4 Be6 23.Bxe6 Qxe6 24.Rxd7 Rxd7 25.Qxe6 fxe6 26.Rc1 Rd3 27.h3 Rxb3  
+28.Be5 Bf6 29.Rd1 c4 30.Rd7 Rxe3 31.Rc7 c3 32.Rxb7 c2 33.Rc7 Rc3 0-1 
+ 
+[Event "TCh-ISR"] 
+[Site "Israel ISR"] 
+[Date "2010.02.05"] 
+[Round "3"] 
+[White "Belytsky, Alexandr"] 
+[Black "Porat, David"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2323"] 
+[BlackElo "2240"] 
+[ECO "D00"] 
+[EventDate "2010.01.29"] 
+ 
+1.d4 d5 2.f4 Nf6 3.Nf3 g6 4.e3 Bg7 5.Bd3 O-O 6.O-O Bf5 7.Qe2 Nbd7 8.Nbd2  
+c5 9.c3 c4 10.Bb1 b5 11.e4 dxe4 12.Nxe4 Nxe4 13.Bxe4 Bxe4 14.Qxe4 Nf6 15. 
+Qe2 e6 16.Bd2 Nd5 17.Ne5 Qc7 18.h4 Rfe8 19.h5 f6 20.Ng4 gxh5 21.Nf2 f5 22. 
+Nh3 Qf7 23.a4 a6 24.axb5 axb5 25.Rxa8 Rxa8 26.Ng5 Qg6 27.Qxe6+ Qxe6 28. 
+Nxe6 Bf6 29.Nc5 Ra2 30.Rb1 b4 31.Nd7 b3 32.Ne5 Bxe5 33.fxe5 Kf7 34.Kh2 f4  
+35.Bxf4 Nxf4 36.Rf1 Rxb2 37.Rxf4+ Ke7 38.d5 Rd2 39.d6+ Ke6 40.Rxc4 Kxe5  
+41.Rb4 b2 42.d7 Rxd7 43.Rxb2 Rc7 44.Re2+ Kf4 45.Rc2 Ke3 46.Kh3 Kd3 47.Rf2  
+Kxc3 48.Kh4 Kd4 49.Kxh5 Ke3 50.Rf8 Rg7 51.g4 Ke4 52.Rf5 Ke3 53.g5 Ke4 54. 
+Rf6 Ke5 55.Kh6 Ra7 56.Rf8 Rb7 1/2-1/2 
+ 
+[Event "Politiken Cup"] 
+[Site "Copenhagen DEN"] 
+[Date "2004.07.29"] 
+[Round "7"] 
+[White "Peschardt, Soren"] 
+[Black "Holm, Sejer"] 
+[Result "1-0"] 
+[WhiteElo "2200"] 
+[BlackElo "2296"] 
+[ECO "D00"] 
+[EventDate "2004.07.24"] 
+ 
+1.d4 d5 2.f4 Nf6 3.Nf3 g6 4.e3 Bg7 5.Bd3 O-O 6.O-O c5 7.c3 b6 8.Qe2 Bb7 9. 
+Nbd2 Nbd7 10.b3 Ne4 11.Bxe4 dxe4 12.Ng5 Nf6 13.Bb2 h6 14.Nh3 Ne8 15.Rfd1  
+Nd6 16.Nf1 c4 17.Nf2 f5 18.a4 cxb3 19.Ba3 Rc8 20.Bxd6 exd6 21.Qb2 Bd5 22. 
+Nd2 Qc7 23.Rdc1 Qf7 24.Ra3 g5 25.Nh3 g4 26.Nf2 Rc7 27.Nxb3 Bxb3 28.Qxb3  
+Rfc8 29.Nd1 Bf8 30.a5 d5 31.Ra4 Rb8 32.axb6 axb6 33.Qb5 Qe6 34.Ra6 Rc6 35. 
+Nb2 Rbc8 36.Na4 Rb8 37.Kf2 Be7 38.Ke2 Bd8 39.Nb2 Qd6 40.c4 Rbc8 41.Ra7  
+R8c7 42.Rxc7 Rxc7 43.c5 bxc5 44.Rxc5 Rxc5 45.dxc5 Qf6 46.c6 Kg7 47.Qb7+  
+Kg6 48.Nd1 Qa1 49.c7 Qa2+ 50.Nb2 Bxc7 51.Qc6+ Kh5 52.Qe8+ Kh4 53.Qe7+ Kh5  
+54.Qf7+ Kh4 55.Qf6+ Kh5 56.g3 1-0 

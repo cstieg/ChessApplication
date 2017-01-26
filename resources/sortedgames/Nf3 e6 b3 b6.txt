@@ -1,0 +1,115 @@
+ 
+[Event "1. Salinello Open 2015"] 
+[Site "Tortoreto ITA"] 
+[Date "2015.05.31"] 
+[Round "7.7"] 
+[White "De Santis, Alessio"] 
+[Black "Garcia Palermo, Carlos"] 
+[Result "0-1"] 
+[WhiteElo "2267"] 
+[BlackElo "2427"] 
+[ECO "A04"] 
+[EventDate "2015.05.26"] 
+ 
+1.Nf3 e6 2.b3 b6 3.g3 Bb7 4.Bg2 Nf6 5.Bb2 Be7 6.O-O O-O 7.d4 c5 8.c4 cxd4  
+9.Nxd4 Bxg2 10.Kxg2 d5 11.Nd2 Qd7 12.cxd5 Qxd5+ 13.N2f3 Nbd7 14.Rc1 Rfc8  
+15.Nc6 Bc5 16.Qxd5 Nxd5 17.e4 N5f6 18.Rxc5 Nxc5 19.Ne7+ Kf8 20.Nxc8 Rxc8  
+21.Rc1 Rd8 22.e5 Nfe4 23.Ba3 Ke8 24.Rc4 a5 25.b4 b5 26.Rd4 Rxd4 27.Nxd4  
+axb4 28.Bxb4 Nd3 29.a3 Nexf2 30.Ba5 Ng4 31.Nxb5 Ngxe5 32.Bc3 Kd7 33.Nd4  
+Nc4 34.Nc2 g5 35.h3 h5 36.Bf6 g4 37.hxg4 hxg4 38.Kf1 Nc5 39.Bc3 f5 40.Ke2  
+Kc6 41.Be1 Kd5 42.Nb4+ Ke4 43.Nc2 e5 44.Bf2 Na4 45.Ba7 Nc3+ 46.Kf2 Kd3 47. 
+Nb4+ Kd2 48.Bb8 e4 49.Bf4+ e3+ 50.Kg2 Kd1 51.Bxe3 Nxe3+ 52.Kf2 Nc4 53.Nc6  
+Ne4+ 54.Kg2 Nxa3 55.Nd4 Nd6 56.Ne6 Nac4 57.Nd4 Kd2 58.Ne6 Ne3+ 59.Kh2 Ke2  
+60.Nf4+ Kf1 61.Nd3 Ne4 62.Nf4 Ng5 63.Nd3 Nf3+ 64.Kh1 Nd1 0-1 
+ 
+[Event "Copper State Int A"] 
+[Site "Mesa USA"] 
+[Date "2010.06.04"] 
+[Round "2"] 
+[White "Andrianov, Nikolai"] 
+[Black "Stopa, Jacek"] 
+[Result "1-0"] 
+[WhiteElo "2409"] 
+[BlackElo "2474"] 
+[ECO "A04"] 
+[EventDate "2010.06.04"] 
+ 
+1.Nf3 e6 2.b3 b6 3.g3 Bb7 4.Bg2 f5 5.Bb2 Nf6 6.O-O Be7 7.d4 O-O 8.c4 Qe8  
+9.Nc3 Ne4 10.d5 Na6 11.Nd4 Qg6 12.Nxe4 fxe4 13.dxe6 c5 14.Nf5 Qxe6 15.Nxg7 
+Qc6 16.Nh5 Bg5 17.h4 Be7 18.e3 Rf7 19.Qd2 h6 20.Rad1 Rd8 21.Qc3 Kh7 22.Rd5 
+Qe6 23.Nf4 1-0 
+ 
+[Event "Jch-RUS b20"] 
+[Site "Essentuki RUS"] 
+[Date "2003.03.08"] 
+[Round "6"] 
+[White "Panchenko, Dmitry"] 
+[Black "Janturin, Artur"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2351"] 
+[BlackElo "2411"] 
+[ECO "A04"] 
+[EventDate "2003.03.02"] 
+ 
+1.Nf3 e6 2.b3 b6 3.Bb2 Bb7 4.g3 f5 5.Bg2 Nf6 6.O-O Be7 7.d3 O-O 8.Nbd2 Qe8 
+9.e4 fxe4 10.Ng5 Qh5 11.Ndxe4 Qxd1 12.Raxd1 Nc6 13.d4 b5 14.Rfe1 Na5 15.f4 
+Nxe4 16.Nxe4 Bd5 17.Nd2 Bxg2 18.Kxg2 Bf6 19.Ne4 Rad8 20.Ba3 Rfe8 21.d5 Nb7 
+22.dxe6 Rxe6 23.f5 Rc6 24.Nxf6+ gxf6 25.Be7 Re8 26.Rxd7 Rxc2+ 27.Kh3 Nd6  
+28.Rf1 Ne4 29.Rf4 Ng5+ 30.Kg4 Rxh2 31.Bxf6 Nf7 32.Rxc7 h5+ 33.Kf3 Ree2 34. 
+g4 Rhf2+ 35.Kg3 Rg2+ 36.Kf3 Rgf2+ 1/2-1/2 
+ 
+[Event "TCh-NOR Qualifier"] 
+[Site "NOR"] 
+[Date "2002.??.??"] 
+[Round "4"] 
+[White "Johannessen, Svein"] 
+[Black "Christenson, Flemming"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2265"] 
+[BlackElo "2230"] 
+[ECO "A04"] 
+[EventDate "2001.11.??"] 
+ 
+1.Nf3 e6 2.b3 b6 3.g3 Bb7 4.Bg2 Nf6 5.O-O Be7 6.Bb2 O-O 7.d3 c5 8.e4 d6 9. 
+Nbd2 Nc6 10.Re1 Nd7 11.d4 cxd4 12.Nxd4 Nxd4 13.Bxd4 Rc8 14.Nc4 Qc7 15.a4  
+Ne5 16.Ne3 Rfd8 17.Qe2 Bf6 18.Rad1 Nd7 19.c4 Bxd4 20.Rxd4 Nc5 21.Qc2 a5  
+22.Red1 Rd7 23.h4 Bc6 24.Kh2 Rcd8 25.Bh3 Re7 26.Bg2 Ree8 27.e5 Bxg2 28. 
+exd6 Qc6 29.Nxg2 Rd7 30.Qc3 Red8 31.Rg4 f5 32.Rgd4 Rxd6 33.Nf4 Ne4 34.Qe3  
+Kf7 35.Nd3 Kg8 36.Ne5 Qc5 37.Rxd6 Rxd6 38.Qxc5 bxc5 39.Rxd6 Nxd6 40.Nd3  
+Nb7 41.Kg2 Kf7 42.Kf3 Kf6 43.Kf4 g6 44.Ne5 h6 1/2-1/2 
+ 
+[Event "Le Touquet IM"] 
+[Site "Le Touquet"] 
+[Date "2000.10.30"] 
+[Round "3"] 
+[White "Mancini, Mario"] 
+[Black "Jossien, Arnaud"] 
+[Result "0-1"] 
+[WhiteElo "2329"] 
+[BlackElo "2304"] 
+[ECO "A04"] 
+ 
+1.Nf3 e6 2.b3 b6 3.Bb2 Bb7 4.e3 f5 5.Be2 Nf6 6.O-O Be7 7.c4 O-O 8.Nc3 Ne4  
+9.Nd4 c5 10.Ndb5 a6 11.Na3 Bf6 12.Nab1 d5 13.cxd5 exd5 14.d4 Kh8 15.f3  
+cxd4 16.exd4 Nxc3 17.Nxc3 b5 18.a4 b4 19.Na2 Nc6 20.Qd2 Re8 21.Rf2 Qb6 22. 
+Rd1 Re6 23.Bf1 Rae8 24.Qf4 Re3 25.Rfd2 Rxb3 26.Nc1 Rxb2 27.Rxb2 Bxd4+ 28. 
+Rxd4 Nxd4 29.Kh1 h6 30.Nd3 a5 31.h4 Qf6 32.Rd2 Ba6 33.Kg1 Ne6 34.Qd6 Qd4+  
+35.Rf2 Bxd3 36.Bxd3 Nf4 37.Bxf5 Ne2+ 0-1 
+ 
+[Event "Nationale I 2008/09"] 
+[Site "FRA"] 
+[Date "2009.04.04"] 
+[Round "10.5"] 
+[White "Collas, Silvia"] 
+[Black "Heinz, Timothee"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2316"] 
+[BlackElo "2303"] 
+[ECO "E14"] 
+[EventDate "2008.12.13"] 
+ 
+1.Nf3 e6 2.b3 b6 3.Bb2 Bb7 4.e3 Nf6 5.d4 c5 6.Bd3 Be7 7.O-O O-O 8.c4 cxd4  
+9.exd4 d5 10.Nc3 Nc6 11.Rc1 Rc8 12.Qe2 Qd6 13.c5 Qb8 14.cxb6 axb6 15.Na4  
+Nd7 16.Bb5 Qa7 17.Rc3 Ncb8 18.Rfc1 Rxc3 19.Nxc3 Rc8 20.Rc2 Bf8 21.Bd3 Ba6  
+22.h4 Bxd3 23.Qxd3 Qc7 24.Re2 Nf6 25.Nb5 Qd8 26.Na7 Rc7 27.Nb5 Rc8 28.Na7  
+Rc7 29.Nb5 1/2-1/2 

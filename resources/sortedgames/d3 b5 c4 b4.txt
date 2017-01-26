@@ -1,0 +1,14 @@
+ 
+[Event "Open"] 
+[Site "Pula CRO"] 
+[Date "2002.05.17"] 
+[Round "7"] 
+[White "Zelcic, Robert"] 
+[Black "Palac, Mladen"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2547"] 
+[BlackElo "2574"] 
+[ECO "A00"] 
+[EventDate "2002.05.12"] 
+ 
+1.d3 b5 2.c4 b4 3.Nf3 Bb7 4.e3 e6 5.Be2 g5 6.e4 g4 7.Nfd2 f5 1/2-1/2 

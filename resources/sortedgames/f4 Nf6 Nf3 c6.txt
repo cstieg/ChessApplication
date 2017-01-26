@@ -1,0 +1,23 @@
+ 
+[Event "RUS Ch Blitz 2015"] 
+[Site "St Petersburg RUS"] 
+[Date "2015.05.15"] 
+[Round "7.10"] 
+[White "Bocharov, Ivan"] 
+[Black "Dzhumagaliev, Yan"] 
+[Result "0-1"] 
+[WhiteElo "2489"] 
+[BlackElo "2424"] 
+[ECO "A02"] 
+[EventDate "2015.05.15"] 
+ 
+1.f4 Nf6 2.Nf3 c6 3.g3 d5 4.Bg2 Qb6 5.d4 Bf5 6.O-O e6 7.e3 c5 8.c3 Nc6 9. 
+Qb3 Be7 10.Nbd2 O-O 11.Ne5 Rfd8 12.h3 Ne4 13.g4 Nxd2 14.Bxd2 Qxb3 15.axb3  
+Bc2 16.Nxc6 bxc6 17.Ra6 Bd3 18.Rxc6 Bxf1 19.Bxf1 cxd4 20.exd4 a5 21.Bb5  
+Rdc8 22.Kf2 Rxc6 23.Bxc6 Rb8 24.Ba4 Bd6 25.Ke2 Kf8 26.Kd3 Ke7 27.Kc2 f6  
+28.c4 Bb4 29.Be3 h5 30.g5 fxg5 31.fxg5 Rf8 32.c5 Rf3 33.Bc1 Rxh3 34.Bf4  
+Rf3 35.Bd6+ Kd8 36.Be5 g6 37.c6 Ke7 38.Bf6+ Rxf6 39.gxf6+ Kd6 40.c7 Kxc7  
+41.Be8 h4 42.Bxg6 h3 43.Bh5 h2 44.Bf3 Kd6 45.Kd3 Be1 46.Ke2 Bh4 47.f7 Ke7  
+48.Kf1 Kxf7 49.Kg2 Bf6 50.Kxh2 Bxd4 51.Kg2 Bxb2 52.Kf2 Kf6 53.Ke3 Ke5 54. 
+Bg4 Bd4+ 55.Kd3 Bc5 56.Bh3 Kd6 57.Kc3 e5 58.Bc8 e4 59.Bb7 Ke5 60.Ba8 Bb4+  
+61.Kc2 d4 62.Bb7 d3+ 63.Kd1 Kd4 0-1 

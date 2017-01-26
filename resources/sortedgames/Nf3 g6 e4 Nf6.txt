@@ -1,0 +1,394 @@
+ 
+[Event "SportAccord Blitz 2014"] 
+[Site "Beijing CHN"] 
+[Date "2014.12.13"] 
+[Round "8.2"] 
+[White "Aronian, Levon"] 
+[Black "Nepomniachtchi, Ian"] 
+[Result "1-0"] 
+[WhiteElo "2797"] 
+[BlackElo "2714"] 
+[ECO "A04"] 
+[EventDate "2014.12.13"] 
+ 
+1.Nf3 g6 2.e4 Nf6 3.Nc3 d5 4.e5 Ne4 5.Ne2 Bg4 6.h3 Bxf3 7.gxf3 Ng5 8.Nd4  
+Nc6 9.Nxc6 bxc6 10.h4 Ne6 11.h5 d4 12.hxg6 fxg6 13.Bc4 Qd7 14.d3 Bg7 15.f4 
+O-O-O 16.c3 Rdf8 17.Qb3 Nc5 18.Qb4 1-0 
+ 
+[Event "SportAccord Blitz 2014"] 
+[Site "Beijing CHN"] 
+[Date "2014.12.13"] 
+[Round "14.4"] 
+[White "Wang, Hao"] 
+[Black "Nepomniachtchi, Ian"] 
+[Result "0-1"] 
+[WhiteElo "2710"] 
+[BlackElo "2714"] 
+[ECO "A04"] 
+[EventDate "2014.12.13"] 
+ 
+1.Nf3 g6 2.e4 Nf6 3.e5 Nh5 4.d4 d6 5.Be2 Nc6 6.exd6 exd6 7.O-O Bg7 8.c3  
+O-O 9.Re1 h6 10.Nbd2 a5 11.a4 Ne7 12.Bf1 b6 13.Ne4 Nd5 14.Ng3 Nhf6 15.Bd2  
+Bb7 16.c4 Nb4 17.d5 Qd7 18.Bc3 Na6 19.b3 Nc5 20.Qc2 Rae8 21.h3 Qd8 22.Qb2  
+Bc8 23.b4 axb4 24.Qxb4 Nfd7 25.Bxg7 Kxg7 26.a5 Qf6 27.axb6 Nxb6 28.Red1  
+Bxh3 29.Ra7 Bg4 30.Rxc7 Bxf3 31.gxf3 Nbd7 32.Bg2 Ne5 33.Qc3 Rb8 34.Ne4  
+Nxe4 35.fxe4 Rfc8 36.Rxc8 Rxc8 37.Qg3 g5 38.Bh3 Rxc4 39.Bf5 Ng6 40.Bxg6  
+Kxg6 41.Qd3 Rc3 42.Qe2 Qe5 43.Kg2 h5 44.Rh1 h4 45.Qg4 Kf6 46.Re1 h3+ 47. 
+Kh1 Qf4 48.Qxf4+ gxf4 49.Kh2 Ke5 50.Re2 Rd3 51.Re1 Rd2 52.Kxh3 Rxf2 53.Kg4 
+Rg2+ 54.Kf3 Rg3+ 55.Kf2 Rd3 56.Re2 f3 57.Re1 0-1 
+ 
+[Event "SportAccord Blitz 2014"] 
+[Site "Beijing CHN"] 
+[Date "2014.12.13"] 
+[Round "24.6"] 
+[White "Gelfand, Boris"] 
+[Black "Nepomniachtchi, Ian"] 
+[Result "0-1"] 
+[WhiteElo "2743"] 
+[BlackElo "2714"] 
+[ECO "A04"] 
+[EventDate "2014.12.13"] 
+ 
+1.Nf3 g6 2.e4 Nf6 3.e5 Nh5 4.d4 d6 5.Bb5+ c6 6.Be2 Bg7 7.O-O O-O 8.Nc3  
+dxe5 9.Nxe5 Nf6 10.Bg5 Nbd7 11.Qc1 Nb6 12.Rd1 Be6 13.Bh6 Nbd5 14.Nxd5 cxd5 
+15.Bxg7 Kxg7 16.Qe3 Rc8 17.Qb3 Qd6 18.Re1 Rc7 19.Rad1 Rfc8 20.c3 Nd7 21. 
+Nf3 f6 22.Qc2 Bf7 23.Bb5 Nf8 24.Re3 a6 25.Bd3 b5 26.Qd2 Rb8 27.Rde1 a5 28. 
+Qe2 b4 29.Rxe7 bxc3 30.bxc3 Rxc3 31.Ra7 Rc7 32.Rxa5 Re8 33.Qd2 Rxe1+ 34. 
+Qxe1 Qf4 35.Rc5 Ra7 36.Rc2 Ne6 37.Qe3 Qd6 38.g3 Ra3 39.Qd2 Qb6 40.Rc3 Ra4  
+41.Rb3 Qa7 42.Bb1 Nxd4 43.Nxd4 Rxd4 44.Qb2 Rd1+ 45.Kg2 Qa6 46.Rb6 Qf1+ 47. 
+Kf3 d4 48.Bc2 Bd5+ 0-1 
+ 
+[Event "67. ch-RUS 2014"] 
+[Site "Kazan RUS"] 
+[Date "2014.12.01"] 
+[Round "4.4"] 
+[White "Khismatullin, Denis"] 
+[Black "Svidler, Peter"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2679"] 
+[BlackElo "2743"] 
+[ECO "A04"] 
+[EventDate "2014.11.28"] 
+ 
+1.Nf3 g6 2.e4 Nf6 3.e5 Nh5 4.d4 d6 5.Be2 Nc6 6.exd6 exd6 7.O-O Bg7 8.Nc3  
+O-O 9.Bg5 Bf6 10.Bh6 Bg7 11.Bg5 Bf6 12.Bh6 Bg7 13.Qd2 d5 14.Rfe1 Ne7 15. 
+Bd3 c6 16.h3 Bxh6 17.Qxh6 Kh8 18.Ng5 Nf6 19.Qh4 Neg8 20.Ne2 Kg7 21.Nf4 Bd7 
+22.Re5 Qb6 23.Rae1 Rae8 24.b3 Qd8 25.Qg3 Re7 26.h4 Ng4 27.Nge6+ Bxe6 28. 
+Nxe6+ Rxe6 29.Rxe6 fxe6 30.Qxg4 Qf6 31.Re2 Nh6 32.Qxe6 Qxd4 33.g3 Ng4 34. 
+c3 Qxd3 35.Qxg4 Qxc3 36.Re7+ Rf7 37.Rxf7+ Kxf7 38.Qd7+ Kf6 39.Qd6+ Kf7 40. 
+Qd7+ Kf6 41.Qd6+ Kf7 1/2-1/2 
+ 
+[Event "Tal Memorial Blitz 2014"] 
+[Site "Sochi RUS"] 
+[Date "2014.11.13"] 
+[Round "5.2"] 
+[White "Svidler, Peter"] 
+[Black "Nepomniachtchi, Ian"] 
+[Result "1-0"] 
+[WhiteElo "2743"] 
+[BlackElo "2714"] 
+[ECO "A04"] 
+[EventDate "2014.11.13"] 
+ 
+1.Nf3 g6 2.e4 Nf6 3.e5 Nh5 4.d4 d6 5.exd6 Qxd6 6.Nc3 Bg7 7.h3 O-O 8.Be3 a6 
+9.Qd2 Nc6 10.Rd1 Rd8 11.Be2 Qb4 12.Qc1 e5 13.a3 Qf8 14.Nxe5 Nxe5 15.dxe5  
+Bxe5 16.Bxh5 gxh5 17.O-O Bf5 18.Bh6 Bg7 19.Qg5 Bg6 20.Bxg7 Kxg7 21.Nd5 f6  
+22.Qg3 Qf7 23.Nf4 Kh8 24.c3 Re8 25.Kh2 Re5 26.Rfe1 Rae8 27.Rxe5 fxe5 28. 
+Nd5 c6 29.Ne3 Qf4 30.Kg1 Re7 31.Nf1 Kg7 32.Qe3 Rf7 33.Re1 Kg8 34.f3 e4 35. 
+fxe4 Qxe3+ 36.Rxe3 Rd7 37.Re2 Kf7 38.Kf2 Rd1 39.Ne3 Rb1 40.Nc4 Ke6 41.Na5  
+Rd1 42.Nxb7 Ke5 43.Nc5 a5 44.Ke3 Rb1 45.Nd3+ Ke6 46.Kd4 Rd1 47.b4 Ra1 48. 
+bxa5 Rxa3 49.Nc5+ Kd6 50.e5+ Kc7 51.a6 Ra1 52.Rb2 Rd1+ 53.Kc4 Kd8 54.a7  
+Ra1 55.Rb8+ 1-0 
+ 
+[Event "FIDE World Blitz 2014"] 
+[Site "Dubai UAE"] 
+[Date "2014.06.20"] 
+[Round "20.2"] 
+[White "Aronian, Levon"] 
+[Black "Nepomniachtchi, Ian"] 
+[Result "1-0"] 
+[WhiteElo "2815"] 
+[BlackElo "2730"] 
+[ECO "A04"] 
+[EventDate "2014.06.19"] 
+ 
+1.Nf3 g6 2.e4 Nf6 3.e5 Nh5 4.d4 d6 5.Be2 Nc6 6.exd6 exd6 7.O-O Bg7 8.Bg5  
+Nf6 9.d5 Ne7 10.Bb5+ Bd7 11.Bxd7+ Qxd7 12.c4 O-O 13.Nc3 h6 14.Bd2 a6 15.a4 
+Rae8 16.a5 Nf5 17.Qb3 Qc8 18.Rae1 Rxe1 19.Rxe1 Re8 20.Rxe8+ Nxe8 21.Ne4  
+Nf6 22.Nxf6+ Bxf6 23.h3 h5 24.Bc3 Bxc3 25.Qxc3 Qd8 26.Qb4 Qa8 27.b3 Qa7  
+28.Qc3 Qb8 29.Qe1 Qd8 30.Qb4 Qc8 31.g3 c5 32.Qe1 Qd8 33.Kg2 Kg7 34.h4 Nd4  
+35.Nxd4 cxd4 36.Qd2 Qf6 37.f4 Kg8 38.Kf3 Qf5 39.Qxd4 Qb1 40.Qc3 Qf1+ 41. 
+Ke3 Qg1+ 42.Kd2 Qb1 43.b4 Qa2+ 44.Kc1 Kf8 45.Kd1 Qb1+ 46.Kd2 Qa2+ 47.Qc2  
+Qa1 48.Qc3 Qa2+ 49.Kc1 Ke7 50.Qe3+ Kf8 51.Qc3 Ke7 52.Qe1+ Kf8 53.Qc3 Ke7  
+54.Kd1 Kf8 55.Ke1 Qb1+ 56.Ke2 Qa2+ 57.Kf3 Qb1 58.Kf2 Qa2+ 59.Ke3 Qg2 60. 
+Qe1 Qc2 61.Kd4 Qb2+ 62.Kd3 Qb3+ 63.Qc3 Qd1+ 64.Ke3 Qg1+ 65.Ke2 Qg2+ 66.Kd1 
+Qa2 67.Kc1 Ke7 68.b5 axb5 69.cxb5 Qxd5 70.a6 bxa6 71.bxa6 Qg2 72.Qc7+ Kf8  
+73.a7 Qf1+ 74.Kb2 1-0 
+ 
+[Event "FIDE World Rapid 2014"] 
+[Site "Dubai UAE"] 
+[Date "2014.06.17"] 
+[Round "9.41"] 
+[White "Anton Guijarro, David"] 
+[Black "Vakhidov, Jahongir"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2631"] 
+[BlackElo "2471"] 
+[ECO "A04"] 
+[EventDate "2014.06.16"] 
+ 
+1.Nf3 g6 2.e4 Nf6 3.e5 Nh5 4.d4 d6 5.Be2 Nc6 6.exd6 exd6 7.O-O Bg7 8.c3  
+O-O 9.Bg5 Nf6 10.Nbd2 h6 11.Bh4 Ne7 12.Re1 Nf5 13.Bxf6 Bxf6 14.Qb3 c6 15. 
+Bd3 Qc7 16.d5 c5 17.a4 Bd7 18.Bb5 Rfe8 19.Bxd7 Qxd7 20.Qb5 Rxe1+ 21.Nxe1  
+Qc7 22.Nef3 a6 23.Qc4 Re8 24.Ne4 Bg7 25.Re1 Qd7 26.h3 b5 27.axb5 axb5 28. 
+Qa2 Ne7 29.Rd1 f5 30.Ng3 Kh7 31.Qa6 Rb8 32.h4 b4 33.h5 g5 34.Qc4 f4 35.Ne4 
+Kh8 36.Re1 Nf5 37.Qd3 Qf7 38.cxb4 cxb4 39.Nexg5 hxg5 40.Nxg5 Qf6 41.Nh3  
+Nd4 42.Re4 f3 43.Nf4 Ne2+ 44.Nxe2 fxe2 45.Qxe2 b3 46.Re6 Qg5 47.g3 Qxd5  
+48.Qg4 Rf8 49.Re2 Qd4 50.Qxd4 Bxd4 51.Kg2 Rc8 52.Rd2 Be5 53.Rd3 Rb8 54.Rd2 
+d5 55.f4 Bg7 56.Kf3 d4 57.g4 Re8 58.g5 Re3+ 59.Kg4 d3 60.h6 Bd4 61.g6 Kg8  
+62.Kf5 Rh3 63.Ke4 Bf6 64.Kf5 Bd4 65.Ke4 Bf6 66.Kf5 Bd4 67.Ke4 1/2-1/2 
+ 
+[Event "SportAccord Blitz Men 2013"] 
+[Site "Beijing CHN"] 
+[Date "2013.12.14"] 
+[Round "8.6"] 
+[White "Wang, Hao"] 
+[Black "Nepomniachtchi, Ian"] 
+[Result "0-1"] 
+[WhiteElo "2735"] 
+[BlackElo "2721"] 
+[ECO "A04"] 
+[EventDate "2013.12.14"] 
+ 
+1.Nf3 g6 2.e4 Nf6 3.e5 Nh5 4.Be2 d6 5.d4 Nc6 6.O-O Bg7 7.exd6 exd6 8.Re1  
+O-O 9.c3 a5 10.a4 Ne7 11.Bf1 h6 12.Na3 b6 13.d5 Nf6 14.c4 Nd7 15.Nb5 Nc5  
+16.Nfd4 Bb7 17.Be3 Kh7 18.g3 Qd7 19.Bg2 Rae8 20.Qc2 Ng8 21.Nc6 Na6 22.Re2  
+Nf6 23.h3 Bxc6 24.dxc6 Qd8 25.Rae1 Nb4 26.Qb1 Re7 27.Bd2 Rxe2 28.Rxe2 Na6  
+29.Be3 Re8 30.Qd3 Nb4 31.Qb1 Re7 32.Kf1 Qe8 33.Nd4 Ne4 34.Bf4 f5 35.Qd1  
+Bxd4 36.Qxd4 Nxg3+ 37.Bxg3 Rxe2 38.Bf3 Re1+ 39.Kg2 Nxc6 40.Qf6 Re6 41.Qc3  
+Ne5 42.Bd5 Re7 43.Kh2 Qf8 44.f4 Nd7 45.Bf3 Qf6 0-1 
+ 
+[Event "5. Classic GpB 2013"] 
+[Site "London ENG"] 
+[Date "2013.12.11"] 
+[Round "1.1"] 
+[White "Kramnik, Vladimir"] 
+[Black "Svidler, Peter"] 
+[Result "1-0"] 
+[WhiteElo "2793"] 
+[BlackElo "2758"] 
+[ECO "A04"] 
+[EventDate "2013.12.11"] 
+ 
+1.Nf3 g6 2.e4 Nf6 3.e5 Nh5 4.d4 d6 5.Be2 Nc6 6.O-O Bg7 7.exd6 exd6 8.Bg5  
+Nf6 9.c4 h6 10.Be3 d5 11.Nc3 Be6 12.Ne5 O-O 13.Nxc6 bxc6 14.b3 dxc4 15. 
+bxc4 Ne8 16.Rc1 Nd6 17.d5 cxd5 18.Nxd5 Re8 19.Nxc7 Qxc7 20.Bf4 Red8 21.c5  
+Ne8 22.Bxc7 Rxd1 23.Rfxd1 Nxc7 24.Bc4 Bf5 25.Bb3 a5 26.Rc4 Bf8 27.c6 Be7  
+28.g4 Be6 29.Re4 Rc8 30.Rd7 Kf8 31.Bxe6 Nxe6 32.Rc4 Bc5 33.Kf1 g5 34.Ra4  
+Rxc6 35.Rxa5 Rb6 36.Rd2 Nf4 37.Rd1 Bd4 38.Rf5 Bf6 39.a4 Kg7 40.h4 Rb2 41. 
+hxg5 hxg5 42.Kg1 Ra2 43.a5 Ne6 44.Rd6 Ra4 45.f3 Bd4+ 46.Kf1 Nf4 47.Rxg5+  
+Kf8 48.Ke1 Be3 49.Re5 Ra1+ 50.Rd1 Ra2 51.Rd8+ Kg7 52.Kd1 Ra3 53.Kc2 Ne6  
+54.Rd7 Kg6 55.Kb2 1-0 
+ 
+[Event "Svenska Cup 2013"] 
+[Site "Linkoeping SWE"] 
+[Date "2013.09.06"] 
+[Round "1.1"] 
+[White "Blomqvist, Erik"] 
+[Black "Logdahl, Harald"] 
+[Result "1-0"] 
+[WhiteElo "2505"] 
+[BlackElo "2223"] 
+[ECO "A04"] 
+[EventDate "2013.09.06"] 
+ 
+1.Nf3 g6 2.e4 Nf6 3.Nc3 d5 4.e5 Nh5 5.d4 Bg4 6.h3 Bxf3 7.Qxf3 e6 8.g4 Ng7  
+9.Bh6 Nf5 10.Bxf8 Nh4 11.Qg3 Rxf8 12.f4 g5 13.O-O-O a6 14.Bd3 h6 15.f5 Nc6 
+16.Rhf1 Qe7 17.fxe6 fxe6 18.Rxf8+ Qxf8 19.Rf1 Qb4 20.Qf2 O-O-O 21.Ne2 b5  
+22.a3 Qa4 23.Kb1 Kb7 24.Qf6 Re8 25.Qxh6 Nxd4 26.Nxd4 Qxd4 27.Qxg5 Ng2 28. 
+h4 Ne3 29.Rf4 Qc5 30.h5 Nc4 31.Rf1 b4 32.Bxc4 Qxc4 33.Qf4 d4 34.axb4 Qxb4  
+35.Rd1 Rd8 36.g5 c5 37.Qf7+ Ka8 38.Qxe6 Qb5 39.Qb3 Qc6 40.Rf1 Rb8 41.Qf3  
+1-0 
+ 
+[Event "Svenska Cup 2013"] 
+[Site "Linkoping SWE"] 
+[Date "2013.09.06"] 
+[Round "1.1"] 
+[White "Blomqvist, Erik"] 
+[Black "Logdahl, Harald"] 
+[Result "1-0"] 
+[WhiteElo "2505"] 
+[BlackElo "2223"] 
+[ECO "A04"] 
+[EventDate "2013.09.06"] 
+ 
+1.Nf3 g6 2.e4 Nf6 3.Nc3 d5 4.e5 Nh5 5.d4 Bg4 6.h3 Bxf3 7.Qxf3 e6 8.g4 Ng7  
+9.Bh6 Nf5 10.Bxf8 Nh4 11.Qg3 Rxf8 12.f4 g5 13.O-O-O a6 14.Bd3 h6 15.f5 Nc6 
+16.Rhf1 Qe7 17.fxe6 fxe6 18.Rxf8+ Qxf8 19.Rf1 Qb4 20.Qf2 O-O-O 21.Ne2 b5  
+22.a3 Qa4 23.Kb1 Kb7 24.Qf6 Re8 25.Qxh6 Nxd4 26.Nxd4 Qxd4 27.Qxg5 Ng2 28. 
+h4 Ne3 29.Rf4 Qc5 30.h5 Nc4 31.Rf1 b4 32.Bxc4 Qxc4 33.Qf4 d4 34.axb4 Qxb4  
+35.Rd1 Rd8 36.g5 c5 37.Qf7+ Ka8 38.Qxe6 Qb5 39.Qb3 Qc6 40.Rf1 Rb8 41.Qf3  
+1-0 
+ 
+[Event "99. ch-GBR 2012"] 
+[Site "North Shields ENG"] 
+[Date "2012.08.01"] 
+[Round "9.5"] 
+[White "Chapman, Terry P D"] 
+[Black "Conquest, Stuart C"] 
+[Result "0-1"] 
+[WhiteElo "2290"] 
+[BlackElo "2501"] 
+[ECO "A04"] 
+[EventDate "2012.07.23"] 
+ 
+1.Nf3 g6 2.e4 Nf6 3.e5 Nh5 4.d4 d6 5.h3 dxe5 6.Nxe5 Bg7 7.Be2 c5 8.Bxh5  
+gxh5 9.Qxh5 Be6 10.Bh6 Bxh6 11.Qxh6 Qxd4 12.Qg7 Rf8 13.c3 Qe4+ 14.Kf1 f6  
+15.Ng4 Nc6 16.Nd2 Qd3+ 17.Ke1 O-O-O 18.Qh6 Qc2 19.Qe3 Bf5 20.Nb3 h5 21.Nh6 
+Bg6 22.g4 Ne5 23.Nf5 Bxf5 24.gxf5 b6 25.Kf1 Rd1+ 26.Rxd1 Qxd1+ 27.Qe1 Qf3  
+28.Rh2 Qd3+ 29.Qe2 Qb1+ 0-1 
+ 
+[Event "Frank K Berry ch-USA"] 
+[Site "Tulsa USA"] 
+[Date "2008.05.18"] 
+[Round "6"] 
+[White "Kraai, Jesse"] 
+[Black "Pruess, David"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2509"] 
+[BlackElo "2425"] 
+[ECO "A04"] 
+[EventDate "2008.05.13"] 
+ 
+1.Nf3 g6 2.e4 Nf6 3.e5 Nd5 4.Bc4 Nb6 5.Bb3 Bg7 6.d4 O-O 7.O-O d6 8.Re1 Nc6 
+9.exd6 cxd6 10.d5 Ne5 11.Nxe5 dxe5 12.Bg5 Bf5 13.Nc3 Qd7 14.Qe2 h6 15.Be3  
+Nc8 16.f3 g5 17.Ne4 Nd6 18.Bf2 Bg6 19.c4 Nf5 20.Bc2 Rac8 21.Rac1 e6 22. 
+dxe6 Qxe6 23.Ng3 a6 24.Nxf5 Bxf5 25.Bxf5 Qxf5 26.c5 Rfd8 27.Red1 Qe6 28.b4 
+Qc6 29.a3 Qa4 30.Rd3 Rxd3 31.Qxd3 Bf6 32.h3 Rd8 33.Qe3 Kg7 34.Bg3 Rd5 35. 
+Kh2 Qb5 36.Qe4 Rd4 37.Qf5 Qd3 38.Qxd3 Rxd3 39.a4 Rb3 40.c6 bxc6 41.Rxc6 h5 
+42.Be1 e4 43.fxe4 Rb1 44.Bc3 Bxc3 45.Rxc3 Rxb4 46.Rc5 Rxa4 47.Rxg5+ Kh6  
+48.Re5 Ra3 49.h4 f6 50.Re6 Kg7 51.e5 fxe5 1/2-1/2 
+ 
+[Event "Aix-les-Bains FRA, Open Ch - Accession"] 
+[Site "Aix-les-Bains FRA"] 
+[Date "2007.??.??"] 
+[Round "10.14"] 
+[White "Guilleux, Fabien"] 
+[Black "Therkildsen, Thomas"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2203"] 
+[BlackElo "2310"] 
+[ECO "A04"] 
+[EventDate "2007.08.13"] 
+ 
+1.Nf3 g6 2.e4 Nf6 3.e5 Nd5 4.d4 Nb6 5.h4 d6 6.h5 Bg7 7.exd6 Qxd6 8.c4 Bg4  
+9.hxg6 hxg6 10.Rxh8+ Bxh8 11.Be3 Bxf3 12.gxf3 c5 13.d5 Bxb2 14.Nd2 Bxa1  
+15.Qxa1 Qf6 16.Qxf6 exf6 17.Ne4 N8d7 18.Nd6+ Ke7 19.Nxb7 Na4 20.f4 Ndb6  
+21.Nxc5 Nxc5 22.Bxc5+ Kd7 23.f5 Rc8 24.Bd4 Nxc4 25.Bxf6 gxf5 26.Bd3 Kd6  
+27.Bxf5 Re8+ 28.Kd1 Kxd5 29.Bd3 Re6 30.Bc3 Ra6 31.Kc2 Rxa2+ 32.Kb3 Ra3+  
+33.Kc2 Ra2+ 34.Kb3 Ra3+ 35.Kc2 Ne5 36.Be2 Ra2+ 37.Kd1 a5 38.f4 Nc4 39.Bh5  
+Ne3+ 40.Ke1 Ke4 41.Bxf7 Rh2 42.Bd2 Kf3 43.Bxe3 Kxe3 44.Kd1 Kxf4 45.Kc1 Ke3 
+46.Kb1 Kd4 47.Bb3 Kc3 48.Be6 Kb4 49.Bf7 Ka3 50.Be6 Rh1+ 51.Kc2 Rh6 52.Bd5  
+Rb6 53.Bf7 Rb2+ 54.Kc1 Rb7 55.Bd5 Rb8 56.Be6 Rb6 57.Bf7 Rb7 58.Bd5 Rb8 59. 
+Be6 Rb4 60.Kc2 Rb6 61.Bf7 Rb7 62.Bd5 Rd7 63.Be6 Re7 64.Bd5 Kb4 65.Kb1 Re1+ 
+66.Kb2 Re2+ 67.Kb1 Kc3 68.Bf7 Rf2 69.Be6 Kb4 70.Bd5 Rd2 71.Be6 Ka3 72.Bf7  
+Rb2+ 73.Kc1 a4 74.Be6 Rb6 75.Bf7 Kb4 76.Kb2 Rf6 77.Bd5 Rf2+ 78.Kb1 Kc3 79. 
+Be6 a3 80.Ka1 Kb4 81.Bd5 Rd2 82.Be6 Rd6 83.Bf7 Kc3 84.Bg8 Rd7 85.Be6 Ra7  
+86.Ba2 Kc2 87.Bd5 a2 88.Bxa2 Kc3 89.Kb1 Rb7+ 90.Ka1 Rb2 91.Be6 Kc2 92.Bf5+ 
+Kc1 93.Be6 Rb1+ 94.Ka2 Rb6 95.Bd5 Ra6+ 96.Kb3 Kb1 97.Be4+ Ka1 98.Bf5 Rf6  
+99.Be4 Re6 100.Bd5 Re3+ 101.Kc2 Re5 102.Bf7 Rc5+ 103.Kb3 Rc6 104.Bd5 Rb6+  
+105.Ka3 Rd6 106.Be4 Re6 107.Bf5 Re3+ 108.Kb4 Kb2 109.Kc4 Rf3 110.Be4 Rf4  
+111.Kd4 Rh4 112.Kd3 Rh2 113.Bd5 Rh8 114.Be6 Rh6 115.Bd5 Rd6 116.Kc4 Rd7  
+117.Be6 Rc7+ 118.Kd3 Rc3+ 119.Kd4 Kc2 120.Bf5+ Kd2 121.Be4 Rh3 122.Bf5  
+Rh4+ 123.Be4 Ke2 124.Ke5 Ke3 125.Bg6 Ra4 126.Bf7 Ra5+ 127.Bd5 Kd3 128.Ke6  
+Kd4 129.Bb7 Rb5 130.Bg2 Rb6+ 131.Kf5 Rb2 132.Bc6 Rf2+ 133.Ke6 Kc5 134.Bb7  
+Re2+ 135.Kf5 Kd6 136.Bf3 Re5+ 137.Kf4 Ke6 138.Bg4+ Kf6 139.Bf3 Rb5 140.Be4 
+Rb4 1/2-1/2 
+ 
+[Event "69. Moscow Blitz"] 
+[Site "Moscow RUS"] 
+[Date "2015.09.06"] 
+[Round "5.9"] 
+[White "Malakhov, V"] 
+[Black "Nepomniachtchi, Ian"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2694"] 
+[BlackElo "2705"] 
+[ECO "B08"] 
+[EventDate "2015.09.06"] 
+ 
+1.Nf3 g6 2.e4 Nf6 3.Nc3 d6 4.d4 a6 5.Be2 Bg7 6.O-O O-O 7.Re1 Nc6 8.d5 Na7  
+9.h3 c6 10.Bf1 Nb5 11.Na4 Nd7 12.c4 Nc7 13.Nc3 Nc5 14.Nd4 cxd5 15.exd5 e5  
+16.dxe6 N5xe6 17.Be3 d5 18.Nxe6 Bxe6 19.Bb6 Qd6 20.Bxc7 Qxc7 21.Nxd5 Qc5  
+22.Qd2 Rad8 23.Rad1 Rd7 24.b4 Qc6 25.Rxe6 Qxe6 26.Nf6+ Bxf6 27.Qxd7 Rd8  
+28.Qxe6 fxe6 29.Bd3 Bc3 30.a3 Bb2 31.a4 Bc3 32.b5 axb5 33.cxb5 Rd4 34.f3  
+Rxa4 35.Be4 Bd4+ 36.Kh2 b6 37.h4 Kg7 38.Kh3 Kf6 39.Bc6 Rb4 40.g3 h5 41.Be4 
+e5 42.Rc1 Bc5 43.Ra1 Rxb5 44.Ra8 g5 45.Rg8 gxh4 46.Kxh4 Rb2 47.Rg6+ Kf7  
+48.Kxh5 Rh2+ 49.Kg4 Bd4 50.Rc6 Ke7 51.Kf5 b5 52.Rc7+ Kd6 53.Rb7 Kc5 54.g4  
+b4 55.g5 Rg2 56.g6 Be3 57.Kf6 Bg5+ 58.Kf5 Be3 59.g7 b3 60.Kf6 Bh6 61.Bh7  
+Bxg7+ 62.Rxg7 Rxg7 63.Kxg7 Kd4 64.Kf6 Ke3 65.Kxe5 1/2-1/2 
+ 
+[Event "TCh-RUS Blitz 2015"] 
+[Site "Sochi RUS"] 
+[Date "2015.05.10"] 
+[Round "9.1"] 
+[White "Malakhov, V"] 
+[Black "Nepomniachtchi, Ian"] 
+[Result "1-0"] 
+[WhiteElo "2702"] 
+[BlackElo "2728"] 
+[ECO "B08"] 
+[EventDate "2015.05.10"] 
+ 
+1.Nf3 g6 2.e4 Nf6 3.Nc3 d6 4.d4 Bg7 5.Be2 a6 6.a4 O-O 7.O-O Nc6 8.h3 e5 9. 
+Be3 exd4 10.Nxd4 Re8 11.Nxc6 bxc6 12.Bd3 c5 13.Rb1 Bb7 14.Bg5 h6 15.Bxf6  
+Qxf6 16.Bc4 c6 17.Qd3 a5 18.Rbd1 Rad8 19.Qg3 Qe7 20.Rfe1 Kh7 21.Qf3 Rf8  
+22.Ne2 Bc8 23.b3 f5 24.Ng3 fxe4 25.Rxe4 Qg5 26.h4 Qf6 27.Qxf6 Bxf6 28.Be6  
+d5 29.Ree1 Bxh4 30.Bxc8 Rxc8 31.Re6 Kg7 32.Rde1 Rc7 33.Rd6 Rf6 34.Ree6  
+Rxe6 35.Rxe6 Kf7 36.Re3 Rb7 37.Ne2 Rb4 38.Rf3+ Bf6 39.Nc1 c4 40.Kf1 Ke6  
+41.Ke2 cxb3 42.cxb3 Bg5 43.Nd3 Re4+ 44.Kd1 Kd6 45.Rf7 Re7 46.Rf8 Rb7 47. 
+Kc2 Be7 48.Rg8 Bf6 49.Rxg6 Rf7 50.Rxh6 c5 51.g4 c4 52.bxc4 dxc4 53.g5  
+cxd3+ 54.Kxd3 Ke5 55.Rxf6 Rd7+ 56.Ke3 Rb7 57.f4+ Kd5 1-0 
+ 
+[Event "Moscow Open A 2015"] 
+[Site "Moscow RUS"] 
+[Date "2015.02.08"] 
+[Round "9.12"] 
+[White "Usmanov, Vasily"] 
+[Black "Fier, Alexandr"] 
+[Result "1-0"] 
+[WhiteElo "2414"] 
+[BlackElo "2604"] 
+[ECO "B04"] 
+[EventDate "2015.01.31"] 
+ 
+1.Nf3 g6 2.e4 Nf6 3.e5 Nd5 4.d4 d6 5.c4 Nb6 6.b3 Bg7 7.Bb2 dxe5 8.Nxe5  
+Bxe5 9.dxe5 Qxd1+ 10.Kxd1 Nc6 11.Bd3 Nb4 12.Be4 Bf5 13.Nc3 O-O-O+ 14.Ke2  
+Bxe4 15.Nxe4 Nd3 16.Bc3 Nf4+ 17.Kf3 Ne6 18.Ke3 h5 19.Rad1 Nd7 20.h4 Rhe8  
+21.f3 Ndc5 22.Nxc5 Nxc5 23.g4 Nd7 24.Rhg1 Rg8 25.Rd4 hxg4 26.fxg4 Rh8 27. 
+e6 fxe6 28.Rxd7 Kxd7 29.Bxh8 Rxh8 30.Kf4 Rxh4 31.Kg5 Rh2 32.Kxg6 Rxa2 33. 
+g5 Ke8 34.Kg7 Rh2 35.g6 e5 36.Re1 Rh5 37.Kg8 c5 38.g7 e6 39.Rf1 e4 40.Rf8+ 
+Ke7 41.Rf7+ Ke8 42.Rf4 Rh3 43.Rxe4 Ke7 44.Rg4 a6 45.Rg1 b5 46.Rg5 bxc4 47. 
+bxc4 a5 48.Rxc5 a4 49.Rc7+ Kd6 50.Ra7 a3 51.Ra8 Rf3 52.Rd8+ Kc5 53.Rc8+  
+Kb4 54.c5 a2 55.c6 Kc5 56.c7 Kc6 57.Ra8 Kxc7 58.Rxa2 Kd6 59.Rg2 e5 60.Kh7  
+Rf7 61.Kh6 Rxg7 62.Rxg7 e4 63.Kg5 Kd5 1-0 
+ 
+[Event "FIDE World Blitz 2014"] 
+[Site "Dubai UAE"] 
+[Date "2014.06.19"] 
+[Round "11.2"] 
+[White "Meier, Georg"] 
+[Black "Nepomniachtchi, Ian"] 
+[Result "1-0"] 
+[WhiteElo "2632"] 
+[BlackElo "2730"] 
+[ECO "B08"] 
+[EventDate "2014.06.19"] 
+ 
+1.Nf3 g6 2.e4 Nf6 3.Nc3 d6 4.d4 Bg7 5.Be2 a6 6.O-O O-O 7.Bf4 b5 8.e5 dxe5  
+9.dxe5 Nh5 10.Be3 Nc6 11.a4 b4 12.Nd5 Be6 13.Nf4 Nxf4 14.Bxf4 Qd5 15.Re1  
+Rfd8 16.Qc1 Qc5 17.Be3 Qa5 18.Bf4 Bd5 19.Qe3 Qb6 20.Qxb6 cxb6 21.Rad1 h6  
+22.h4 e6 23.b3 a5 24.Rd3 Be4 25.Re3 Bxc2 26.Rc1 Nd4 27.Nxd4 Rxd4 28.Rxc2  
+Rxf4 29.g3 Rd4 30.Rc7 Rd5 31.Bf3 Re8 32.Bxd5 exd5 33.Rd7 Bf8 34.Rxd5 Bc5  
+35.Red3 Kg7 36.Kg2 g5 37.h5 g4 38.f4 gxf3+ 39.Kxf3 Re6 40.Ke4 Be7 41.Rd7  
+Bf6 42.R3d5 Be7 43.Kf5 Kg8 44.Rb7 Bf8 45.Rd8 Kg7 46.Rdd7 1-0 

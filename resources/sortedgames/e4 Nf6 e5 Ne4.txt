@@ -1,0 +1,15 @@
+ 
+[Event "23. Open"] 
+[Site "Bled SLO"] 
+[Date "2002.07.07"] 
+[Round "6"] 
+[White "Grosar, Aljosa"] 
+[Black "Sermek, Drazen"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2470"] 
+[BlackElo "2603"] 
+[ECO "B02"] 
+[EventDate "2002.07.02"] 
+ 
+1.e4 Nf6 2.e5 Ne4 3.Nc3 Nxc3 4.dxc3 d6 5.Nf3 dxe5 6.Qxd8+ Kxd8 7.Nxe5 Ke8  
+8.Bc4 e6 9.O-O Nd7 10.Nxd7 Bxd7 11.Rd1 1/2-1/2 

@@ -1,0 +1,56 @@
+ 
+[Event "Bundesliga 2012-13"] 
+[Site "Griesheim GER"] 
+[Date "2012.10.20"] 
+[Round "1"] 
+[White "Babula, Vlastimil"] 
+[Black "Krysztofiak, Marcin"] 
+[Result "1-0"] 
+[WhiteElo "2585"] 
+[BlackElo "2447"] 
+[ECO "E12"] 
+[EventDate "2012.10.20"] 
+ 
+1.c4 Nf6 2.d4 b6 3.Nf3 e6 4.Nc3 Bb7 5.a3 d5 6.cxd5 Nxd5 7.Bd2 Nd7 8.Qc2 c5 
+9.Nxd5 exd5 10.g3 Be7 11.Bg2 O-O 12.O-O c4 13.Ne5 b5 14.Rfd1 a5 15.a4 b4  
+16.e4 Nb6 17.exd5 Bxd5 18.Nc6 Bxc6 19.Bxc6 Rc8 20.Qe4 Bd6 21.Be3 Qc7 22.d5 
+Nd7 23.Qxc4 Ne5 24.Qb5 Nxc6 25.dxc6 Qxc6 26.Qxa5 Ra8 27.Qd5 Qxd5 28.Rxd5  
+Be7 29.Bc5 Bxc5 30.Rxc5 Rfd8 31.Rb5 Rd4 32.b3 Kf8 33.Rc1 Rad8 1-0 
+ 
+[Event "XI Open"] 
+[Site "Malaga ESP"] 
+[Date "2008.02.24"] 
+[Round "3"] 
+[White "Pilaj, Herwig"] 
+[Black "Carlsson, Pontus"] 
+[Result "0-1"] 
+[WhiteElo "2374"] 
+[BlackElo "2501"] 
+[ECO "E13"] 
+[EventDate "2008.02.23"] 
+ 
+1.c4 Nf6 2.d4 b6 3.Nf3 e6 4.Nc3 Bb4 5.Bg5 h6 6.Bh4 g5 7.Bg3 Ne4 8.Qc2 Bb7  
+9.e3 Bxc3+ 10.bxc3 d6 11.Bd3 f5 12.d5 Nd7 13.Bxe4 fxe4 14.Qxe4 Qf6 15.O-O  
+O-O-O 16.Qxe6 Qxe6 17.dxe6 Nc5 18.Nd4 Rde8 19.f3 Nxe6 20.e4 h5 21.h4 Rhg8  
+22.Nxe6 Rxe6 23.hxg5 Rxg5 24.Bf4 Rc5 25.Kf2 Bc6 26.Rh1 Be8 27.Bd2 Rxc4 28. 
+Rh3 Ra4 29.a3 Kd7 30.Rg3 Rg6 31.Rxg6 Bxg6 32.Ke3 Ke6 33.c4 Rxc4 34.Rc1  
+Rxc1 35.Bxc1 d5 36.g3 c5 37.Kd3 Kd7 38.Bf4 Kc6 39.Bb8 a5 40.Be5 b5 41.Bc3  
+b4 42.axb4 cxb4 43.Be1 Kb5 44.Kc2 a4 45.Kb2 dxe4 46.fxe4 Bxe4 47.Bd2 a3+  
+48.Ka2 Ka4 49.Ka1 b3 50.Bc1 Bh7 0-1 
+ 
+[Event "MULTICOMS FRA-CHN Match"] 
+[Site "Paris FRA"] 
+[Date "2006.09.09"] 
+[Round "6"] 
+[White "Wang, Yue"] 
+[Black "Sokolov, Andrei1"] 
+[Result "1-0"] 
+[WhiteElo "2626"] 
+[BlackElo "2589"] 
+[ECO "E15"] 
+[EventDate "2006.09.04"] 
+ 
+1.c4 Nf6 2.d4 b6 3.Nf3 e6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 c6 8.Bc3 d5  
+9.Ne5 Nfd7 10.Nxd7 Nxd7 11.Nd2 O-O 12.O-O Rc8 13.e4 c5 14.exd5 exd5 15. 
+dxc5 dxc4 16.c6 cxb3 17.Re1 b2 18.Bxb2 Nc5 19.Nc4 Bxc4 20.Qg4 Bg5 21.Qxc4  
+Nd3 1-0 

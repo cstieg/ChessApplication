@@ -1,0 +1,16 @@
+ 
+[Event "IM"] 
+[Site "Aarhus DEN"] 
+[Date "2003.08.02"] 
+[Round "7"] 
+[White "Bank, Pelle"] 
+[Black "Heim, Sverre"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2260"] 
+[BlackElo "2399"] 
+[ECO "D00"] 
+[EventDate "2003.07.27"] 
+ 
+1.d4 d5 2.f4 Bf5 3.Nf3 Nf6 4.e3 e6 5.Be2 Nbd7 6.O-O Ne4 7.Nbd2 Bd6 8.Ne5  
+Nxd2 9.Bxd2 O-O 10.Be1 f6 11.Bh4 Qe8 12.Nxd7 Qxd7 13.Bd3 Rae8 14.Qe2 Kh8  
+1/2-1/2 

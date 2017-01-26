@@ -1,0 +1,15 @@
+ 
+[Event "Simultan (blindfold)"] 
+[Site "Cannes FRA"] 
+[Date "2004.02.11"] 
+[Round "1"] 
+[White "Tkachiev, Vladislav"] 
+[Black "Lisnard David"] 
+[Result "1-0"] 
+[WhiteElo "2620"] 
+[BlackElo "2622"] 
+[ECO "A10"] 
+ 
+1.c4 Nc6 2.e3 g6 3.d4 e6 4.Nc3 Nh6 5.Nf3 f5 6.Be2 b6 7.O-O d6 8.a3 g5 9.b4 
+g4 10.Ne1 a5 11.Rb1 e5 12.d5 Na7 13.bxa5 Rb8 14.axb6 cxb6 15.Bb2 Rg8 16. 
+Nd3 e4 17.Nf4 Rb7 18.Na2 b5 19.Nb4 Qb6 20.cxb5 1-0 

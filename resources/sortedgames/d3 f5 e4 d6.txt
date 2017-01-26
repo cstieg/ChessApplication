@@ -1,0 +1,23 @@
+ 
+[Event "FSGM October"] 
+[Site "Budapest HUN"] 
+[Date "2001.10.15"] 
+[Round "10"] 
+[White "Husari, Satea"] 
+[Black "Hoang, Thanh Trang"] 
+[Result "1-0"] 
+[WhiteElo "2369"] 
+[BlackElo "2439"] 
+[ECO "A00"] 
+[EventDate "2001.10.06"] 
+ 
+1.d3 f5 2.e4 d6 3.exf5 Bxf5 4.g4 Bd7 5.Bg2 Nc6 6.Nc3 e5 7.h3 Nge7 8.Bg5  
+Be6 9.Nge2 h6 10.Bh4 g5 11.Bg3 Bg7 12.Qd2 Qd7 13.a3 Ng6 14.O-O-O O-O-O 15. 
+Kb1 d5 16.Na2 Nf4 17.Bxf4 exf4 18.Nec1 h5 19.gxh5 Rxh5 20.h4 gxh4 21.Nb3  
+Qd6 22.Bf3 Rh7 23.d4 Bf5 24.Nc3 Ne7 25.Rde1 c6 26.Na4 Kb8 27.Rxe7 Qxe7 28. 
+Qxf4+ Ka8 29.Qxf5 Rhh8 30.Nac5 Rdf8 31.Qd3 b6 32.Na4 h3 33.c4 Qf7 34.Nd2  
+Qf5 35.Qxf5 Rxf5 36.cxd5 cxd5 37.Nc3 Kb8 38.Nxd5 h2 39.Ne3 Rf4 40.d5 b5  
+41.Kc2 Be5 42.Ng4 Bd6 43.Rxh2 Rc8+ 44.Kd3 Rxf3+ 45.Nxf3 Bxh2 46.Nfxh2 Kc7  
+47.f4 Kd6 48.Ne3 a5 49.Nf3 Rc1 50.Nd4 b4 51.axb4 axb4 52.Ke4 Rb1 53.f5 Ke7 
+54.Nc6+ Ke8 55.Nc4 Re1+ 56.Kd4 Rf1 57.Nxb4 Rf4+ 58.Kc5 Kd7 59.Ne3 Rf2 60. 
+Nd3 1-0 

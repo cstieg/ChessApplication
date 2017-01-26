@@ -1,0 +1,56 @@
+ 
+[Event "Medellin COL, 20. Feria de las Flores"] 
+[Site "Medellin COL"] 
+[Date "2014.08.10"] 
+[Round "8.1"] 
+[White "Hevia Alejano, Carlos Antonio"] 
+[Black "Calvo Quinteiro, Jose Manuel"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2486"] 
+[BlackElo "2326"] 
+[ECO "C44"] 
+[EventDate "2014.08.06"] 
+ 
+1.e4 e5 2.d3 Nf6 3.Nf3 Nc6 4.g3 Bc5 5.Bg2 O-O 6.O-O d6 7.Nc3 Be6 8.Na4 Bb6 
+9.Nxb6 axb6 10.a3 Nd7 11.Bg5 f6 12.Bd2 Kh8 13.c3 f5 14.exf5 Bxf5 15.h3 Qe8 
+16.Qe2 1/2-1/2 
+ 
+[Event "ch-European Rapid 2013"] 
+[Site "Warsaw POL"] 
+[Date "2013.12.15"] 
+[Round "10.42"] 
+[White "Dorokhin, Mykhailo"] 
+[Black "Kovalev, Vladislav"] 
+[Result "0-1"] 
+[WhiteElo "2243"] 
+[BlackElo "2574"] 
+[ECO "C20"] 
+[EventDate "2013.12.14"] 
+ 
+1.e4 e5 2.d3 Nf6 3.c3 d5 4.Qc2 Nc6 5.Bg5 Be7 6.Nd2 Be6 7.g3 Ng8 8.Bxe7  
+Ngxe7 9.Bg2 O-O 10.O-O-O a5 11.f4 f6 12.Kb1 d4 13.Bh3 Bf7 14.Ngf3 dxc3 15. 
+bxc3 Qd6 16.fxe5 Nxe5 17.d4 Nxf3 18.Nxf3 Ra6 19.e5 Qc6 20.Nh4 Nd5 21.Ka1  
+Ne3 22.Qd2 Nxd1 23.Rxd1 Qa4 24.Re1 Re8 25.Ng2 fxe5 26.dxe5 Rxe5 0-1 
+ 
+[Event "Open"] 
+[Site "Pula CRO"] 
+[Date "2000.05.17"] 
+[Round "2"] 
+[White "Ilic, V."] 
+[Black "Voscilla, Adriano"] 
+[Result "0-1"] 
+[WhiteElo "2235"] 
+[BlackElo "2310"] 
+[ECO "C44"] 
+[EventDate "2000.05.16"] 
+ 
+1.e4 e5 2.d3 Nf6 3.Nf3 Nc6 4.Be2 Be7 5.O-O O-O 6.Nbd2 d5 7.c3 h6 8.Qc2 Be6 
+9.Re1 Re8 10.Bf1 Bd6 11.exd5 Nxd5 12.Nc4 Bg4 13.Nxd6 Qxd6 14.Nd2 Rad8 15. 
+Ne4 Qg6 16.b4 Bc8 17.b5 Nce7 18.c4 Nb6 19.a4 Nf5 20.Be3 Nd4 21.Bxd4 Rxd4  
+22.a5 Nd7 23.c5 f5 24.Ng3 Nf8 25.Be2 Qf6 26.Bf1 Rd5 27.Ra4 Ne6 28.Qa2 Rxc5 
+29.d4 exd4 30.Nh5 Qg5 31.Ng3 Qg6 32.Rxd4 Kh8 33.Rd5 Rf8 34.Rxc5 Nxc5 35. 
+Qa3 Qd6 36.Qc3 Be6 37.Nh5 Rf7 38.h3 Ne4 39.Qe3 Qc5 40.Qe2 Bd5 41.Nf4 Kh7  
+42.Qb2 Re7 43.Bd3 g6 44.Bxe4 Rxe4 45.Rxe4 Bxe4 46.Ne6 Qe7 47.Qe5 Kg8 48.f3 
+Bb1 49.f4 Kf7 50.Nxc7 Qxe5 51.fxe5 Ba2 52.b6 axb6 53.axb6 Ke7 54.Kf2 Kd7  
+55.Ke3 Kc6 56.Kd4 f4 57.h4 g5 58.hxg5 hxg5 59.Ke4 Kxb6 60.Nd5+ Kc5 61.Nc3  
+Be6 62.Na4+ Kb5 63.Nc3+ Kc4 64.Ne2 b5 65.Nc1 b4 0-1 

@@ -1,0 +1,24 @@
+ 
+[Event "Politiken Cup"] 
+[Site "Helsingor DEN"] 
+[Date "2011.08.06"] 
+[Round "9.16"] 
+[White "Bach, Matthias"] 
+[Black "Schandorff, Lars"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2307"] 
+[BlackElo "2497"] 
+[ECO "A00"] 
+[EventDate "2011.07.30"] 
+ 
+1.d3 d5 2.Nd2 c6 3.g3 Nf6 4.Bg2 e5 5.e3 Bd6 6.Ne2 O-O 7.h3 Re8 8.b3 Nbd7  
+9.Bb2 a5 10.a3 Qe7 11.g4 h6 12.Ng3 Nf8 13.Nf5 Bxf5 14.gxf5 e4 15.dxe4 Be5  
+16.Bxe5 Qxe5 17.exd5 Nxd5 18.Bxd5 cxd5 19.Rg1 Qxf5 20.Qg4 Qf6 21.O-O-O Ne6 
+22.Nf3 Qa1+ 23.Kd2 Qxa3 24.Nd4 Qe7 25.Rg2 Qf6 26.Rdg1 g6 27.Qf5 Qxf5 28. 
+Nxf5 Kh7 29.Nd6 Re7 30.Rg4 Rd8 31.Nb5 Rc8 32.h4 Rc5 33.Nd4 Nxd4 34.Rxd4  
+Rec7 35.Rc1 Kg7 36.b4 axb4 37.Rxb4 Kf6 38.c3 h5 39.f3 Ke6 40.Kd3 Rc4 41. 
+Rb6+ R7c6 42.Rxb7 Rxh4 43.f4 Rh2 44.Ra1 Rd6 45.f5+ Kxf5 46.Rxf7+ Kg5 47. 
+Ra5 Rh4 48.Rb7 Kf6 49.Rb4 Rh1 50.Rf4+ Kg7 51.Kd4 Rd1+ 52.Ke5 Rd8 53.Rd4  
+Re1 54.Rd3 Re8+ 55.Kxd5 R1xe3 56.Rxe3 Rxe3 57.c4 Kf6 58.c5 Rd3+ 59.Kc4 Rd1 
+60.c6 h4 61.Rc5 Rc1+ 62.Kd5 Rxc5+ 63.Kxc5 h3 64.c7 h2 65.c8=Q h1=Q 66.Qf8+ 
+Kg5 67.Qe7+ Kg4 68.Qe6+ Kg5 1/2-1/2 

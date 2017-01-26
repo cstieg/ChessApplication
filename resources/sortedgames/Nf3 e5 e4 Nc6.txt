@@ -1,0 +1,41 @@
+ 
+[Event "TCh-CECLUB 2a Gp2 2012"] 
+[Site "Burguillos ESP"] 
+[Date "2012.08.10"] 
+[Round "4.2"] 
+[White "Garrido Dominguez, Jesus"] 
+[Black "Biedma Martin, Enrique"] 
+[Result "1-0"] 
+[WhiteElo "2381"] 
+[BlackElo "2308"] 
+[ECO "C45"] 
+[EventDate "2012.08.08"] 
+ 
+1.Nf3 e5 2.e4 Nc6 3.d4 exd4 4.Nxd4 d6 5.Nc3 Bd7 6.Be2 Nf6 7.O-O Be7 8.Be3  
+O-O 9.Nb3 Re8 10.f3 Bf8 11.g4 h6 12.Kh1 d5 13.Nxd5 Nxd5 14.Qxd5 Bxg4 15. 
+Qxd8 Raxd8 16.Bf4 Bh5 17.Bxc7 Rc8 18.Bg3 f5 19.Rae1 fxe4 20.fxe4 Bg6 21. 
+Bc4+ Kh7 22.Bf7 Bxe4+ 23.Kg1 Re7 24.Bd6 Rd7 25.Be6 Rxd6 26.Bxc8 Rg6+ 27. 
+Kf2 Bxc2 28.Ke3 Be7 29.Bxb7 Bg5+ 30.Kf3 Nb4 31.Nd4 Bd3 32.Be4 Bxe4+ 33. 
+Kxe4 Nxa2 34.Rf7 Bf6 35.Ne6 Rg2 36.Rf1 Re2+ 37.Kd5 Rd2+ 38.Kc4 Kg6 39.Rb7  
+a5 40.Rg1+ Kf5 41.Nxg7+ Bxg7 42.Rgxg7 Nb4 43.Rb5+ Kf6 44.Ra7 Rxh2 45.Rb6+  
+1-0 
+ 
+[Event "16. Asian Games Rapid women"] 
+[Site "Guangzhou CHN"] 
+[Date "2010.11.13"] 
+[Round "2"] 
+[White "Paridar, Shadi"] 
+[Black "Zhao, Xue"] 
+[Result "0-1"] 
+[WhiteElo "2253"] 
+[BlackElo "2474"] 
+[ECO "C60"] 
+[EventDate "2010.11.13"] 
+ 
+1.Nf3 e5 2.e4 Nc6 3.Bb5 Nge7 4.c3 a6 5.Ba4 g6 6.d4 exd4 7.cxd4 b5 8.Bb3  
+Bg7 9.O-O O-O 10.Nc3 d6 11.h3 Na5 12.Bc2 c5 13.Bg5 h6 14.Bf4 Nc4 15.Rb1  
+Nc6 16.dxc5 dxc5 17.Nd5 Bb7 18.Qc1 g5 19.Bh2 Nb4 20.Nxb4 cxb4 21.Qe1 Qe7  
+22.Nd2 Rfe8 23.Nxc4 bxc4 24.f4 Bxe4 25.Bxe4 Qxe4 26.Qxb4 Rab8 27.Qa4 Bxb2  
+28.Kh1 g4 29.hxg4 c3 30.Qxe4 Rxe4 31.f5 Rc8 32.Rbe1 Rxe1 33.Rxe1 c2 34.Bf4 
+c1=Q 35.Bxc1 Bxc1 36.Kg1 Kg7 37.Kf2 Rc4 38.Kf3 Bg5 39.Re2 Rc3+ 40.Ke4 Rg3  
+41.Kd5 Rxg4 42.Kc5 Ra4 43.Kd6 Kf6 44.Rf2 Bh4 0-1 

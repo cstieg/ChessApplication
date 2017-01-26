@@ -1,0 +1,19 @@
+ 
+[Event "20. ZMDI Open A"] 
+[Site "Dresden GER"] 
+[Date "2011.08.14"] 
+[Round "9.21"] 
+[White "Krauseneck, Peter Prof Dr"] 
+[Black "Degtiarev, Evgeny"] 
+[Result "0-1"] 
+[WhiteElo "2230"] 
+[BlackElo "2327"] 
+[ECO "A02"] 
+[EventDate "2011.08.06"] 
+ 
+1.f4 e5 2.d3 exf4 3.Bxf4 g5 4.Be5 f6 5.Bc3 g4 6.e4 d5 7.exd5 Qxd5 8.Qe2+  
+Be6 9.Nd2 Nd7 10.Qe4 O-O-O 11.Qxd5 Bxd5 12.O-O-O h5 13.h3 Rh6 14.Ne2 Bd6  
+15.Ne4 Bxe4 16.dxe4 Nc5 17.Rd4 g3 18.Bd2 Rh7 19.Nc3 Ne7 20.Bc4 Nc6 21.Rd5  
+Ne5 22.Be2 c6 23.Rd4 Ne6 24.Rc4 Kb8 25.Nd1 Nxc4 26.Bxc4 Bf4 27.Ne3 Rhd7  
+28.Bd3 Nc5 29.Rf1 Bg5 30.Nc4 Nxd3+ 31.cxd3 Bxd2+ 32.Nxd2 Rxd3 33.Nb3 Re3  
+34.Rxf6 Rxe4 35.Rh6 Rc4+ 0-1 

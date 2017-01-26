@@ -1,0 +1,17 @@
+ 
+[Event "Ch Madrid (final)"] 
+[Site "Madrid ESP"] 
+[Date "2007.03.02"] 
+[Round "3"] 
+[White "Pastor Alonso de Prado, Alberto"] 
+[Black "Roa Alonso, Santiago"] 
+[Result "0-1"] 
+[WhiteElo "2212"] 
+[BlackElo "2418"] 
+[ECO "C44"] 
+ 
+1.c3 e5 2.e4 Nf6 3.Nf3 Nc6 4.d4 Nxe4 5.dxe5 Bc5 6.Bc4 d5 7.Qxd5 Qxd5 8. 
+Bxd5 Nxf2 9.Bxc6+ bxc6 10.Rf1 Nd3+ 11.Kd2 Ba6 12.Kc2 Nxb2 13.Rh1 Nc4 14. 
+Nd4 O-O 15.Re1 Rfe8 16.Bf4 Rab8 17.Nb3 Bf2 18.Re4 f5 19.Rxc4 Bxc4 20.N1d2  
+Bxb3+ 21.axb3 g5 22.Rf1 gxf4 23.Rxf2 Rxe5 24.Rxf4 Re2 25.Kd3 Rxg2 26.Nf3  
+Rxb3 27.Rxf5 Rb5 28.Rf4 Rg6 0-1 

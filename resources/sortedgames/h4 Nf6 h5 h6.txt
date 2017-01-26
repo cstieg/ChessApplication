@@ -1,0 +1,17 @@
+ 
+[Event "European Blitz 2015"] 
+[Site "Minsk BLR"] 
+[Date "2015.12.18"] 
+[Round "20.31"] 
+[White "Vovk, Orest"] 
+[Black "Skliarov, Viktor"] 
+[Result "0-1"] 
+[WhiteElo "2279"] 
+[BlackElo "2420"] 
+[ECO "A00"] 
+[EventDate "2015.12.18"] 
+ 
+1.h4 Nf6 2.h5 h6 3.Nc3 d5 4.e4 Nxe4 5.Nxe4 dxe4 6.Qe2 Qd5 7.Rh4 Bf5 8.g4  
+Bh7 9.Bg2 Nc6 10.c3 O-O-O 11.d4 e5 12.g5 exd4 13.Bxe4 Bxe4 14.Qxe4 hxg5  
+15.Qg4+ f5 16.Qxg5 Be7 17.Qf4 Bxh4 18.Qxh4 Qe4+ 19.Qxe4 fxe4 20.cxd4 Nxd4  
+21.Kf1 Rxh5 22.Be3 Nf3 23.Kg2 Rh2+ 24.Kg3 Rh1 25.Nxf3 Rxa1 26.Ng5 Rxa2 0-1 

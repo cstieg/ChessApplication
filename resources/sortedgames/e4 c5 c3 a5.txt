@@ -1,0 +1,15 @@
+ 
+[Event "25. Open"] 
+[Site "Oberwart AUT"] 
+[Date "2003.07.13"] 
+[Round "9"] 
+[White "Petschar, Kurt"] 
+[Black "Lehner, Oliver"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2272"] 
+[BlackElo "2391"] 
+[ECO "B22"] 
+[EventDate "2003.07.05"] 
+ 
+1.e4 c5 2.c3 a5 3.Nf3 d6 4.Be2 Nf6 5.e5 dxe5 6.Nxe5 Nbd7 7.Nc4 Qc7 8.d4 e6 
+9.O-O Be7 10.Bg5 O-O 11.Bh4 cxd4 12.cxd4 1/2-1/2 

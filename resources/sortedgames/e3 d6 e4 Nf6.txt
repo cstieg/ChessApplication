@@ -1,0 +1,19 @@
+ 
+[Event "34. Olympiad"] 
+[Site "Istanbul TUR"] 
+[Date "2000.10.29"] 
+[Round "2"] 
+[White "Atakisi, Umut"] 
+[Black "Juswanto, Denny"] 
+[Result "0-1"] 
+[WhiteElo "2258"] 
+[BlackElo "2483"] 
+[ECO "A00"] 
+[EventDate "2000.10.28"] 
+ 
+1.e3 d6 2.e4 Nf6 3.d4 g6 4.Nc3 Bg7 5.Nf3 c6 6.Be3 Bg4 7.Qd2 O-O 8.Bd3 Nbd7 
+9.O-O-O e5 10.Ne2 Re8 11.dxe5 dxe5 12.Ng3 Nc5 13.h3 Na4 14.Bc4 Bxh3 15. 
+gxh3 Kf8 16.Bb3 Ke7 17.Bc5+ Nxc5 18.Kb1 Nfd7 19.h4 h5 20.Ne2 Nb6 21.c3  
+Qxd2 22.Rxd2 Rad8 23.Nc1 g5 24.Kc2 Nd3 25.Ne2 Nxf2 26.Rxd8 Kxd8 27.Rh3 Ke7 
+28.Be6 Kxe6 29.b4 f5 30.exf5+ Kxf5 31.Nc1 Nd3 32.Nxd3 Ke4 33.Nf2+ Kd5 34. 
+Ne4 0-1 

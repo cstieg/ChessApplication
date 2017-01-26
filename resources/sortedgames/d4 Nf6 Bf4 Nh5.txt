@@ -1,0 +1,104 @@
+ 
+[Event "32. Cappelle Open 2016"] 
+[Site "Cappelle la Grande FRA"] 
+[Date "2016.02.18"] 
+[Round "7.1"] 
+[White "Kamsky, Gata"] 
+[Black "Kazhgaleyev, Murtas"] 
+[Result "1-0"] 
+[WhiteElo "2667"] 
+[BlackElo "2580"] 
+[ECO "A45"] 
+[EventDate "2016.02.13"] 
+ 
+1.d4 Nf6 2.Bf4 Nh5 3.Bg5 h6 4.Bh4 g5 5.e3 Nf6 6.Bg3 d6 7.Nd2 Bg7 8.c3 Nc6  
+9.Bd3 e5 10.Ne2 Qe7 11.h3 e4 12.Bc2 Bf5 13.b4 Bg6 14.Qb1 O-O 15.Bh2 Rae8  
+16.b5 Na5 17.a4 b6 18.Qa2 Rc8 19.Nc4 Nxc4 20.Qxc4 d5 21.Qa2 c5 22.bxc6  
+Rxc6 23.Bb3 Rd8 24.O-O Bf5 25.c4 Be6 26.Rac1 Qb4 27.cxd5 Rxc1 28.Rxc1 Nxd5 
+29.Bg3 Rd7 30.Rc8+ Kh7 31.Kh2 f5 32.Nc3 Qa5 33.Qc2 Bf7 34.Nxe4 Bg6 35.Qc6  
+f4 36.Qxd7 Bxe4 37.Rh8+ Kg6 38.Qe8+ Kf5 39.Qxe4+ 1-0 
+ 
+[Event "FSIM March 2014"] 
+[Site "Budapest HUN"] 
+[Date "2014.03.04"] 
+[Round "3.4"] 
+[White "To, Nhat Minh"] 
+[Black "Balint, Vilmos"] 
+[Result "1-0"] 
+[WhiteElo "2354"] 
+[BlackElo "2246"] 
+[ECO "A45"] 
+[EventDate "2014.03.01"] 
+ 
+1.d4 Nf6 2.Bf4 Nh5 3.Bg5 h6 4.Bh4 g5 5.e3 Nf6 6.Bg3 Bg7 7.Nc3 c5 8.dxc5  
+Qa5 9.Qd4 Nh5 10.Qc4 Nxg3 11.hxg3 b5 12.Qb3 Na6 13.Ne2 b4 14.Na4 d6 15.Nd4 
+dxc5 16.Bb5+ Kf8 17.Qd5 Bxd4 18.exd4 Nc7 19.Qd8+ Kg7 20.Qxe7 Qxb5 21.Qe5+  
+Kg8 22.Nxc5 Bg4 23.Kd2 Ne6 24.Ne4 Qxe5 25.dxe5 Bf5 26.Nd6 Bg6 27.a3 f6 28. 
+axb4 fxe5 29.c4 Rd8 30.c5 Rd7 31.Rhe1 Nd4 32.Ra6 e4 33.Kc3 Nf5 34.Nxe4 Kg7 
+35.c6 Re7 36.g4 Nh4 37.f3 Nxg2 38.Rd1 Bxe4 39.fxe4 Rc8 40.b5 Rcc7 41.Rda1  
+Kf6 42.Rxa7 Ke6 43.Rxc7 Rxc7 44.Kd4 Kd6 45.e5+ Ke7 46.Rc1 Nf4 47.b6 Rc8  
+48.b7 Ne6+ 49.Ke4 Rb8 50.c7 Nxc7 51.Rxc7+ Ke6 52.Rc6+ Kd7 53.Rxh6 Rxb7 54. 
+Rh7+ Ke6 55.Rh6+ Kf7 56.Kf5 Rxb2 57.Rh7+ Kg8 58.Rc7 Re2 59.Ra7 Rf2+ 60. 
+Kxg5 Rf8 61.Ra6 Kg7 62.Rg6+ Kh7 63.Rf6 Re8 64.Kf5 Kg7 65.Rg6+ Kh7 66.Rd6  
+Ra8 67.Rd7+ Kg8 68.e6 Kf8 69.Kf6 Kg8 70.Rg7+ Kh8 71.Rg5 Kh7 72.Kf7 1-0 
+ 
+[Event "6. World Blitz"] 
+[Site "Moscow RUS"] 
+[Date "2010.11.17"] 
+[Round "27.4"] 
+[White "Ponomariov, Ruslan"] 
+[Black "Andreikin, Dmitry"] 
+[Result "0-1"] 
+[WhiteElo "2744"] 
+[BlackElo "2683"] 
+[ECO "A45"] 
+[EventDate "2010.11.16"] 
+ 
+1.d4 Nf6 2.Bf4 Nh5 3.Bg5 h6 4.Bh4 g5 5.e3 Nf6 6.Bg3 Bg7 7.Bd3 d6 8.Nd2 Nc6 
+9.c3 e5 10.Qc2 Qe7 11.O-O-O Be6 12.h4 g4 13.h5 O-O-O 14.Ne2 Kb8 15.Bh4 Qd7 
+16.Ng3 d5 17.Nf5 Bxf5 18.Bxf5 Qd6 19.Nb3 Rhg8 20.Bg3 Qe7 21.Nc5 Ne8 22.Kb1 
+Nd6 23.Bd3 Ka8 24.Qa4 Nb8 25.Bh4 Bf6 26.Bg3 c6 27.Bc2 Rge8 28.Qb4 Nc4 29. 
+Bf5 Na6 30.Nxa6 bxa6 31.Qxe7 Rxe7 32.Bd3 e4 33.Be2 a5 34.b3 Rb7 35.Kc2  
+Na3+ 36.Kb2 Nc4+ 37.Kc1 Na3 38.Bxg4 a4 39.b4 a5 40.bxa5 Rb1+ 41.Kd2 Rb2+  
+42.Ke1 Nc2+ 43.Kf1 Rg8 44.Bd7 Rxg3 45.Bxc6+ Ka7 46.Bxd5 Rxe3 47.Rh3 Rxh3  
+48.gxh3 e3 49.Rd3 0-1 
+ 
+[Event "Dos Hermanas Blitz Final"] 
+[Site "Internet Chess Club INT"] 
+[Date "2010.03.19"] 
+[Round "1.1"] 
+[White "Valdes Romero, Leonardo"] 
+[Black "Andreikin, Dmitry"] 
+[Result "0-1"] 
+[WhiteElo "2395"] 
+[BlackElo "2645"] 
+[ECO "A48"] 
+[EventDate "2010.03.19"] 
+ 
+1.d4 Nf6 2.Bf4 Nh5 3.Bc1 Nf6 4.Bf4 Nh5 5.Bc1 Nf6 6.Bf4 g6 7.e3 Bg7 8.Nf3  
+Nh5 9.Bg5 h6 10.Bh4 g5 11.Bg3 d6 12.Be2 Nd7 13.c4 e5 14.Nc3 O-O 15.Qc2 f5  
+16.dxe5 Nxg3 17.hxg3 dxe5 18.O-O-O c6 19.g4 fxg4 20.Nh2 h5 21.Nxg4 Qe8 22. 
+Nh2 g4 23.Nf1 Rxf2 24.Ng3 Nf6 25.Nce4 Nxe4 26.Qxe4 Rxe2 27.Nxe2 Be6 28.Ng3 
+Bf7 29.Rdf1 Qe6 30.Nxh5 Bg6 31.Nf4 Bxe4 32.Nxe6 Bxg2 33.Rhg1 Bxf1 34.Rxf1  
+Bh6 35.Kd2 Re8 36.Nc5 Kg7 37.Ne4 Rf8 38.Rg1 Rf3 39.Rxg4+ Kf7 40.Nd6+ Ke6  
+41.Nxb7 Bxe3+ 42.Ke2 Rh3 43.Rg6+ Kf5 44.Rxc6 Bd4 45.Nd6+ Kf4 46.Rc8 e4 47. 
+Rf8+ Ke5 48.Nxe4 Kxe4 49.Re8+ Be5 50.c5 Rh2+ 51.Kd1 Rxb2 52.Kc1 Rb5 53.c6  
+Rc5+ 54.Kd2 Rxc6 55.Re7 Kd5 56.Kd1 Bd4 57.Rd7+ Kc4 58.Rd8 Kd3 59.Re8 Rg6  
+60.Re2 Rg1+ 61.Re1 Rg2 62.a3 Ra2 63.Kc1 Ra1# 0-1 
+ 
+[Event "2. Bundesliga West 2009/10 rounds 1-6"] 
+[Site "AUT"] 
+[Date "2009.11.28"] 
+[Round "5"] 
+[White "Reich, Thomas"] 
+[Black "Sergeev, Vladimir"] 
+[Result "0-1"] 
+[WhiteElo "2368"] 
+[BlackElo "2447"] 
+[ECO "A45"] 
+[EventDate "2009.10.23"] 
+ 
+1.d4 Nf6 2.Bf4 Nh5 3.Bc1 Nf6 4.Bf4 c5 5.e3 d6 6.c3 Nbd7 7.Nf3 Nh5 8.Bg5 h6 
+9.Bh4 g5 10.Nfd2 Ndf6 11.Bg3 b6 12.Bb5+ Bd7 13.a4 Bg7 14.c4 O-O 15.Bxd7  
+Qxd7 16.Nc3 cxd4 17.exd4 Nxg3 18.hxg3 d5 19.cxd5 Nxd5 20.Nf3 Rac8 21.Rc1  
+Nxc3 22.bxc3 Rfe8 23.Ne5 Bxe5 24.dxe5 0-1 

@@ -1,0 +1,108 @@
+ 
+[Event "TCh-AUT 1. Bundesliga 2013-14"] 
+[Site "Wolfsberg AUT"] 
+[Date "2014.02.02"] 
+[Round "7.5"] 
+[White "Moser, Guenter"] 
+[Black "Schneider, Ilja"] 
+[Result "1-0"] 
+[WhiteElo "2357"] 
+[BlackElo "2511"] 
+[ECO "D13"] 
+[EventDate "2013.12.06"] 
+ 
+1.c4 d5 2.d4 c6 3.cxd5 cxd5 4.Nc3 Nf6 5.Nf3 Nc6 6.Ne5 e6 7.Nxc6 bxc6 8.e3  
+c5 9.Bd2 Be7 10.dxc5 Bxc5 11.b4 Bd6 12.Be2 O-O 13.a3 e5 14.O-O Bb7 15.Rc1  
+Rc8 16.Na4 Rxc1 17.Qxc1 Qd7 18.Nc5 Bxc5 19.Qxc5 Ne4 20.Qc2 Rc8 21.Qb2 Nxd2 
+22.Qxd2 Qc6 23.Bf3 Qc3 24.Qxc3 Rxc3 25.Ra1 Kf8 26.Kf1 Ba6+ 27.Ke1 Rc2 28. 
+Bd1 Rb2 29.Rc1 Bc4 30.e4 g6 31.exd5 Bxd5 32.Rc5 Bxg2 33.Rxe5 Rb1 34.Kd2  
+Rb2+ 35.Ke3 Rb1 36.Kd2 Rb2+ 37.Ke3 Bf1 38.Rc5 a6 39.Bc2 Ra2 40.Rc3 Bb5 41. 
+Kd4 Ra1 42.Kc5 Rc1 43.Kb6 h5 44.Ka5 Kg7 45.a4 Ra1 46.Rc5 Ra2 47.h4 Be8 48. 
+Rc8 Bd7 49.Rc7 Be8 50.f4 Kf6 51.Rc5 Bd7 52.Rc7 Be8 53.Rc5 Bd7 54.Rc7 Be8  
+55.Rc5 Ke7 56.Rc7+ Kd6 57.Rc3 Bd7 58.Rc5 Be8 59.Rc3 Bc6 60.Rc5 Bd7 61.Rc3  
+Ra1 62.Rd3+ Kc7 63.Rc3+ Kb7 64.Be4+ Kb8 65.Bc6 Bc8 66.Kb6 Rg1 67.b5 axb5  
+68.axb5 Ra1 69.Rd3 Ra7 70.Rd8 Re7 71.Rf8 Rc7 72.Kc5 Ra7 73.b6 Ra5+ 74.Kd6  
+Rf5 75.b7 Rf6+ 76.Kc5 1-0 
+ 
+[Event "19. Zadar Open A"] 
+[Site "Zadar CRO"] 
+[Date "2012.12.22"] 
+[Round "9.1"] 
+[White "Predojevic, Borki"] 
+[Black "Sumets, Andrey"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2600"] 
+[BlackElo "2638"] 
+[ECO "D14"] 
+[EventDate "2012.12.16"] 
+ 
+1.c4 d5 2.d4 c6 3.cxd5 cxd5 4.Nc3 Nf6 5.Nf3 Nc6 6.Bf4 Bf5 7.e3 e6 8.Bd3  
+Bxd3 9.Qxd3 Bd6 10.Bxd6 Qxd6 11.O-O 1/2-1/2 
+ 
+[Event "Acropolis IM Open"] 
+[Site "Athens GRE"] 
+[Date "2004.11.19"] 
+[Round "4"] 
+[White "Halkias, Stelios"] 
+[Black "Fontaine, Robert"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2526"] 
+[BlackElo "2531"] 
+[ECO "D16"] 
+[EventDate "2004.11.16"] 
+ 
+1.c4 d5 2.d4 c6 3.Nc3 Nf6 4.Nf3 dxc4 5.a4 Bg4 6.Ne5 Bh5 7.f3 Nfd7 8.Nxc4  
+e5 9.Ne4 Bb4+ 10.Bd2 Qe7 11.Bxb4 Qxb4+ 12.Qd2 Qxd2+ 13.Kxd2 exd4 14.Ned6+  
+Kd8 15.h4 f6 16.Nxb7+ Kc7 17.Nba5 Na6 18.e3 dxe3+ 19.Nxe3 Nb4 20.Bc4  
+1/2-1/2 
+ 
+[Event "XXIX Open A"] 
+[Site "Zalakaros HUN"] 
+[Date "2010.05.26"] 
+[Round "1"] 
+[White "Berczes, David"] 
+[Black "Makk, Robert"] 
+[Result "1-0"] 
+[WhiteElo "2519"] 
+[BlackElo "2222"] 
+[ECO "D45"] 
+[EventDate "2010.05.26"] 
+ 
+1.c4 d5 2.d4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 Nbd7 6.Qc2 b6 7.b3 Bb7 8.Bd3 Qc7  
+9.O-O Be7 10.Bb2 h6 11.Rac1 Rd8 12.cxd5 exd5 13.Ne2 O-O 14.Ng3 Rfe8 15.Qe2 
+Bf8 16.Ne5 c5 17.f4 Qb8 18.Nf5 g6 19.Ng3 Bg7 20.Qf3 a6 21.h4 Re7 22.h5  
+Nxh5 23.Nxh5 gxh5 24.Qxh5 cxd4 25.Bxd4 Nf6 26.Qh4 Qd6 27.Rf3 Ne4 28.Bxe4  
+dxe4 29.Rg3 Qe6 30.Nc6 Bxc6 31.Bxg7 Kh7 32.Bf6 1-0 
+ 
+[Event "7. Open"] 
+[Site "Izmir TUR"] 
+[Date "2008.09.01"] 
+[Round "4"] 
+[White "Purtseladze, Maka"] 
+[Black "Raes, Abdul Kader"] 
+[Result "1-0"] 
+[WhiteElo "2300"] 
+[BlackElo "2201"] 
+[ECO "D46"] 
+[EventDate "2008.08.30"] 
+ 
+1.c4 d5 2.d4 c6 3.Nf3 Nf6 4.e3 e6 5.Nbd2 Nbd7 6.Bd3 Bd6 7.O-O O-O 8.e4  
+dxe4 9.Nxe4 Nxe4 10.Bxe4 h6 11.Bc2 Qc7 12.Qd3 Nf6 13.b3 Rd8 14.Bb2 b6 15. 
+Rfe1 Kf8 16.d5 cxd5 17.Bxf6 gxf6 18.Qh7 dxc4 19.Nh4 Bxh2+ 20.Kh1 Be5 21.f4 
+Bxa1 22.Nf5 Ke8 23.Be4 Qc5 24.Bc6+ Bd7 25.Rxe6+ fxe6 26.Qg6+ Kf8 27.Qg7+  
+Ke8 28.Qg8+ 1-0 
+ 
+[Event "Beograd SER, Nedeljkovic Mem 2013"] 
+[Site "Beograd SER"] 
+[Date "2013.05.31"] 
+[Round "2"] 
+[White "Radusinovic, Lazar"] 
+[Black "Stankovic, Milos"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2238"] 
+[BlackElo "2301"] 
+[ECO "D94"] 
+[EventDate "2013.05.31"] 
+ 
+1.c4 d5 2.d4 c6 3.Nc3 Nf6 4.Nf3 g6 5.e3 Bg7 6.Be2 O-O 7.O-O Bg4 8.h3 Bxf3  
+9.Bxf3 e6 10.e4 dxe4 11.Nxe4 Nxe4 12.Bxe4 Nd7 13.Be3 Nb6 14.b3 1/2-1/2 

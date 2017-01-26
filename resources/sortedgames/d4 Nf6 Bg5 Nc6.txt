@@ -1,0 +1,17 @@
+ 
+[Event "Hanoi VIE, Ch U15 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.16"] 
+[Round "7.7"] 
+[White "Nguyen, Dang Trong Phuc"] 
+[Black "Le, Xuan Quang"] 
+[Result "0-1"] 
+[WhiteElo "2587"] 
+[BlackElo "2576"] 
+[ECO "A45"] 
+[EventDate "2012.07.12"] 
+ 
+1.d4 Nf6 2.Bg5 Nc6 3.e3 h6 4.Bh4 e5 5.Nc3 Be7 6.dxe5 Nxe5 7.f4 Ng6 8.Bxf6  
+Bxf6 9.Qd2 O-O 10.O-O-O Re8 11.Nf3 c6 12.Bd3 Nh4 13.Nxh4 Bxh4 14.g3 Be7  
+15.h4 d5 16.Rdg1 Bc5 17.Re1 Bb4 18.a3 Ba5 19.Be2 b5 20.b4 Bb6 21.Bf3 a5  
+22.g4 axb4 23.axb4 Qe7 24.Nd1 Ra1+ 25.Kb2 Qa7 26.c4 Qa3+ 0-1 

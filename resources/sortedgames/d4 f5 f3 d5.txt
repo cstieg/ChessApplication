@@ -1,0 +1,38 @@
+ 
+[Event "22. Open 2013"] 
+[Site "Kavala GRE"] 
+[Date "2013.08.10"] 
+[Round "6.7"] 
+[White "Galopoulos, Nikolaos"] 
+[Black "Rychagov, Andrey"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2354"] 
+[BlackElo "2544"] 
+[ECO "A80"] 
+[EventDate "2013.08.06"] 
+ 
+1.d4 f5 2.f3 d5 3.c4 e6 4.Bf4 Nf6 5.e3 Nh5 6.Nh3 Nxf4 7.Nxf4 c6 8.Nd2 Bd6  
+9.Be2 O-O 10.O-O Qf6 11.g3 e5 12.dxe5 Qxe5 13.Ng2 Bc5 14.cxd5 cxd5 15.f4  
+Qe7 16.Qb3 Be6 17.Nf3 Nc6 18.Rfd1 Bf7 19.Ng5 Rad8 20.Rac1 Bb6 21.Nxf7 Qxf7 
+22.Bf3 d4 23.Qxf7+ Kxf7 24.Bxc6 bxc6 25.exd4 Bxd4+ 26.Kf1 Bxb2 27.Rxd8  
+Rxd8 28.Rxc6 Bd4 29.Nh4 Bb6 30.Nf3 Rd5 31.Rc2 Ke7 32.Ne5 Ke6 33.Ke2 Rc5  
+34.Nc4 Rc8 35.Kd3 Rd8+ 36.Ke2 Rc8 37.Kd3 Rd8+ 38.Ke2 Bd4 39.Ne3 g6 40.Rc7  
+Rd7 41.Rxd7 Kxd7 42.Kd3 Bc5 43.Nc4 Kc6 44.Ne5+ Kd5 45.Nf3 Be7 46.Ng5 h5  
+47.Nf3 Bf6 48.Nh4 Bxh4 1/2-1/2 
+ 
+[Event "Mulhouse FRA, Closed GM 2004"] 
+[Site "Mulhouse FRA"] 
+[Date "2004.06.30"] 
+[Round "1.1"] 
+[White "Marzolo, Cyril"] 
+[Black "Bricard, Emmanuel"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2409"] 
+[BlackElo "2450"] 
+[ECO "A80"] 
+[EventDate "2004.06.30"] 
+ 
+1.d4 f5 2.f3 d5 3.e4 dxe4 4.Nc3 e5 5.dxe5 Qxd1+ 6.Kxd1 Be6 7.fxe4 Nc6 8. 
+Nf3 O-O-O+ 9.Bd3 fxe4 10.Nxe4 h6 11.Bd2 Nge7 12.Re1 g5 13.Kc1 Bg7 14.Nc5  
+Bd5 15.Bc3 Rhf8 16.Be2 Ng6 17.Nd4 Nxd4 18.Bxd4 Rf4 19.Be3 Rh4 20.Rd1 Nxe5  
+21.Bg1 Rd6 22.g3 Rb4 23.c3 1/2-1/2 

@@ -1,0 +1,25 @@
+ 
+[Event "ch"] 
+[Site "Cairo EGY"] 
+[Date "2009.07.13"] 
+[Round "6"] 
+[White "Abou el Zein, Eid Mahmoud"] 
+[Black "Amin, Ashraf"] 
+[Result "1-0"] 
+[WhiteElo "2357"] 
+[BlackElo "2357"] 
+[ECO "A02"] 
+[EventDate "2009.07.08"] 
+ 
+1.f4 d6 2.Nf3 e5 3.fxe5 dxe5 4.Nxe5 Bd6 5.Nf3 g5 6.g3 g4 7.Nh4 Ne7 8.Nc3  
+Ng6 9.Nxg6 hxg6 10.Ne4 Be7 11.d4 f5 12.Nf2 Nc6 13.c3 Bd6 14.Qd3 Bd7 15.Bg2 
+Qe7 16.h4 Qf7 17.Bg5 Be7 18.Bf4 O-O-O 19.d5 Bf6 20.O-O-O Rhe8 21.Rhe1 Ne5  
+22.Qd4 Kb8 23.Qb4 Bc8 24.d6 cxd6 25.Rxd6 Ka8 26.Ra6 Re6 27.Ra4 Qc7 28.Rd1  
+Bd7 29.Ra5 Be7 30.Bxe5 Rxe5 31.Qxb7+ Qxb7 32.Bxb7+ Kxb7 33.Rxe5 Bf8 34.e3  
+Kc6 35.Red5 Bh6 36.R5d3 a5 37.b3 Bf8 38.Kb2 Bc5 39.a3 Bb6 40.b4 axb4 41. 
+axb4 Bc7 42.e4 Bb6 43.Rd6+ Kc7 44.Rxb6 Kxb6 45.exf5 gxf5 46.c4 Kc7 47.Re1  
+f4 48.Rg1 Bf5 49.Kc3 f3 50.Rd1 Re8 51.Rd5 Bc8 52.Rg5 Re2 53.Nxg4 f2 54. 
+Rg7+ Kd6 55.c5+ Kc6 56.Rg6+ Kc7 57.Nxf2 Rxf2 58.b5 Bb7 59.Rg7+ Kb8 60.h5  
+Rh2 61.g4 Rh3+ 62.Kd2 Rg3 63.h6 Be4 64.h7 Bxh7 65.Rxh7 Rxg4 66.Kc3 Rf4 67. 
+Rd7 Kc8 68.Rd4 Rf1 69.Rh4 Rb1 70.Kc4 Rc1+ 71.Kd5 Rg1 72.Rh6 Kb7 73.Rh7+  
+Kb8 74.b6 1-0 

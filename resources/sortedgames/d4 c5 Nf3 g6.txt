@@ -1,0 +1,72 @@
+ 
+[Event "V4 Int Open ch-2013"] 
+[Site "Banska Stiavnica SVK"] 
+[Date "2013.07.13"] 
+[Round "8.15"] 
+[White "Mukashev, Assan"] 
+[Black "Manik, Mikulas"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2247"] 
+[BlackElo "2412"] 
+[ECO "A43"] 
+[EventDate "2013.07.06"] 
+ 
+1.d4 c5 2.Nf3 g6 3.g3 Bg7 4.Bg2 cxd4 5.Nxd4 Qa5+ 6.Nc3 Nf6 7.O-O O-O 8.Nb3 
+Qd8 9.a4 a5 10.Nc5 Qc7 11.Nd3 Nc6 12.h3 d5 13.Nb5 Qd8 14.c3 e5 15.Be3 Be6  
+16.Bc5 Re8 17.Kh2 Ne4 18.Ba3 f5 19.Bxe4 fxe4 20.Nc5 Bc8 21.Qb3 b6 22.Nxe4  
+Be6 23.Ned6 d4 24.Qc2 Rf8 25.Qe4 Qd7 1/2-1/2 
+ 
+[Event "Open A"] 
+[Site "Chojnice POL"] 
+[Date "2005.07.20"] 
+[Round "7"] 
+[White "Cyborowski, Lukasz"] 
+[Black "Kuzmicz, Krystian"] 
+[Result "1-0"] 
+[WhiteElo "2537"] 
+[BlackElo "2357"] 
+[ECO "B35"] 
+[EventDate "2005.07.16"] 
+ 
+1.d4 c5 2.Nf3 g6 3.e4 Bg7 4.Nc3 cxd4 5.Nxd4 Nc6 6.Be3 Nf6 7.Bc4 Qa5 8.O-O  
+O-O 9.Nb3 Qc7 10.Bg5 Na5 11.Nxa5 Qxa5 12.Qd2 Qc5 13.Bb3 d6 14.Rae1 a6 15. 
+Nd5 Nxd5 16.exd5 Re8 17.Bxe7 Bd7 18.Qf4 Bxb2 19.Bxd6 Qd4 20.c4 Qxf4 21. 
+Bxf4 Bd4 22.Be3 Bxe3 23.Rxe3 b6 24.Rfe1 Kf8 25.Kf1 Rac8 26.Ke2 b5 27.Kd3  
+Red8 28.Kd4 bxc4 29.Bxc4 Bb5 30.Bb3 a5 31.Rc3 Rxc3 32.Kxc3 Rc8+ 33.Kb2 Re8 
+34.Rxe8+ Kxe8 35.d6 Kd7 36.Bxf7 Kxd6 37.Kc3 Kc5 38.f4 Be2 39.Bg8 h6 40.h4  
+Bf1 41.g3 Bh3 42.Bf7 Bf5 43.h5 gxh5 44.Bxh5 Kd5 45.Bf3+ Be4 46.Bxe4+ Kxe4  
+47.Kd2 Kf5 48.Ke3 Kg4 49.Ke4 1-0 
+ 
+[Event "ch-LAT 2012"] 
+[Site "Riga LAT"] 
+[Date "2012.05.01"] 
+[Round "5"] 
+[White "Osis, Renars"] 
+[Black "Meskovs, Nikita"] 
+[Result "0-1"] 
+[WhiteElo "2211"] 
+[BlackElo "2319"] 
+[ECO "B77"] 
+[EventDate "2012.04.29"] 
+ 
+1.d4 c5 2.Nf3 g6 3.e4 Bg7 4.Nc3 cxd4 5.Nxd4 Nc6 6.Be3 d6 7.Bc4 Nf6 8.f3  
+Bd7 9.Qd2 O-O 10.Nxc6 bxc6 11.O-O-O a5 12.g4 a4 13.e5 Ne8 14.Bh6 Bxe5 15. 
+Bxf8 Kxf8 16.Rhe1 Qa5 17.f4 Bg7 18.Qe3 e6 19.a3 Rb8 20.Rd2 d5 21.Nd1 Nd6  
+22.Bd3 c5 23.Qg3 c4 24.f5 Qb6 25.fxe6 cxd3 26.e7+ Ke8 27.cxd3 Be6 28.Rc2  
+h6 29.Nc3 Ra8 30.Qg2 Qa5 31.h3 Rc8 32.Qg3 Kxe7 33.Qf4 d4 0-1 
+ 
+[Event "FSIMC August"] 
+[Site "Budapest HUN"] 
+[Date "2005.08.15"] 
+[Round "10"] 
+[White "Le, Quang Liem"] 
+[Black "Kaposztas, Miklos"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2326"] 
+[BlackElo "2260"] 
+[ECO "E65"] 
+[EventDate "2005.08.06"] 
+ 
+1.d4 c5 2.Nf3 g6 3.g3 Bg7 4.Bg2 Nf6 5.O-O O-O 6.c4 Nc6 7.Nc3 d6 8.h3 cxd4  
+9.Nxd4 Bd7 10.Nf3 a6 11.Be3 Na5 12.b3 Rb8 13.Rc1 b5 14.c5 dxc5 15.Bxc5 Nb7 
+16.Ba7 Ra8 17.Bd4 Bc6 18.Na4 Be4 19.Nc3 Bc6 20.Na4 1/2-1/2 

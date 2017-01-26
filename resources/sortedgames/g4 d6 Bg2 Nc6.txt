@@ -1,0 +1,40 @@
+ 
+[Event "Cup Ilyumzhinov"] 
+[Site "Internet INT"] 
+[Date "2006.05.06"] 
+[Round "?"] 
+[White "Reprintsev, Alexander"] 
+[Black "Castaneda, Georgui"] 
+[Result "0-1"] 
+[WhiteElo "2415"] 
+[BlackElo "2451"] 
+[ECO "A00"] 
+ 
+1.g4 d6 2.Bg2 Nc6 3.h3 e5 4.e3 h5 5.Nc3 hxg4 6.hxg4 Rxh1 7.Bxh1 Qh4 8.Bf3  
+Nf6 9.b4 Bxg4 10.b5 Nd8 11.Nd5 Nxd5 12.Bxg4 Be7 13.c4 Nb4 14.Be2 e4 15.Qb3 
+Qh2 16.Qxb4 Qxg1+ 17.Bf1 Bh4 18.Bb2 Qxf2+ 19.Kd1 Qxf1+ 20.Kc2 Qd3+ 21.Kc1  
+Ne6 22.Bd4 Nxd4 23.exd4 Bf6 0-1 
+ 
+[Event "It"] 
+[Site "Techirghiol ROM"] 
+[Date "2000.07.12"] 
+[Round "10"] 
+[White "Kutnik, Alexandru-Francisc"] 
+[Black "Tikhomirov, Sergei"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2256"] 
+[BlackElo "2238"] 
+[ECO "A00"] 
+[EventDate "2000.07.02"] 
+ 
+1.g4 d6 2.Bg2 Nc6 3.e3 e5 4.c4 h5 5.gxh5 Qh4 6.Qb3 a6 7.Nc3 Nf6 8.Nge2  
+Qxh5 9.Ng3 Qg4 10.d3 Be7 11.Bd2 Nd8 12.Nd5 Nxd5 13.cxd5 Bd7 14.Rc1 c5 15. 
+dxc6 Bxc6 16.Bxc6+ bxc6 17.Ba5 c5 18.Qd5 Rc8 19.Bxd8 Rxd8 20.Qc6+ Qd7 21. 
+Qxd7+ Kxd7 22.Rc4 g6 23.Ra4 Ra8 24.h4 Rhb8 25.b3 a5 26.h5 gxh5 27.Rxh5 Rb4 
+28.Rh7 Rxa4 29.bxa4 Ke6 30.Rh6+ f6 31.f4 exf4 32.exf4 d5 33.f5+ Ke5 34.Rh7 
+Bd6 35.Rd7 Rb8 36.Ne2 Rb1+ 37.Kf2 Rb2 38.Kf3 Rxa2 39.Nc3 Rd2 40.Ke3 Rc2  
+41.Nb5 Bf8 42.Nc7 d4+ 43.Kf3 Kxf5 44.Rd5+ Kg6 45.Ne6 Be7 46.Rd7 Kf7 47.Nf4 
+Ke8 48.Ra7 Bd6 49.Ne6 c4 50.dxc4 Bb4 51.Nxd4 Rxc4 52.Nf5 Kd8 53.Ke2 Rf4  
+54.Ng7 Re4+ 55.Kd3 Re7 56.Ra8+ Kd7 57.Nf5 Re1 58.Ra6 Re6 59.Ra7+ Kc8 60. 
+Rf7 Kd8 61.Nd4 Ke8 62.Rb7 Re7 63.Rb5 Rc7 64.Ke4 Rc5 65.Rb7 Re5+ 66.Kd3 f5  
+67.Rb5 Rxb5 68.axb5 f4 69.Nc6 Kd7 70.Ke4 Bc3 71.Nxa5 1/2-1/2 

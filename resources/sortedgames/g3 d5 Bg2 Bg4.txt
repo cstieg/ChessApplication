@@ -1,0 +1,36 @@
+ 
+[Event "Atlantis Meestertienkamp"] 
+[Site "Groningen NED"] 
+[Date "2008.07.02"] 
+[Round "6"] 
+[White "Pel, Bonno"] 
+[Black "Becker, Martin Alexander"] 
+[Result "1-0"] 
+[WhiteElo "2288"] 
+[BlackElo "2364"] 
+[ECO "A00"] 
+[EventDate "2008.06.27"] 
+ 
+1.g3 d5 2.Bg2 Bg4 3.c4 e6 4.Qa4+ c6 5.cxd5 Nf6 6.dxe6 Bxe6 7.Nf3 Bc5 8.O-O 
+Nbd7 9.d4 Nb6 10.Qc2 Bxd4 11.Rd1 Bf5 12.Qxf5 Bxf2+ 13.Kxf2 Qxd1 14.Nc3 Qd7 
+15.Qe5+ Qe7 16.Qxe7+ Kxe7 17.h3 Nfd5 18.Ne4 Nd7 19.b3 b6 20.Nd4 c5 21.Nf5+ 
+Kf8 22.Bb2 1-0 
+ 
+[Event "Ch France (accession)"] 
+[Site "Val d'Isere FRA"] 
+[Date "2004.08.??"] 
+[Round "6"] 
+[White "Shoker, Samy"] 
+[Black "Carmeille, Ludovic"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2360"] 
+[BlackElo "2232"] 
+[ECO "A00"] 
+ 
+1.g3 d5 2.Bg2 Bg4 3.c4 e6 4.Qb3 Nf6 5.cxd5 exd5 6.Qxb7 Nbd7 7.Qb3 Rb8 8. 
+Qc2 Bd6 9.Nf3 c5 10.d3 O-O 11.O-O Qe7 12.Nbd2 Rfc8 13.Re1 Ne5 14.b3 c4 15. 
+bxc4 dxc4 16.dxc4 Bb4 17.Nxe5 Qxe5 18.Bb2 Qa5 19.Nb3 Qh5 20.Rec1 Bxe2 21. 
+c5 Bf3 22.Bxf3 Qxf3 23.Be5 Rb7 24.a3 Ng4 25.Bd4 Be1 26.Rab1 Bxf2+ 27.Bxf2  
+Nxf2 28.Qxf2 Rxb3 29.Qxf3 Rxf3 30.a4 Rf6 31.Rb7 a6 32.a5 g6 33.Rb6 Rf5 34. 
+Rxa6 Rfxc5 35.Rxc5 Rxc5 36.Ra8+ Kg7 37.a6 Rc2 38.a7 Ra2 39.Kf1 h5 40.h3  
+1/2-1/2 

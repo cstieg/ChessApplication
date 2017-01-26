@@ -1,0 +1,38 @@
+ 
+[Event "CRO-Cup"] 
+[Site "Rabac CRO"] 
+[Date "2003.05.26"] 
+[Round "1"] 
+[White "Cvitan, Ognjen"] 
+[Black "Nol, Andrija"] 
+[Result "1-0"] 
+[WhiteElo "2551"] 
+[BlackElo "2279"] 
+[ECO "A90"] 
+[EventDate "2003.05.26"] 
+ 
+1.d4 f5 2.g3 c6 3.Bg2 Nf6 4.c4 e6 5.Nf3 d5 6.O-O Bd6 7.b3 Qe7 8.Nbd2 Nbd7  
+9.Bb2 Ng4 10.h3 Nh6 11.Ne5 Nxe5 12.dxe5 Ba3 13.Qc1 Bxb2 14.Qxb2 O-O 15.e3  
+Nf7 16.Rfc1 b6 17.cxd5 cxd5 18.f4 Bb7 19.Nf3 Rfc8 20.Nd4 Qd7 21.Qa3 a6 22. 
+Bf1 b5 23.Qa5 Nd8 24.Qb6 Kf7 25.a4 bxa4 26.bxa4 g6 27.a5 Bc6 28.Rab1 Bb7  
+29.Be2 Rxc1+ 30.Rxc1 Rc8 31.Rxc8 Qxc8 32.Kf2 Ke8 33.g4 fxg4 34.hxg4 Kf7  
+35.f5 Nc6 36.Nxe6 gxf5 37.gxf5 1-0 
+ 
+[Event "CRO-Cup"] 
+[Site "Rabat CRO"] 
+[Date "2003.05.26"] 
+[Round "1"] 
+[White "Cvitan, Ognjen"] 
+[Black "Nol, Andrija"] 
+[Result "1-0"] 
+[WhiteElo "2551"] 
+[BlackElo "2279"] 
+[ECO "A90"] 
+[EventDate "2003.05.26"] 
+ 
+1.d4 f5 2.g3 c6 3.Bg2 Nf6 4.c4 e6 5.Nf3 d5 6.O-O Bd6 7.b3 Qe7 8.Nbd2 Nbd7  
+9.Bb2 Ng4 10.h3 Nh6 11.Ne5 Nxe5 12.dxe5 Ba3 13.Qc1 Bxb2 14.Qxb2 O-O 15.e3  
+Nf7 16.Rfc1 b6 17.cxd5 cxd5 18.f4 Bb7 19.Nf3 Rfc8 20.Nd4 Qd7 21.Qa3 a6 22. 
+Bf1 b5 23.Qa5 Nd8 24.Qb6 Kf7 25.a4 bxa4 26.bxa4 g6 27.a5 Bc6 28.Rab1 Bb7  
+29.Be2 Rxc1+ 30.Rxc1 Rc8 31.Rxc8 Qxc8 32.Kf2 Ke8 33.g4 fxg4 34.hxg4 Kf7  
+35.f5 Nc6 36.Nxe6 gxf5 37.gxf5 1-0 

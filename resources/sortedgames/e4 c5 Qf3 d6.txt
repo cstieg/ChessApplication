@@ -1,0 +1,19 @@
+ 
+[Event "Hanoi VIE, Ch U9 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.14"] 
+[Round "4.19"] 
+[White "Le, Kha Duy"] 
+[Black "Pham, Duc Khoi"] 
+[Result "0-1"] 
+[WhiteElo "2543"] 
+[BlackElo "2595"] 
+[ECO "B20"] 
+[EventDate "2012.07.12"] 
+ 
+1.e4 c5 2.Qf3 d6 3.Bc4 Nf6 4.Nh3 e6 5.d3 a6 6.a4 Nc6 7.O-O Be7 8.Qg3 O-O  
+9.Nc3 Ne5 10.Bf4 Ng6 11.Bg5 Bd7 12.Bxf6 Bxf6 13.Qxd6 Bd4 14.Qg3 Bc6 15.Nf4 
+Be5 16.Nce2 Qb8 17.Qg4 Nxf4 18.Nxf4 Bxf4 19.g3 Be5 20.c3 g6 21.h4 Bg7 22. 
+Kg2 h5 23.Qg5 Qe5 24.Qxe5 Bxe5 25.Rh1 Rfe8 26.Raf1 Rad8 27.f4 Bg7 28.f5  
+exf5 29.Kh2 Re7 30.Rfg1 fxe4 31.dxe4 Bxe4 32.Re1 Rd2+ 33.Kh3 Bf5+ 34.g4  
+Bxg4+ 35.Kg3 Rxe1 36.Rxe1 Rxb2 37.Re8+ Bf8 38.Rc8 Bxc8 0-1 

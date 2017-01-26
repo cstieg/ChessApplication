@@ -1,0 +1,37 @@
+ 
+[Event "Navalmoral de la Mata ESP, 15. Open"] 
+[Site "Navalmoral de la Mata ESP"] 
+[Date "2009.12.08"] 
+[Round "9.8"] 
+[White "Larino Nieto, David"] 
+[Black "Palencia, Wilson"] 
+[Result "1-0"] 
+[WhiteElo "2467"] 
+[BlackElo "2349"] 
+[ECO "B07"] 
+[EventDate "2009.12.04"] 
+ 
+1.e4 d6 2.d3 e5 3.f4 Nf6 4.Nf3 Nc6 5.Be2 Bg4 6.c3 Be7 7.Qb3 Rb8 8.Ng5 Rf8  
+9.Nxh7 Be6 10.Nxf6+ Bxf6 11.Qc2 Rh8 12.f5 Bh4+ 13.Kd1 Bd7 14.Bf3 Bg3 15.h3 
+b5 16.Nd2 a5 17.Nf1 Bh4 18.g3 Bf6 19.Ne3 Qc8 20.h4 b4 21.Nd5 Bd8 22.h5 Ne7 
+23.Nxe7 Bxe7 24.h6 g5 25.fxg6 fxg6 26.Qe2 bxc3 27.bxc3 c5 28.c4 Qd8 29.h7  
+Bg5 30.Bh5 Ba4+ 31.Ke1 Bxc1 32.Bxg6+ Kd7 33.Qg4+ Kc6 34.Rxc1 Rb2 35.Kf1  
+Bc2 36.Kg1 Bxd3 37.Rh2 Rxh2 38.Kxh2 Qf8 39.Kg1 Qh6 40.Re1 Bxc4 41.Bf5 Qd2  
+42.Qd1 Qxa2 43.g4 Rb8 44.Qa1 Qb3 45.Kg2 Qc2+ 46.Kg3 Rb3+ 47.Kh4 Qb2 48.Kg5 
+Qd2+ 49.Kg6 Rh3 50.g5 Rg3 51.Qc1 Rxg5+ 52.Kf6 Qxc1 53.Rxc1 Rh5 54.Rxc4 Kb5 
+55.Rc3 1-0 
+ 
+[Event "SVDB IM Norm"] 
+[Site "Eupen BEL"] 
+[Date "2007.12.15"] 
+[Round "9"] 
+[White "Braun, Christian"] 
+[Black "Hautot, Stephane"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2296"] 
+[BlackElo "2333"] 
+[ECO "B07"] 
+[EventDate "2007.12.07"] 
+ 
+1.e4 d6 2.d3 e5 3.g3 Nf6 4.Nf3 Be7 5.Bg2 O-O 6.O-O c5 7.a4 Nc6 8.c3 h6 9. 
+Nbd2 Be6 10.Qe2 Qd7 11.Nc4 Rab8 12.Ne3 Rfe8 13.Nh4 1/2-1/2 

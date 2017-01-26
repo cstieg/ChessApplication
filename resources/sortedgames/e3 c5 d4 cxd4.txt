@@ -1,0 +1,45 @@
+ 
+[Event "Dos Hermanas Internet Final"] 
+[Site "Internet INT"] 
+[Date "2007.03.23"] 
+[Round "1"] 
+[White "Har-Zvi, Ronen"] 
+[Black "Savchenko, Boris"] 
+[Result "1-0"] 
+[WhiteElo "2515"] 
+[BlackElo "2562"] 
+[ECO "B14"] 
+ 
+1.e3 c5 2.d4 cxd4 3.exd4 Nf6 4.c4 e6 5.Nc3 d5 6.Nf3 Bb4 7.Bg5 O-O 8.Bd3  
+dxc4 9.Bxc4 Qc7 10.Qd3 Nd5 11.O-O Nxc3 12.bxc3 Be7 13.Bxe7 Qxe7 14.Rfe1  
+Qd6 15.Ng5 g6 16.Qh3 h5 17.Nxe6 Nc6 18.Qd3 Re8 19.Ng5 Rf8 20.Ne6 Re8 21. 
+Nc7 Rxe1+ 22.Rxe1 Bf5 23.Qg3 Qxg3 24.hxg3 Rd8 25.Re8+ Rxe8 26.Nxe8 Na5 27. 
+Bd5 Be6 28.Nf6+ Kf8 29.Bxe6 fxe6 30.Nd7+ Ke7 31.Ne5 Kf6 32.c4 b6 33.f3 Nb7 
+34.Kf2 Nd6 35.g4 hxg4 36.Nxg4+ Ke7 37.Ne5 Kf6 38.g4 Kg5 39.Ke3 Kf6 40.f4  
+g5 41.c5 Nb5 42.cxb6 gxf4+ 43.Kxf4 axb6 44.Nd7+ Ke7 45.Nxb6 Nxd4 46.Nc4  
+Kf6 47.g5+ Kg6 48.Ne5+ Kg7 49.Ke4 Nb5 50.Kd3 Na3 51.Kc3 Kf8 52.Kb3 Nb5 53. 
+a4 Nc7 54.Kb4 Ke7 55.a5 Kd6 56.g6 Nd5+ 57.Kb5 Kc7 58.Kc5 Ne7 59.a6 Ng8 60. 
+g7 Nh6 61.Nf7 Ng8 62.Nd6 Kb8 63.Kb6 Nf6 64.g8=Q+ Nxg8 65.a7+ 1-0 
+ 
+[Event "8. Dos Hermanas Internet"] 
+[Site "Internet Chess Club INT"] 
+[Date "2007.03.23"] 
+[Round "1.5"] 
+[White "Har-Zvi, Ronen"] 
+[Black "Savchenko, Boris"] 
+[Result "1-0"] 
+[WhiteElo "2515"] 
+[BlackElo "2562"] 
+[ECO "B14"] 
+[EventDate "2007.03.23"] 
+ 
+1.e3 c5 2.d4 cxd4 3.exd4 Nf6 4.c4 e6 5.Nc3 d5 6.Nf3 Bb4 7.Bg5 O-O 8.Bd3  
+dxc4 9.Bxc4 Qc7 10.Qd3 Nd5 11.O-O Nxc3 12.bxc3 Be7 13.Bxe7 Qxe7 14.Rfe1  
+Qd6 15.Ng5 g6 16.Qh3 h5 17.Nxe6 Nc6 18.Qd3 Re8 19.Ng5 Rf8 20.Ne6 Re8 21. 
+Nc7 Rxe1+ 22.Rxe1 Bf5 23.Qg3 Qxg3 24.hxg3 Rd8 25.Re8+ Rxe8 26.Nxe8 Na5 27. 
+Bd5 Be6 28.Nf6+ Kf8 29.Bxe6 fxe6 30.Nd7+ Ke7 31.Ne5 Kf6 32.c4 b6 33.f3 Nb7 
+34.Kf2 Nd6 35.g4 hxg4 36.Nxg4+ Ke7 37.Ne5 Kf6 38.g4 Kg5 39.Ke3 Kf6 40.f4  
+g5 41.c5 Nb5 42.cxb6 gxf4+ 43.Kxf4 axb6 44.Nd7+ Ke7 45.Nxb6 Nxd4 46.Nc4  
+Kf6 47.g5+ Kg6 48.Ne5+ Kg7 49.Ke4 Nb5 50.Kd3 Na3 51.Kc3 Kf8 52.Kb3 Nb5 53. 
+a4 Nc7 54.Kb4 Ke7 55.a5 Kd6 56.g6 Nd5+ 57.Kb5 Kc7 58.Kc5 Ne7 59.a6 Ng8 60. 
+g7 Nh6 61.Nf7 Ng8 62.Nd6 Kb8 63.Kb6 Nf6 64.g8=Q+ Nxg8 65.a7+ 1-0 

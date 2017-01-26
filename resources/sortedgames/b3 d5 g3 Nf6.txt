@@ -1,0 +1,61 @@
+ 
+[Event "TCh-AUT 2. Mitte 2014-15"] 
+[Site "Austria AUT"] 
+[Date "2015.04.19"] 
+[Round "11.6"] 
+[White "Knoll, Hermann"] 
+[Black "Kastner, Walter"] 
+[Result "0-1"] 
+[WhiteElo "2307"] 
+[BlackElo "2239"] 
+[ECO "A01"] 
+[EventDate "2014.10.03"] 
+ 
+1.b3 d5 2.g3 Nf6 3.Bg2 g6 4.Bb2 Bg7 5.e3 Nc6 6.Ne2 O-O 7.d3 Re8 8.Nd2 a5  
+9.a3 e5 10.h3 Be6 11.O-O Qd7 12.Kh2 Rad8 13.Nf3 Qd6 14.Ra2 h6 15.Qa1 Nd7  
+16.d4 e4 17.Nd2 a4 18.b4 Ne7 19.c4 c6 20.Nc3 f5 21.c5 Qc7 22.Nxa4 g5 23. 
+Nc3 f4 24.Ndxe4 dxe4 25.d5 cxd5 26.Nb5 Bxb2 27.Nxc7 Bxa1 28.Nxe6 Be5 29. 
+Nxd8 Rxd8 30.Rd1 Nf6 31.exf4 gxf4 32.gxf4 Bxf4+ 33.Kh1 Nf5 34.a4 Nh4 35.a5 
+Kf7 36.Bf1 Nf3 37.Be2 Ne5 38.a6 bxa6 39.Bxa6 d4 40.b5 e3 41.fxe3 Bxe3 42. 
+Bb7 d3 43.Ra8 Rxa8 44.Bxa8 Bxc5 45.Bg2 Ke6 46.Bf1 Ne4 47.Kg2 Nc3 48.Rxd3  
+Nxd3 49.Bxd3 Kf6 50.Kg3 Nd5 51.Kg4 Bb6 52.Be4 Ne3+ 53.Kh5 Kg7 54.Bd3 Nd5  
+55.Kg4 Kf6 56.Be4 Ne7 57.Kh5 Kg7 58.Kg4 Nc8 59.Bd3 Nd6 60.Be2 Be3 61.Bd3  
+Kf6 62.Kf3 Bd2 63.Kg4 Ke5 64.Kf3 Kd4 65.Bf1 h5 66.Be2 Nf7 67.Kg3 Be1+ 68. 
+Kf4 h4 69.Bf1 Bg3+ 70.Kf5 Nd6+ 71.Ke6 Kc5 72.Be2 Nc8 73.Bd1 Kd4 74.Kd7  
+Nb6+ 75.Kc6 Nd5 76.b6 Nb4+ 77.Kb5 Kc3 78.Be2 Nc2 79.Bg4 Kd4 80.Kc6 Ne3 81. 
+Be6 Ke5 82.Bb3 Ke4 83.b7 Kf3 84.Be6 Bf4 85.Kd7 Kg3 86.Kc8 Nd1 87.b8=Q Bxb8 
+88.Kxb8 Nf2 89.Kc7 Nxh3 90.Kd6 Nf2 91.Ke5 Ng4+ 92.Ke4 h3 93.Bd5 Kf2 94.Ba8 
+Ne3 95.Kd3 Ng2 0-1 
+ 
+[Event "20. TCh-CRO 1a"] 
+[Site "Sibenik CRO"] 
+[Date "2011.10.04"] 
+[Round "1.4"] 
+[White "Sermek, Drazen"] 
+[Black "Muse, Mladen"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2512"] 
+[BlackElo "2443"] 
+[ECO "A01"] 
+[EventDate "2011.10.04"] 
+ 
+1.b3 d5 2.g3 Nf6 3.Bb2 c6 4.f4 g6 5.Nf3 Bg7 6.Bg2 O-O 7.O-O a5 8.e3 a4 9. 
+d3 Qb6 10.Bd4 c5 11.Bb2 1/2-1/2 
+ 
+[Event "21. Open"] 
+[Site "Bratto ITA"] 
+[Date "2001.08.23"] 
+[Round "2"] 
+[White "Everet, Alexandro"] 
+[Black "Dervishi, Erald"] 
+[Result "0-1"] 
+[WhiteElo "2308"] 
+[BlackElo "2491"] 
+[ECO "A01"] 
+[EventDate "2001.08.22"] 
+ 
+1.b3 d5 2.g3 Nf6 3.Bg2 e5 4.d3 Nc6 5.e3 Be7 6.Ne2 O-O 7.f3 Be6 8.O-O Re8  
+9.c3 a5 10.Ba3 Qd7 11.Bxe7 Nxe7 12.Na3 Bh3 13.Nc2 Rad8 14.Qe1 Bxg2 15.Kxg2 
+e4 16.fxe4 dxe4 17.d4 c5 18.c4 b6 19.Rd1 cxd4 20.Nexd4 Qc8 21.Qe2 Ng6 22. 
+Nb5 Rxd1 23.Rxd1 Re5 24.Rd6 h5 25.h3 Rg5 26.Kh2 h4 27.g4 Ne5 28.Kh1 Nfxg4  
+29.hxg4 Nxg4 30.Qf1 Nf2+ 31.Kh2 Qf5 0-1 

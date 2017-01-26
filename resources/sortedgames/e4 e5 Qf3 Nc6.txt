@@ -1,0 +1,100 @@
+ 
+[Event "Hanoi VIE, Ch U7 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.14"] 
+[Round "4.19"] 
+[White "Pham, Thien Loc"] 
+[Black "Nguyen, Bui Hoang Nam"] 
+[Result "0-1"] 
+[WhiteElo "2553"] 
+[BlackElo "2525"] 
+[ECO "C20"] 
+[EventDate "2012.07.12"] 
+ 
+1.e4 e5 2.Qf3 Nc6 3.Nh3 Nf6 4.c4 Nd4 5.Qd1 Nxe4 6.b3 Bd6 7.Bb2 Qf6 8.Bxd4  
+exd4 9.d3 Nc3 10.Nxc3 dxc3 11.Rc1 Qe6+ 12.Be2 Bb4 13.O-O Bd6 14.Bg4 Qe5  
+15.Re1 Qxe1+ 16.Qxe1+ Be7 17.Qe3 d6 18.Re1 Be6 19.Bxe6 fxe6 20.Qxe6 Kf8  
+21.Qxe7+ Kg8 22.Qxc7 h6 23.Qxd6 Kh7 24.Re7 Rae8 25.Rxb7 Re1# 0-1 
+ 
+[Event "7. Georgiev - Kesarovski Memorial"] 
+[Site "Sunny Beach BUL"] 
+[Date "2008.09.11"] 
+[Round "5"] 
+[White "Dimitrov, Pavel"] 
+[Black "Stoinev, Metodi"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2415"] 
+[BlackElo "2278"] 
+[ECO "C20"] 
+[EventDate "2008.09.08"] 
+ 
+1.e4 e5 2.Qf3 Nc6 3.Bc4 f5 4.Ne2 Nf6 5.d3 f4 6.h3 Na5 7.b3 Nxc4 8.bxc4  
+Bb4+ 9.c3 Ba5 10.Nd2 d6 11.c5 g5 12.d4 exd4 13.cxd4 Qe7 14.cxd6 cxd6 15. 
+O-O Bxd2 16.Bxd2 Qxe4 17.Qb3 Qd5 18.Nc3 Qxb3 19.axb3 Bd7 20.Ra5 h6 21.Rfa1 
+a6 22.b4 Rd8 23.b5 Bc8 24.Na4 axb5 25.Nb6 O-O 26.Rxb5 Bd7 27.Rba5 Bc6 28. 
+Bb4 Rf7 29.Ra8 Rxa8 30.Rxa8+ Rf8 31.Ra5 Rd8 32.d5 Be8 33.Ra7 Bf7 34.Ra5  
+Kh7 35.Kf1 Kg6 36.Ke2 h5 37.Kd3 g4 38.hxg4 Nxg4 39.Kd4 Nxf2 40.Nc4 h4 41. 
+Ra2 Ng4 42.Bxd6 Kf5 43.Rb2 Ne3 44.Rxb7 Bg8 45.Nxe3+ fxe3 46.Bb4 e2 47.Ke3  
+Bxd5 48.Rh7 Re8+ 49.Kf2 Re4 50.Rh5+ Ke6 51.Be1 Bb7 52.g3 hxg3+ 53.Kxg3 Bd5 
+54.Kf2 Bc4 1/2-1/2 
+ 
+[Event "9. EICC"] 
+[Site "Plovdiv BUL"] 
+[Date "2008.04.29"] 
+[Round "8"] 
+[White "Dimitrov, Pavel"] 
+[Black "Belov, Vl"] 
+[Result "0-1"] 
+[WhiteElo "2414"] 
+[BlackElo "2571"] 
+[ECO "C20"] 
+[EventDate "2008.04.21"] 
+ 
+1.e4 e5 2.Qf3 Nc6 3.Bc4 f5 4.Bxg8 Nd4 5.Qd1 Qg5 6.g4 Rxg8 7.c3 Ne6 8.gxf5  
+Nf4 9.Qf3 d5 10.h4 dxe4 11.hxg5 exf3 12.Nxf3 Nd3+ 13.Ke2 Bxf5 14.Nh4 Nf4+  
+15.Kf3 Bd3 16.b3 O-O-O 17.Na3 Ne6 18.Kg4 h5+ 19.Kg3 Nxg5 20.Nc4 Nf7 21.Nf3 
+e4 22.Nd4 Rd5 23.Bb2 Be7 24.Ne3 h4+ 25.Kh3 Rh5 26.Rag1 g6 27.c4 Ng5+ 28. 
+Rxg5 Bxg5 29.Ne6 Bxe3 30.dxe3 Rf5 31.Nf4 g5 32.Nxd3 exd3 33.Kg2 Rgf8 34.f4 
+gxf4 35.e4 Rg5+ 36.Kf2 f3 37.Ke3 f2 38.Rf1 Rg3+ 39.Kd2 Rg1 40.Ba3 Rf5 0-1 
+ 
+[Event "Plovdiv BUL, Men Ch (Qualifier) 2007"] 
+[Site "Plovdiv BUL"] 
+[Date "2007.02.26"] 
+[Round "4.12"] 
+[White "Dimitrov, P."] 
+[Black "Dolmadjan, Arshak"] 
+[Result "1-0"] 
+[WhiteElo "2441"] 
+[BlackElo "2251"] 
+[ECO "C20"] 
+[EventDate "2007.02.24"] 
+ 
+1.e4 e5 2.Qf3 Nc6 3.Bc4 Nf6 4.c3 d6 5.h3 Be6 6.Bb5 a6 7.Ba4 Be7 8.Ne2 O-O  
+9.O-O Ne8 10.Bc2 g6 11.d4 exd4 12.Nxd4 Ng7 13.Rd1 Bg5 14.Be3 Ne5 15.Qe2  
+Nh5 16.Nd2 Qf6 17.N4f3 Bxe3 18.Qxe3 Nf4 19.Nd4 Qg5 20.Qg3 Qxg3 21.fxg3 Nh5 
+22.Kh2 Ng7 23.Rf1 Rae8 24.a4 Nc4 25.Nxc4 Bxc4 26.Rf6 Ne6 27.b3 Nxd4 28. 
+cxd4 Be6 29.Raf1 Kg7 30.R6f3 d5 31.e5 a5 32.Bb1 c6 33.g4 h6 34.Rf6 b6 35. 
+Rc1 Rc8 36.Bxg6 c5 37.Bf5 Rfe8 38.Bxe6 fxe6 39.Rd1 cxd4 40.Rxd4 Rc3 41.g5  
+h5 42.Rdf4 Re7 43.Rh4 Re3 44.Rxh5 Rxe5 45.h4 Rf7 46.Rxf7+ Kxf7 47.g6+ 1-0 
+ 
+[Event "Summer III"] 
+[Site "Alushta UKR"] 
+[Date "2004.06.15"] 
+[Round "11"] 
+[White "Varavin, Viktor"] 
+[Black "Tolstikh, Nikolay"] 
+[Result "1-0"] 
+[WhiteElo "2399"] 
+[BlackElo "2425"] 
+[ECO "C20"] 
+[EventDate "2004.06.05"] 
+ 
+1.e4 e5 2.Qf3 Nc6 3.Bc4 Nf6 4.Ne2 d6 5.Nbc3 Bg4 6.Qg3 Qd7 7.d3 h6 8.O-O g5 
+9.Bb5 a6 10.Ba4 Bg7 11.Bd2 b5 12.f3 Be6 13.Bb3 Nh5 14.Qf2 Nf4 15.Kh1 O-O  
+16.Ng3 Nd4 17.Bxf4 exf4 18.Nh5 Bh8 19.Nd5 Bxd5 20.Bxd5 c6 21.Bb3 Nxb3 22. 
+cxb3 Qa7 23.Qc2 Rac8 24.g3 Qd4 25.Qg2 Qxb2 26.Qh3 Qe5 27.gxf4 gxf4 28.Rad1 
+Kh7 29.d4 Qe6 30.Qh4 Rg8 31.Qxf4 Rg5 32.Ng3 Rcg8 33.Nf5 d5 34.Rde1 c5 35. 
+dxc5 Bc3 36.Re2 d4 37.Qd6 Qg6 38.Ng3 Rc8 39.Nf5 Rg8 40.Ng3 Rc8 41.e5 Rc6  
+42.Qd5 Qe6 43.Qe4+ Qg6 44.Qd5 Qe6 45.Qe4+ Qg6 46.f4 Rg4 47.f5 Qg5 48.Qxc6  
+d3 49.Rg2 d2 50.Qd5 Rd4 51.Qxf7+ Kh8 52.Qf8+ Kh7 53.Qf7+ Kh8 54.Rd1 Qg4  
+55.Ne2 1-0 

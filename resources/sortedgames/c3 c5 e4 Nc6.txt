@@ -1,0 +1,19 @@
+ 
+[Event "26. Universiade Men"] 
+[Site "Shenzhen CHN"] 
+[Date "2011.08.16"] 
+[Round "4"] 
+[White "Hindermann, Felix"] 
+[Black "Benidze, Davit"] 
+[Result "0-1"] 
+[WhiteElo "2322"] 
+[BlackElo "2514"] 
+[ECO "B22"] 
+[EventDate "2011.08.15"] 
+ 
+1.c3 c5 2.e4 Nc6 3.Nf3 Qa5 4.a3 Nf6 5.e5 Ng4 6.d4 e6 7.h3 Nh6 8.Nbd2 cxd4  
+9.b4 Qc7 10.cxd4 Nxd4 11.Ra2 Nhf5 12.g4 Nxf3+ 13.Nxf3 Ne7 14.Rc2 Qd8 15. 
+Bb2 b6 16.Nd4 Bb7 17.Nb5 Nd5 18.Bg2 Rc8 19.Qc1 Rxc2 20.Qxc2 Nxb4 21.Nc7+  
+Ke7 22.axb4 Bxg2 23.Rg1 Bc6 24.Na6 Bb7 25.b5 Qc8 26.Bc3 Bxa6 27.bxa6 Qxa6  
+28.Rg3 Ke8 29.Qe4 Qc8 30.Bd2 Qc6 31.Qf4 Bc5 32.Qg5 Qe4+ 33.Kf1 Qg6 34.Qf4  
+f6 35.exf6 Qxf6 36.Qb8+ 0-1 

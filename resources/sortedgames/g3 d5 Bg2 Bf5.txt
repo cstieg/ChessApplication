@@ -1,0 +1,38 @@
+ 
+[Event "Villa Martelli op-A 21st"] 
+[Site "Villa Martelli ARG"] 
+[Date "2014.11.10"] 
+[Round "4"] 
+[White "Cuevas, Alex"] 
+[Black "Fiora, Emilio"] 
+[Result "0-1"] 
+[WhiteElo "2262"] 
+[BlackElo "2236"] 
+[ECO "A00"] 
+[EventDate "2014.11.07"] 
+ 
+1.g3 d5 2.Bg2 Bf5 3.d3 e6 4.Nf3 h6 5.b3 Nf6 6.Bb2 Nbd7 7.O-O Be7 8.e3 O-O  
+9.Qe2 c5 10.Nbd2 Nb6 11.e4 Bh7 12.Ne5 Bd6 13.Nxf7 Rxf7 14.e5 d4 15.Rae1  
+Bf5 16.h3 Bxe5 17.Qxe5 Nfd7 18.Qe2 Nd5 19.Bxd5 exd5 20.g4 Bh7 21.Qe6 Nf8  
+22.Qe5 Ng6 23.Qg3 Qf6 24.b4 b6 25.bxc5 bxc5 26.Nb3 Rc8 27.f4 Nxf4 28.Kh2  
+g5 29.a4 Bxd3 30.cxd3 Rb8 31.Bxd4 cxd4 32.Nc5 Qb6 33.Ne6 Nxe6 34.Rxe6 Qb2+ 
+35.Kg1 Rxf1+ 36.Kxf1 Qa1+ 37.Re1 Rb1 38.Rxb1 Qxb1+ 39.Ke2 Qc2+ 40.Kf1 Qd1+ 
+41.Kf2 Qd2+ 42.Kf1 Qd1+ 43.Kf2 Qxa4 44.Qb8+ Kf7 45.Qc7+ Ke6 46.Qc8+ Qd7  
+47.Qa6+ Qd6 48.Qxa7 Qf4+ 49.Kg2 Qd2+ 50.Kg1 Qxd3 51.Qb6+ Ke5 52.Qc7+ Ke4  
+53.Qe7+ Kf3 54.Qf6+ Ke2 55.Qf1+ Kd2 56.Qg2+ Qe2 57.Qxd5 Qe3+ 58.Kg2 Ke1  
+59.Qf7 Qe4+ 60.Kg1 Qf4 61.Qf5 Qg3+ 62.Kh1 Qxh3+ 63.Kg1 Qe3+ 64.Kg2 Qe2+  
+65.Kg1 d3 66.Qa5+ d2 67.Kh1 Kf2 0-1 
+ 
+[Event "TCh-BIH"] 
+[Site "Neum BIH"] 
+[Date "2004.06.06"] 
+[Round "9"] 
+[White "Goric, Esad"] 
+[Black "Filipovic, Branko"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2385"] 
+[BlackElo "2376"] 
+[ECO "A11"] 
+[EventDate "2004.05.29"] 
+ 
+1.g3 d5 2.Bg2 Bf5 3.Nf3 e6 4.O-O Nf6 5.c4 c6 6.d3 Be7 7.Nc3 Nbd7 1/2-1/2 

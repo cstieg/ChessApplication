@@ -1,0 +1,19 @@
+ 
+[Event "ACT Open"] 
+[Site "Amsterdam NED"] 
+[Date "2004.07.19"] 
+[Round "3"] 
+[White "Duijker, Rick"] 
+[Black "Mchedlishvili, Mikheil"] 
+[Result "0-1"] 
+[WhiteElo "2288"] 
+[BlackElo "2518"] 
+[ECO "A00"] 
+[EventDate "2004.07.17"] 
+ 
+1.c3 e5 2.c4 b6 3.Nc3 Bb7 4.Nf3 e4 5.Nd4 Nf6 6.a3 Bc5 7.Nf5 g6 8.Ne3 Nc6  
+9.b4 Bxe3 10.dxe3 Ne5 11.Qd4 d6 12.b5 c5 13.bxc6 Nxc6 14.Qd1 O-O 15.Bb2  
+Na5 16.Nd5 Bxd5 17.cxd5 Nc4 18.Bc3 Rc8 19.Qd4 Ne5 20.f4 Rc4 21.Qd2 Ned7  
+22.Rd1 Qc7 23.Ba1 Qc5 24.g4 Nxg4 25.Bh3 h5 26.Bxg4 hxg4 27.Kf2 f6 28.Rdg1  
+Kf7 29.Rxg4 Rh8 30.h4 Rc2 31.Qd1 Rh5 32.Bd4 Qc4 33.Rhg1 Nf8 34.R1g2 Rxd5  
+35.Kg1 Rc1 0-1 

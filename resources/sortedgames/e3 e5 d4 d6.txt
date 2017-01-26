@@ -1,0 +1,22 @@
+ 
+[Event "ch-2013"] 
+[Site "Acre ISR"] 
+[Date "2013.04.13"] 
+[Round "8.12"] 
+[White "Shachar, Ehud"] 
+[Black "Givon, Asaf"] 
+[Result "0-1"] 
+[WhiteElo "2357"] 
+[BlackElo "2407"] 
+[ECO "A00"] 
+[EventDate "2013.04.06"] 
+ 
+1.e3 e5 2.d4 d6 3.Nf3 Nd7 4.Nc3 c6 5.e4 Ngf6 6.Bc4 b5 7.Bd3 a6 8.O-O Bb7  
+9.Re1 Be7 10.b3 Qb6 11.dxe5 dxe5 12.Be3 Qc7 13.Nh4 O-O 14.Nf5 Bb4 15.Bd2  
+g6 16.Ng3 Be7 17.Qf3 Kh8 18.Bh6 Rfe8 19.Bg5 Ng8 20.Bd2 Bf6 21.Nd1 Nc5 22. 
+Nb2 Ne6 23.c3 Rad8 24.Rad1 Qe7 25.Bc2 Qa3 26.Nd3 Qxa2 27.Nb4 Qa5 28.Be3  
+Qc7 29.Nd3 c5 30.Nb2 Nd4 31.Bxd4 exd4 32.c4 Bg7 33.Qd3 Bc6 34.Ra1 Qb6 35. 
+h3 Nf6 36.Bd1 Qb7 37.Bc2 Kg8 38.Re2 Bh6 39.Rf1 Bf4 40.Rfe1 Bxg3 41.fxg3  
+Re5 42.Nd1 Rde8 43.Nf2 h5 44.Kh2 R5e6 45.Kg1 Nd7 46.Qd2 Ne5 47.Bd3 Kg7 48. 
+Qc2 b4 49.Qd2 a5 50.Qa2 Ra8 51.Bc2 a4 52.bxa4 Bxa4 53.Bxa4 Rea6 54.Qb1  
+Rxa4 55.g4 Ra1 56.Qxa1 Rxa1 57.Rxa1 hxg4 58.hxg4 b3 59.Nd1 Nxc4 0-1 

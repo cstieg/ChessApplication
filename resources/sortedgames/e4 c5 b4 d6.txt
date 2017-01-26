@@ -1,0 +1,24 @@
+ 
+[Event "18. Oscaro.com Open 2014"] 
+[Site "Bastia FRA"] 
+[Date "2014.10.19"] 
+[Round "8.6"] 
+[White "Dimitrov, Pavel"] 
+[Black "Dourerassou, Jonathan"] 
+[Result "0-1"] 
+[WhiteElo "2331"] 
+[BlackElo "2473"] 
+[ECO "B20"] 
+[EventDate "2014.10.18"] 
+ 
+1.e4 c5 2.b4 d6 3.bxc5 dxc5 4.Nc3 Nc6 5.f4 e5 6.Nf3 exf4 7.Bc4 Be7 8.O-O  
+Nf6 9.d3 Nd4 10.Ne5 Be6 11.Bxf4 Bxc4 12.Nxc4 O-O 13.a4 b6 14.Kh1 Qd7 15.h3 
+Qe6 16.Ne3 Rad8 17.Ncd5 Nxd5 18.Nxd5 f5 19.c3 Nc6 20.Qb3 Kh8 21.Rae1 fxe4  
+22.c4 Nd4 23.Qd1 Bd6 24.Rxe4 Qg6 25.Bxd6 Qxd6 26.Rfe1 Nf5 27.Kg1 Qh6 28. 
+Qg4 Qd2 29.Qe2 Qg5 30.Qg4 Qd2 31.Qe2 Qxe2 32.R4xe2 h6 33.Re5 Kh7 34.Kh2  
+Rd7 35.Re8 Rff7 36.R1e5 Nd4 37.Ra8 Rf2 38.Ree8 Kg6 39.Rf8 Rxf8 40.Rxf8 Nc6 
+41.Re8 Nb4 42.Nf4+ Kf5 43.Re4 Nxd3 44.Nxd3 Rxd3 45.Re7 g6 46.Rxa7 Rd4 47. 
+Rb7 Rxc4 48.Rxb6 Rxa4 49.Rb5 Rc4 50.Kg3 Rc3+ 51.Kf2 Rc2+ 52.Kf1 h5 53.Ra5  
+g5 54.Ra8 Kf4 55.Rf8+ Kg3 56.Rf3+ Kh2 57.g4 h4 58.Re3 c4 59.Rf3 c3 60.Re3  
+Rc1+ 61.Ke2 Kg2 62.Kd3 Rh1 63.Re5 Rxh3+ 64.Kc2 Rg3 65.Rxg5 h3 66.Rh5 Rxg4  
+67.Kxc3 h2 68.Kd3 h1=Q 69.Rxh1 Kxh1 70.Ke3 Kg2 71.Kd3 Kf3 0-1 

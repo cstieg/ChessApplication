@@ -1,0 +1,24 @@
+ 
+[Event "AUT Ch"] 
+[Site "Oberpullendorf AUT"] 
+[Date "2002.08.10"] 
+[Round "1"] 
+[White "Hoelzl, Franz"] 
+[Black "Schwab, Rene"] 
+[Result "1-0"] 
+[WhiteElo "2393"] 
+[BlackElo "2246"] 
+[ECO "A11"] 
+[EventDate "2002.08.10"] 
+ 
+1.c4 c6 2.Nf3 b5 3.cxb5 cxb5 4.Qb3 Qb6 5.Nc3 a6 6.g3 e6 7.Bg2 Bb7 8.O-O  
+Nc6 9.d3 Na5 10.Qc2 Rc8 11.a3 d5 12.Be3 Bc5 13.Bxc5 Qxc5 14.d4 Qc4 15.e3  
+Qb3 16.Qe2 Nc4 17.Rfb1 Nf6 18.Na2 Nd6 19.Nb4 Nfe4 20.Ne1 O-O 21.Nbd3 a5  
+22.Bf1 b4 23.axb4 axb4 24.f3 Nf6 25.Qd2 Nc4 26.Qf2 Nd7 27.Ng2 Ra8 28.Rxa8  
+Rxa8 29.Qe1 Ndb6 30.Nc5 Qa2 31.Nxb7 Nd2 32.Qxd2 Qxb1 33.Ne1 Ra1 34.Kf2 Ra2 
+35.Nd3 Nc4 36.Qe1 Qxe1+ 37.Kxe1 Nxe3 38.Be2 Nc2+ 39.Kd2 Nxd4 40.Bd1 e5 41. 
+Nbc5 f6 42.Na4 e4 43.fxe4 dxe4 44.Ndc5 f5 45.Ke3 Ra1 46.Kxd4 Rxd1+ 47.Ke3  
+Rh1 48.Na6 Rxh2 49.Nxb4 Rg2 50.Nd5 Rxg3+ 51.Ke2 g6 52.b4 Rb3 53.Nc5 Rb1  
+54.Kd2 h5 55.Kc2 Ra1 56.b5 h4 57.b6 Ra8 58.Na6 Rc8+ 59.Kb2 h3 60.Ne7+ Kg7  
+61.Nxc8 h2 62.b7 h1=Q 63.b8=Q Qg2+ 64.Ka3 Qf3+ 65.Kb4 e3 66.Qe5+ Kh6 67. 
+Nd6 e2 68.Nf7+ Kh5 69.Qh8+ Kg4 70.Ne5+ 1-0 

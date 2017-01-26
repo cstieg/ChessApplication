@@ -1,0 +1,34 @@
+ 
+[Event "13. TCh-BIH Premier League 2014"] 
+[Site "Neum BIH"] 
+[Date "2014.06.07"] 
+[Round "1.1"] 
+[White "Kurajica, Bojan"] 
+[Black "Dizdarevic, E."] 
+[Result "1/2-1/2"] 
+[WhiteElo "2493"] 
+[BlackElo "2509"] 
+[ECO "A04"] 
+[EventDate "2014.06.07"] 
+ 
+1.g3 b6 2.Nf3 Bb7 3.Bg2 c5 4.O-O g6 5.c3 Bg7 6.d4 Nf6 7.Bg5 d6 8.Bxf6 Bxf6 
+9.Qa4+ Qd7 10.Qxd7+ Nxd7 11.Nbd2 O-O 12.Rac1 1/2-1/2 
+ 
+[Event "Dos Hermanas Blitz Final"] 
+[Site "Internet Chess Club INT"] 
+[Date "2010.03.19"] 
+[Round "2.8"] 
+[White "Barbosa, Oliver PHI"] 
+[Black "Perez Ponsa, Federico"] 
+[Result "0-1"] 
+[WhiteElo "2452"] 
+[BlackElo "2390"] 
+[ECO "A00"] 
+[EventDate "2010.03.19"] 
+ 
+1.g3 b6 2.Nf3 Bb7 3.Bg2 e6 4.O-O Nf6 5.d3 Be7 6.e4 d5 7.e5 Nfd7 8.h4 c5 9. 
+Re1 Nc6 10.Bf4 Qc7 11.Nc3 Qc8 12.h5 h6 13.Qd2 a6 14.a3 b5 15.Nd1 Qc7 16.c3 
+O-O-O 17.d4 c4 18.Ne3 Na5 19.Rad1 Nb3 20.Qc2 Rdg8 21.Bh3 Kb8 22.Ng2 Nb6  
+23.g4 Bc8 24.Bg3 g6 25.hxg6 fxg6 26.Nh2 g5 27.f4 gxf4 28.Nxf4 Bg5 29.Rf1  
+Na4 30.Nh5 Qh7 31.Kg2 Qxc2+ 32.Kh1 Nxb2 33.Nf3 Nxd1 34.Nxg5 hxg5 35.Bg2  
+Ne3 36.Rf2 Qxf2 37.Kh2 Qxg2# 0-1 

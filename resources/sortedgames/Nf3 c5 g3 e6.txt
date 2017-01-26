@@ -1,0 +1,59 @@
+ 
+[Event "Dimitrovgrad BUL, 1. Open"] 
+[Site "Dimitrovgrad BUL"] 
+[Date "2009.09.06"] 
+[Round "7.1"] 
+[White "Stojanov, Svetlin"] 
+[Black "Mishev, Liubomir"] 
+[Result "0-1"] 
+[WhiteElo "2312"] 
+[BlackElo "2205"] 
+[ECO "A04"] 
+[EventDate "2009.09.05"] 
+ 
+1.Nf3 c5 2.g3 e6 3.Bg2 Nf6 4.O-O Be7 5.d3 O-O 6.e4 d5 7.e5 Nfd7 8.h4 Nc6  
+9.Bf4 b5 10.h5 f6 11.exf6 Bxf6 12.c3 Qe7 13.Re1 Bb7 14.Nbd2 Kh8 15.Nf1 e5  
+16.Bd2 Qf7 17.h6 Rae8 18.hxg7+ Bxg7 19.Qe2 Nf6 20.N1h2 e4 21.dxe4 Nxe4 22. 
+Qd1 d4 23.cxd4 Nxf2 24.Kxf2 Bxd4+ 25.Be3 Rxe3 26.Rxe3 Re8 27.Nf1 Ne5 28. 
+Kg1 Ng4 29.Qb3 Bxe3+ 30.Nxe3 Qxb3 31.axb3 Rxe3 32.Nh4 Rxg3 33.Rxa7 Bxg2  
+34.Nxg2 Ne3 0-1 
+ 
+[Event "Open"] 
+[Site "Villa de Navalmoral ESP"] 
+[Date "2007.11.07"] 
+[Round "4"] 
+[White "Burmakin, Vladimir"] 
+[Black "Guerra Tulcan, Lenin"] 
+[Result "1-0"] 
+[WhiteElo "2582"] 
+[BlackElo "2231"] 
+[ECO "A04"] 
+[EventDate "2007.11.05"] 
+ 
+1.Nf3 c5 2.g3 e6 3.Bg2 Nc6 4.O-O d6 5.d4 cxd4 6.Nxd4 Nxd4 7.Qxd4 Qc7 8.c4  
+Bd7 9.Nc3 Nf6 10.a4 a6 11.b3 Be7 12.Bb2 Rc8 13.a5 O-O 14.Na4 Bc6 15.Nb6  
+Rcd8 16.e4 Rfe8 17.b4 Bf8 18.Rfc1 Qb8 19.Qd3 Nd7 20.Bd4 Ne5 21.Qb3 f5 22. 
+f3 f4 23.b5 Bd7 24.gxf4 Ng6 25.Be3 d5 26.Nxd7 Rxd7 27.cxd5 exd5 28.f5 Nf4  
+29.Bf1 Kh8 30.Rd1 Bd6 31.bxa6 Nh5 32.Ra2 dxe4 33.a7 Qd8 34.Rad2 Bxh2+ 35. 
+Rxh2 Rxd1 36.Rxh5 Qd6 37.f4 Rd8 38.Kg2 Ra1 39.Be2 Rxa5 40.Qb6 Ra1 41.Qxd6  
+Rxd6 42.Rh1 1-0 
+ 
+[Event "Ljubljana SLO, 14. Open"] 
+[Site "Ljubljana SLO"] 
+[Date "2003.06.24"] 
+[Round "5"] 
+[White "Vukovic, Ivo"] 
+[Black "Gostisa, Leon"] 
+[Result "0-1"] 
+[WhiteElo "2268"] 
+[BlackElo "2421"] 
+[ECO "A04"] 
+[EventDate "2003.06.21"] 
+ 
+1.Nf3 c5 2.g3 e6 3.Bg2 Nf6 4.O-O b6 5.d3 Bb7 6.e4 d6 7.Re1 Nbd7 8.Nbd2 Be7 
+9.b3 O-O 10.Bb2 Qc7 11.c4 a6 12.Qc2 Rfd8 13.a3 Ne8 14.Rac1 Rac8 15.Bc3 Bf6 
+16.Bxf6 Nexf6 17.Qc3 Ng4 18.h3 Nge5 19.Nxe5 Nxe5 20.Nf3 Nc6 21.Rcd1 Rb8  
+22.d4 e5 23.d5 Nd4 24.Nxd4 cxd4 25.Qd2 Bc8 26.Rc1 Bd7 27.Kh2 Rdc8 28.Bf1  
+Qd8 29.b4 Rc7 30.Bd3 Rbc8 31.f4 f6 32.fxe5 fxe5 33.Rf1 h6 34.h4 b5 35.c5  
+dxc5 36.d6 Rc6 37.Rxc5 Rxc5 38.bxc5 Rxc5 39.Qa2+ Kh7 40.Qf7 Bg4 41.Qe7 Qa5 
+42.Rf2 Qe1 43.Qf7 Rc1 44.Bf1 d3 45.d7 Bxd7 46.h5 Rc8 47.Bh3 Qxf2+ 0-1 

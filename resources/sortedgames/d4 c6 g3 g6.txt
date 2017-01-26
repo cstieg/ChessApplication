@@ -1,0 +1,15 @@
+ 
+[Event "ch-Kiev"] 
+[Site "Kiev UKR"] 
+[Date "2005.01.23"] 
+[Round "6"] 
+[White "Galinsky, Timofey"] 
+[Black "Kislinsky, Alexey"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2416"] 
+[BlackElo "2406"] 
+[ECO "A40"] 
+[EventDate "2005.01.15"] 
+ 
+1.d4 c6 2.g3 g6 3.Bg2 Bg7 4.e4 d5 5.exd5 cxd5 6.Nf3 Nc6 7.O-O Nf6 8.Ne5  
+O-O 9.c3 Bf5 10.Bf4 Nh5 11.Be3 Nxe5 12.dxe5 Bxe5 13.Qxd5 Qxd5 1/2-1/2 

@@ -1,0 +1,37 @@
+ 
+[Event "Hanoi VIE, Ch U11 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.15"] 
+[Round "6.33"] 
+[White "Tran, Trung Nguyen"] 
+[Black "Phan, Dang Khoi"] 
+[Result "0-1"] 
+[WhiteElo "2540"] 
+[BlackElo "2557"] 
+[ECO "C55"] 
+[EventDate "2012.07.12"] 
+ 
+1.e4 e5 2.Bc4 Be7 3.Nf3 Nc6 4.O-O Nf6 5.d3 h6 6.Nc3 O-O 7.Be3 b6 8.d4 Nxd4 
+9.Nxd4 exd4 10.Bxd4 d6 11.h3 a6 12.Nd5 Nxd5 13.Bxd5 Rb8 14.Qh5 Bf6 15.e5  
+dxe5 16.Bxe5 Qxd5 17.Rfe1 Bxe5 18.Qxe5 Qxe5 19.Rxe5 Be6 20.Rae1 Rbd8 21.g4 
+Rfe8 22.a3 Bd7 23.f4 Rxe5 24.Rxe5 Re8 25.Rd5 Bc6 26.Rf5 Re2 27.Re5 Rxe5  
+28.fxe5 Kf8 29.Kf2 Ke7 30.Ke3 Ke6 31.Kf4 g5+ 32.Ke3 Kxe5 33.b4 Bg2 34.Kd3  
+Bxh3 35.c4 Bxg4 0-1 
+ 
+[Event "Croatian Cup"] 
+[Site "Pula CRO"] 
+[Date "2002.05.09"] 
+[Round "3"] 
+[White "Loncar, Robert"] 
+[Black "Prizmic, Miodrag"] 
+[Result "1-0"] 
+[WhiteElo "2436"] 
+[BlackElo "2268"] 
+[ECO "C23"] 
+[EventDate "2002.05.07"] 
+ 
+1.e4 e5 2.Bc4 Be7 3.Qh5 g6 4.Qxe5 Nf6 5.Nf3 O-O 6.O-O Nc6 7.Qf4 d5 8.exd5  
+Nxd5 9.Bxd5 Qxd5 10.Nc3 Qf5 11.Qxf5 Bxf5 12.d3 Nb4 13.Nd4 Bf6 14.Nxf5 gxf5 
+15.Bh6 Rfe8 16.Rfc1 Re6 17.Bd2 Rae8 18.Kf1 a6 19.a3 Nc6 20.Be3 b5 21.Rab1  
+Be5 22.Ne2 Ne7 23.c4 c6 24.g3 Bb8 25.b3 h5 26.a4 h4 27.Kg2 Rd8 28.Rd1 hxg3 
+29.hxg3 Kg7 30.d4 Ng6 31.d5 cxd5 32.Nd4 1-0 

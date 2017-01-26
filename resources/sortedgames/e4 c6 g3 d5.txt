@@ -1,0 +1,59 @@
+ 
+[Event "Beograd SER, Winter Open 2013"] 
+[Site "Beograd SER"] 
+[Date "2013.01.26"] 
+[Round "4"] 
+[White "Popovic, Aleksandar M"] 
+[Black "Pikula, Dejan"] 
+[Result "0-1"] 
+[WhiteElo "2271"] 
+[BlackElo "2485"] 
+[ECO "B10"] 
+[EventDate "2013.01.23"] 
+ 
+1.e4 c6 2.g3 d5 3.exd5 cxd5 4.Bg2 Nc6 5.Nf3 g6 6.O-O Bg7 7.d4 Bg4 8.c3 Nf6 
+9.Qb3 Bxf3 10.Bxf3 Qd7 11.Bg5 e6 12.Qa3 h5 13.Nd2 Ne7 14.Bg2 O-O 15.Nf3  
+Nc6 16.Bxf6 Bxf6 17.Rfe1 b5 18.Qb3 Rab8 19.Ne5 Bxe5 20.dxe5 Qc7 21.f4 b4  
+22.Kh1 Na5 23.Qd1 bxc3 24.bxc3 Rb6 25.f5 exf5 26.Bxd5 Re8 27.Qd4 Re7 28.e6 
+fxe6 29.Qf6 Kh7 30.Bxe6 Qc6+ 31.Kg1 Qc5+ 0-1 
+ 
+[Event "Hanoi VIE, Ch U11 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.13"] 
+[Round "3.25"] 
+[White "Truong, Minh Man"] 
+[Black "Nguyen, Van Dat"] 
+[Result "0-1"] 
+[WhiteElo "2541"] 
+[BlackElo "2573"] 
+[ECO "B10"] 
+[EventDate "2012.07.12"] 
+ 
+1.e4 c6 2.g3 d5 3.e5 Bf5 4.d4 e6 5.Bd3 Bxd3 6.Qxd3 c5 7.Qb5+ Qd7 8.Qxd7+  
+Nxd7 9.c3 cxd4 10.cxd4 Ne7 11.Nf3 Nc6 12.Nc3 Bb4 13.a3 Ba5 14.O-O O-O 15. 
+b4 Bb6 16.Be3 Bc7 17.Rfc1 a6 18.Na4 f6 19.Nc5 Nxc5 20.Rxc5 fxe5 21.dxe5  
+Rxf3 22.Kg2 Rf5 23.Rac1 Bxe5 24.b5 axb5 25.Rxb5 Rf7 26.Re1 Rxa3 27.Bc5 Ra1 
+28.Re2 Bd4 29.Rxe6 Bxc5 30.Rxc5 Ra5 31.Rxa5 Nxa5 32.Rb6 Rd7 33.Rb5 Nc6 34. 
+h4 d4 35.Kf1 d3 36.Ke1 Nd4 37.Rb1 Nf3+ 38.Kd1 Re7 39.Kc1 Re1+ 40.Kb2 d2  
+41.Rxe1 dxe1=Q 0-1 
+ 
+[Event "Chigorin Mem A"] 
+[Site "St Petersburg RUS"] 
+[Date "2007.12.02"] 
+[Round "2"] 
+[White "Kuderinov, Kirill"] 
+[Black "Zhigalko, Andrey"] 
+[Result "0-1"] 
+[WhiteElo "2414"] 
+[BlackElo "2554"] 
+[ECO "B10"] 
+[EventDate "2007.12.01"] 
+ 
+1.e4 c6 2.g3 d5 3.e5 c5 4.Nf3 Nc6 5.h3 Bf5 6.Bg2 e6 7.O-O Be4 8.Re1 Nge7  
+9.d3 Bxf3 10.Bxf3 g6 11.Bf4 Bg7 12.Nc3 O-O 13.Qd2 Qb8 14.Na4 Bxe5 15.Bh6  
+Rc8 16.Bg4 Qd6 17.Qg5 Bg7 18.h4 Bxh6 19.Qxh6 Nd4 20.Rac1 Nef5 21.Qg5 h6  
+22.Qf6 Qe7 23.Qe5 h5 24.Bd1 b5 25.Nc3 Qd6 26.Qf6 Qd8 27.Qe5 a6 28.Kg2 Ra7  
+29.Ne2 Nc6 30.Qc3 Qa5 31.Qxa5 Nxa5 32.c3 Nc6 33.Nf4 Rd7 34.Bf3 Nfe7 35.g4  
+e5 36.Nh3 hxg4 37.Bxg4 f5 38.Be2 Kg7 39.Ng5 Rd6 40.a4 Rh8 41.axb5 axb5 42. 
+Rh1 Kf6 43.f4 exf4 44.Kf3 d4 45.Kxf4 dxc3 46.bxc3 Ne5 47.Ke3 Nd5+ 48.Kd2  
+Nf4 49.Rcf1 Nc4+ 0-1 

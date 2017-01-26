@@ -1,0 +1,134 @@
+ 
+[Event "26. Schwarzacher Open"] 
+[Site "Schwarzach AUT"] 
+[Date "2011.08.24"] 
+[Round "5"] 
+[White "Rolletschek, Heinrich"] 
+[Black "Bukal, Vladimir Jr"] 
+[Result "1-0"] 
+[WhiteElo "2238"] 
+[BlackElo "2415"] 
+[ECO "B06"] 
+[EventDate "2011.08.20"] 
+ 
+1.e4 g6 2.g3 d5 3.d3 dxe4 4.dxe4 Qxd1+ 5.Kxd1 Nf6 6.f3 Bg7 7.c3 O-O 8.Be3  
+Ne8 9.Nd2 Nd6 10.Kc2 Nc6 11.Re1 Ne5 12.h3 Be6 13.b3 a5 14.f4 Nc6 15.a4  
+Rad8 16.Ngf3 Bc8 17.g4 f6 18.Bf2 Bh6 19.Bg3 e5 20.f5 Rfe8 21.Bd3 Nb8 22. 
+Nc4 Nd7 23.Nxd6 cxd6 24.Bc4+ Kg7 25.Bf2 Nc5 26.Bd5 Bf4 27.Nd2 Bxd2 28.Kxd2 
+Bd7 29.Kc2 Bc6 30.Bxc6 bxc6 31.Bxc5 dxc5 32.Rd1 gxf5 33.gxf5 Kh6 34.Rxd8  
+Rxd8 35.Rg1 Rd7 36.Rg8 Kh5 37.Rc8 Rd6 38.Re8 Kg5 39.Re6 Rd7 40.Rxc6 Kf4  
+41.Rxc5 Kxe4 42.Rxa5 Kf3 43.Ra6 e4 44.Rxf6 e3 45.Re6 Rd2+ 46.Kc1 Rd5 47.f6 
+Kf2 48.c4 Rf5 49.Kc2 h5 50.Kd3 Rf3 51.a5 Rxh3 52.a6 1-0 
+ 
+[Event "TCh-FIN 2009-10"] 
+[Site "Finland FIN"] 
+[Date "2010.03.20"] 
+[Round "8"] 
+[White "Tommiska, Matti"] 
+[Black "Toivola, Jari"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2206"] 
+[BlackElo "2209"] 
+[ECO "B06"] 
+[EventDate "2009.09.19"] 
+ 
+1.e4 g6 2.g3 d5 3.exd5 Qxd5 4.Nf3 Bg4 5.Bg2 Qe6+ 6.Kf1 Bh3 7.Ng5 Bxg2+ 8. 
+Kxg2 Qc6+ 9.Qf3 Nf6 10.Nc3 h6 11.Nge4 Nxe4 12.Qxe4 Qxe4+ 13.Nxe4 Bg7 14.c3 
+e5 15.d3 Nc6 16.Be3 b6 17.f4 O-O-O 18.Rad1 Rhe8 19.fxe5 Nxe5 20.Nf2 Nxd3  
+21.Bxb6 Nxb2 22.Rxd8+ Rxd8 23.Bxa7 Bxc3 24.Be3 Bd2 25.Bc5 Rd5 26.Bf8 Be3  
+27.Ng4 Nc4 28.Bxh6 Rd2+ 29.Kf3 Bxh6 30.Nxh6 f5 31.h4 1/2-1/2 
+ 
+[Event "Najdorf Memorial Open"] 
+[Site "Warsaw POL"] 
+[Date "2008.08.03"] 
+[Round "2"] 
+[White "Bartel, Michal"] 
+[Black "Jakubowski, Krzysztof"] 
+[Result "0-1"] 
+[WhiteElo "2266"] 
+[BlackElo "2497"] 
+[ECO "B06"] 
+[EventDate "2008.08.02"] 
+ 
+1.e4 g6 2.g3 d5 3.exd5 Qxd5 4.Nf3 Qe4+ 5.Be2 Bh3 6.Nc3 Qf5 7.d4 Nc6 8.Be3  
+Nb4 9.Rc1 Nf6 10.a3 Nbd5 11.Bd3 Qh5 12.Ne5 Nxe3 13.fxe3 Qxd1+ 14.Rxd1 Bh6  
+15.Kf2 Ng4+ 16.Nxg4 Bxg4 17.Be2 Bd7 18.Bf3 O-O-O 19.Ne4 Kb8 20.Rd3 Bc8 21. 
+Nc5 b6 22.Rb3 e5 23.Rd1 exd4 24.exd4 f5 25.Nd3 Rxd4 26.Ne5 Rxd1 27.Nc6+  
+Ka8 28.Bxd1 Bb7 29.Bf3 Bf8 30.Rd3 Bd6 31.b4 h5 32.a4 g5 33.a5 g4 34.Bd5  
+bxa5 35.bxa5 a6 36.c4 h4 37.Rb3 h3 38.Ke3 Re8+ 39.Kf2 f4 40.Nb4 Bxd5 41. 
+Nxd5 fxg3+ 42.hxg3 Ka7 43.Kg1 Re4 44.Rc3 Bc5+ 45.Kh2 Re2+ 46.Kh1 Re1+ 0-1 
+ 
+[Event "IMC Dacia Cup"] 
+[Site "Olomouc CZE"] 
+[Date "2008.08.01"] 
+[Round "4"] 
+[White "Kireev, Aleksei"] 
+[Black "Shilov, Sergej"] 
+[Result "0-1"] 
+[WhiteElo "2387"] 
+[BlackElo "2255"] 
+[ECO "B06"] 
+[EventDate "2008.07.30"] 
+ 
+1.e4 g6 2.g3 d5 3.d3 Bg7 4.Bg2 dxe4 5.dxe4 Qxd1+ 6.Kxd1 Nc6 7.Nd2 Nf6 8.f3 
+Nd7 9.Nh3 Nc5 10.Nb3 Nxb3 11.axb3 f5 12.Nf2 Be6 13.Bf4 Bxb2 14.Rb1 O-O-O+  
+15.Nd3 Bc3 16.Bd2 Bg7 17.f4 fxe4 18.Bxe4 Bg4+ 19.Kc1 Nd4 20.c3 Bf3 21.Bxf3 
+Nxf3 22.Kc2 Rxd3 23.Kxd3 Rd8+ 24.Ke3 Nxd2 25.Ra1 Bxc3 0-1 
+ 
+[Event "ITT"] 
+[Site "Vicente Lopez ARG"] 
+[Date "2007.07.26"] 
+[Round "4"] 
+[White "Born, Carlos Rodrigo"] 
+[Black "Diaz Hollemaert, Nahuel"] 
+[Result "0-1"] 
+[WhiteElo "2202"] 
+[BlackElo "2420"] 
+[ECO "B06"] 
+[EventDate "2007.07.23"] 
+ 
+1.e4 g6 2.g3 d5 3.exd5 Qxd5 4.Qf3 Qe6+ 5.Qe2 Nc6 6.Qxe6 Bxe6 7.c3 O-O-O 8. 
+d4 Bd5 9.f3 f5 10.Bf4 h6 11.Na3 e5 12.dxe5 g5 13.Be3 Nxe5 14.Bd4 Bxa3 15. 
+bxa3 Nf6 16.O-O-O Rhe8 17.h4 g4 18.Rh2 Bxf3 19.Be2 Bxe2 20.Nxe2 Nf3 21.Rg2 
+Ne4 22.h5 Rd7 23.Kc2 c5 24.Bf2 Rxd1 25.Kxd1 Rd8+ 26.Kc1 Rd3 27.Nf4 Rxc3+  
+28.Kb2 Ne5 29.Be1 Nc4+ 30.Kb1 Nxa3+ 31.Kb2 Nc4+ 32.Kb1 Re3 33.Rg1 Kd7 34. 
+Kc1 Ra3 35.Rg2 b5 36.Ng6 a5 37.Kb1 Re3 38.Rg1 Re2 39.Nf4 Na3+ 40.Kc1 Rxa2  
+41.Nd3 c4 42.Ne5+ Kd6 43.Nf7+ Ke6 44.Nxh6 c3 45.Bxc3 Nxc3 0-1 
+ 
+[Event "LXXI ch-ESP Scheveningen"] 
+[Site "Leon ESP"] 
+[Date "2006.11.30"] 
+[Round "4"] 
+[White "Garcia Castro, Pablo"] 
+[Black "Illescas Cordoba, Miguel"] 
+[Result "0-1"] 
+[WhiteElo "2390"] 
+[BlackElo "2620"] 
+[ECO "B06"] 
+[EventDate "2006.11.27"] 
+ 
+1.e4 g6 2.g3 d5 3.Nc3 d4 4.Nce2 e5 5.d3 Nc6 6.Nf3 f5 7.exf5 gxf5 8.Bg2 Nf6 
+9.O-O Bg7 10.b4 Nd5 11.b5 Nce7 12.a4 O-O 13.Ba3 Re8 14.Nd2 Be6 15.Nc4 Ng6  
+16.Na5 Rb8 17.Qd2 Kh8 18.Rae1 Qd7 19.Nc1 Rg8 20.Ncb3 b6 21.Nc6 Rbe8 22.Bb2 
+f4 23.Nxe5 Nxe5 24.Bxd4 Bh3 25.c4 Bxg2 26.Kxg2 f3+ 27.Kh1 Qh3 28.Rg1 Ng4  
+29.Bxg7+ Kxg7 0-1 
+ 
+[Event "It"] 
+[Site "Medellin COL"] 
+[Date "2000.10.02"] 
+[Round "7"] 
+[White "Gamboa, Nelson"] 
+[Black "Gonzalez, Re"] 
+[Result "0-1"] 
+[WhiteElo "2351"] 
+[BlackElo "2435"] 
+[ECO "B06"] 
+[EventDate "2000.09.26"] 
+ 
+1.e4 g6 2.g3 d5 3.Nc3 dxe4 4.Nxe4 Bg7 5.Bg2 c6 6.Nf3 Nf6 7.Nxf6+ exf6 8. 
+O-O O-O 9.b3 f5 10.d4 a5 11.Re1 a4 12.Bg5 Qa5 13.b4 Qc7 14.c4 h6 15.Bf4  
+Qd8 16.Be5 a3 17.Rb1 Nd7 18.Bxg7 Kxg7 19.Ne5 Nxe5 20.Rxe5 f4 21.gxf4 Qh4  
+22.Qf3 Rd8 23.Qe3 Be6 24.Rc1 Rd7 25.b5 Rad8 26.d5 cxd5 27.f5 d4 28.Qxa3  
+Bxf5 29.c5 Qf4 30.Ree1 d3 31.c6 bxc6 32.bxc6 Rc7 33.Qc3+ Kh7 34.Rcd1 h5  
+35.Re3 h4 36.Rde1 Rd4 37.h3 Rc4 38.Qa5 Ra4 39.Qd2 Rc4 40.Qa5 Rc2 41.Rf3  
+Qd6 42.Rd1 Be4 43.Rfxd3 Bxd3 44.Qg5 Qd4 45.Rd2 f6 46.Qa5 Rc1+ 0-1 

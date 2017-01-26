@@ -1,0 +1,49 @@
+ 
+[Event "FIDE WCh Women KO"] 
+[Site "Ekaterinburg RUS"] 
+[Date "2006.03.14"] 
+[Round "2.2"] 
+[White "Vijayalakshmi, Subbaraman"] 
+[Black "Javakhishvili, Lela"] 
+[Result "1-0"] 
+[WhiteElo "2479"] 
+[BlackElo "2444"] 
+[ECO "A01"] 
+[EventDate "2006.03.11"] 
+ 
+1.b3 c5 2.g3 d5 3.Bb2 Nc6 4.Bg2 e5 5.e3 Nf6 6.Ne2 Be7 7.O-O O-O 8.h3 Re8  
+9.d3 Rb8 10.Kh2 Bf8 11.Nd2 b5 12.a3 Qd6 13.Rb1 Ba6 14.f4 Nd7 15.Rf2 d4 16. 
+Ne4 Qc7 17.fxe5 dxe3 18.Rxf7 Kxf7 19.Ng5+ Kg8 20.Bd5+ Kh8 21.Nf4 e2 22. 
+Qxe2 Ncxe5 23.Qh5 Nf6 24.Qh4 Nf3+ 25.Bxf3 Bb7 26.Bh5 Bd6 27.Nf7+ Kg8 28. 
+Nxd6 Qxd6 29.Bxe8 Rxe8 30.Bxf6 Qxf6 31.Qxf6 gxf6 32.a4 bxa4 33.bxa4 Bc6  
+34.a5 Kf7 35.c3 Re5 36.c4 Ke7 37.Rf1 Kd7 38.h4 Kc7 39.Rb1 Bf3 40.Kg1 Bc6  
+41.Kf2 Re8 42.Rb2 Bd7 43.Nd5+ Kc6 44.a6 Bg4 45.Rb7 Re2+ 46.Kg1 Re1+ 47.Kg2 
+Re2+ 48.Kf1 Ra2 49.Nf4 Rxa6 50.Rxh7 Ra1+ 51.Kf2 a5 52.Nd5 a4 53.Ra7 a3 54. 
+Nxf6 Bf5 55.Ne4 Bh3 56.Ra6+ Kc7 57.Nxc5 a2 58.Nb3 Rb1 59.Rxa2 Rxb3 60.Rd2  
+Kd6 61.Kf3 Bf5 62.Ke3 Kc5 63.h5 Rb1 64.Kf4 Rf1+ 65.Kg5 Kd4 66.h6 Ke3 67. 
+Ra2 Kxd3 68.c5 Be4 69.g4 Rc1 70.Kf4 Rf1+ 71.Ke5 Re1 72.Ra3+ Kd2 73.g5 Bb1+ 
+74.Kd6 Rg1 75.Ra1 Ke3 76.Rxb1 Rxb1 77.h7 Kd4 1-0 
+ 
+[Event "Ch World FIDE (KO-system) women"] 
+[Site "Ekaterinburg RUS"] 
+[Date "2006.03.14"] 
+[Round "2"] 
+[White "Vijayalakshmi, Subbaraman"] 
+[Black "Javakhishvili, Lela"] 
+[Result "1-0"] 
+[WhiteElo "2479"] 
+[BlackElo "2444"] 
+[ECO "A01"] 
+ 
+1.b3 c5 2.g3 d5 3.Bb2 Nc6 4.Bg2 e5 5.e3 Nf6 6.Ne2 Be7 7.O-O O-O 8.h3 Re8  
+9.d3 Rb8 10.Kh2 Bf8 11.Nd2 b5 12.a3 Qd6 13.Rb1 Ba6 14.f4 Nd7 15.Rf2 d4 16. 
+Ne4 Qc7 17.fxe5 dxe3 18.Rxf7 Kxf7 19.Ng5+ Kg8 20.Bd5+ Kh8 21.Nf4 e2 22. 
+Qxe2 Ncxe5 23.Qh5 Nf6 24.Qh4 Nf3+ 25.Bxf3 Bb7 26.Bh5 Bd6 27.Nf7+ Kg8 28. 
+Nxd6 Qxd6 29.Bxe8 Rxe8 30.Bxf6 Qxf6 31.Qxf6 gxf6 32.a4 bxa4 33.bxa4 Bc6  
+34.a5 Kf7 35.c3 Re5 36.c4 Ke7 37.Rf1 Kd7 38.h4 Kc7 39.Rb1 Bf3 40.Kg1 Bc6  
+41.Kf2 Re8 42.Rb2 Bd7 43.Nd5+ Kc6 44.a6 Bg4 45.Rb7 Re2+ 46.Kg1 Re1+ 47.Kg2 
+Re2+ 48.Kf1 Ra2 49.Nf4 Rxa6 50.Rxh7 Ra1+ 51.Kf2 a5 52.Nd5 a4 53.Ra7 a3 54. 
+Nxf6 Bf5 55.Ne4 Bh3 56.Ra6+ Kc7 57.Nxc5 a2 58.Nb3 Rb1 59.Rxa2 Rxb3 60.Rd2  
+Kd6 61.Kf3 Bf5 62.Ke3 Kc5 63.h5 Rb1 64.Kf4 Rf1+ 65.Kg5 Kd4 66.h6 Ke3 67. 
+Ra2 Kxd3 68.c5 Be4 69.g4 Rc1 70.Kf4 Rf1+ 71.Ke5 Re1 72.Ra3+ Kd2 73.g5 Bb1+ 
+74.Kd6 Rg1 75.Ra1 Ke3 76.Rxb1 Rxb1 77.h7 Kd4 1-0 

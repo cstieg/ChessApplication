@@ -1,0 +1,14 @@
+ 
+[Event "ch-GBR"] 
+[Site "Scarborough ENG"] 
+[Date "2004.08.13"] 
+[Round "11"] 
+[White "Ashton, Adam G"] 
+[Black "Gordon, Stephen J"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2270"] 
+[BlackElo "2338"] 
+[ECO "B23"] 
+[EventDate "2004.08.02"] 
+ 
+1.e4 c5 2.Nc3 d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3 Bg4 6.Be2 e6 7.O-O Nc6 1/2-1/2 

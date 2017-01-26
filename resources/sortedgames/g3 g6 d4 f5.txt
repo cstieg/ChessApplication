@@ -1,0 +1,36 @@
+ 
+[Event "Cup Croatia team"] 
+[Site "Sibenik CRO"] 
+[Date "2006.05.13"] 
+[Round "4"] 
+[White "Petrov, Jole"] 
+[Black "Kovacevic, Blazimir"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2416"] 
+[BlackElo "2468"] 
+[ECO "A00"] 
+ 
+1.g3 g6 2.d4 f5 3.Nf3 Bg7 4.Bg2 Nf6 5.b3 O-O 6.Bb2 d6 7.Nbd2 Qe8 8.O-O Nc6 
+9.Re1 h6 10.e4 fxe4 11.Nxe4 Nxe4 12.Rxe4 g5 13.Qd2 Qh5 14.Ne1 Bf5 15.Re3  
+Rae8 16.Rb1 Bh3 17.d5 Ne5 18.Bxe5 Bxe5 19.Bxh3 Qxh3 20.Nf3 Bg7 21.Nd4 Rxf2 
+22.Qxf2 Bxd4 23.Rf1 Qh5 24.c3 Bb6 25.Kg2 Qg6 26.Qf3 Bxe3 27.Qxe3 Rf8 28. 
+Qxe7 Qc2+ 29.Kg1 Rxf1+ 30.Kxf1 Qd1+ 31.Kf2 Qd2+ 32.Kg1 Qd1+ 33.Kf2 1/2-1/2 
+ 
+[Event "ch"] 
+[Site "Vilnius LTU"] 
+[Date "2009.05.03"] 
+[Round "3"] 
+[White "Zagorskis, Darius"] 
+[Black "Grabliauskas, Virginijus"] 
+[Result "1-0"] 
+[WhiteElo "2514"] 
+[BlackElo "2413"] 
+[ECO "A81"] 
+[EventDate "2009.05.02"] 
+ 
+1.g3 g6 2.d4 f5 3.Bg2 Nf6 4.Nf3 Bg7 5.O-O O-O 6.b4 e6 7.c4 Qe7 8.Qb3 d6 9. 
+Bb2 Nc6 10.Nbd2 Kh8 11.b5 Nd8 12.Rae1 a6 13.a4 axb5 14.axb5 Ng4 15.e4 f4  
+16.h3 Nh6 17.e5 d5 18.Ra1 dxc4 19.Nxc4 Rxa1 20.Rxa1 Qd7 21.b6 fxg3 22.fxg3 
+Nf5 23.bxc7 Qxc7 24.Ba3 Nxg3 25.Bxf8 Bxf8 26.Ra8 Be7 27.Nfd2 Nf5 28.Qb6  
+Qd7 29.Ne4 Nf7 30.Nf6 Bxf6 31.exf6 N7d6 32.Ne5 Qe8 33.Qc7 Qf8 34.Nd7 Qd8  
+1-0 

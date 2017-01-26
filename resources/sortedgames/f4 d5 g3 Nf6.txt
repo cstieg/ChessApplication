@@ -1,0 +1,93 @@
+ 
+[Event "RUS Ch Blitz 2015"] 
+[Site "St Petersburg RUS"] 
+[Date "2015.05.15"] 
+[Round "1.6"] 
+[White "Chigaev, Maksim"] 
+[Black "Riazantsev, Alexander"] 
+[Result "0-1"] 
+[WhiteElo "2496"] 
+[BlackElo "2671"] 
+[ECO "A03"] 
+[EventDate "2015.05.15"] 
+ 
+1.f4 d5 2.g3 Nf6 3.Nf3 e6 4.Bg2 Be7 5.O-O b6 6.d3 O-O 7.c3 c5 8.Nbd2 Nc6  
+9.Qe1 Ba6 10.h3 Qc7 11.a3 Rac8 12.b4 e5 13.fxe5 Nxe5 14.Nxe5 Qxe5 15.Nf3  
+Qc7 16.Bf4 Bd6 17.Bxd6 Qxd6 18.Qf2 Rfe8 19.Nh4 Qe5 20.Nf5 Rc7 21.bxc5 bxc5 
+22.Rae1 Bc8 23.g4 Bxf5 24.Qxf5 Qxc3 25.g5 Qd4+ 26.Kh2 Nh5 27.Bxd5 Rf8 28. 
+e3 Qc3 29.Re2 g6 30.Qf3 Qxd3 31.e4 Qxf3 32.Rxf3 Re8 33.Rc2 Ng7 34.Rfc3 Ne6 
+35.h4 Nd4 36.Rxc5 Rce7 37.Rf2 Ne6 38.a4 Nxc5 0-1 
+ 
+[Event "Petrov Mem Blitz 2015"] 
+[Site "Jurmala LAT"] 
+[Date "2015.03.06"] 
+[Round "6.4"] 
+[White "Chigaev, Maksim"] 
+[Black "Van Wely, Loek"] 
+[Result "1-0"] 
+[WhiteElo "2497"] 
+[BlackElo "2665"] 
+[ECO "A03"] 
+[EventDate "2015.03.06"] 
+ 
+1.f4 d5 2.g3 Nf6 3.Bg2 g6 4.Nf3 Bg7 5.O-O O-O 6.d3 c5 7.Nc3 d4 8.Na4 Qc7  
+9.c3 dxc3 10.Nxc3 Nc6 11.Kh1 b6 12.e4 Ba6 13.e5 Ne8 14.a4 Qd7 15.Nb5 Nc7  
+16.Qb3 Na5 17.Qc3 Nxb5 18.axb5 Bxb5 19.Rd1 Nc6 20.d4 cxd4 21.Nxd4 Rac8 22. 
+Be3 Nxd4 23.Qxd4 Qg4 24.Rdc1 h5 25.Qe4 h4 26.Qf3 Qxf3 27.Bxf3 h3 28.Kg1  
+Rcd8 29.Rxa7 Rd3 30.Kf2 Rfd8 31.Rxe7 Bf8 1-0 
+ 
+[Event "European Senior Team"] 
+[Site "Thessaloniki GRE"] 
+[Date "2011.05.06"] 
+[Round "4"] 
+[White "Vasiukov, Evgeni"] 
+[Black "Uhlmann, Wolfgang"] 
+[Result "1-0"] 
+[WhiteElo "2480"] 
+[BlackElo "2389"] 
+[ECO "A03"] 
+[EventDate "2011.05.03"] 
+ 
+1.f4 d5 2.g3 Nf6 3.Bg2 c5 4.c4 Nc6 5.Na3 g6 6.cxd5 Nxd5 7.Qb3 e6 8.Nf3 Bg7 
+9.O-O O-O 10.d3 b6 11.Bd2 Bb7 12.Nc4 Qc7 13.Rac1 Rfd8 14.Kh1 Rac8 15.a4  
+Ba8 16.Rfd1 Qb8 17.e3 Ndb4 18.d4 Na6 19.Bc3 cxd4 20.exd4 Nc7 21.Qc2 Nd5  
+22.Qd2 Nce7 23.Nce5 Nf5 24.Re1 h6 25.Kg1 Bb7 26.g4 Nd6 27.h4 Qa8 28.h5  
+gxh5 29.gxh5 Nf6 30.Kh2 Nxh5 31.Rg1 Ne4 32.Qe3 f6 33.Bh3 Re8 34.Bg4 Nxc3  
+35.Bxh5 Nd5 36.Rxg7+ Kxg7 37.Qg1+ Kf8 38.Qg6 Ke7 39.Qf7+ 1-0 
+ 
+[Event "Chennai IND, Asian Youth Ch (b) 2008"] 
+[Site "Chennai IND"] 
+[Date "2008.12.11"] 
+[Round "6"] 
+[White "Sengupta, Deep"] 
+[Black "Stany, G A"] 
+[Result "1-0"] 
+[WhiteElo "2438"] 
+[BlackElo "2302"] 
+[ECO "A03"] 
+[EventDate "2008.12.05"] 
+ 
+1.f4 d5 2.g3 Nf6 3.Nf3 Bf5 4.Bg2 Nbd7 5.d3 e6 6.O-O Bc5+ 7.e3 Qe7 8.Qe2 h6 
+9.Nbd2 O-O 10.Kh1 Rad8 11.a3 Bg4 12.h3 Bxf3 13.Qxf3 e5 14.b4 Bb6 15.Bb2  
+exf4 16.exf4 Rfe8 17.Nb3 Qe2 18.Nd4 Bxd4 19.Bxd4 Qxc2 20.Rac1 Qa4 21.Rxc7  
+b6 22.g4 Rf8 23.g5 hxg5 24.fxg5 Ne8 25.Rc3 Nb8 26.Qh5 Qd7 27.Rf4 1-0 
+ 
+[Event "AUT,2.Bundesliga Mitte 04/05 rounds 1-2"] 
+[Site "AUT"] 
+[Date "2004.10.17"] 
+[Round "2.16"] 
+[White "Bachler, Reinhard"] 
+[Black "Linhart, Wolfgang"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2237"] 
+[BlackElo "2262"] 
+[ECO "A03"] 
+[EventDate "2004.10.16"] 
+ 
+1.f4 d5 2.g3 Nf6 3.Bg2 c6 4.Nf3 Bf5 5.d3 e6 6.O-O Bc5+ 7.e3 h6 8.Qe1 O-O  
+9.Kh1 Nbd7 10.Nbd2 Bb4 11.a3 Be7 12.b3 b5 13.Bb2 c5 14.e4 Bh7 15.Ne5 Rc8  
+16.c4 bxc4 17.bxc4 dxe4 18.dxe4 Nxe5 19.Bxe5 Qd3 20.Rf3 Qd7 21.Rb3 Rfd8  
+22.Bc3 Rb8 23.Rab1 Rxb3 24.Rxb3 Qa4 25.Rb7 Bf8 26.Bxf6 gxf6 27.Qc1 Rd4 28. 
+h3 Bd6 29.Kh2 Bg6 30.Nb3 Rxc4 31.Qd2 Qa6 32.Rd7 Bxe4 33.Bf1 Qa4 34.Rd8+  
+Kg7 35.Bxc4 Qxc4 36.Qe3 Bc2 37.Nd2 Qa6 38.Nf3 Qb6 39.Qd2 Qxd8 40.Qxc2 Qb6  
+41.Nd2 Qc6 42.Nc4 Qd5 43.a4 Bc7 44.Qe2 1/2-1/2 

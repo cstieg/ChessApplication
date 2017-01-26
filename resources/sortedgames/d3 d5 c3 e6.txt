@@ -1,0 +1,25 @@
+ 
+[Event "30. Open"] 
+[Site "San Sebastian ESP"] 
+[Date "2007.04.05"] 
+[Round "5"] 
+[White "Pakleza, Zbigniew"] 
+[Black "Hernandez, El"] 
+[Result "1-0"] 
+[WhiteElo "2446"] 
+[BlackElo "2283"] 
+[ECO "A00"] 
+[EventDate "2007.04.01"] 
+ 
+1.d3 d5 2.c3 e6 3.g3 c5 4.e4 Nc6 5.f4 g6 6.Nf3 Bg7 7.Bg2 Nge7 8.O-O O-O 9. 
+a4 b6 10.Na3 a6 11.Nc2 Bb7 12.Qe2 b5 13.e5 Qd7 14.Be3 c4 15.d4 bxa4 16.Bf2 
+Rae8 17.g4 f6 18.exf6 Rxf6 19.Bg3 Nc8 20.Ne3 Rff8 21.h4 Nd6 22.Ne5 Nxe5  
+23.fxe5 Rxf1+ 24.Rxf1 Nc8 25.g5 Ne7 26.Ng4 Nf5 27.Qf2 Rf8 28.Nf6+ Bxf6 29. 
+exf6 h5 30.Re1 Kf7 31.Bh3 Re8 32.Qf4 Nxg3 33.Qxg3 Bc6 34.Qe5 Bb7 35.Kf2  
+Bc8 36.Re2 Qc6 37.Qb8 Bd7 38.Qe5 Qb6 39.Kf3 Qb8 40.Kf4 Rc8 41.Bg2 Re8 42. 
+Bf3 Rd8 43.Rg2 Be8 44.Bxh5 gxh5 45.g6+ Kf8 46.f7 Bxf7 47.gxf7 Qxe5+ 48. 
+Kxe5 Kxf7 49.Rf2+ Ke7 50.Rf6 Rd6 51.Rh6 Rb6 52.Rxh5 Rxb2 53.Rh7+ Kf8 54. 
+Kf6 Kg8 55.Ra7 Rf2+ 56.Kxe6 Rf3 57.Rxa6 Rxc3 58.Rxa4 Rh3 59.Kxd5 Rxh4 60. 
+Rxc4 Kf7 61.Kd6 Rg4 62.Rc7+ Ke8 63.Rc8+ Kf7 64.d5 Rg1 65.Kd7 Rd1 66.d6 Ra1 
+67.Rc2 Ra7+ 68.Rc7 Ra8 69.Rc2 Ra7+ 70.Kc8 Ke6 71.d7 Ra8+ 72.Kb7 Rd8 73.Kc6 
+Ra8 74.Re2+ Kf7 75.Kb7 Rf8 76.Kc7 1-0 

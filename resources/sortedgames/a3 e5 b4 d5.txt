@@ -1,0 +1,78 @@
+ 
+[Event "Voronezh FIDE Open"] 
+[Site "Voronezh RUS"] 
+[Date "2011.06.17"] 
+[Round "6.1"] 
+[White "Volkov, Sergei"] 
+[Black "Lopukhin, Anatoly"] 
+[Result "0-1"] 
+[WhiteElo "2215"] 
+[BlackElo "2254"] 
+[ECO "A00"] 
+[EventDate "2011.06.12"] 
+ 
+1.a3 e5 2.b4 d5 3.Bb2 Bd6 4.g3 Nf6 5.Bg2 O-O 6.d3 c6 7.Nd2 a5 8.bxa5 Qxa5  
+9.Nh3 Qb6 10.Qc1 Nbd7 11.O-O Re8 12.e4 dxe4 13.dxe4 Nc5 14.Rb1 Qc7 15.f3  
+Na4 16.Ba1 Qe7 17.Nc4 Bc5+ 18.Kh1 Bd4 19.Bxd4 exd4 20.Nf4 b5 21.Nd2 Nc3  
+22.Ra1 c5 23.Nd3 Bb7 24.Qb2 Bc6 25.Rfe1 h5 26.Nb1 Na4 27.Qc1 Nd7 28.h4 Ne5 
+29.Nxe5 Qxe5 30.f4 Qe6 31.Qd1 g6 32.Nd2 Nc3 33.f5 gxf5 34.Qxh5 fxe4 35.Rf1 
+Qg6 36.Qxc5 Ne2 37.Rg1 Nxg1 38.Rxg1 Rad8 39.h5 Qh6 40.Nb3 Rd5 0-1 
+ 
+[Event "14. Master Open"] 
+[Site "Voronezh RUS"] 
+[Date "2010.06.14"] 
+[Round "3"] 
+[White "Vastrukhin, Oleg"] 
+[Black "Zhurikhin, Alexander"] 
+[Result "1-0"] 
+[WhiteElo "2331"] 
+[BlackElo "2211"] 
+[ECO "A00"] 
+[EventDate "2010.06.12"] 
+ 
+1.a3 e5 2.b4 d5 3.Bb2 Nd7 4.e3 Ngf6 5.c4 c5 6.cxd5 cxb4 7.axb4 Bxb4 8.Nc3  
+O-O 9.Bc4 Nb6 10.Qb3 Bxc3 11.Bxc3 Nxc4 12.Qxc4 Nxd5 13.Bxe5 Be6 14.Qd4 f6  
+15.Bg3 Ne7 16.Nf3 Qxd4 17.Nxd4 Bc4 18.Ra3 Nc6 19.Nxc6 bxc6 20.d3 Bb5 21. 
+Kd2 Rfb8 22.e4 Rb7 23.Ke3 Rd8 24.Rd1 c5 25.f3 Rd4 1-0 
+ 
+[Event "Doroshkevich Memorial"] 
+[Site "Maikop RUS"] 
+[Date "2008.05.27"] 
+[Round "4"] 
+[White "Vastrukhin, Oleg"] 
+[Black "Kiriushin, Vladimir"] 
+[Result "1-0"] 
+[WhiteElo "2294"] 
+[BlackElo "2223"] 
+[ECO "A00"] 
+[EventDate "2008.05.24"] 
+ 
+1.a3 e5 2.b4 d5 3.Bb2 Nd7 4.e3 Ngf6 5.Nf3 Bd6 6.c4 dxc4 7.Bxc4 e4 8.Nd4  
+Ne5 9.Be2 O-O 10.O-O Bg4 11.f3 exf3 12.Nxf3 Qe7 13.Nd4 Bxe2 14.Qxe2 Neg4  
+15.Nf5 Bxh2+ 16.Kh1 Qe6 17.Bxf6 Nxf6 18.Nd4 Qg4 19.Kxh2 Qh4+ 20.Kg1 Ng4  
+21.Nf3 Qh5 22.g3 Rad8 23.Nh2 f5 24.Rf4 g5 25.Rc4 Rd6 26.Nxg4 fxg4 27.Qxg4  
+Qf7 28.Rf4 Qg7 29.Rxf8+ Qxf8 30.Nc3 Rxd2 31.Qxg5+ Qg7 32.Qxg7+ Kxg7 33.Rd1 
+Rc2 34.Rd7+ Kg6 35.Rxc7 Kf5 36.Nb5 Ra2 37.Rxh7 Kg4 38.Rxb7 Kxg3 39.Rg7+  
+Kf3 40.Rxa7 Ra1+ 41.Kh2 Kxe3 42.Nd6 Kd4 43.a4 Kd5 44.Nc8 Rc1 45.Ne7+ Kd6  
+46.b5 Rb1 47.b6 Rb3 48.a5 Rb5 49.Nc8+ 1-0 
+ 
+[Event "Doroshkevich Memorial"] 
+[Site "Maykop RUS"] 
+[Date "2008.05.27"] 
+[Round "4"] 
+[White "Vastrukhin, Oleg"] 
+[Black "Kiriushin, Vladimir"] 
+[Result "1-0"] 
+[WhiteElo "2294"] 
+[BlackElo "2223"] 
+[ECO "A00"] 
+[EventDate "2008.05.24"] 
+ 
+1.a3 e5 2.b4 d5 3.Bb2 Nd7 4.e3 Ngf6 5.Nf3 Bd6 6.c4 dxc4 7.Bxc4 e4 8.Nd4  
+Ne5 9.Be2 O-O 10.O-O Bg4 11.f3 exf3 12.Nxf3 Qe7 13.Nd4 Bxe2 14.Qxe2 Neg4  
+15.Nf5 Bxh2+ 16.Kh1 Qe6 17.Bxf6 Nxf6 18.Nd4 Qg4 19.Kxh2 Qh4+ 20.Kg1 Ng4  
+21.Nf3 Qh5 22.g3 Rad8 23.Nh2 f5 24.Rf4 g5 25.Rc4 Rd6 26.Nxg4 fxg4 27.Qxg4  
+Qf7 28.Rf4 Qg7 29.Rxf8+ Qxf8 30.Nc3 Rxd2 31.Qxg5+ Qg7 32.Qxg7+ Kxg7 33.Rd1 
+Rc2 34.Rd7+ Kg6 35.Rxc7 Kf5 36.Nb5 Ra2 37.Rxh7 Kg4 38.Rxb7 Kxg3 39.Rg7+  
+Kf3 40.Rxa7 Ra1+ 41.Kh2 Kxe3 42.Nd6 Kd4 43.a4 Kd5 44.Nc8 Rc1 45.Ne7+ Kd6  
+46.b5 Rb1 47.b6 Rb3 48.a5 Rb5 49.Nc8+ 1-0 

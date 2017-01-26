@@ -1,0 +1,41 @@
+ 
+[Event "XXX Zalakaros Open"] 
+[Site "Zalakaros HUN"] 
+[Date "2011.05.27"] 
+[Round "8"] 
+[White "Ruck, Tamas"] 
+[Black "Frink, Ferenc"] 
+[Result "0-1"] 
+[WhiteElo "2313"] 
+[BlackElo "2264"] 
+[ECO "A45"] 
+[EventDate "2011.05.20"] 
+ 
+1.d4 Nf6 2.Nc3 Nc6 3.e4 e5 4.d5 Ne7 5.d6 Ng6 6.dxc7 Qxc7 7.Bd3 Bc5 8.Nge2  
+O-O 9.O-O h6 10.Be3 d6 11.Ng3 Bd7 12.Nh5 Nxh5 13.Nd5 Qd8 14.Qxh5 Bxe3 15. 
+fxe3 Qg5 16.Qxg5 hxg5 17.c4 Rac8 18.b4 Be6 19.a4 Bxd5 20.exd5 e4 21.Bxe4  
+Rxc4 22.Bxg6 fxg6 23.Rxf8+ Kxf8 24.b5 Ke7 25.Kf2 Kf6 26.h3 Ke5 27.Kf3 Kxd5 
+28.Ra2 Ke5 29.Ra3 d5 30.Ra2 Kd6 31.Ke2 Kc5 32.Kd3 Kb6 33.a5+ Kxb5 34.Rb2+  
+Ka6 35.Rb3 g4 36.hxg4 Rxg4 37.Rb2 b5 38.axb6 axb6 39.Rf2 b5 40.Rf7 Kb6 41. 
+Rxg7 Rxg2 0-1 
+ 
+[Event "5. LGA Premium Cup"] 
+[Site "Nuernberg GER"] 
+[Date "2008.09.05"] 
+[Round "3"] 
+[White "Hector, Jonny"] 
+[Black "Promyshlyanskiy, Vitaliy"] 
+[Result "1-0"] 
+[WhiteElo "2537"] 
+[BlackElo "2245"] 
+[ECO "A45"] 
+[EventDate "2008.09.04"] 
+ 
+1.d4 Nf6 2.Nc3 Nc6 3.e4 d6 4.f4 e5 5.dxe5 dxe5 6.Qxd8+ Kxd8 7.Nf3 Bb4 8. 
+Bd3 Re8 9.Bd2 exf4 10.O-O-O Ng4 11.Nd5 Bd6 12.Rhf1 Be6 13.h3 Ne3 14.Nxe3  
+fxe3 15.Bxe3 Ke7 16.Bb5 Kf8 17.e5 Be7 18.b3 Red8 19.Bxc6 bxc6 20.c4 Bf5  
+21.Kb2 Be4 22.Nd4 Kg8 23.g4 a6 24.Kc3 Rab8 25.Kb2 a5 26.Rf4 Bg2 27.Rf2 Be4 
+28.Rdf1 c5 29.Nb5 Bh4 30.Rxf7 Bg2 31.Bxc5 Bxf1 32.Rxf1 Rd2+ 33.Ka3 Re2 34. 
+Nxc7 Rxe5 35.Nd5 Re2 36.Bb6 Be1 37.c5 Rc8 38.Rf4 Re5 39.Rf5 Re2 40.Ka4  
+Rxa2+ 41.Kb5 Re2 42.c6 g6 43.Rf3 Kg7 44.c7 Bb4 45.Kc6 Kh6 46.Be3+ g5 47. 
+Kd7 Rxc7+ 48.Kxc7 Rc2+ 49.Kd7 1-0 

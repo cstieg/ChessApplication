@@ -1,0 +1,20 @@
+ 
+[Event "Open"] 
+[Site "Vienna AUT"] 
+[Date "2003.08.18"] 
+[Round "3"] 
+[White "Neubauer, Martin"] 
+[Black "Brustkern, Juergen"] 
+[Result "1-0"] 
+[WhiteElo "2417"] 
+[BlackElo "2227"] 
+[ECO "A36"] 
+[EventDate "2003.08.16"] 
+ 
+1.g3 e5 2.Bg2 c5 3.c4 g6 4.Nc3 Bg7 5.e3 Nc6 6.Nge2 Nge7 7.a3 d6 8.Rb1 Be6  
+9.Nd5 a5 10.Nec3 Rb8 11.b3 O-O 12.O-O Qd7 13.d3 b6 14.Bb2 Bh3 15.Bxh3 Qxh3 
+16.Qf3 Qf5 17.Qxf5 Nxf5 18.Nb5 Rfd8 19.Bc3 Nfe7 20.e4 Rb7 21.b4 axb4 22. 
+axb4 Nxd5 23.exd5 Nd4 24.Bxd4 exd4 25.Rfe1 Bf8 26.Ra1 Kg7 27.Ra6 h5 28.h4  
+Be7 29.Kf1 Bf8 30.Rea1 Kf6 31.Ra7 Rdd7 32.Ra8 Be7 33.Rc8 g5 34.hxg5+ Kxg5  
+35.Rc6 h4 36.gxh4+ Kf4 37.Ra8 Kf3 38.h5 Bf6 39.Rxd6 Rxd6 40.Nxd6 Re7 41. 
+Ne4 Rxe4 42.dxe4 cxb4 43.Ra4 Be7 44.e5 Bc5 45.h6 1-0 

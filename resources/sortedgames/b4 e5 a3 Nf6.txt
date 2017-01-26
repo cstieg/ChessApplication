@@ -1,0 +1,61 @@
+ 
+[Event "Bundesliga 2002/03 women"] 
+[Site "GER"] 
+[Date "2003.??.??"] 
+[Round "7"] 
+[White "Dergatschova-Daus, Anna"] 
+[Black "Schleining, Zoya"] 
+[Result "0-1"] 
+[WhiteElo "2250"] 
+[BlackElo "2369"] 
+[ECO "A00"] 
+ 
+1.b4 e5 2.a3 Nf6 3.Bb2 d6 4.e3 g6 5.d4 Bg7 6.Nd2 exd4 7.Bxd4 O-O 8.Ngf3  
+Re8 9.Bc4 Nbd7 10.O-O c5 11.Bb2 Nb6 12.Bb3 Be6 13.c4 Qd7 14.Rc1 Rad8 15. 
+Ba1 Bf5 16.a4 Qe7 17.a5 Nbd7 18.b5 Ne5 19.Bc2 Bg4 20.h3 Bxf3 21.Nxf3 Nxc4  
+22.Bxg6 hxg6 23.Rxc4 b6 24.Ra4 Ne4 25.axb6 axb6 26.Ra6 Rb8 27.Bxg7 Kxg7  
+28.Qd3 Qf6 29.Ra7 Re6 30.Rfa1 Rh8 31.R1a4 d5 32.Rd7 Rxh3 33.Qxd5 Nc3 34. 
+Qa8 Rh8 35.Qa7 Nxa4 36.Qxa4 Rd6 37.Rxd6 Qxd6 38.g3 Rd8 39.Kg2 Qd5 40.e4  
+Qd1 41.Qa7 Rh8 42.Nh4 Qd4 43.Qe7 Qf6 44.Qb7 Qe6 45.f4 Re8 46.Kf3 Re7 47. 
+Qa8 Qb3+ 48.Kg4 Qd1+ 49.Kh3 Qh1+ 50.Kg4 Qxe4 51.Qd8 Qe6+ 52.f5 Qe4+ 53.Kh3 
+Qh1+ 54.Kg4 Re4+ 55.Kg5 Qc1+ 0-1 
+ 
+[Event "Jersey Open"] 
+[Site "St Helier JCI"] 
+[Date "2002.02.25"] 
+[Round "2"] 
+[White "Poley, Vladimir"] 
+[Black "Richards, Heather S"] 
+[Result "0-1"] 
+[WhiteElo "2344"] 
+[BlackElo "2209"] 
+[ECO "A00"] 
+[EventDate "2002.02.24"] 
+ 
+1.b4 e5 2.a3 Nf6 3.Bb2 d6 4.g3 g6 5.Bg2 Bg7 6.d3 Nc6 7.Nd2 Qe7 8.Ngf3 O-O  
+9.O-O Bg4 10.c4 Qd7 11.Re1 Rae8 12.Qc2 Bh3 13.Bh1 Qg4 14.b5 Nd8 15.c5 Ne6  
+16.cxd6 cxd6 17.Nc4 Rc8 18.Qd2 Rfd8 19.Rac1 Nc5 20.Ne3 Qa4 21.Ng5 Bd7 22. 
+b6 axb6 23.Rc4 Qa5 24.Bc3 Qa6 25.Nd5 Nxd5 26.Bxd5 Ne6 27.Rxc8 Rxc8 28.Ne4  
+b5 29.Bb4 Nc5 30.Qa2 Be8 31.Rc1 Qb6 32.Qc2 Bf8 33.d4 exd4 34.Nf6+ Kg7 35. 
+Qd2 Kxf6 36.Ba5 Qa7 37.Qxd4+ Ke7 38.Bc3 Kd8 39.Bb4 b6 40.e4 Qe7 41.Qh8 f6  
+42.Bc3 Nd7 43.Qg8 Ne5 44.f4 Bf7 45.Qh8 Nd7 46.Bb7 Rc7 47.Ba8 Be8 48.Bd5  
+Qg7 0-1 
+ 
+[Event "DEN Team Ch 9900"] 
+[Site "Denmark"] 
+[Date "2000.??.??"] 
+[Round "6"] 
+[White "Pedersen, Erik N"] 
+[Black "Mortensen, Erling"] 
+[Result "0-1"] 
+[WhiteElo "2400"] 
+[BlackElo "2447"] 
+[ECO "A00"] 
+ 
+1.b4 e5 2.a3 Nf6 3.Bb2 d6 4.e3 g6 5.Nf3 Bg7 6.d3 O-O 7.Be2 a5 8.c4 e4 9. 
+dxe4 Nxe4 10.Bxg7 Kxg7 11.Qd4+ Qf6 12.b5 Nd7 13.Nbd2 Nc3 14.Bd3 Nc5 15.Bc2 
+Bf5 16.Bxf5 gxf5 17.Nh4 f4 18.Nf5+ Kg6 19.Ne7+ Qxe7 20.Qxc3 fxe3 21.fxe3  
+Rae8 22.Qc2+ f5 23.O-O Qxe3+ 24.Kh1 Qd3 25.Qc1 f4 26.a4 Re2 27.Nf3 Qc2 28. 
+Qxc2+ Rxc2 29.Rae1 Rxc4 30.g3 Re4 31.Rd1 Nxa4 32.gxf4 Rfxf4 33.Rg1+ Rg4  
+34.Nh4+ Kg5 35.Ng2 Kh6 36.Rgf1 Nb6 37.Rd3 Nc4 38.Rf7 Rd4 39.Rxd4 Rxd4 40. 
+Nf4 Ne5 41.Rf8 0-1 

@@ -1,0 +1,16 @@
+ 
+[Event "It Open"] 
+[Site "Groningen NED"] 
+[Date "2003.??.??"] 
+[Round "3"] 
+[White "Van Rijn, Wouter"] 
+[Black "Zhao, Xue"] 
+[Result "0-1"] 
+[WhiteElo "2255"] 
+[BlackElo "2428"] 
+[ECO "A38"] 
+ 
+1.d3 c5 2.c4 Nc6 3.Nc3 g6 4.g3 Bg7 5.Bg2 Nf6 6.Nf3 O-O 7.O-O d6 8.Bf4 h6  
+9.Rb1 e5 10.Bd2 Be6 11.a3 a5 12.Ne1 d5 13.cxd5 Nxd5 14.Nc2 a4 15.Nxd5 Bxd5 
+16.Bxd5 Qxd5 17.Ne3 Qe6 18.b4 e4 19.bxc5 Rfd8 20.Rxb7 exd3 21.Bb4 Qe4 22. 
+exd3 Rxd3 23.Qc2 Rxe3 0-1 

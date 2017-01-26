@@ -1,0 +1,49 @@
+ 
+[Event "IM3 Ave-Kontakt Cup"] 
+[Site "Olomouc CZE"] 
+[Date "2010.08.05"] 
+[Round "2"] 
+[White "Brodowski, Piotr"] 
+[Black "Yanjindulam, Dulamsuren"] 
+[Result "1-0"] 
+[WhiteElo "2421"] 
+[BlackElo "2224"] 
+[ECO "A01"] 
+[EventDate "2010.08.04"] 
+ 
+1.b3 Nf6 2.c4 g6 3.Nc3 Bg7 4.g3 O-O 5.Bg2 d6 6.e4 Nc6 7.Nge2 e5 8.O-O Nh5  
+9.Bb2 Be6 10.Nd5 Nd4 11.Nxd4 exd4 12.f4 c6 13.Nb4 Qb6 14.Nd3 f5 15.e5 dxe5 
+16.fxe5 c5 17.Bf3 Bf7 18.Qe2 Rfe8 19.Rae1 Rac8 20.Qg2 Rc7 21.Bd5 Be6 22.h3 
+Bf8 23.g4 fxg4 24.hxg4 Ng7 25.Nf4 Rf7 26.Bxe6 Nxe6 27.Nd5 Qc6 28.Nf6+ Rxf6 
+29.exf6 Qxg2+ 30.Kxg2 Nf4+ 31.Kf3 Rxe1 32.Rxe1 Nd3 33.Rf1 Nxb2 34.Ke4 Bh6  
+35.Rh1 Bxd2 36.Rh2 Bc3 37.Rf2 Be1 1-0 
+ 
+[Event "Bijelo Polje SGG, 56. Montenegro Ch"] 
+[Site "Bijelo Polje SGG"] 
+[Date "2004.07.24"] 
+[Round "9"] 
+[White "Djukanovic, Sreten"] 
+[Black "Kontic, Djordjije"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2347"] 
+[BlackElo "2303"] 
+[ECO "A01"] 
+[EventDate "2004.07.17"] 
+ 
+1.b3 Nf6 2.c4 g6 3.Nf3 Bg7 4.Bb2 O-O 5.d3 c5 6.g3 Nc6 7.Bg2 d6 8.O-O e5 9. 
+Nc3 b6 10.Nd2 1/2-1/2 
+ 
+[Event "ch-Montenegro"] 
+[Site "Bijelo Polje SCG"] 
+[Date "2004.07.24"] 
+[Round "9"] 
+[White "Djukanovic, Sreten"] 
+[Black "Kontic, Djordjije"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2347"] 
+[BlackElo "2303"] 
+[ECO "A01"] 
+[EventDate "2004.07.16"] 
+ 
+1.b3 Nf6 2.c4 g6 3.Nf3 Bg7 4.Bb2 O-O 5.d3 c5 6.g3 Nc6 7.Bg2 d6 8.O-O e5 9. 
+Nc3 b6 10.Nd2 1/2-1/2 

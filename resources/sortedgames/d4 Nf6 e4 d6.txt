@@ -1,0 +1,18 @@
+ 
+[Event "4 Nations (2eme tournoi)"] 
+[Site "San Sebastian ESP"] 
+[Date "2004.12.10"] 
+[Round "2.6"] 
+[White "Magem Badals, Jordi"] 
+[Black "Peralta, Fernando"] 
+[Result "0-1"] 
+[WhiteElo "2500"] 
+[BlackElo "2531"] 
+[ECO "B07"] 
+ 
+1.d4 Nf6 2.e4 d6 3.Nc3 g6 4.Be3 c6 5.f3 Qb6 6.Qc1 Bg7 7.Nge2 h5 8.b3 Qc7  
+9.Qd2 Nbd7 10.O-O-O b5 11.Kb1 Bb7 12.g3 Nb6 13.Nc1 a5 14.Bg2 Nfd7 15.h3 b4 
+16.N3e2 c5 17.g4 h4 18.dxc5 dxc5 19.g5 Qc6 20.Bf4 O-O 21.Rhg1 a4 22.Bh2  
+axb3 23.cxb3 c4 24.e5 cxb3 25.f4 bxa2+ 26.Ka1 Qc7 27.Bxb7 Qxb7 28.Qxb4  
+Rfc8 29.Nd4 Rc4 30.Qb2 Qa6 31.Ncb3 Na4 32.Qg2 Ndc5 33.Rc1 Rb8 34.Qxa2  
+Nxb3+ 35.Nxb3 Rxb3 0-1 

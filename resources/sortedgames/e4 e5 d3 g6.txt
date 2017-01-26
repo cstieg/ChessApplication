@@ -1,0 +1,46 @@
+ 
+[Event "NWAPA Rector Cup"] 
+[Site "St Petersburg RUS"] 
+[Date "2005.03.09"] 
+[Round "9"] 
+[White "Pogosian, Vladimir"] 
+[Black "Kostiuk, Tatiana"] 
+[Result "0-1"] 
+[WhiteElo "2204"] 
+[BlackElo "2307"] 
+[ECO "C20"] 
+[EventDate "2005.03.04"] 
+ 
+1.e4 e5 2.d3 g6 3.Be2 Bg7 4.h4 d5 5.exd5 Qxd5 6.Nc3 Qd8 7.h5 Nc6 8.Nf3 Be6 
+9.Ne4 Qe7 10.Bg5 f6 11.Be3 O-O-O 12.h6 Bf8 13.c3 Qd7 14.Qa4 Kb8 15.Kf1 b6  
+16.d4 Bd5 17.Ned2 exd4 18.cxd4 Nce7 19.Bb5 Bc6 20.Bxc6 Qxc6 21.Qb3 Nd5 22. 
+Nc4 Nxe3+ 23.Nxe3 Bxh6 24.Ke2 Bxe3 25.fxe3 Ne7 26.Rac1 Qe4 27.Rh4 Qd5 28. 
+Qc2 c6 29.e4 Qe6 30.Kf2 Qd7 31.Rhh1 Rc8 32.b4 g5 33.Rhd1 Ng6 34.e5 g4 35. 
+Ne1 fxe5 36.dxe5 Qf7+ 37.Kg1 Nxe5 38.Nd3 Ng6 39.Rf1 Qd5 40.Rcd1 Qd4+ 41. 
+Nf2 Qxb4 42.Qd3 Rc7 43.Qe3 Qf4 44.Qc3 Re8 45.g3 Re3 46.gxf4 Rxc3 47.Nxg4  
+Rg3+ 48.Kh2 Rxg4 49.f5 Ne5 50.f6 Rf7 51.Rf5 Rg5 52.Rxg5 Nf3+ 53.Kg3 Nxg5  
+54.Kg4 Ne4 55.Kf5 Nxf6 56.Ke6 Rd7 57.Rf1 Rd2 58.Rxf6 Rxa2 59.Kd6 Kb7 60. 
+Rf7+ Ka6 61.Kxc6 Rc2+ 62.Kd5 h5 63.Rh7 Rc5+ 64.Kd4 Rg5 65.Kc3 b5 66.Kb3  
+Kb6 67.Rh6+ Ka5 68.Rh7 a6 69.Rh6 Rc5 70.Rh8 b4 71.Rh7 Rc3+ 72.Kb2 Rh3 73. 
+Rh6 Kb5 74.Rg6 Rc3 75.Rh6 Rc5 76.Rh8 a5 0-1 
+ 
+[Event "FSIMA February"] 
+[Site "Budapest HUN"] 
+[Date "2000.02.10"] 
+[Round "6"] 
+[White "Khechumyan, Gagik"] 
+[Black "Sinkovics, Peter"] 
+[Result "1-0"] 
+[WhiteElo "2236"] 
+[BlackElo "2331"] 
+[ECO "C20"] 
+[EventDate "2000.02.05"] 
+ 
+1.e4 e5 2.d3 g6 3.f4 exf4 4.Bxf4 Bg7 5.Nc3 Nf6 6.Nf3 O-O 7.Qd2 d5 8.e5 Ne8 
+9.d4 c6 10.O-O-O Nd7 11.Bd3 b5 12.h4 Nb6 13.h5 Nc4 14.Bxc4 bxc4 15.Rdf1  
+Bg4 16.Nh2 Be6 17.Na4 Rb8 18.Nc5 Qb6 19.Qc3 Nc7 20.a4 Bc8 21.h6 Bh8 22.Bg5 
+Re8 23.Bf6 Bxf6 24.Rxf6 Ne6 25.Rhf1 Re7 26.Nf3 Qb4 27.Qxb4 Rxb4 28.Nxe6  
+Bxe6 29.Ng5 Rbb7 30.Nxe6 Rxe6 31.Rxe6 fxe6 32.Rf6 Re7 33.Kd2 a5 34.Kc3 Re8 
+35.b4 cxb3 36.cxb3 c5 37.dxc5 Rc8 38.Kd4 Rc6 39.g3 Ra6 40.g4 g5 41.Rf2 Rc6 
+42.b4 axb4 43.Rb2 Kf7 44.Rxb4 Ra6 45.a5 Kg6 46.Rb6 Rxa5 47.c6 Ra4+ 48.Kc5  
+Rxg4 49.c7 Rc4+ 50.Kd6 Rxc7 51.Kxc7 Kf5 52.Kd6 d4 53.Rb7 d3 54.Rxh7 1-0 

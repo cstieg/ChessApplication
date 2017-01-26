@@ -1,0 +1,77 @@
+ 
+[Event "13. EICC"] 
+[Site "Plovdiv BUL"] 
+[Date "2012.03.29"] 
+[Round "9.146"] 
+[White "Pantic, Ivica"] 
+[Black "Balla, Tamas-Kristof"] 
+[Result "0-1"] 
+[WhiteElo "2242"] 
+[BlackElo "2369"] 
+[ECO "A04"] 
+[EventDate "2012.03.20"] 
+ 
+1.Nf3 b5 2.c3 e6 3.Qb3 a6 4.a4 b4 5.g3 Nc6 6.Bg2 Rb8 7.c4 Bb7 8.O-O Na5 9. 
+Qc2 d5 10.c5 d4 11.d3 Bd5 12.Nbd2 b3 13.Qd1 Bxc5 14.Ne4 Ba7 15.Ne5 Ne7 16. 
+Bg5 h6 17.Bxe7 Qxe7 18.Rc1 Rb4 19.Qd2 Bb6 20.f4 Rxa4 21.Ra1 Ra2 22.Nc4  
+Nxc4 23.dxc4 Bxc4 24.Rfc1 O-O 25.Nf2 a5 26.Rab1 Ba6 27.Ra1 Qb4 28.Qxb4  
+axb4 29.Kf1 Bxe2+ 30.Kxe2 Rxb2+ 31.Kf1 Rxf2+ 32.Kxf2 b2 33.Ke2 c5 34.Kd3  
+c4+ 35.Kc2 bxa1=Q 36.Rxa1 d3+ 37.Kd2 Rd8 0-1 
+ 
+[Event "4. TCh-SCG"] 
+[Site "Vrnjacka Banja SCG"] 
+[Date "2006.05.01"] 
+[Round "1"] 
+[White "Vulinovic, Radivoje"] 
+[Black "Jovic, Aleksandar"] 
+[Result "0-1"] 
+[WhiteElo "2225"] 
+[BlackElo "2396"] 
+[ECO "A04"] 
+[EventDate "2006.05.01"] 
+ 
+1.Nf3 b5 2.c3 e6 3.Qb3 a6 4.a4 b4 5.d4 c5 6.e4 Bb7 7.Bd3 d5 8.exd5 Bxd5 9. 
+c4 Bxf3 10.gxf3 cxd4 11.Nd2 Nd7 12.Be4 Rb8 13.f4 Ngf6 14.Bf3 Bd6 15.Ne4  
+Nxe4 16.Bxe4 O-O 17.Qh3 f5 18.Bc2 Qc7 19.Qg3 Nc5 20.b3 e5 21.Bb2 e4 22. 
+Bxd4 Bxf4 23.Qh3 Rbd8 24.Bxc5 Qxc5 25.O-O Rf6 26.Rad1 Rg6+ 27.Kh1 Rxd1 28. 
+Rxd1 Rh6 29.Rd8+ Kf7 30.Rd5 Qxd5 31.Qxh6 Qd2 32.Qh5+ Kf6 33.Qd1 Qxf2 34. 
+Qd8+ Kg6 0-1 
+ 
+[Event "Ch SCG team"] 
+[Site "Vrnjacka Banja SRB"] 
+[Date "2006.05.01"] 
+[Round "1"] 
+[White "Vulinovic, Radivoje"] 
+[Black "Jovic, Aleksandar"] 
+[Result "0-1"] 
+[WhiteElo "2225"] 
+[BlackElo "2396"] 
+[ECO "A04"] 
+ 
+1.Nf3 b5 2.c3 e6 3.Qb3 a6 4.a4 b4 5.d4 c5 6.e4 Bb7 7.Bd3 d5 8.exd5 Bxd5 9. 
+c4 Bxf3 10.gxf3 cxd4 11.Nd2 Nd7 12.Be4 Rb8 13.f4 Ngf6 14.Bf3 Bd6 15.Ne4  
+Nxe4 16.Bxe4 O-O 17.Qh3 f5 18.Bc2 Qc7 19.Qg3 Nc5 20.b3 e5 21.Bb2 e4 22. 
+Bxd4 Bxf4 23.Qh3 Rbd8 24.Bxc5 Qxc5 25.O-O Rf6 26.Rad1 Rg6+ 27.Kh1 Rxd1 28. 
+Rxd1 Rh6 29.Rd8+ Kf7 30.Rd5 Qxd5 31.Qxh6 Qd2 32.Qh5+ Kf6 33.Qd1 Qxf2 34. 
+Qd8+ Kg6 0-1 
+ 
+[Event "Karvina CZE, Open 2005"] 
+[Site "Karvina CZE"] 
+[Date "2005.??.??"] 
+[Round "3.3"] 
+[White "Zabystrzan, Pavel"] 
+[Black "Shtyrenkov, Veniamen"] 
+[Result "0-1"] 
+[WhiteElo "2325"] 
+[BlackElo "2492"] 
+[ECO "A04"] 
+ 
+1.Nf3 b5 2.c3 e6 3.Qb3 a6 4.a4 b4 5.d4 Bb7 6.Bf4 Nf6 7.Nbd2 Be7 8.h3 O-O  
+9.e3 a5 10.Be2 c5 11.O-O d5 12.dxc5 Bxc5 13.Rfd1 Nbd7 14.Ne5 Nxe5 15.Bxe5  
+Nd7 16.Bg3 Be7 17.Bb5 Rc8 18.Rac1 Bc6 19.Bxc6 Rxc6 20.cxb4 Rxc1 21.Rxc1  
+Bxb4 22.Qd3 Nc5 23.Qb5 Nxa4 24.Qxa4 Bxd2 25.Rd1 Bb4 26.e4 Qf6 27.exd5 exd5 
+28.b3 d4 29.Qb5 Bc3 30.Bc7 Ra8 31.Qd5 Re8 32.Bxa5 g6 33.Bxc3 dxc3 34.Qd3  
+Rc8 35.Qc2 Qf4 36.Rd3 Qb4 37.Re3 h5 38.g3 h4 39.gxh4 Qd4 40.Re2 Qxh4 41. 
+Qd3 Qg5+ 42.Kh2 Qf4+ 43.Kg2 Rc5 44.Rc2 Qb4 45.Qd8+ Kh7 46.Qe7 Kg7 47.Rc1  
+Qb5 48.Qe3 Qc6+ 49.Kh2 c2 50.b4 Rc3 51.Qe5+ Qf6 52.Qxf6+ Kxf6 53.Kg2 Ke5  
+54.Kf1 Kd4 55.Ke2 Kc4 56.Kd2 Kb3 57.b5 Rc8 0-1 

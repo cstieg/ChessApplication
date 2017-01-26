@@ -1,0 +1,41 @@
+ 
+[Event "TCh-SRB 1. League"] 
+[Site "Vrnjacka Banja SRB"] 
+[Date "2010.08.23"] 
+[Round "3"] 
+[White "Savic, Miodrag R"] 
+[Black "Kovacevic, Dragan"] 
+[Result "1-0"] 
+[WhiteElo "2477"] 
+[BlackElo "2282"] 
+[ECO "B07"] 
+[EventDate "2010.08.21"] 
+ 
+1.e4 d6 2.Bc4 c6 3.Bb3 e5 4.Nf3 h6 5.d4 Qc7 6.O-O Be7 7.c3 Nf6 8.Re1 Nh7  
+9.Nbd2 O-O 10.Nc4 Nd7 11.a4 Re8 12.a5 Nhf8 13.Be3 Ng6 14.Qb1 Nf6 15.Qa2  
+Be6 16.Ncd2 Bxb3 17.Qxb3 Ng4 18.Nf1 Nh4 19.Nxh4 Bxh4 20.d5 Nf6 21.a6 Reb8  
+22.Qc4 c5 23.axb7 Rxb7 24.Ra2 Rab8 25.Re2 Bg5 26.Qa4 Qc8 27.Bxg5 hxg5 28. 
+Ne3 g6 29.Nc4 Ne8 30.Na5 Rc7 31.Nc6 Rbb7 32.Na5 Rb8 33.Nc4 Qg4 34.Re1 Kg7  
+35.h3 Qh4 36.Qd1 f5 37.Ne3 f4 38.Ng4 Nf6 39.Nxf6 Kxf6 40.Qe2 Qh7 41.Ra6  
+Qd7 42.Rea1 Ke7 43.R1a2 Rbb7 44.Kf1 Rb6 45.Rxb6 axb6 46.Kg1 c4 47.Qd1 Kf6  
+48.Ra6 Qb5 49.Ra2 Rf7 50.Qa4 Qxa4 51.Rxa4 Rc7 52.Rb4 Ra7 53.Rxb6 Ra1+ 54. 
+Kh2 Rf1 55.f3 Rc1 56.Rxd6+ Ke7 57.Rb6 Rc2 58.Rb7+ Ke8 59.Rg7 Rxb2 60.Rxg6  
+Ke7 61.Rxg5 Rc2 62.Rg7+ Kd8 63.h4 Rxc3 64.h5 Ke8 65.h6 1-0 
+ 
+[Event "Open"] 
+[Site "Eforie Nord ROU"] 
+[Date "2010.06.21"] 
+[Round "5"] 
+[White "Jiroveanu, George"] 
+[Black "Badea, Bela"] 
+[Result "0-1"] 
+[WhiteElo "2255"] 
+[BlackElo "2495"] 
+[ECO "B07"] 
+[EventDate "2010.06.18"] 
+ 
+1.e4 d6 2.Bc4 c6 3.d4 Nf6 4.Nd2 d5 5.exd5 cxd5 6.Bd3 Nc6 7.c3 Bg4 8.Qb3  
+Qc7 9.Ndf3 Rb8 10.Bg5 e6 11.h3 Bh5 12.Nh4 Bd6 13.Ne2 a6 14.g4 Bg6 15.Nxg6  
+hxg6 16.O-O-O b5 17.Qc2 b4 18.Bxf6 gxf6 19.cxb4 Rxb4 20.a3 Rb8 21.Qa4 Ke7  
+22.Kb1 Rb6 23.Rd2 Qb7 24.Ka2 Rb8 25.Rb1 a5 26.b3 Nb4+ 27.Ka1 Nc6 28.Rc2  
+Rxb3 0-1 

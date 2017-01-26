@@ -1,0 +1,21 @@
+ 
+[Event "National I"] 
+[Site "Bordeaux FRA"] 
+[Date "2003.04.04"] 
+[Round "4"] 
+[White "Delebarre, Xavier"] 
+[Black "Lallemand, Roza"] 
+[Result "1-0"] 
+[WhiteElo "2307"] 
+[BlackElo "2291"] 
+[ECO "A00"] 
+[EventDate "2003.04.01"] 
+ 
+1.h3 c5 2.c4 Nf6 3.Nc3 g6 4.g4 h6 5.Bg2 Bg7 6.f4 Nc6 7.e4 d6 8.Nf3 e5 9.d3 
+Nd4 10.Nxd4 cxd4 11.Ne2 Bd7 12.b4 Nh7 13.O-O Qe7 14.a4 exf4 15.Nxf4 Nf6  
+16.b5 O-O 17.Bb2 Nh7 18.Nd5 Qe5 19.Bc1 Rac8 20.Qe1 Qe6 21.Qh4 g5 22.Qf2  
+Be5 23.Bb2 h5 24.Bf3 Nf6 25.Bxd4 hxg4 26.Nxf6+ Qxf6 27.Bxe5 dxe5 28.Bxg4  
+Qxf2+ 29.Kxf2 Bxg4 30.hxg4 Kg7 31.Ke3 Rh8 32.Rh1 Kg6 33.Raf1 f6 34.Rh5  
+Rxh5 35.gxh5+ Kxh5 36.Rxf6 g4 37.Rf5+ Kh4 38.Rxe5 g3 39.Re7 Rg8 40.Rh7+  
+Kg4 41.Rxb7 Kh3 42.Rh7+ Kg2 43.c5 Kg1 44.c6 g2 45.Ke2 Rf8 46.a5 Rf2+ 47. 
+Ke3 Kf1 48.Rg7 Rc2 49.Kd4 a6 50.b6 Rxc6 51.Rxg2 Kxg2 52.b7 1-0 

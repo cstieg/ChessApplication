@@ -1,0 +1,26 @@
+ 
+[Event "Cup Ilyumzhinov"] 
+[Site "Internet INT"] 
+[Date "2006.05.06"] 
+[Round "?"] 
+[White "Kryakvin, Dmitry"] 
+[Black "Pavlovski, Yaroslav"] 
+[Result "1-0"] 
+[WhiteElo "2472"] 
+[BlackElo "2288"] 
+[ECO "A40"] 
+ 
+1.d4 a6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.e4 Nd7 6.Be2 e5 7.O-O Ngf6 8.Re1 O-O  
+9.Bf1 exd4 10.Nxd4 Re8 11.f3 Nc5 12.Be3 c6 13.Qc2 Qc7 14.Rad1 Nfd7 15.Nb3  
+Nxb3 16.axb3 Ne5 17.Bd4 Be6 18.Qf2 c5 19.Be3 h6 20.g3 Nc6 21.Bg2 Nd4 22.f4 
+f5 23.exf5 Nxf5 24.Nd5 Qf7 25.Kh1 Nxe3 26.Qxe3 Bg4 27.Ne7+ Rxe7 28.Qxe7  
+Qxe7 29.Rxe7 Bxd1 30.Rxb7 Re8 31.Bd5+ Kh8 32.Rb6 Bxb2 33.Rxd6 Bxb3 34.Rxg6 
+a5 35.Rxh6+ Kg7 36.Ra6 a4 37.f5 a3 38.f6+ Bxf6 39.Rxa3 Bc2 40.Ra7+ Kg6 41. 
+Bf7+ Kg5 42.Bxe8 Be4+ 43.Kg1 Bd4+ 44.Kf1 Bd3+ 45.Kg2 Be4+ 46.Kf1 Bd3+ 47. 
+Ke1 Bxc4 48.Bd7 Bd5 49.h4+ Kf6 50.Bb5 Ke5 51.Re7+ Kf6 52.Rd7 Bf3 53.Be2  
+Be4 54.g4 Ke6 55.Rd8 Bc3+ 56.Kf2 Bd4+ 57.Kg3 Be5+ 58.Kh3 Bd5 59.g5 Be4 60. 
+Bg4+ Ke7 61.Rd7+ Ke8 62.h5 c4 63.Rd1 c3 64.Re1 c2 65.h6 Kf7 66.Kh4 Bb2 67. 
+Bh5+ Kf8 68.g6 c1=Q 69.g7+ Bxg7 70.hxg7+ Kxg7 71.Rxc1 Bd3 72.Rg1+ Kf6 73. 
+Kg3 Be4 74.Bf3 Bf5 75.Rf1 Bc2 76.Bd1+ Bf5 77.Bc2 Ke5 78.Bxf5 Kd4 79.Bg4  
+Kc5 80.Rf4 Kb5 81.Kf3 Kc6 82.Ke3 Kc7 83.Rd4 Kb6 84.Ke4 Kb5 85.Kd5 Ka5 86. 
+Rc4 Kb6 87.Rc5 Kb7 88.Rc6 Kb8 89.Kc5 Kb7 90.Kb5 Kb8 91.Kb6 Ka8 92.Rc8# 1-0 

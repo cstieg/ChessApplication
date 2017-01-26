@@ -1,0 +1,79 @@
+ 
+[Event "Khazar Cup 2016"] 
+[Site "Rasht IRI"] 
+[Date "2016.02.17"] 
+[Round "8.6"] 
+[White "Idani, Pouya"] 
+[Black "Gholami Orimi, Mahdi"] 
+[Result "1-0"] 
+[WhiteElo "2568"] 
+[BlackElo "2226"] 
+[ECO "A00"] 
+[EventDate "2016.02.11"] 
+ 
+1.a3 Nf6 2.Nf3 d5 3.e3 e6 4.c4 Bd6 5.b4 c6 6.Bb2 Nbd7 7.d4 Bc7 8.Nbd2 O-O  
+9.Bd3 Qe7 10.Qc2 h6 11.cxd5 exd5 12.b5 Nb8 13.a4 Bd6 14.O-O Be6 15.Ne5 Rc8 
+16.Rac1 c5 17.dxc5 Rxc5 18.Qb1 Nbd7 19.Nxd7 Nxd7 20.Nb3 Rxc1 21.Rxc1 Ne5  
+22.Bh7+ Kh8 23.Bxe5 Bxe5 24.Bf5 Rd8 25.g3 Bxf5 26.Qxf5 g6 27.Qd3 Kg7 28. 
+Rc5 Qd6 29.a5 Bf6 30.Kg2 Rd7 31.Rc8 Qa3 32.h4 h5 33.Nc5 Qxd3 34.Nxd3 d4  
+35.e4 Bd8 36.a6 bxa6 37.bxa6 Ba5 38.Rc6 Rc7 39.Rd6 Bb6 40.Ne5 Kf8 41.Nc6  
+Kg7 42.Ne5 Kf8 43.Rd7 Ke8 44.Rd6 Ke7 45.Rxb6 axb6 46.a7 Rxa7 47.Nc6+ Kd6  
+48.Nxa7 Kc5 49.Kf3 b5 50.Ke2 b4 51.Kd3 b3 52.Nc8 b2 53.Kc2 d3+ 54.Kxb2 Kd4 
+55.Nd6 Ke5 56.Nxf7+ Kxe4 57.Ng5+ Kd4 58.Kc1 1-0 
+ 
+[Event "24. ECC"] 
+[Site "Kallithea GRE"] 
+[Date "2008.10.23"] 
+[Round "7"] 
+[White "Khalikian, Hovik"] 
+[Black "Vladimirov, Vladimir MKD"] 
+[Result "1-0"] 
+[WhiteElo "2360"] 
+[BlackElo "2227"] 
+[ECO "A00"] 
+[EventDate "2008.10.17"] 
+ 
+1.a3 Nf6 2.Nf3 d5 3.e3 Nc6 4.b4 a6 5.Bb2 Bg4 6.c4 e6 7.cxd5 exd5 8.d3 Bd6  
+9.Be2 O-O 10.Nbd2 Qe7 11.O-O Rad8 12.h3 Bf5 13.Qb3 Ne5 14.Bxe5 Bxe5 15. 
+Nxe5 Qxe5 16.Nf3 Qd6 17.a4 c6 18.Rfc1 Ra8 19.Rab1 Rfc8 20.Rb2 h6 21.Qc3  
+Bd7 22.Qd4 Ne8 23.Ne5 Be6 24.f4 f6 25.Ng6 a5 26.Qc5 Kh7 27.Nf8+ Kg8 28. 
+Qxd6 1-0 
+ 
+[Event "WY ol"] 
+[Site "Kuala Lumpur MAS"] 
+[Date "2002.08.27"] 
+[Round "10"] 
+[White "Filippov, A."] 
+[Black "Murariu, Andrei"] 
+[Result "1-0"] 
+[WhiteElo "2253"] 
+[BlackElo "2401"] 
+[ECO "A00"] 
+[EventDate "2002.08.20"] 
+ 
+1.a3 Nf6 2.Nf3 d5 3.d4 Bf5 4.Bf4 e6 5.e3 Be7 6.c4 c6 7.Nc3 O-O 8.h3 a6 9. 
+c5 Nbd7 10.Bd3 b6 11.Bxf5 exf5 12.b4 Ne4 13.Ne2 a5 14.Ne5 Nxe5 15.Bxe5 Bf6 
+16.Bxf6 Nxf6 17.O-O g6 18.Nf4 Qb8 19.Nd3 b5 20.a4 axb4 21.Nxb4 Rc8 22.Qc2  
+Ra5 23.axb5 Rxb5 24.Nd3 Qb7 25.Rfb1 Ne4 26.Rxb5 Qxb5 27.Rb1 Qa5 28.Qb2 Qc7 
+29.Qb6 Nc3 30.Qxc7 Rxc7 31.Rb8+ Kg7 32.Nb4 f4 33.Rb6 fxe3 34.fxe3 Nd1 35. 
+Rxc6 Rxc6 36.Nxc6 Nxe3 37.Na7 Nc2 38.c6 Nxd4 1-0 
+ 
+[Event "FSGM April"] 
+[Site "Budapest HUN"] 
+[Date "2001.04.11"] 
+[Round "5"] 
+[White "Kallio, Heikki"] 
+[Black "Berkes, Ferenc"] 
+[Result "1-0"] 
+[WhiteElo "2410"] 
+[BlackElo "2393"] 
+[ECO "A00"] 
+[EventDate "2001.04.07"] 
+ 
+1.a3 Nf6 2.Nf3 d5 3.g3 c6 4.Bg2 Bg4 5.d3 Nbd7 6.O-O e5 7.Nbd2 Bd6 8.e4 O-O 
+9.h3 Bh5 10.Qe1 Re8 11.b3 Bxf3 12.Bxf3 Nc5 13.Bb2 a5 14.Bg2 Qe7 15.Kh1  
+Rad8 16.Rg1 Bc7 17.a4 Qd7 18.Bc3 Ne6 19.Kh2 Qd6 20.Nf1 Qc5 21.Ra2 dxe4 22. 
+dxe4 Bb6 23.Ne3 Ng5 24.b4 axb4 25.Bxb4 Qd4 26.Rf1 Ngxe4 27.Nf5 Qc4 28.Rb2  
+Bd4 29.c3 Bxc3 30.Bxc3 Nxc3 31.Qc1 Nfe4 32.Bxe4 Qxe4 33.Qg5 g6 34.Nh6+ Kg7 
+35.Rxb7 Rf8 36.Nxf7 Rxf7 37.Rxf7+ Kxf7 38.Qxd8 Qxa4 39.Qd7+ Kf6 40.Rc1 Qd4 
+41.Qxc6+ Kg7 42.Rxc3 1-0 

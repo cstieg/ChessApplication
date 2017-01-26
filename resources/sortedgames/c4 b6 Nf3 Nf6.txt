@@ -1,0 +1,74 @@
+ 
+[Event "Festival de Meurthe-et-Moselle A"] 
+[Site "Nancy FRA"] 
+[Date "2006.02.23"] 
+[Round "5"] 
+[White "Cioara, Andrei-Nestor"] 
+[Black "Adrian, Claude"] 
+[Result "1-0"] 
+[WhiteElo "2440"] 
+[BlackElo "2278"] 
+[ECO "A30"] 
+[EventDate "2006.02.20"] 
+ 
+1.c4 b6 2.Nf3 Nf6 3.g3 Bb7 4.Bg2 c5 5.O-O e6 6.Nc3 d6 7.Re1 Nbd7 8.e4 Rc8  
+9.b3 a6 10.Bb2 Rc7 11.d4 cxd4 12.Nxd4 Be7 13.f4 Qa8 14.f5 e5 15.Nc2 O-O  
+16.Nb4 Rfc8 17.a4 Nc5 18.Ncd5 Nxd5 19.exd5 Bf8 20.Nc6 Bxc6 21.dxc6 e4 22. 
+Rxe4 Nxe4 23.Bxe4 Re8 24.Bd5 Rce7 25.Qg4 Re1+ 26.Rxe1 Rxe1+ 27.Kf2 Qe8 28. 
+Bd4 b5 29.c7 Rc1 30.Bxf7+ Qxf7 1-0 
+ 
+[Event "4NCL"] 
+[Site "West Bromwich ENG"] 
+[Date "2003.10.18"] 
+[Round "1"] 
+[White "Cox, John J"] 
+[Black "Gordon, Stephen J"] 
+[Result "1-0"] 
+[WhiteElo "2308"] 
+[BlackElo "2263"] 
+[ECO "A30"] 
+[EventDate "2003.10.18"] 
+ 
+1.c4 b6 2.Nf3 Nf6 3.g3 c5 4.Bg2 Bb7 5.O-O e6 6.b3 Be7 7.Bb2 O-O 8.e3 d5 9. 
+Qe2 Nc6 10.Rd1 Rc8 11.Nc3 Na5 12.Rac1 Ba6 13.Nb5 Bxb5 14.cxb5 Ne4 15.Ne5  
+f6 16.Bxe4 fxe5 17.Bg2 Bf6 18.d4 e4 19.dxc5 bxc5 20.Bxe4 Qb6 21.Bxf6 Rxf6  
+22.Bg2 Rcf8 23.Rf1 c4 24.bxc4 Nxc4 25.a4 Ne5 26.Qd2 Nc4 27.Qc3 a6 28.bxa6  
+Qxa6 29.Ra1 Rc8 30.Qd4 Qa5 31.Rfc1 Rb8 32.Ra2 Rb4 33.e4 Nd6 34.Qe5 Nxe4  
+35.Rc8+ Kf7 36.Bxe4 Rxe4 37.Qh5+ Rg6 38.Qxh7 Rxa4 39.Qg8+ Kf6 40.Qf8+ Kg5  
+41.h4+ Kg4 42.Kg2 Kh5 43.Qf3+ Rgg4 44.Rh8+ Kg6 45.Qxg4+ 1-0 
+ 
+[Event "SWE Team Ch 0102"] 
+[Site "Sweden"] 
+[Date "2002.02.09"] 
+[Round "7"] 
+[White "Jaderberg, Bjorn"] 
+[Black "Carlsson, Pontus"] 
+[Result "0-1"] 
+[WhiteElo "2301"] 
+[BlackElo "2400"] 
+[ECO "A30"] 
+ 
+1.c4 b6 2.Nf3 Nf6 3.g3 c5 4.Bg2 Bb7 5.O-O g6 6.Nc3 Bg7 7.d3 O-O 8.Bd2 Nc6  
+9.Qc1 d5 10.cxd5 Nxd5 11.Bh6 Rc8 12.Bxg7 Kxg7 13.Nxd5 Qxd5 14.Qc3+ Kg8 15. 
+Qd2 Nd4 16.Nh4 Qd7 17.b3 Bxg2 18.Nxg2 e5 19.f3 f5 20.Rad1 f4 21.e3 fxe3  
+22.Qxe3 Qd5 23.Nh4 Nc2 24.Qf2 Nb4 25.Qe3 Qd4 26.Rfe1 g5 27.Qxd4 exd4 28. 
+Ng2 Rxf3 29.Re7 Nxd3 30.Rxa7 Nf2 31.Ne1 Rf6 32.Rd2 Rcf8 33.Kg2 Ne4 34.Re2  
+Rf2+ 35.Rxf2 Rxf2+ 36.Kg1 Re2 37.Nd3 Re3 38.Ne5 d3 39.Rd7 d2 40.Ng4 Re1+  
+0-1 
+ 
+[Event "EU Team Ch Seniors"] 
+[Site "Dresden GER"] 
+[Date "2006.02.22"] 
+[Round "6"] 
+[White "Dornieden, Manfred Dr"] 
+[Black "Byway, Paul V"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2284"] 
+[BlackElo "2203"] 
+[ECO "E18"] 
+[EventDate "2006.02.17"] 
+ 
+1.c4 b6 2.Nf3 Nf6 3.g3 c5 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7 7.d4 O-O 8.d5 exd5  
+9.cxd5 d6 10.a4 Na6 11.e4 Nb4 12.Re1 Re8 13.Bf4 Bf8 14.Qd2 a6 15.Nh4 Ng4  
+16.h3 Ne5 17.Bxe5 dxe5 18.Nf5 g6 19.Nh4 Bc8 20.Na2 Nxa2 21.Rxa2 Bd7 22.b3  
+Qf6 23.Rea1 Reb8 1/2-1/2 

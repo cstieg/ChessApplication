@@ -1,0 +1,102 @@
+ 
+[Event "18. Unive Open 2014"] 
+[Site "Hoogeveen NED"] 
+[Date "2014.10.15"] 
+[Round "6.6"] 
+[White "Hambleton, Aman"] 
+[Black "Malaniuk, Vladimir P"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2456"] 
+[BlackElo "2495"] 
+[ECO "A80"] 
+[EventDate "2014.10.11"] 
+ 
+1.d4 f5 2.h4 Nf6 3.c4 d6 4.Nc3 c6 5.g3 g6 6.h5 Nxh5 7.Rxh5 gxh5 8.e4 fxe4  
+9.Qxh5+ Kd7 10.Nxe4 Na6 11.Be3 Qe8 12.Qf5+ Kd8 13.Qa5+ Nc7 14.Bd3 Bd7 15. 
+O-O-O Kc8 16.Ne2 b6 17.Qa4 Bg7 18.Kb1 c5 19.Qc2 Ne6 20.d5 Nd8 21.Nf4 Nf7  
+22.Ne6 Bxe6 23.dxe6 Ne5 24.Be2 Kc7 25.Nc3 Qg6 26.Nd5+ Kd8 27.Rh1 Qxc2+ 28. 
+Kxc2 h6 29.b3 Rb8 30.Rh5 Nc6 31.Bd3 Nb4+ 32.Nxb4 cxb4 33.f4 Kc7 34.g4 Bf6  
+35.Be4 a6 36.Kd3 Bg7 37.Ke2 Rhf8 38.f5 Rh8 39.Rh1 a5 40.Bf4 Rbg8 41.Kf3  
+Rc8 42.Ke3 Rcg8 43.Bf3 Rc8 44.Kd3 Rcf8 45.Rh5 Rfg8 46.Kc2 Rc8 47.Kb1 Kb8  
+48.Be3 Rc5 49.Bd5 Ka7 50.Kc2 Rcc8 51.Kd3 Ka6 52.Ke4 Rcg8 53.Kf3 Rf8 54.Ke2 
+Rc8 55.Kd3 Rcg8 56.Bf3 Rc8 57.g5 hxg5 58.Bxg5 Rxh5 59.Bxh5 Rc5 60.Bg6 Bf8  
+61.Be3 Re5 62.Bf2 a4 63.bxa4 Ka5 64.Bg3 Rc5 65.Bf2 Rc8 66.Bh5 Kxa4 67.Bd1+ 
+Ka5 68.Bd4 b5 69.cxb5 Kxb5 70.f6 exf6 71.Bxf6 Rc7 72.Bb3 Be7 73.Bd4 Rc8  
+74.Ke4 Rg8 75.Be3 Rf8 76.Bf4 Kc6 77.Ba4+ Kc5 78.Be3+ Kc4 79.Bb3+ Kb5 80. 
+Bf4 Rg8 81.Kd5 Rc8 82.Be3 Rc7 1/2-1/2 
+ 
+[Event "BNBank Final KO"] 
+[Site "Oslo NOR"] 
+[Date "2010.11.27"] 
+[Round "2.5"] 
+[White "Nakamura, Hikaru"] 
+[Black "Agdestein, Simen"] 
+[Result "1-0"] 
+[WhiteElo "2741"] 
+[BlackElo "2570"] 
+[ECO "A80"] 
+[EventDate "2010.11.27"] 
+ 
+1.d4 f5 2.h4 Nf6 3.Nc3 d5 4.Bg5 e6 5.e3 Be7 6.Nf3 Ne4 7.Bxe7 Qxe7 8.Bd3  
+O-O 9.Ne2 c5 10.c3 Nc6 11.Bb5 Nd8 12.a3 Nf7 13.Nf4 b6 14.Ba4 Ba6 15.Bc2  
+Rad8 16.Bd3 Bc8 17.Qc2 Nf6 18.a4 a5 19.b3 Bb7 20.h5 Rc8 21.O-O cxd4 22. 
+exd4 Ne4 23.c4 Qd6 24.Qc1 1-0 
+ 
+[Event "7. ch-Euro Senior"] 
+[Site "Hockenheim GER"] 
+[Date "2007.06.06"] 
+[Round "5"] 
+[White "Ljubarskij, Juri"] 
+[Black "Krieger, Hermann"] 
+[Result "1-0"] 
+[WhiteElo "2301"] 
+[BlackElo "2223"] 
+[ECO "A80"] 
+[EventDate "2007.06.02"] 
+ 
+1.d4 f5 2.h4 Nf6 3.h5 e6 4.c4 b6 5.Nc3 Bb7 6.Bf4 d5 7.Nf3 c6 8.e3 Be7 9. 
+Be2 O-O 10.Ne5 Nbd7 11.Rc1 Nxe5 12.dxe5 Nd7 13.cxd5 exd5 14.g4 Bb4 15.gxf5 
+Rxf5 16.Bd3 Rxe5 17.Qc2 h6 18.Bxe5 Nxe5 19.a3 Bd6 20.Be2 Qe7 21.Rd1 Rf8  
+22.f4 Nd7 23.Rh3 Nf6 24.Qg6 c5 25.Rg3 Kh8 26.Kf1 d4 27.Bc4 b5 28.Nxb5 Be4  
+29.Qxg7+ Qxg7 30.Rxg7 Kxg7 31.Nxd6 dxe3 32.Nxe4 Nxe4 33.Rd7+ Kh8 34.Ke2  
+Ng3+ 35.Kxe3 Nxh5 36.Rxa7 Rxf4 37.Bd3 Rf6 38.Rc7 Re6+ 39.Kf3 Rd6 40.Be4  
+Nf6 41.Rxc5 Rd4 42.Bf5 h5 43.b4 Rd1 44.b5 Ra1 45.Kf4 Rxa3 46.Kg5 Nh7+ 47. 
+Kh6 Nf6 48.Be6 Ra8 49.b6 Ng8+ 50.Bxg8 Rb8 51.Be6 1-0 
+ 
+[Event "TCh-AUT 2003-4"] 
+[Site "Jenbach AUT"] 
+[Date "2004.03.19"] 
+[Round "9"] 
+[White "Wegerer, Fred"] 
+[Black "Beck, Hartmuth"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2203"] 
+[BlackElo "2280"] 
+[ECO "A80"] 
+[EventDate "2004.01.01"] 
+ 
+1.d4 f5 2.h4 Nf6 3.Bg5 e6 4.Nd2 d5 5.e3 Be7 6.Bd3 Nbd7 7.Nh3 c5 8.c3 O-O  
+9.Nf4 Qb6 10.Nf3 Re8 11.Qb1 Bf8 12.Bxf6 Nxf6 13.Ne5 Bd6 14.Nf3 cxd4 15. 
+cxd4 Bd7 16.O-O Rac8 17.Rd1 Qc7 18.g3 Ne4 19.Kg2 Ba4 20.Rc1 Qxc1 21.Qxc1  
+Rxc1 22.Rxc1 Nf6 23.a3 Bd7 24.Bb1 Kf8 25.Nd3 Rc8 26.Rxc8+ Bxc8 27.Nfe5 Ke7 
+28.f3 Nd7 29.g4 g6 30.Kh3 Kf6 31.f4 Ke7 32.g5 Bc7 33.h5 Nxe5 34.Nxe5 Bxe5  
+1/2-1/2 
+ 
+[Event "Oberliga NRW 2003/04"] 
+[Site "GER"] 
+[Date "2004.01.11"] 
+[Round "5"] 
+[White "Hubert, Ralf"] 
+[Black "Wolf, Ulrich Martin"] 
+[Result "0-1"] 
+[WhiteElo "2303"] 
+[BlackElo "2218"] 
+[ECO "A80"] 
+ 
+1.d4 f5 2.h4 Nf6 3.Bg5 e6 4.e3 Be7 5.Nd2 O-O 6.Nh3 b6 7.Nf4 d5 8.c3 Qe8 9. 
+Qb3 Kh8 10.Bb5 c6 11.Be2 Bd8 12.Nf3 Ba6 13.Bxa6 Nxa6 14.Qa3 Nc7 15.Qd6 Ne4 
+16.Qe5 Qd7 17.Bxd8 Raxd8 18.Ng5 Rde8 19.Ng6+ hxg6 20.h5 Qd6 21.hxg6+ Kg8  
+22.Nh7 Qxe5 23.dxe5 f4 24.Rh3 fxe3 25.f3 Nc5 26.Ke2 Nd7 27.Rah1 Nxe5 28. 
+Nxf8 Kxf8 29.Rg3 Ke7 30.Kxe3 Nc4+ 31.Ke2 Nxb2 32.Rg4 Nc4 33.Rf4 Ne5 34.Ra4 
+a6 35.Rh5 Nxg6 36.Rg5 Kf6 37.Rag4 Ne5 38.Rg3 Rg8 39.f4 Nc4 40.f5 exf5 41. 
+Rg6+ Kf7 42.Rxc6 Ne6 43.Kf2 f4 0-1 

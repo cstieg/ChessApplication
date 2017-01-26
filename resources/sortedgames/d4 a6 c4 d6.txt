@@ -1,0 +1,18 @@
+ 
+[Event "3. IECC"] 
+[Site "Batumi GEO"] 
+[Date "2002.06.17"] 
+[Round "6"] 
+[White "Kamadadze, Zviad"] 
+[Black "Chibukhchian, Artur"] 
+[Result "0-1"] 
+[WhiteElo "2225"] 
+[BlackElo "2379"] 
+[ECO "A40"] 
+[EventDate "2002.06.12"] 
+ 
+1.d4 a6 2.c4 d6 3.Nc3 Nf6 4.e4 Nbd7 5.Nf3 e5 6.Be2 Be7 7.O-O O-O 8.d5 c6  
+9.Be3 cxd5 10.cxd5 b5 11.Nd2 Rb8 12.b4 Nb6 13.a4 bxa4 14.Nxa4 Nxa4 15.Qxa4 
+Ng4 16.Bxg4 Bxg4 17.Qxa6 Rxb4 18.Rfb1 Rxb1+ 19.Rxb1 Bc8 20.Qa7 f5 21.Rc1  
+Bg5 22.Rc7 Qf6 23.Nc4 fxe4 24.Bxg5 Qxg5 25.Nxd6 Bh3 26.g3 Qg4 27.f3 Rxf3  
+28.Rc8+ Qxc8 29.Nxc8 0-1 

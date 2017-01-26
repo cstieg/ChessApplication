@@ -1,0 +1,38 @@
+ 
+[Event "ch-GBR"] 
+[Site "Scarborough ENG"] 
+[Date "2004.08.13"] 
+[Round "11"] 
+[White "Martyn, Rafe"] 
+[Black "Surtees, Mike J"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2322"] 
+[BlackElo "2239"] 
+[ECO "A40"] 
+[EventDate "2004.08.02"] 
+ 
+1.d4 c6 2.c4 f6 3.e4 e5 4.Nf3 d6 5.Nc3 g6 6.Be2 Nh6 7.O-O Nf7 8.Qc2 Bg4 9. 
+Rd1 Nd7 10.a3 Bg7 11.Be3 Qe7 12.Rac1 O-O 13.b4 f5 14.dxe5 dxe5 15.Rb1 f4  
+16.Bc1 Bxf3 17.Bxf3 Ng5 18.Be2 Ne6 19.f3 Nd4 20.Qd2 Rfd8 21.c5 Kh8 22.Kh1  
+Nf8 23.Qe1 g5 24.Bc4 Ng6 25.Bb2 Rd7 26.Qf2 Rad8 27.Ne2 Nc2 28.Rxd7 Qxd7  
+29.Nc3 Ne3 30.Bf1 g4 31.fxg4 Nxg4 32.Qe2 Ne3 33.Bc1 Qd4 34.Bxe3 Qxc3 35. 
+Bf2 Rd2 36.Qe1 f3 37.Be3 fxg2+ 38.Bxg2 Rd3 39.Qxc3 Rxc3 40.Bg5 h6 41.Bd2  
+Rxa3 42.Bf1 Nh4 43.Be1 Nf3 44.b5 Ra2 45.Bg2 Nd2 46.bxc6 1/2-1/2 
+ 
+[Event "ch-GBR"] 
+[Site "Scarborough ENG"] 
+[Date "2004.08.02"] 
+[Round "1"] 
+[White "Gormally, Daniel W"] 
+[Black "Surtees, Mike J"] 
+[Result "1-0"] 
+[WhiteElo "2479"] 
+[BlackElo "2239"] 
+[ECO "A40"] 
+[EventDate "2004.08.02"] 
+ 
+1.d4 c6 2.c4 f6 3.Nc3 e5 4.Nf3 Bb4 5.dxe5 Bxc3+ 6.bxc3 Qa5 7.Qd4 Na6 8.g3  
+fxe5 9.Nxe5 d6 10.Nd3 Nf6 11.Bd2 O-O 12.Bg2 Be6 13.O-O Rae8 14.Rab1 Qxa2  
+15.Bf4 c5 16.Qxd6 b6 17.Ra1 Qxe2 18.Rfe1 Qc2 19.Rec1 Qe2 20.Bf1 Qh5 21. 
+Rxa6 Bxc4 22.Rxa7 Bd5 23.c4 Be4 24.Qc7 Qg6 25.Ne5 Rxe5 26.Bxe5 Ne8 27.Qe7  
+1-0 

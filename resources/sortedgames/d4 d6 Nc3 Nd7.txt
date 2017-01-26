@@ -1,0 +1,38 @@
+ 
+[Event "2. Bundesliga West 2010/11 rounds 9-11"] 
+[Site "AUT"] 
+[Date "2011.03.13"] 
+[Round "11.2"] 
+[White "Weindl, Alfred"] 
+[Black "Krstic, Uros"] 
+[Result "0-1"] 
+[WhiteElo "2374"] 
+[BlackElo "2410"] 
+[ECO "A41"] 
+[EventDate "2011.03.11"] 
+ 
+1.d4 d6 2.Nc3 Nd7 3.e4 e5 4.Nf3 Be7 5.dxe5 Nxe5 6.Nxe5 dxe5 7.Qxd8+ Bxd8  
+8.Bc4 c6 9.a4 a5 10.Be3 Nf6 11.O-O Nd7 12.Rad1 h6 13.Rd3 Bg5 14.Rfd1 Bxe3  
+15.Rxe3 Nc5 16.Rg3 g6 17.Re3 Ke7 18.Kf1 g5 19.b3 h5 20.Ne2 h4 21.Nc1 Bd7  
+22.Nd3 Nxd3 23.Rexd3 Be8 24.Rd6 Rg8 25.Be2 Rg6 26.R6d3 Rg7 27.Bg4 Rg6 28. 
+Bf5 Rf6 29.Ke2 Rb8 30.c4 b5 31.cxb5 cxb5 32.Rd5 bxa4 33.Rxe5+ Kf8 34.bxa4  
+Bxa4 35.Ra1 Rb5 36.Rxb5 Bxb5+ 37.Kf3 Ra6 38.Kg4 f6 39.Ra3 Ke7 40.e5 a4 41. 
+exf6+ Kxf6 42.Bc2 Bd7+ 43.Kh5 Be8+ 44.Kg4 Bd7+ 45.Kh5 Ra5 46.f4 h3 47.gxh3 
+gxf4+ 0-1 
+ 
+[Event "Obrenovac SRB, Open 2009"] 
+[Site "Obrenovac SRB"] 
+[Date "2009.11.25"] 
+[Round "2"] 
+[White "Kahrovic, Mersid"] 
+[Black "Damljanovic, Branko"] 
+[Result "0-1"] 
+[WhiteElo "2287"] 
+[BlackElo "2558"] 
+[ECO "C41"] 
+[EventDate "2009.11.24"] 
+ 
+1.d4 d6 2.Nc3 Nd7 3.Nf3 e5 4.e4 Ngf6 5.Bc4 Be7 6.O-O O-O 7.h3 c6 8.Bb3 b5  
+9.a3 a6 10.Bg5 h6 11.Be3 Re8 12.Qd2 Bf8 13.Rfe1 Bb7 14.dxe5 dxe5 15.Rad1  
+c5 16.Bd5 Nxd5 17.Nxd5 Nf6 18.Qc1 Nxe4 19.Bxh6 Bxd5 20.Rxe4 gxh6 21.Qe3  
+Qd6 22.Nh4 Rad8 23.Rg4+ Kh7 24.Qg3 Qf6 25.Re1 c4 0-1 

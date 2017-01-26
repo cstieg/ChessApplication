@@ -1,0 +1,107 @@
+ 
+[Event "FIDE World Rapid 2014"] 
+[Site "Dubai UAE"] 
+[Date "2014.06.17"] 
+[Round "8.26"] 
+[White "Georgiev, Kiril"] 
+[Black "Wang, Hao"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2644"] 
+[BlackElo "2729"] 
+[ECO "A80"] 
+[EventDate "2014.06.16"] 
+ 
+1.d4 f5 2.Bg5 d6 3.e3 g6 4.Nc3 Bg7 5.Bc4 Nf6 6.Nf3 c6 7.Bb3 d5 8.Ne2 Be6  
+9.Nf4 Bf7 10.Nd3 h6 11.Bf4 g5 12.Bg3 Bh5 13.c4 Ne4 14.Be5 Bxe5 15.Ndxe5  
+Nd7 16.Nxd7 Qxd7 17.cxd5 cxd5 18.O-O Bxf3 19.Qxf3 O-O-O 20.Qe2 e6 21.Bc2  
+Nd6 22.Bd3 Kb8 23.Rfc1 h5 24.Rc5 g4 25.Rac1 Rhf8 26.Qd2 h4 27.b3 h3 28.g3  
+Rc8 29.a4 b6 30.Qb4 Nb7 31.R5c2 Qd6 32.Rxc8+ Rxc8 33.Rxc8+ Kxc8 34.Qxd6  
+Nxd6 35.f3 gxf3 36.Kf2 Ne4+ 37.Kxf3 Nd2+ 38.Kf4 Nxb3 39.g4 fxg4 40.Kxg4  
+Nd2 41.Kxh3 Nc4 42.e4 Nb2 43.Ba6+ Kd8 44.Bb5 dxe4 45.Kg3 a6 46.Bxa6 Nxa4  
+47.Kf4 Nc3 48.Bb7 Ke7 49.Bxe4 Ne2+ 50.Ke5 Nxd4 51.Kxd4 Kf6 1/2-1/2 
+ 
+[Event "TCh-BUL GpA Men"] 
+[Site "Albena BUL"] 
+[Date "2011.06.02"] 
+[Round "1.3"] 
+[White "Shishkov, Minko"] 
+[Black "Panbukchian, Valentin"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2286"] 
+[BlackElo "2385"] 
+[ECO "A80"] 
+[EventDate "2011.06.02"] 
+ 
+1.d4 f5 2.Bg5 d6 3.e4 fxe4 4.Nc3 Nf6 5.f3 Nc6 6.d5 Ne5 7.fxe4 c6 8.Nf3 Qb6 
+9.Qd2 Nxf3+ 10.gxf3 Qxb2 11.Rb1 Qa3 12.Rb3 Qa5 13.Be2 g6 14.f4 Bg7 15.Rg1  
+a6 16.Rg3 Nd7 17.e5 Nc5 18.exd6 Nxb3 19.axb3 Bd7 20.dxc6 bxc6 21.Bxe7 Bf5  
+22.b4 Qa1+ 23.Kf2 Kd7 24.Re3 Rab8 25.Ne4 Bd4 26.c3 Bxe3+ 27.Qxe3 Bxe4 28. 
+Qxe4 Qa2 29.Kg3 Qd5 30.Bg4+ Ke8 31.Qe3 Kf7 32.f5 Rhc8 33.fxg6+ hxg6 34. 
+Qf4+ Kg8 35.Qf6 Kh7 36.Qh4+ Kg8 37.Qf6 Kh7 38.Be6 Qd3+ 39.Kh4 Qe4+ 40.Bg4  
+Rg8 41.Kh3 Rg7 42.Kg3 Re8 43.Bf3 Qe1+ 44.Kg2 Rgxe7 45.dxe7 Rxe7 46.Qxc6  
+Qd2+ 47.Kh3 Qf4 48.Kg2 Qg5+ 49.Kf2 Qe5 50.Kg2 Rc7 51.Qxa6 Rxc3 52.Qe2 Qf6  
+53.b5 Rb3 54.Qe4 Rxb5 55.h4 Re5 56.Qg4 Rf5 57.Kg3 Qd6+ 58.Kg2 Kh6 59.Qe4  
+Rf4 60.Qe3 Qf6 61.Bg4 g5 62.hxg5+ Kxg5 63.Kg3 Kh6 64.Bh3 1/2-1/2 
+ 
+[Event "4. Open"] 
+[Site "Varna BUL"] 
+[Date "2010.06.17"] 
+[Round "6"] 
+[White "Shishkov, Minko"] 
+[Black "Panbukchian, Valentin"] 
+[Result "0-1"] 
+[WhiteElo "2277"] 
+[BlackElo "2381"] 
+[ECO "A80"] 
+[EventDate "2010.06.12"] 
+ 
+1.d4 f5 2.Bg5 d6 3.e3 g6 4.Bc4 Bg7 5.c3 Nf6 6.Nd2 e5 7.Qb3 Qe7 8.O-O-O  
+Nbd7 9.Qa3 c6 10.dxe5 dxe5 11.Qxe7+ Kxe7 12.f4 b5 13.Bb3 h6 14.Bh4 e4 15. 
+Ne2 Nc5 16.Bc2 a5 17.Nd4 Bd7 18.N2b3 Nb7 19.g4 a4 20.Nd2 c5 21.Ne2 Be6 22. 
+gxf5 gxf5 23.Rhg1 Kf7 24.Ng3 Rhg8 25.Bxf6 Bxf6 26.Ndxe4 fxe4 27.f5 Bc8 28. 
+Bxe4 Rd8 29.Bd5+ Ke7 30.Ne4 Rb8 31.Nxf6 Kxf6 32.e4 Ke5 33.Rg7 Nd6 34.Re7+  
+Kf6 35.Rh7 Bd7 36.Rxh6+ Ke5 37.Rh7 c4 38.a3 Rbc8 39.h4 Be8 40.Re7+ Kf4 41. 
+Rd4 Ke3 42.Be6 Rb8 43.e5 Ne4 44.Bd7 Nc5 45.Rxe8 Rxe8 46.Bxe8 Rxe8 47.Rd5  
+Nd3+ 48.Kc2 Rg8 0-1 
+ 
+[Event "15. ETC"] 
+[Site "Goteborg SWE"] 
+[Date "2005.08.03"] 
+[Round "5"] 
+[White "Bareev, Evgeny"] 
+[Black "Gunnarsson, Arnar"] 
+[Result "1-0"] 
+[WhiteElo "2688"] 
+[BlackElo "2438"] 
+[ECO "A80"] 
+[EventDate "2005.07.30"] 
+ 
+1.d4 f5 2.Bg5 d6 3.e4 Nc6 4.Nc3 Nf6 5.d5 Ne5 6.Nf3 fxe4 7.Nxe5 dxe5 8.Bb5+ 
+Bd7 9.Qe2 a6 10.Bxd7+ Qxd7 11.O-O-O O-O-O 12.h3 g6 13.Kb1 h6 14.Bh4 g5 15. 
+Bg3 Qf5 16.Qe3 Kb8 17.Rhf1 e6 18.f3 Nxd5 19.Nxd5 exd5 20.fxe4 Qe6 21.exd5  
+Rxd5 22.Rxd5 Qxd5 23.Qxe5 Qxe5 24.Bxe5 Rg8 25.g4 Bg7 26.Bxg7 Rxg7 27.Rf8+  
+Ka7 28.Kc1 Rg6 29.Kd2 Re6 30.Kd3 a5 31.Rf5 Kb6 32.Kd4 c6 33.Rf2 Kc7 34. 
+Rf7+ Kb6 35.Rf2 Kc7 36.c4 b6 37.c5 bxc5+ 38.Kxc5 Re5+ 39.Kd4 Re6 40.b3 Kb6 
+41.Rc2 Kb5 42.Rc5+ Kb4 43.Rc4+ Kb5 44.a3 Kb6 45.Rc3 Kb5 46.Rc5+ Kb6 47.Rf5 
+Ka6 48.Rf3 Kb5 49.Rf5+ Kb6 50.Rf8 Rd6+ 51.Kc4 Re6 52.Rh8 Rf6 53.Kd4 Rf3  
+54.Rxh6 Rxb3 55.a4 Ra3 56.Ke4 Rxa4+ 57.Kf5 Rd4 58.Kxg5 a4 59.Rf6 a3 60.Rf1 
+Ra4 61.h4 a2 62.Ra1 Kb5 63.h5 Kb4 64.h6 Kb3 65.h7 Ra8 66.Kh6 c5 67.g5 Kb2  
+68.Rxa2+ Kxa2 69.g6 c4 70.g7 c3 71.g8=Q+ Rxg8 72.hxg8=Q+ Kb2 73.Qg7 1-0 
+ 
+[Event "2. It"] 
+[Site "Odivelas POR"] 
+[Date "2001.11.08"] 
+[Round "3"] 
+[White "Dias, Paulo"] 
+[Black "Francisco, Joao"] 
+[Result "1-0"] 
+[WhiteElo "2285"] 
+[BlackElo "2210"] 
+[ECO "A80"] 
+[EventDate "2001.11.06"] 
+ 
+1.d4 f5 2.Bg5 d6 3.e3 Nd7 4.Bd3 Ngf6 5.h4 g6 6.h5 Bg7 7.hxg6 hxg6 8.Rxh8+  
+Bxh8 9.Qf3 c6 10.Nc3 Qa5 11.Qg3 Nh5 12.Qh4 Ndf6 13.f3 Nd5 14.Ne2 Bf6 15. 
+Bxf6 Nhxf6 16.Qh6 Kf7 17.O-O-O Nxc3 18.Nxc3 Be6 19.g4 Rg8 20.gxf5 gxf5 21. 
+a3 b5 22.e4 fxe4 23.Nxe4 b4 24.Nxf6 exf6 25.Qd2 c5 26.d5 Bh3 27.Qh6 Bd7  
+28.Qh7+ 1-0 

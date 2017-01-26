@@ -1,0 +1,169 @@
+ 
+[Event "Hanoi VIE, Ch U11 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.15"] 
+[Round "5.28"] 
+[White "Le, Quoc Anh"] 
+[Black "Du, Xuan Tung Lam"] 
+[Result "0-1"] 
+[WhiteElo "2550"] 
+[BlackElo "2558"] 
+[ECO "C44"] 
+[EventDate "2012.07.12"] 
+ 
+1.e4 e5 2.d3 Nc6 3.Be2 Nf6 4.Nf3 Bc5 5.O-O d6 6.c4 Be6 7.b3 Qd7 8.a4 O-O-O 
+9.Nc3 Rhg8 10.Bg5 h6 11.Bxf6 gxf6 12.h3 Bxh3 13.Nh4 Bxg2 14.Nxg2 Qh3 15. 
+Bf3 Rxg2+ 16.Bxg2 Rg8 17.Re1 Qxg2# 0-1 
+ 
+[Event "7. Parsvnath Open"] 
+[Site "New Delhi IND"] 
+[Date "2009.01.16"] 
+[Round "7"] 
+[White "Vinoth Kumar, M"] 
+[Black "Laxman, R R"] 
+[Result "0-1"] 
+[WhiteElo "2204"] 
+[BlackElo "2478"] 
+[ECO "C44"] 
+[EventDate "2009.01.11"] 
+ 
+1.e4 e5 2.d3 Nc6 3.Nf3 d6 4.Be2 g6 5.h4 Bg4 6.Na3 h5 7.Nc4 Qd7 8.Ne3 Bxf3  
+9.Bxf3 Nd4 10.c3 Nxf3+ 11.Qxf3 O-O-O 12.c4 Bg7 13.Bd2 Qe6 14.Nd5 c6 15.Qe3 
+Kb8 16.Nb4 Bh6 17.Qe2 Bxd2+ 18.Qxd2 Ne7 19.a4 d5 20.exd5 cxd5 21.c5 Rc8  
+22.Rc1 Qg4 23.O-O a5 24.Nc2 Nc6 25.f4 Qxh4 26.b4 exf4 27.Rxf4 Qg5 28.b5  
+Ne5 29.Rcf1 Rxc5 30.Nd4 Qg3 31.Qb2 Rhc8 32.Nc6+ Nxc6 33.bxc6 Qe3+ 34.Kh1  
+R5xc6 35.Rxf7 Rb6 36.Qg7 Ka7 37.R7f3 Qc5 38.d4 Qc7 39.Qh6 Qc2 40.Qg5 Qc4  
+41.Qe5 Rb4 42.Rf8 Rxa4 43.R1f7 Rb4 44.Rxc8 Qxc8 45.Qxd5 Ka6 46.Qe4 Qg4 47. 
+Rf4 Qg5 48.Rf8 Qc1+ 49.Kh2 Qc7+ 50.Kg1 Qd6 51.Rf4 g5 52.Qd3+ Ka7 53.Re4 h4 
+54.d5 g4 55.Re6 Qc5+ 56.Kh2 Rd4 0-1 
+ 
+[Event "Cup Ilyumzhinov"] 
+[Site "Internet INT"] 
+[Date "2006.05.06"] 
+[Round "?"] 
+[White "Savickas, Airidas"] 
+[Black "Feoktistov, Alexey A"] 
+[Result "0-1"] 
+[WhiteElo "2300"] 
+[BlackElo "2421"] 
+[ECO "C44"] 
+ 
+1.e4 e5 2.d3 Nc6 3.Nf3 Nf6 4.Be2 Bb4+ 5.c3 Ba5 6.Nbd2 d5 7.Qc2 O-O 8.h3 a6 
+9.Nf1 Bb6 10.Ng3 h6 11.O-O Be6 12.b4 Qd7 13.a3 Rad8 14.Bb2 Bxh3 15.gxh3  
+Qxh3 16.d4 dxe4 17.Nxe4 Qg4+ 18.Ng3 exd4 19.cxd4 Rfe8 20.Ne5 Qh3 21.Nxc6  
+Rxe2 22.Qxe2 Ng4 23.Ne7+ Kf8 24.f3 Qxg3+ 25.Qg2 Qxg2+ 26.Kxg2 Ne3+ 27.Kf2  
+Nxf1 28.Ng6+ fxg6 29.Kxf1 Bxd4 30.Bxd4 Rxd4 31.Rc1 c6 32.Rc3 Rd2 33.Re3  
+Kf7 34.Rc3 g5 35.Kg1 h5 36.Re3 h4 37.Kh1 Ra2 38.Kg1 Kf6 39.Kh1 g6 40.Kg1  
+g4 41.fxg4 Kg5 42.Re7 Kxg4 43.Rxb7 Kg3 44.Kf1 g5 45.Rf7 h3 46.Rh7 h2 47.b5 
+axb5 48.a4 bxa4 49.Ke1 h1=Q+ 50.Rxh1 Ra1+ 51.Kd2 Rxh1 52.Kc2 Kf2 53.Kb2  
+Rh3 54.Ka2 Rb3 55.Ka1 g4 56.Ka2 g3 57.Ka1 g2 58.Ka2 c5 59.Ka1 g1=Q+ 60.Ka2 
+Qb1# 0-1 
+ 
+[Event "4. Parsvnath Open"] 
+[Site "New Delhi IND"] 
+[Date "2006.01.20"] 
+[Round "8"] 
+[White "Vinoth Kumar, M"] 
+[Black "Raetsky, Alexander"] 
+[Result "0-1"] 
+[WhiteElo "2226"] 
+[BlackElo "2431"] 
+[ECO "C20"] 
+[EventDate "2006.01.15"] 
+ 
+1.e4 e5 2.d3 Nc6 3.g3 Nf6 4.c3 d5 5.Qe2 dxe4 6.dxe4 a5 7.f3 Bc5 8.Be3 Qe7  
+9.Nd2 O-O 10.Nh3 Rd8 11.Bxc5 Qxc5 12.Nb3 Qe7 13.Qe3 b6 14.Nf2 Be6 15.Be2  
+Nd7 16.O-O a4 17.Nd2 Qc5 18.Qxc5 Nxc5 19.Rfd1 Na5 20.f4 exf4 21.gxf4 f6  
+22.Kg2 Rd7 23.Nf1 Rxd1 24.Rxd1 Bxa2 25.Ne3 Re8 26.Kf3 Bf7 27.h3 Kf8 28. 
+Neg4 Bc4 29.e5 Bxe2+ 30.Kxe2 Nc4 31.Kf3 fxe5 32.f5 e4+ 33.Ke2 e3 34.Nd3  
+Nxd3 35.Rxd3 Nxb2 36.Rd7 h5 37.Nh2 a3 38.Rxc7 Ra8 0-1 
+ 
+[Event "It Open"] 
+[Site "Dhaka (Bangladesh)"] 
+[Date "2005.04.05"] 
+[Round "1"] 
+[White "Vinoth Kumar, M"] 
+[Black "Abdulla, Al-Rakib"] 
+[Result "0-1"] 
+[WhiteElo "2238"] 
+[BlackElo "2462"] 
+[ECO "C20"] 
+ 
+1.e4 e5 2.d3 Nc6 3.g3 Bc5 4.Bg2 Nf6 5.c3 d5 6.Qe2 O-O 7.b4 Bb6 8.a4 d4 9. 
+a5 dxc3 10.axb6 Nd4 11.Qa2 Be6 12.Qa4 Bb3 13.Qa5 cxb6 14.Qxe5 Re8 15.Qf4  
+Nc2+ 16.Ke2 Nxa1 17.Nxc3 Nc2 18.Nf3 Nxb4 19.Ne1 Rc8 20.Bb2 a5 21.Kd2 Qd7  
+22.e5 Nfd5 23.Qg5 h6 24.Qh5 Nxc3 25.Bxc3 Bd5 26.Rg1 Bxg2 27.Rxg2 Nxd3 28. 
+Nxd3 Rxc3 29.Kxc3 Qc6+ 0-1 
+ 
+[Event "7. UI&UL GM"] 
+[Site "Dhaka BAN"] 
+[Date "2005.04.05"] 
+[Round "1"] 
+[White "Vinoth Kumar, M"] 
+[Black "Abdulla, Al-Rakib"] 
+[Result "0-1"] 
+[WhiteElo "2238"] 
+[BlackElo "2462"] 
+[ECO "C20"] 
+[EventDate "2005.04.05"] 
+ 
+1.e4 e5 2.d3 Nc6 3.g3 Bc5 4.Bg2 Nf6 5.c3 d5 6.Qe2 O-O 7.b4 Bb6 8.a4 d4 9. 
+a5 dxc3 10.axb6 Nd4 11.Qa2 Be6 12.Qa4 Bb3 13.Qa5 cxb6 14.Qxe5 Re8 15.Qf4  
+Nc2+ 16.Ke2 Nxa1 17.Nxc3 Nc2 18.Nf3 Nxb4 19.Ne1 Rc8 20.Bb2 a5 21.Kd2 Qd7  
+22.e5 Nfd5 23.Qg5 h6 24.Qh5 Nxc3 25.Bxc3 Bd5 26.Rg1 Bxg2 27.Rxg2 Nxd3 28. 
+Nxd3 Rxc3 29.Kxc3 Qc6+ 0-1 
+ 
+[Event "BL 0405 SC Eppingen - Solinger SG"] 
+[Site "?"] 
+[Date "2004.11.13"] 
+[Round "1.6"] 
+[White "Miltner, Arndt"] 
+[Black "Werle, Jan"] 
+[Result "0-1"] 
+[WhiteElo "2402"] 
+[BlackElo "2457"] 
+[ECO "C20"] 
+[EventDate "2004.??.??"] 
+ 
+1.e4 e5 2.d3 Nc6 3.Nc3 Nf6 4.Nf3 Bb4 5.Bd2 d5 6.exd5 Nxd5 7.g3 O-O 8.Bg2  
+Bg4 9.h3 Bh5 10.O-O Nde7 11.g4 Bg6 12.Nh4 f6 13.f4 exf4 14.Rxf4 Bf7 15.Rf1 
+Bxc3 16.bxc3 Bd5 17.Qe2 Qd7 18.Rae1 Rae8 19.Qf2 b6 20.Nf3 Ne5 21.Nxe5 fxe5 
+22.Qg3 Ng6 23.c4 Bxc4 24.Rxf8+ Rxf8 25.h4 Bd5 26.Be4 Bxe4 27.Rxe4 Qf7 28. 
+Re1 Nf4 29.Kh2 Qxa2 30.Rxe5 Qxc2 31.Qe3 Qxd3 0-1 
+ 
+[Event "Bundesliga 2004-5"] 
+[Site "Baden Oos GER"] 
+[Date "2004.11.13"] 
+[Round "1"] 
+[White "Miltner, Arndt"] 
+[Black "Werle, Jan"] 
+[Result "0-1"] 
+[WhiteElo "2402"] 
+[BlackElo "2457"] 
+[ECO "C20"] 
+[EventDate "2004.11.14"] 
+ 
+1.e4 e5 2.d3 Nc6 3.Nc3 Nf6 4.Nf3 Bb4 5.Bd2 d5 6.exd5 Nxd5 7.g3 O-O 8.Bg2  
+Bg4 9.h3 Bh5 10.O-O Nde7 11.g4 Bg6 12.Nh4 f6 13.f4 exf4 14.Rxf4 Bf7 15.Rf1 
+Bxc3 16.bxc3 Bd5 17.Qe2 Qd7 18.Rae1 Rae8 19.Qf2 b6 20.Nf3 Ne5 21.Nxe5 fxe5 
+22.Qg3 Ng6 23.c4 Bxc4 24.Rxf8+ Rxf8 25.h4 Bd5 26.Be4 Bxe4 27.Rxe4 Qf7 28. 
+Re1 Nf4 29.Kh2 Qxa2 30.Rxe5 Qxc2 31.Qe3 Qxd3 0-1 
+ 
+[Event "CZE-chT2a 0001"] 
+[Site "Czechia"] 
+[Date "2001.??.??"] 
+[Round "6"] 
+[White "Vavra, Pavel"] 
+[Black "Trapl, Jindrich"] 
+[Result "0-1"] 
+[WhiteElo "2463"] 
+[BlackElo "2363"] 
+[ECO "C20"] 
+ 
+1.e4 e5 2.d3 Nc6 3.c3 Nf6 4.Qc2 d5 5.Nf3 Be7 6.b4 a6 7.a3 O-O 8.Be2 b6 9. 
+O-O Bb7 10.Re1 Qd6 11.Bf1 Nd7 12.a4 Nd8 13.Ba3 dxe4 14.dxe4 Qg6 15.Nbd2  
+Ne6 16.Nc4 Bf6 17.Rad1 b5 18.Na5 Bc8 19.axb5 axb5 20.Bxb5 Nf4 21.Bf1 Nb6  
+22.Re3 Nbd5 23.Nc4 Nxe3 24.fxe3 Nh3+ 25.Kh1 Bg4 26.Bd3 Bxf3 27.gxf3 Rfd8  
+28.Qg2 Qh5 29.Qg3 Ng5 30.Kg2 Rd7 31.Rd2 Rad8 32.Nb2 Ne6 33.Qf2 Bh4 34.Qe2  
+Ng5 35.f4 Qxe2+ 36.Rxe2 exf4 37.exf4 Ne6 38.Kf3 Rxd3+ 39.Nxd3 Rxd3+ 40.Re3 
+Rxe3+ 41.Kxe3 Kf8 0-1 

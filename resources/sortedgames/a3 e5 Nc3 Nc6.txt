@@ -1,0 +1,16 @@
+ 
+[Event "Zonal 2.5 m"] 
+[Site "San Luis ARG"] 
+[Date "2007.03.22"] 
+[Round "5"] 
+[White "Cerda Albornoz, Guillermo"] 
+[Black "Duarte, L."] 
+[Result "1/2-1/2"] 
+[WhiteElo "2207"] 
+[BlackElo "2419"] 
+[ECO "A00"] 
+[EventDate "2007.03.19"] 
+ 
+1.a3 e5 2.Nc3 Nc6 3.e4 f5 4.exf5 Nf6 5.Nge2 d5 6.d4 e4 7.Bg5 Be7 8.Ng3 O-O 
+9.Bb5 Ne8 10.Be3 Nd6 11.Ba4 Nxf5 12.Nxd5 Nxe3 13.Nxe3 Nxd4 14.c3 Nf5 15. 
+Qxd8 Bxd8 16.Bb3+ Kh8 17.Nexf5 Bxf5 18.Nxf5 Rxf5 19.Bc2 1/2-1/2 

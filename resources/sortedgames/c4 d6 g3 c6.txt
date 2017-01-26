@@ -1,0 +1,36 @@
+ 
+[Event "Olympiad"] 
+[Site "Bled SLO"] 
+[Date "2002.11.01"] 
+[Round "7"] 
+[White "Cekro, Ekrem"] 
+[Black "Cueto, Jonny"] 
+[Result "1-0"] 
+[WhiteElo "2432"] 
+[BlackElo "2400"] 
+[ECO "A21"] 
+[EventDate "2002.10.26"] 
+ 
+1.c4 d6 2.g3 c6 3.Bg2 e5 4.Nc3 Nf6 5.d4 Be7 6.e3 O-O 7.Nge2 Be6 8.b3 Qc8  
+9.h3 Rd8 10.Ba3 Qc7 11.Bb2 d5 12.cxd5 Nxd5 13.O-O Nxc3 14.Bxc3 Bf6 15.Qc2  
+Bd5 16.e4 exd4 17.Nxd4 Bc4 18.Rfd1 Ba6 19.Nf5 Nd7 20.Rxd7 Qxd7 21.Bxf6  
+gxf6 22.Qc3 Qe6 23.Qe3 Kh8 24.Qh6 Rg8 25.Rd1 Rg6 26.Qe3 Rgg8 27.Rd6 Qe5  
+28.Rd7 Raf8 29.Kh2 Rg6 30.h4 b6 31.Rxa7 Qb8 32.Rxa6 1-0 
+ 
+[Event "CCSCSL Inv IM 2014"] 
+[Site "Saint Louis USA"] 
+[Date "2014.05.30"] 
+[Round "6.5"] 
+[White "Eckert, Doug D"] 
+[Black "Ross, David"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2255"] 
+[BlackElo "2291"] 
+[ECO "A55"] 
+[EventDate "2014.05.28"] 
+ 
+1.c4 d6 2.g3 c6 3.Bg2 Nd7 4.Nf3 e5 5.d4 Ngf6 6.Nc3 Be7 7.e4 O-O 8.O-O Re8  
+9.h3 a6 10.Re1 b6 11.a3 Bb7 12.Be3 Rc8 13.Rc1 Bf8 14.Qc2 exd4 15.Nxd4 Ne5  
+16.b3 b5 17.f4 Ned7 18.Rcd1 Qc7 19.Bf2 g6 20.Qd2 bxc4 21.bxc4 Nc5 22.Kh1  
+Nfd7 23.h4 Rcd8 24.Bf3 Ne5 25.Be2 Qc8 26.Kg2 Ng4 27.Bf3 Ne5 28.Be2 Ng4 29. 
+Bf3 Ne5 30.Be2 1/2-1/2 

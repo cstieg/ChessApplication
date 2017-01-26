@@ -1,0 +1,32 @@
+ 
+[Event "Cetinje MNE, Team Ch (m) 2009"] 
+[Site "Cetinje MNE"] 
+[Date "2009.08.21"] 
+[Round "1.4"] 
+[White "Bozovic, Nikola"] 
+[Black "Djukic, Nikola"] 
+[Result "0-1"] 
+[WhiteElo "2256"] 
+[BlackElo "2491"] 
+[ECO "A45"] 
+[EventDate "2009.08.21"] 
+ 
+1.d4 Nf6 2.b3 g6 3.Bb2 Bg7 4.Nd2 c5 5.e3 O-O 6.Ngf3 b6 7.Bd3 Bb7 8.O-O Nc6 
+9.a3 Qc7 10.Qe2 d5 11.dxc5 bxc5 12.c4 d4 13.exd4 Nh5 14.g3 cxd4 15.b4 e5  
+16.c5 Ne7 17.Rac1 Nd5 18.Ne4 Qd7 19.Nfd2 Qh3 20.c6 Bc8 21.Ng5 Qg4 22.Qxg4  
+Bxg4 23.Rc5 Nb6 24.Ra5 h6 25.Nge4 f5 26.Nd6 e4 27.Ba6 e3 28.fxe3 dxe3 29. 
+N2c4 e2 30.Re1 f4 31.Nxb6 Bxb2 32.Rxe2 Bd4+ 0-1 
+ 
+[Event "XIII Carlos Torre Open"] 
+[Site "Merida MEX"] 
+[Date "2000.12.21"] 
+[Round "8"] 
+[White "Arencibia Rodriguez, Walter"] 
+[Black "Mikhalevski, Victor"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2513"] 
+[BlackElo "2532"] 
+[ECO "A45"] 
+[EventDate "2000.12.15"] 
+ 
+1.d4 Nf6 2.b3 g6 3.Bb2 Bg7 4.g3 b6 5.Bg2 Bb7 1/2-1/2 

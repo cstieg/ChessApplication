@@ -1,0 +1,19 @@
+ 
+[Event "XI Open A"] 
+[Site "Bosnjaci CRO"] 
+[Date "2005.01.06"] 
+[Round "5"] 
+[White "Krstic, Uros"] 
+[Black "Sedlak, Nikola"] 
+[Result "0-1"] 
+[WhiteElo "2360"] 
+[BlackElo "2521"] 
+[ECO "A00"] 
+[EventDate "2005.01.03"] 
+ 
+1.c3 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.Re1 e5 7.e4 Nc6 8.d4 h6 9. 
+Nbd2 Re8 10.h3 a5 11.a4 exd4 12.Nxd4 Nd7 13.Nf1 Nc5 14.Nb3 Nxb3 15.Qxb3  
+Be6 16.Qc2 Qd7 17.Kh2 Rab8 18.Ne3 b5 19.f4 bxa4 20.e5 Bb3 21.Qd3 Rbd8 22. 
+Qa6 Nb8 23.Qxa5 dxe5 24.Ng4 e4 25.Ne5 Nc6 26.Qxa4 Nxe5 27.Qxb3 Nf3+ 28. 
+Bxf3 exf3 29.Re3 f2 30.Kg2 Qxh3+ 31.Kxf2 Qh2+ 32.Kf3 Qh1+ 33.Kf2 Rxe3 34. 
+Qxf7+ Kxf7 0-1 

@@ -1,0 +1,15 @@
+ 
+[Event "BEL Ch"] 
+[Site "Namur BEL"] 
+[Date "2006.07.06"] 
+[Round "6"] 
+[White "Piceu, Tom"] 
+[Black "Geirnaert, Steven"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2345"] 
+[BlackElo "2357"] 
+[ECO "A00"] 
+[EventDate "2006.07.01"] 
+ 
+1.e3 a5 2.Qh5 Ra6 3.Qxa5 h5 4.h4 Rah6 5.Qxc7 f6 6.Qxd7+ Kf7 7.Qxb7 Qd3 8. 
+Qxb8 Qh7 9.Qxc8 Kg6 10.Qe6 1/2-1/2 

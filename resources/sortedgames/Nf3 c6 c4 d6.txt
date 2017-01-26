@@ -1,0 +1,56 @@
+ 
+[Event "TCh-Vojvodina"] 
+[Site "Sombor SCG"] 
+[Date "2004.09.28"] 
+[Round "5"] 
+[White "Bogosavljevic, Boban"] 
+[Black "Radlovacki, Jovan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2227"] 
+[BlackElo "2350"] 
+[ECO "A11"] 
+[EventDate "2004.09.25"] 
+ 
+1.Nf3 c6 2.c4 d6 3.d4 Bg4 4.Nc3 Nd7 5.e4 e5 6.Be2 Ngf6 7.Be3 Bxf3 8.Bxf3  
+a6 9.O-O Be7 10.Be2 O-O 11.Rc1 Re8 12.d5 cxd5 13.Nxd5 Nxd5 14.cxd5 Bg5 15. 
+Qd2 Bxe3 16.Qxe3 Nf6 17.b4 Qd7 18.Rc4 Rac8 19.Rfc1 Rxc4 20.Rxc4 Rc8 21.Qc1 
+Rxc4 22.Qxc4 g6 23.Bd1 Qd8 24.g3 Kg7 25.Kg2 a5 26.a3 axb4 27.axb4 Qb6 28. 
+h3 h5 29.h4 Ne8 30.Ba4 Nf6 31.Bd1 Qa7 32.Be2 Qa4 33.Bd3 Qa3 34.Be2 b5 35. 
+Qd3 Qxb4 36.f3 Qe1 37.Qxb5 Nh7 38.Bf1 g5 39.Qe2 Qc1 40.hxg5 Qxg5 41.Qf2 h4 
+42.Kh2 hxg3+ 43.Qxg3 Qxg3+ 44.Kxg3 Nf8 1/2-1/2 
+ 
+[Event "It Open"] 
+[Site "Untergrombach GER"] 
+[Date "2003.??.??"] 
+[Round "5"] 
+[White "Panzalovic, Srdjan"] 
+[Black "Muranyi, Karl-Jasmin"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2441"] 
+[BlackElo "2344"] 
+[ECO "A11"] 
+ 
+1.Nf3 c6 2.c4 d6 3.d4 Bg4 4.e4 g6 5.Be2 Bg7 6.Nc3 Nd7 7.Ng1 Bxe2 8.Ngxe2  
+Ngf6 9.O-O O-O 10.f3 c5 11.Be3 a6 12.Qd2 Qc7 13.Rac1 Rfb8 14.dxc5 Nxc5 15. 
+b4 Ncd7 16.Nd5 Nxd5 17.cxd5 Qd8 18.Rc2 Rc8 19.Rfc1 b5 20.Nd4 Bxd4 21.Bxd4  
+Rxc2 22.Rxc2 Nb6 23.Qh6 f6 24.Rc6 Nc4 25.Qh3 Ne5 26.Bxe5 fxe5 27.Qe6+ Kg7  
+28.f4 exf4 29.e5 Ra7 30.exd6 exd6 31.Rxd6 Qg5 32.Rd7+ Rxd7 33.Qxd7+ Kh6  
+34.Qh3+ Kg7 35.Qd7+ Kh6 36.d6 f3 37.Qh3+ Kg7 38.Qd7+ Kh6 39.Qh3+ Kg7 40. 
+Qxf3 Qc1+ 41.Qf1 Qe3+ 1/2-1/2 
+ 
+[Event "Prishtina Open 2015"] 
+[Site "Prishtina KOS"] 
+[Date "2015.06.14"] 
+[Round "2.4"] 
+[White "Kurajica, Bojan"] 
+[Black "Xheladini, Mahmut"] 
+[Result "1-0"] 
+[WhiteElo "2510"] 
+[BlackElo "2245"] 
+[ECO "A55"] 
+[EventDate "2015.06.13"] 
+ 
+1.Nf3 c6 2.c4 d6 3.d4 Nd7 4.Nc3 e5 5.e4 Ngf6 6.g3 Be7 7.Bg2 Qc7 8.O-O h6  
+9.h3 Nh7 10.Be3 Ndf8 11.b4 g5 12.c5 dxc5 13.bxc5 Ne6 14.Rc1 exd4 15.Nxd4  
+Nxc5 16.Nf5 Bf8 17.Nd5 cxd5 18.exd5 Qa5 19.d6 Ne6 20.Qc2 Nd8 21.Nd4 Rg8  
+22.Rfe1 Be6 23.Bxb7 1-0 

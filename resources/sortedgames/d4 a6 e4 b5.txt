@@ -1,0 +1,100 @@
+ 
+[Event "RUS Ch Rapid"] 
+[Site "Olginka RUS"] 
+[Date "2011.04.26"] 
+[Round "7"] 
+[White "Grachev, Boris"] 
+[Black "Pridorozhni, Aleksei"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2675"] 
+[BlackElo "2542"] 
+[ECO "B00"] 
+[EventDate "2011.04.25"] 
+ 
+1.d4 a6 2.e4 b5 3.Bd3 Bb7 4.Nf3 e6 5.O-O Nf6 6.Qe2 d5 7.e5 Nfd7 8.c3 c5 9. 
+a3 c4 10.Bc2 Be7 11.Re1 Nc6 12.Nbd2 a5 13.Nf1 Nb6 14.Ng3 h5 15.Bd2 Kd7 16. 
+Qe3 h4 17.Nf1 b4 18.axb4 axb4 19.b3 bxc3 20.Bxc3 Nb4 21.Qd2 Nxc2 22.Qxc2  
+Qc8 23.Ne3 Qc6 24.h3 Rxa1 25.Rxa1 Rc8 26.bxc4 Nxc4 27.Nxc4 Qxc4 28.Qb1  
+Qxc3 29.Qxb7+ Rc7 30.Qb5+ Qc6 31.Qb8 Rc8 32.Qb1 g6 33.Qd3 Qc3 34.Qb5+ Qc6  
+35.Qd3 Qc3 36.Qb5+ Qc6 37.Qe2 Ke8 38.Qe3 Qc3 39.Qxc3 Rxc3 40.Kf1 Kf8 41. 
+Ke2 Rb3 42.Ra2 Kg7 43.Nd2 Rb7 44.Rc2 Bg5 45.Nf3 Be7 46.Ke3 g5 47.Rc3 Ra7  
+48.Nh2 Kg6 49.Ng4 Ra3 50.Rxa3 Bxa3 51.Kd3 Kf5 52.g3 Bc1 53.Nh2 Ba3 54.Ke3  
+Bc1+ 55.Kf3 Bb2 56.g4+ Kg6 57.Ke3 Bc1+ 58.Kd3 f6 59.exf6 Kxf6 60.Nf3 Bf4  
+61.Ne1 Bd6 62.Nc2 e5 63.Ne3 Ke6 64.Nf5 Bb8 65.Ng7+ Kf6 66.Nf5 Ke6 67.Kc3  
+Ba7 68.Kd3 Bxd4 69.f3 Bb2 70.Ng7+ Kd7 71.Nf5 Bc1 72.Nh6 Bf4 73.Nf5 Kc6 74. 
+Ne7+ Kc5 75.Nf5 Bh2 76.Ne7 Bf4 77.Nf5 Bc1 78.Ne7 Ba3 79.Nf5 Kc6 80.Nh6 Bc1 
+81.Nf5 Kd7 82.Kc2 Ba3 83.Kd3 Bf8 84.Ne3 Kc6 85.Nf5 Kc5 86.Ne3 Be7 87.Nf5  
+Bd6 88.Ng7 Be7 89.Nf5 Bf8 90.Ne3 Kc6 91.Nd1 Ba3 92.Ne3 Bc1 93.Nf5 Kc5 94. 
+Kc2 Bf4 95.Kd3 Bg3 96.Ng7 Bf4 97.Ne6+ Kd6 98.Ng7 Kc6 99.Ne6 Kd6 100.Ng7  
+Bc1 101.Nf5+ Kc5 102.Ng7 Kb4 103.Ne8 Kb3 104.Nf6 d4 105.Ne4 Bf4 106.Nc5+  
+Kb2 107.Ke2 Kc3 108.Nd3 Kc4 109.Nb2+ Kc3 110.Nd3 Bh2 111.Nc5 Bg1 112.Nd3  
+Bh2 113.Nc5 Kc4 114.Nd3 Bg3 115.Nb2+ Kb3 116.Nd3 Kc3 117.Nc5 Kc4 118.Nd3  
+Kd5 119.Nb4+ 1/2-1/2 
+ 
+[Event "Masters"] 
+[Site "Abudhabi UAE"] 
+[Date "2005.08.23"] 
+[Round "9"] 
+[White "Raetsky, Alexander"] 
+[Black "Salem, Ghuloom"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2453"] 
+[BlackElo "2318"] 
+[ECO "B00"] 
+[EventDate "2005.08.14"] 
+ 
+1.d4 a6 2.e4 b5 3.a4 Bb7 4.f3 b4 5.Be3 d5 6.Nd2 Nd7 7.e5 c5 8.f4 e6 9.Ne2  
+Nh6 10.Nf3 Be7 11.g3 O-O 12.Bh3 a5 13.O-O Ba6 14.Rf2 Nf5 15.Bxf5 exf5 16. 
+dxc5 Nxc5 17.Bxc5 Bxc5 18.Ned4 Re8 19.Kg2 Qd7 1/2-1/2 
+ 
+[Event "4NCL"] 
+[Site "Birmingham ENG"] 
+[Date "2001.11.25"] 
+[Round "4"] 
+[White "Martin, An"] 
+[Black "Smith, Andrew Philip"] 
+[Result "1-0"] 
+[WhiteElo "2224"] 
+[BlackElo "2234"] 
+[ECO "B00"] 
+[EventDate "2001.09.22"] 
+ 
+1.d4 a6 2.e4 b5 3.Nf3 Bb7 4.Bd3 Nf6 5.Qe2 e6 6.O-O c5 7.c3 Be7 8.Nbd2 cxd4 
+9.cxd4 d6 10.a4 b4 11.a5 Nbd7 12.Nb3 O-O 13.Bd2 d5 14.e5 Ne4 15.Be3 f6 16. 
+exf6 Bxf6 17.Rac1 Qb8 18.Nfd2 Qd6 19.f4 Rfc8 20.Ra1 Rf8 21.Nf3 Be7 22.Ne5  
+Nxe5 23.fxe5 Qd7 24.Rxf8+ Bxf8 25.Qg4 Rc8 26.Nd2 Nxd2 27.Bxd2 Rc7 28.Rf1  
+Qe8 29.Qe2 Rc6 30.h4 Be7 31.Qe1 Qh5 32.Bxb4 Rc7 33.Bxe7 Rxe7 34.Qf2 Qe8  
+35.Qc2 g6 36.Rf6 Rf7 37.Bxg6 hxg6 38.Qxg6+ Kf8 39.Qh6+ Ke7 40.Rxe6+ Kd7  
+41.Rxe8 Kxe8 1-0 
+ 
+[Event "4NCL"] 
+[Site "Birmingham ENG"] 
+[Date "2001.11.25"] 
+[Round "4"] 
+[White "Ward, Chris G"] 
+[Black "Wohl, Aleksandar H"] 
+[Result "0-1"] 
+[WhiteElo "2493"] 
+[BlackElo "2371"] 
+[ECO "B00"] 
+[EventDate "2001.09.22"] 
+ 
+1.d4 a6 2.e4 b5 3.Nf3 Bb7 4.Bd3 Nf6 5.Qe2 e6 6.c3 c5 7.Nbd2 cxd4 8.cxd4  
+Nc6 9.O-O Qb6 10.Nb3 Rc8 11.a3 Be7 12.Be3 d5 13.e5 Nd7 14.Rac1 O-O 15.Bg5  
+Qd8 16.h4 h6 17.Bxe7 Qxe7 18.Bb1 Rfd8 19.Qd3 Nf8 20.Nc5 Nb8 21.Rc3 Bc6 22. 
+Rfc1 b4 23.axb4 Bb5 24.Qd2 Rc6 25.Bd3 Bxd3 26.Rxd3 Rb6 27.Ra3 Ng6 28.g3  
+Qe8 29.Ra5 Ne7 30.Rca1 Nbc6 31.R5a4 Ra8 32.Ne1 Nf5 33.Nc2 a5 34.b3 Rb5 35. 
+bxa5 Nxe5 36.dxe5 Rxc5 37.Nd4 Nxd4 38.Qxd4 Qb5 39.Rb4 Qc6 40.Rb6 Qc7 41. 
+Qb4 d4 42.a6 Qxe5 43.Rd1 Ra5 44.Qc4 Rd8 45.Qd3 Qc5 46.Rb7 Qc6 47.Rb4 e5  
+48.Ra4 Rxa4 49.bxa4 Qxa4 50.Rb1 e4 51.Qb5 Qxb5 52.Rxb5 d3 53.Rb1 Ra8 54. 
+Ra1 d2 55.Rd1 Rxa6 56.Rxd2 g6 57.Rd4 Re6 58.Kf1 Kg7 59.Ke2 f5 60.Ke3 Kf6  
+61.f3 exf3+ 62.Kxf3 g5 63.hxg5+ hxg5 64.Rd8 Ra6 65.Rd3 Ra2 66.g4 f4 67. 
+Rd6+ Ke5 68.Rg6 Ra3+ 69.Kf2 Rc3 70.Rg8 Rc6 71.Kf3 Rc3+ 72.Kf2 Ke4 73.Re8+  
+Kd4 74.Rd8+ Ke5 75.Rf8 Rc5 76.Kf3 Kd4 77.Rd8+ Rd5 78.Rg8 Re5 79.Rd8+ Kc4  
+80.Rg8 Kc5 81.Rg6 Kd5 82.Rg8 Ke6 83.Kf2 Kf7 84.Ra8 Re3 85.Ra5 Kf6 86.Ra6+  
+Re6 87.Ra5 Rb6 88.Ra3 Rc6 89.Kf3 Rc5 90.Ke4 Re5+ 91.Kf3 Ke6 92.Ra6+ Kd5  
+93.Rg6 Kd4 94.Rg8 Kc3 95.Kf2 Kd3 96.Kf3 Kd2 97.Kf2 Rd5 98.Rg7 Kd1 99.Rg8  
+Kc2 100.Rg7 Kd3 101.Kf3 Kd4 102.Rg8 Rc5 103.Rd8+ Ke5 104.Rd3 Rc1 105.Ra3  
+Rg1 106.Ra5+ Kf6 107.Ke4 Rxg4 108.Ra6+ Ke7 109.Ke5 Kd7 110.Kd5 Kc7 111.Ke4 
+Rg3 112.Kf5 f3 113.Ra1 Kd6 114.Ke4 g4 115.Ra6+ Kc5 116.Rf6 Rg2 117.Kd3 Kd5 
+118.Ra6 Ke5 119.Ke3 Re2+ 120.Kd3 0-1 

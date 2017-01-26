@@ -1,0 +1,37 @@
+ 
+[Event "21. Venetian Autumn 2014"] 
+[Site "Venice ITA"] 
+[Date "2014.11.02"] 
+[Round "4.3"] 
+[White "Gromovs, Sergejs"] 
+[Black "Basso, Pier Luigi"] 
+[Result "0-1"] 
+[WhiteElo "2243"] 
+[BlackElo "2312"] 
+[ECO "A80"] 
+[EventDate "2014.10.31"] 
+ 
+1.d4 f5 2.f3 Nf6 3.Nc3 d5 4.Bg5 c6 5.Qd3 Qa5 6.O-O-O b5 7.a3 Na6 8.Na2 e6  
+9.b4 Qc7 10.g4 fxg4 11.e4 gxf3 12.e5 Ne4 13.Be3 Qf7 14.h4 f2 15.Ne2 Nb8  
+16.Bg2 a5 17.Bxe4 dxe4 18.Qxe4 axb4 19.Rhf1 Rxa3 20.Kb2 Qf5 21.Qxf5 exf5  
+22.Bxf2 Be6 23.Nec1 Nd7 24.Be1 Ra4 25.d5 Bxd5 26.Rxf5 Nb6 27.Kb1 Nc4 28. 
+Rd4 Bc5 29.Rdf4 Be6 30.Rg5 Be3 0-1 
+ 
+[Event "3. NAO GM"] 
+[Site "Paris FRA"] 
+[Date "2003.12.20"] 
+[Round "6"] 
+[White "Vandevoort, Pascal"] 
+[Black "Santo-Roman, Marc"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2363"] 
+[BlackElo "2385"] 
+[ECO "A80"] 
+[EventDate "2003.12.15"] 
+ 
+1.d4 f5 2.f3 Nf6 3.e4 fxe4 4.fxe4 Nxe4 5.Bd3 d5 6.Nf3 Nc6 7.O-O Bg4 8.c3  
+Qd7 9.Nbd2 Nxd2 10.Bxd2 O-O-O 11.b4 Bxf3 12.Rxf3 Re8 13.a4 e6 14.a5 Bd6  
+15.a6 Nb8 16.axb7+ Kxb7 17.b5 Rhf8 18.Qa4 Rxf3 19.Qxa7+ Kc8 20.gxf3 e5 21. 
+b6 c6 22.Qa8 e4 23.Ra7 Qf5 24.Ba6+ Kd8 25.Rb7 e3 26.Be1 Qg5+ 27.Kh1 Qf4  
+28.Bg3 Qxf3+ 29.Kg1 Bxg3 30.hxg3 Qxg3+ 31.Kh1 Qh3+ 32.Kg1 Qg3+ 33.Kh1 Qe1+ 
+34.Kh2 Qf2+ 35.Kh1 Qf3+ 1/2-1/2 

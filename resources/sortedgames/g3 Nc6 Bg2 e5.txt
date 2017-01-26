@@ -1,0 +1,139 @@
+ 
+[Event "Bratislava SVK, 14. Slovan Open"] 
+[Site "Bratislava SVK"] 
+[Date "2014.05.02"] 
+[Round "8.1"] 
+[White "Petran, Peter"] 
+[Black "Smolen, Jan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2316"] 
+[BlackElo "2436"] 
+[ECO "A00"] 
+[EventDate "2014.04.26"] 
+ 
+1.g3 Nc6 2.Bg2 e5 3.d3 Bc5 4.Nf3 Nf6 5.O-O d6 6.c3 O-O 7.d4 Bb6 8.Bg5 h6  
+9.Bxf6 Qxf6 10.e3 Bg4 11.h3 Bh5 12.Nbd2 Rae8 13.Qb3 Nd8 14.a4 a6 15.Rfe1  
+Ba7 16.Qa3 Qe6 17.Qb3 Qd7 18.a5 Kh8 19.Qa4 Qe7 20.Qa3 e4 21.Nh2 f5 22.c4  
+g5 23.Qc3 Bg6 24.g4 f4 25.d5+ Kh7 26.exf4 Rxf4 27.Re3 Bxe3 28.fxe3 Rff8  
+29.Nhf1 Qe5 30.Qxe5 Rxe5 31.Ng3 Kg7 32.b4 c6 33.Ndxe4 cxd5 34.Nxd6 dxc4  
+35.Ngf5+ Bxf5 36.Nxf5+ Rfxf5 37.gxf5 Rxe3 38.Rc1 c3 39.Kf2 Rd3 40.Bf1 Rd4  
+41.Rxc3 Rxb4 42.Rc7+ Kf6 43.Bd3 Rd4 44.Ke3 Rd5 45.Rh7 Re5+ 46.Kd4 Nc6+ 47. 
+Kc3 Rc5+ 48.Kd2 Rxa5 49.Rxh6+ Ke5 50.Re6+ Kd5 51.Be4+ Kd4 52.f6 Nd8 53.Re8 
+Nf7 54.Bg6 Nd6 55.f7 Nxf7 56.Bxf7 Re5 57.Rd8+ Ke4 58.Rd6 Kf4 59.Be6 Rb5  
+60.Bg4 Ke5 61.Rg6 Kd4 62.Kc2 Rc5+ 63.Kd2 Rb5 64.Bd1 Ke4 65.Rf6 Ke5 66.Rf7  
+Ke6 67.Rg7 Kf6 68.Rc7 a5 69.Bc2 Rd5+ 70.Ke3 b5 71.Be4 Re5 72.Kd4 b4 73.Rb7 
+Re6 74.Bd5 Ra6 75.Rh7 Kf5 76.Rf7+ Kg6 77.Rb7 Kf5 78.Rb5 Kf4 79.Bb7 Rh6 80. 
+Bc8 Rd6+ 81.Kc5 Rd3 82.Kb6 Ra3 83.Rf5+ Ke4 84.Rxg5 b3 85.Rb5 a4 86.Bf5+  
+Kd4 87.Ka5 Ra1 88.h4 Kc3 89.Rb8 a3 90.Ka4 b2 91.Rb3+ Kd4 92.h5 Rf1 93.Kxa3 
+Rxf5 1/2-1/2 
+ 
+[Event "Chigorin Memorial"] 
+[Site "St Petersburg RUS"] 
+[Date "2012.10.30"] 
+[Round "4.26"] 
+[White "Savchenko, Boris"] 
+[Black "Vlasenko, Miroslav"] 
+[Result "1-0"] 
+[WhiteElo "2540"] 
+[BlackElo "2400"] 
+[ECO "A20"] 
+[EventDate "2012.10.27"] 
+ 
+1.g3 Nc6 2.Bg2 e5 3.c4 f5 4.a3 Nf6 5.b4 d6 6.f4 g6 7.b5 Nb8 8.fxe5 dxe5 9. 
+Bb2 Nbd7 10.Nh3 Qe7 11.Nc3 Bg7 12.Rc1 e4 13.d4 Bh6 14.Nf4 Nb6 15.Qb3 c6  
+16.O-O g5 17.Nh3 O-O 18.d5 c5 19.Nd1 Nh5 20.Ne3 f4 21.Nf2 fxe3 22.Nxe4 Bg4 
+23.d6 Rxf1+ 24.Rxf1 Qe8 25.Qc3 Bg7 26.Qxg7+ Nxg7 27.Nf6+ Kh8 28.Nxe8 Rxe8  
+29.Rf7 Rg8 30.Bd5 Nxd5 31.cxd5 h5 32.d7 Bxd7 33.Rxd7 Kh7 34.d6 1-0 
+ 
+[Event "TCh-AUT 1. Bundesliga 2012"] 
+[Site "St. Veit AUT"] 
+[Date "2012.03.04"] 
+[Round "7.1"] 
+[White "Kunin, Vitaly"] 
+[Black "Rapport, Richard"] 
+[Result "0-1"] 
+[WhiteElo "2537"] 
+[BlackElo "2543"] 
+[ECO "A25"] 
+[EventDate "2012.01.20"] 
+ 
+1.g3 Nc6 2.Bg2 e5 3.c4 f5 4.Nc3 Nf6 5.d3 Bb4 6.Bd2 O-O 7.a3 Bxc3 8.Bxc3 d6 
+9.e3 Qe8 10.Ne2 Kh8 11.b4 Bd7 12.O-O Qh5 13.b5 Ne7 14.Qd2 Ng6 15.f4 Rae8  
+16.Rae1 b6 17.h3 Rf7 18.Kf2 Nf8 19.a4 Bc8 20.a5 N8d7 21.axb6 axb6 22.Bb4  
+e4 23.d4 g5 24.Ra1 Nf8 25.d5 Ng6 26.Qd4 Kg8 27.Ra3 Nd7 28.Rg1 Nde5 29.fxe5 
+dxe5 30.Qd1 f4 31.Bxe4 f3 32.g4 Qxh3 33.Nc1 Qh4+ 34.Kf1 Bxg4 35.Rxg4 Qxg4  
+36.Qc2 Qh3+ 37.Ke1 f2+ 38.Qxf2 Rxf2 39.Kxf2 Qh4+ 40.Kf3 Qh1+ 0-1 
+ 
+[Event "TCh-SLO"] 
+[Site "Maribor SLO"] 
+[Date "2011.06.05"] 
+[Round "6"] 
+[White "Zupe, Miran"] 
+[Black "Mestrovic, Zvonimir"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2338"] 
+[BlackElo "2387"] 
+[ECO "A25"] 
+[EventDate "2011.05.27"] 
+ 
+1.g3 Nc6 2.Bg2 e5 3.c4 d6 4.Nc3 Be6 5.d3 Qd7 6.Rb1 a5 7.a3 Be7 8.b4 axb4  
+9.axb4 Nf6 10.Nd5 Bxd5 11.cxd5 Nd4 12.e3 Nb5 13.Qb3 O-O 14.Ne2 Ra6 15.O-O  
+Rfa8 16.Bb2 Qg4 17.Nc3 Nxc3 18.Qxc3 Bd8 19.h3 Qd7 20.Qc4 Ne8 21.Kh2 Bf6  
+22.Rfc1 g6 23.Rc2 Bg7 24.d4 exd4 25.Bxd4 Bxd4 26.Qxd4 Ra2 27.Rbb2 Rxb2 28. 
+Rxb2 Qf5 29.Qc4 Qd7 30.Qd4 Qf5 31.Qc4 Qd7 1/2-1/2 
+ 
+[Event "XI Summer Open"] 
+[Site "Nice FRA"] 
+[Date "2004.08.02"] 
+[Round "1"] 
+[White "Lazic, Mi"] 
+[Black "Diaz, Mickael"] 
+[Result "1-0"] 
+[WhiteElo "2471"] 
+[BlackElo "2216"] 
+[ECO "A00"] 
+[EventDate "2004.08.02"] 
+ 
+1.g3 Nc6 2.Bg2 e5 3.e4 f5 4.exf5 Nf6 5.d3 d5 6.g4 Bc5 7.Nc3 O-O 8.Bg5 Bb4  
+9.a3 Bxc3+ 10.bxc3 h5 11.h3 Qd6 12.Ne2 hxg4 13.hxg4 Nxg4 14.Ng3 Nxf2 15. 
+Kxf2 Bxf5 16.Kg1 e4 17.Nxf5 Rxf5 18.Be3 Rf3 19.Bf2 Rxf2 20.dxe4 Rxg2+ 21. 
+Kxg2 Qg6+ 22.Kh3 Qh6+ 23.Kg3 Qd6+ 24.Kf3 dxe4+ 25.Ke2 Qe6 26.Ke1 Qc4 27. 
+Rh3 Qc5 28.Qg4 Re8 29.Rd1 Ne5 30.Rh8+ Kxh8 31.Qh5+ Kg8 32.Qxe8+ Kh7 33. 
+Qh5+ 1-0 
+ 
+[Event "ch-BC"] 
+[Site "Vancouver BC CAN"] 
+[Date "2000.04.24"] 
+[Round "8"] 
+[White "Berry, J."] 
+[Black "Herder, David A"] 
+[Result "1-0"] 
+[WhiteElo "2272"] 
+[BlackElo "2263"] 
+[ECO "A25"] 
+[EventDate "2000.04.20"] 
+ 
+1.g3 Nc6 2.Bg2 e5 3.c4 Nf6 4.Nc3 Bb4 5.Nd5 a5 6.e3 O-O 7.a3 Bc5 8.Ne2 Nxd5 
+9.cxd5 Ne7 10.d4 exd4 11.exd4 Bd6 12.O-O b5 13.Nc3 Rb8 14.Re1 Ng6 15.Ne4  
+Be7 16.Bd2 a4 17.Ba5 Ra8 18.Qd2 d6 19.Rac1 Ra7 20.Qc3 f5 21.Nd2 Bg5 22.f4  
+Bf6 23.Nf3 Rf7 24.Rc2 h6 25.Bf1 Qd7 26.Bg2 Bd8 27.Bb4 Ne7 28.Ne5 dxe5 29. 
+dxe5 Nxd5 30.Bxd5 Qxd5 31.Rd2 Qe6 32.Rxd8+ Kh7 33.Rxc8 Qxc8 34.e6 Rf6 35. 
+e7 Qe8 36.Re5 c6 37.Qd3 g6 38.Qd8 Ra8 39.Qxa8 1-0 
+ 
+[Event "Sakharov Memorial"] 
+[Site "Kiev UKR"] 
+[Date "2002.07.11"] 
+[Round "5"] 
+[White "Semenov, Dmitri"] 
+[Black "Gordenko, Dmitry"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2309"] 
+[BlackElo "2347"] 
+[ECO "C26"] 
+ 
+1.g3 Nc6 2.Bg2 e5 3.e4 Nf6 4.Nc3 Bc5 5.Nge2 d6 6.O-O a6 7.h3 h5 8.d3 h4 9. 
+g4 Qd7 10.Bf3 Nd4 11.Nxd4 Bxd4 12.Ne2 Ba7 13.d4 Nh7 14.Be3 Qe7 15.Bg2 g5  
+16.c4 Nf8 17.Qd2 Ne6 18.d5 Nf4 19.Nxf4 gxf4 20.Bxa7 Rxa7 21.b4 O-O 22.Bf3  
+Bd7 23.Kh2 b6 24.g5 a5 25.b5 Raa8 26.Rg1 Kg7 27.Bg4 Bxg4 28.Rxg4 Rh8 29. 
+Rag1 Kg6 30.R4g2 Rh5 31.Qe2 Qd7 32.Qf3 Rah8 33.a4 Qc8 34.Qc3 Re8 35.Rg4  
+Qd8 1/2-1/2 

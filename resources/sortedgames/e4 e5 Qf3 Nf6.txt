@@ -1,0 +1,96 @@
+ 
+[Event "Hanoi VIE, Ch U7 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.15"] 
+[Round "6.27"] 
+[White "Pham, Thien Loc"] 
+[Black "Ngo, Gia Bao"] 
+[Result "1-0"] 
+[WhiteElo "2553"] 
+[BlackElo "2578"] 
+[ECO "C20"] 
+[EventDate "2012.07.12"] 
+ 
+1.e4 e5 2.Qf3 Nf6 3.Bc4 Bc5 4.Nh3 h6 5.O-O d6 6.d3 Bxh3 7.Qxh3 O-O 8.Qf3  
+Qd7 9.h3 Nc6 10.g4 Nd4 11.Qe3 Nxc2 12.Qf3 Nxa1 13.g5 hxg5 14.Bxg5 Kh8 15. 
+Kh1 Rg8 16.Rg1 Bd4 17.Bxf6 gxf6 18.Qh5# 1-0 
+ 
+[Event "Hanoi VIE, Ch U7 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.15"] 
+[Round "5.32"] 
+[White "Trang, Bao Phuc"] 
+[Black "Hoang, Quoc Viet"] 
+[Result "1-0"] 
+[WhiteElo "2538"] 
+[BlackElo "2582"] 
+[ECO "C20"] 
+[EventDate "2012.07.12"] 
+ 
+1.e4 e5 2.Qf3 Nf6 3.d3 Nc6 4.Bg5 Bc5 5.Bxf6 Nd4 6.Bxd8 Nxf3+ 7.Nxf3 O-O 8. 
+Bxc7 d6 9.Be2 Re8 10.Ba5 Re6 11.O-O Rg6 12.g3 Re6 13.Bd2 Re7 14.Nc3 Rc7  
+15.a3 a5 16.Ng5 Bd7 17.Bh5 g6 18.Be2 Ra6 19.Nd5 Rcc6 20.Nf6+ Kg7 21.Nxd7  
+1-0 
+ 
+[Event "2. HD Bank Cup 2012"] 
+[Site "Ho Chi Minh City VIE"] 
+[Date "2012.03.06"] 
+[Round "7.20"] 
+[White "Chan, Yi Ren Daniel"] 
+[Black "Senador, Emmanuel"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2342"] 
+[BlackElo "2357"] 
+[ECO "C20"] 
+[EventDate "2012.03.02"] 
+ 
+1.e4 e5 2.Qf3 Nf6 3.Bc4 c6 4.Nc3 Na6 5.a3 Nc7 6.Qg3 d6 7.d3 d5 8.exd5 cxd5 
+9.Qxe5+ Be6 10.Nb5 Na6 11.Bb3 Qa5+ 12.Nc3 Nc5 13.Ba2 Ncd7 14.Qf4 Rc8 15. 
+Ne2 Be7 16.O-O O-O 17.Nd4 Qb6 18.Nce2 Bg4 19.f3 Bd6 20.Qd2 Bh5 21.Kh1 Bg6  
+22.Qd1 Rfe8 23.c3 Nc5 24.Bb1 Qa6 25.b4 Na4 26.Qd2 Be5 27.Bb2 Nh5 28.Nb3  
+Nxb2 29.Qxb2 Bxd3 30.Nc5 Rxc5 31.Bxd3 Qf6 32.Bxh7+ Kh8 33.Bd3 Rc7 34.f4  
+Bd6 35.Rf3 1/2-1/2 
+ 
+[Event "15. Croatian Open A"] 
+[Site "Zadar CRO"] 
+[Date "2008.12.17"] 
+[Round "6"] 
+[White "Dimitrov, Pavel"] 
+[Black "Mazi, Leon"] 
+[Result "1-0"] 
+[WhiteElo "2404"] 
+[BlackElo "2374"] 
+[ECO "C20"] 
+[EventDate "2008.12.14"] 
+ 
+1.e4 e5 2.Qf3 Nf6 3.Bc4 d6 4.h3 c6 5.d3 Be6 6.Bb3 Nbd7 7.c3 g6 8.Ne2 Bg7  
+9.O-O O-O 10.Bc2 d5 11.Nd2 Qc7 12.Re1 Rfe8 13.Ng3 a5 14.Ndf1 a4 15.Ne3 Nc5 
+16.Ng4 Nxg4 17.hxg4 Qe7 18.g5 Red8 19.Be3 Bc8 20.d4 dxe4 21.Bxe4 exd4 22. 
+cxd4 Ne6 23.d5 Nxg5 24.Bxg5 Qxg5 25.dxc6 Bg4 26.Qa3 bxc6 27.Bxc6 Ra6 28. 
+Rac1 Qa5 29.Re4 Qd2 30.Rce1 Bf8 31.Qc3 Qxc3 32.bxc3 Rxc6 33.Rxg4 a3 34.c4  
+Rd2 35.Re2 Rd1+ 36.Kh2 Rc1 37.Rd4 R6xc4 38.Rxc4 Rxc4 39.Ne4 Kg7 40.g4 h6  
+41.Kg2 Rb4 42.Kf3 f5 43.gxf5 gxf5 44.Nc3 Rc4 45.Nd5 Rd4 46.Nf4 Kf7 1-0 
+ 
+[Event "13. Open A"] 
+[Site "Zadar CRO"] 
+[Date "2006.12.12"] 
+[Round "2"] 
+[White "Dimitrov, Pavel"] 
+[Black "Orak, Ljubomir"] 
+[Result "1-0"] 
+[WhiteElo "2371"] 
+[BlackElo "2298"] 
+[ECO "C20"] 
+[EventDate "2006.12.11"] 
+ 
+1.e4 e5 2.Qf3 Nf6 3.Bc4 Nc6 4.c3 d6 5.h3 Be6 6.Bb3 Be7 7.Ne2 O-O 8.d3 Nd7  
+9.Nd2 Nc5 10.Bd5 Kh8 11.g4 Bh4 12.Ng3 Bxd5 13.exd5 Ne7 14.Nf5 Nxf5 15.gxf5 
+Rc8 16.Rg1 c6 17.c4 cxd5 18.Qxd5 Qf6 19.Qf3 g6 20.Rb1 Qxf5 21.Qxf5 gxf5  
+22.Ke2 Rg8 23.Rf1 Bf6 24.b3 Ne6 25.Nf3 e4 26.dxe4 fxe4 27.Nd2 Rce8 28.Nxe4 
+Nc5 29.f3 Nxe4 30.fxe4 Rxe4+ 31.Kf3 Rh4 32.Rh1 Be5 33.Be3 Rg3+ 34.Kf2  
+Rhxh3 35.Bxa7 Rxh1 36.Rxh1 Rc3 37.Bb8 Rc2+ 38.Ke3 Kg7 39.Rd1 h5 40.Kd3  
+Rc3+ 41.Kd2 h4 42.Bxd6 Bd4 43.Rh1 h3 44.Bc5 Be5 45.Be3 f5 46.Rxh3 f4 47. 
+Bxf4 Rxh3 48.Bxe5+ Kg6 49.Kc2 Kf5 50.Bc3 Ke4 51.b4 Rh2+ 52.Kb3 Kd3 53.Be5  
+Rc2 54.c5 Rc1 55.Bb2 Rb1 56.b5 Rh1 57.c6 bxc6 58.b6 Rh7 59.a4 Rb7 60.a5 c5 
+61.Be5 c4+ 62.Kb4 Re7 63.Bc3 Rb7 64.Ba1 Rb8 65.Be5 Rb7 66.Kc5 Ke4 67.Bb2  
+1-0 

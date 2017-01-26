@@ -1,0 +1,95 @@
+ 
+[Event "42. Bosna Open A"] 
+[Site "Sarajevo BIH"] 
+[Date "2012.05.06"] 
+[Round "3.18"] 
+[White "Bistric, Faruk"] 
+[Black "Kamberovic, Senad"] 
+[Result "1-0"] 
+[WhiteElo "2383"] 
+[BlackElo "2280"] 
+[ECO "A03"] 
+[EventDate "2012.05.05"] 
+ 
+1.f4 d5 2.Nf3 Bf5 3.g3 Nf6 4.Bg2 e6 5.O-O h6 6.d3 Be7 7.Nc3 O-O 8.Qe1 c5  
+9.e4 Bh7 10.Ne5 Nc6 11.Nxc6 bxc6 12.Kh1 Rb8 13.Qe2 Nd7 14.b3 Bf6 15.Bd2  
+Nb6 16.Rae1 c4 17.dxc4 dxc4 18.Nd1 cxb3 19.cxb3 c5 20.Ne3 Rc8 21.Ba5 Qd4  
+22.Rd1 Qb2 23.Qxb2 Bxb2 24.Bxb6 axb6 25.Nc4 Bd4 26.Nxb6 Rc6 27.Nc4 Ra6 28. 
+Rd2 f6 29.e5 Bg6 30.Rc1 Be8 31.Bb7 Ra7 32.Be4 Bb5 33.exf6 gxf6 34.Kg2 e5  
+35.f5 Rb8 36.Kf3 Bxc4 37.Rxc4 Kf8 38.Bd5 Ke7 39.Re2 Kd6 40.Be6 Rb6 41.Rcc2 
+Ra3 42.Kg4 Rb7 43.Kh5 Rg7 44.Re4 Rg5+ 45.Kh4 Rg7 46.Kh3 Rga7 47.Ree2 Rb7  
+48.Bc4 Rb4 49.Bf7 Rb7 50.Bc4 Rb4 51.g4 Rb7 52.Kh4 Rg7 53.h3 Re7 54.Be6 Rb7 
+55.Kh5 Rg7 56.h4 Ra8 57.Rc4 Rga7 58.a4 Rb8 59.Rcc2 Rg7 60.Bc4 Ra8 61.Ra2  
+Ra5 62.Re4 Ra8 63.a5 Rga7 64.a6 Kc6 65.Kg6 Rf8 66.Ra5 Bc3 67.Rb5 Rxa6 68. 
+Rxc5+ Kxc5 69.Bxa6 Kd5 70.Bb7+ Kd6 71.Rc4 Be1 72.Rc6+ Kd7 73.Rxf6 Rb8 74. 
+Rf7+ Kd6 75.Kh5 Bd2 76.Rh7 Rg8 77.Be4 Kc5 78.f6 Kd4 79.Rd7+ Ke3 80.Bf5 Bb4 
+81.Kxh6 e4 82.g5 Kf4 83.Bxe4 Kxe4 84.g6 Kf5 85.g7 Kxf6 86.Kh7 1-0 
+ 
+[Event "WYg14"] 
+[Site "Heraklio GRE"] 
+[Date "2004.11.11"] 
+[Round "9"] 
+[White "Muzychuk, Anna"] 
+[Black "Tairova, Elena"] 
+[Result "1-0"] 
+[WhiteElo "2383"] 
+[BlackElo "2271"] 
+[ECO "A03"] 
+[EventDate "2004.11.04"] 
+ 
+1.f4 d5 2.Nf3 Bf5 3.g3 Nf6 4.Bg2 e6 5.O-O Be7 6.e3 O-O 7.d3 c5 8.Qe2 Nc6  
+9.Nbd2 h6 10.c3 Qc7 11.e4 dxe4 12.dxe4 Bh7 13.e5 Nd5 14.Ne4 a6 15.c4 Nb6  
+16.b3 Nc8 17.Bb2 N8a7 18.Ne1 Nd4 19.Bxd4 cxd4 20.Nd3 Rfd8 21.g4 Nc6 22.c5  
+Bxe4 23.Qxe4 Rab8 24.f5 exf5 25.Qxf5 Bg5 26.e6 f6 27.Be4 g6 28.Qxg6+ Qg7  
+29.Qf5 Ne7 30.Qf3 Ng6 31.Bd5 Kh8 32.Qe4 Be3+ 33.Kh1 Re8 34.Rf3 Re7 35.Raf1 
+Rf8 36.b4 Nh4 37.Rh3 Ng6 38.Rh5 Rd8 39.a4 Rf8 40.b5 axb5 41.axb5 Ra8 42. 
+Rhf5 Rf8 43.c6 bxc6 44.Bxc6 Nh4 45.Rd5 f5 46.Qe5 Rf6 47.Rd8+ Kh7 48.Nc5  
+Ng6 49.Qg3 fxg4 50.Rb1 h5 51.b6 Ne5 52.Be4+ Kh6 53.b7 Bf4 54.b8=Q Bxg3 55. 
+Rh8+ Kg5 56.Rg8 Ng6 57.hxg3 1-0 
+ 
+[Event "Tatry Open"] 
+[Site "Tatranske Zruby SVK"] 
+[Date "2003.09.30"] 
+[Round "5"] 
+[White "Pribyl, Josef"] 
+[Black "Repkova, Eva"] 
+[Result "1-0"] 
+[WhiteElo "2393"] 
+[BlackElo "2359"] 
+[ECO "A03"] 
+[EventDate "2003.09.27"] 
+ 
+1.f4 d5 2.Nf3 Bf5 3.b3 e6 4.Bb2 Nf6 5.e3 Be7 6.Be2 O-O 7.h3 Ne4 8.O-O Ng3  
+9.Re1 Nd7 10.Kh2 Nxe2 11.Rxe2 f6 12.Nd4 Bc5 13.Nxf5 exf5 14.c4 Nb6 15.Qc2  
+Qd7 16.d4 Be7 17.c5 Nc8 18.Nc3 Re8 19.b4 Bf8 20.Qb3 Ne7 21.a4 Kh8 22.b5 c6 
+23.Bc1 b6 24.Ba3 bxc5 25.Bxc5 Rab8 26.Rb1 a6 27.b6 Nc8 28.a5 Nd6 29.Na4  
+Qf7 30.Qd3 Qh5 31.Rc1 Re6 32.Qxa6 Nc4 33.Rce1 Qe8 34.Bxf8 Ra8 35.Qb7 Qxf8  
+36.a6 Na5 37.Qd7 Re7 38.Qxf5 Rxa6 39.Rb1 Rb7 40.Nc5 Raxb6 41.Nxb7 Rxb7 42. 
+Rxb7 Nxb7 43.Qd7 1-0 
+ 
+[Event "Renome 2000"] 
+[Site "Bjeljina YUG"] 
+[Date "2000.01.28"] 
+[Round "3"] 
+[White "Grunberg, Mihai-Lucian"] 
+[Black "Petronic, Jovan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2409"] 
+[BlackElo "2423"] 
+[ECO "A03"] 
+[EventDate "2000.01.26"] 
+ 
+1.f4 d5 2.Nf3 Bf5 3.g3 e6 4.Bg2 Bc5 5.d4 Bb6 6.c4 Nf6 7.Nc3 O-O 8.Ne5 Ba5  
+9.Qb3 Nc6 10.e3 Be4 11.O-O Bxc3 12.bxc3 Na5 13.Qa4 Bxg2 14.Kxg2 Nxc4 15. 
+Nxc4 dxc4 16.Qxc4 Qd5+ 17.Qxd5 exd5 18.Rb1 b6 19.Rf2 Rfc8 20.Ba3 Re8 21. 
+Kf3 Re6 22.Rc2 Rae8 23.Bc1 Rc6 24.a4 Ne4 25.Rb3 a6 26.Bb2 f5 27.Rb4 Nd6  
+28.Bc1 Kf7 29.h3 h5 30.Bd2 Nc4 31.Bc1 Ree6 32.Rb3 Rg6 33.Ba3 Rce6 34.Re2  
+Re4 35.Bc1 Rc6 36.Rb1 Re8 37.Rb3 Ree6 38.Bd2 Re7 39.Be1 Rce6 40.Bf2 Na5  
+41.Ra3 Rc6 42.g4 hxg4+ 43.hxg4 g6 44.Rc2 Re8 45.Ra1 Rh8 46.Rg1 Nc4 47.gxf5 
+gxf5 48.Rg5 Nd6 49.Rc1 Rh3+ 50.Kg2 Rh7 51.e4 dxe4 52.c4 Rxc4 53.Rxc4 Nxc4  
+54.Rxf5+ Ke6 55.Rg5 Rd7 56.f5+ Kf6 57.Rh5 e3 58.Bh4+ Kg7 59.f6+ Kg6 60. 
+Rg5+ Kh6 61.Kf3 Rf7 62.Rg8 Kh7 63.Re8 Nd6 64.Re5 Kg6 65.Kg4 Rd7 66.Kf4 Nf7 
+67.Re4 e2 68.Rxe2 Rxd4+ 69.Re4 Rd1 70.Kf3 Rd3+ 71.Re3 Ne5+ 72.Ke4 Rxe3+  
+73.Kxe3 Kf5 74.Bg3 Kxf6 75.Ke4 Nc4 76.Bxc7 Ke6 77.Kd4 Kd7 78.Bg3 Nd6 79. 
+Kd5 Nc8 80.Bf2 Ne7+ 81.Kc4 Kc6 82.Bg1 Nf5 83.Bf2 Nd6+ 84.Kb4 Ne4 85.Bg1  
+Nf6 86.Bf2 Nd7 87.Bd4 Nc5 88.a5 bxa5+ 89.Kxa5 Nb3+ 90.Kxa6 Nxd4 1/2-1/2 

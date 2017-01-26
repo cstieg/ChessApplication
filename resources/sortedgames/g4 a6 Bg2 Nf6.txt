@@ -1,0 +1,14 @@
+ 
+[Event "Liburnija Open 2014"] 
+[Site "Rijeka CRO"] 
+[Date "2014.05.23"] 
+[Round "4.2"] 
+[White "Muslija, Idris"] 
+[Black "Doric, Nenad"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2268"] 
+[BlackElo "2290"] 
+[ECO "A00"] 
+[EventDate "2014.05.20"] 
+ 
+1.g4 a6 2.Bg2 Nf6 3.g5 Ng8 4.h4 1/2-1/2 

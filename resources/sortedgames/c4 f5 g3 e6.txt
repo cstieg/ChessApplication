@@ -1,0 +1,33 @@
+ 
+[Event "ECC"] 
+[Site "Rethymnon GRE"] 
+[Date "2003.10.03"] 
+[Round "6"] 
+[White "Christensen, Tobias"] 
+[Black "Sigfusson, Sigurdur"] 
+[Result "1-0"] 
+[WhiteElo "2371"] 
+[BlackElo "2323"] 
+[ECO "A10"] 
+[EventDate "2003.09.28"] 
+ 
+1.c4 f5 2.g3 e6 3.Bg2 d5 4.Nf3 c6 5.Qc2 Nf6 6.d3 Bd6 7.Nc3 Bc7 8.e3 O-O 9. 
+O-O Na6 10.a3 e5 11.cxd5 cxd5 12.b4 Kh8 13.Bb2 e4 14.Nd4 Be5 15.Nce2 Qe8  
+16.Rab1 Bd7 17.dxe4 fxe4 18.Nf4 Rc8 19.Qb3 Bxf4 20.exf4 Qh5 21.Qd1 Qf7 22. 
+Rc1 Nc7 23.f3 Nce8 24.Rxc8 Bxc8 25.fxe4 Nxe4 26.Nf3 N8f6 27.Ng5 Qe7 28.Qd4 
+b6 29.Qe5 Re8 30.Qxe7 Rxe7 31.Nxe4 Nxe4 32.Be5 Kg8 33.Rc1 Bb7 34.Bh3 Kf7  
+35.Bg4 g6 36.Bd4 h5 37.Bf3 Nd2 38.Bg2 Nb3 39.Rd1 Nxd4 40.Rxd4 Re3 41.Bxd5+ 
+Bxd5 42.Rxd5 Rxa3 43.Kg2 a5 44.Rd7+ Ke6 45.Rb7 a4 46.Rxb6+ Kd5 47.Rxg6  
+Ra2+ 48.Kh3 Kc4 49.Rh6 a3 50.Rxh5 Rf2 51.Ra5 Kxb4 52.Ra7 Kb3 53.Kg4 Rxh2  
+54.f5 a2 55.f6 Rf2 56.Kg5 Kb2 57.g4 Rf3 58.Kg6 Ra3 59.Rxa3 Kxa3 60.f7 a1=Q 
+61.f8=Q+ Kb3 62.Qb8+ Kc4 63.Qf4+ Kb3 64.Qe3+ Kc4 65.Qe4+ Kb3 66.Qd3+ Kb4  
+67.Qd6+ Kb3 68.Qb6+ Kc4 69.Qc6+ Kb3 70.g5 Qe5 71.Qf6 Qe4+ 72.Kg7 Ka4 73.g6 
+Qb7+ 74.Kf8 Qc8+ 75.Kf7 Qd7+ 76.Qe7 Qf5+ 77.Kg7 Qd5 78.Qe8+ Ka5 79.Qe1+  
+Ka4 80.Qa1+ Kb5 81.Qf6 Ka5 82.Kh7 Qh5+ 83.Kg8 Qd5+ 84.Kf8 Qc5+ 85.Kf7 Qc7+ 
+86.Qe7 Qc4+ 87.Qe6 Qc7+ 88.Kf6 Qd8+ 89.Kf5 Qd3+ 90.Qe4 Qd7+ 91.Kf4 Qd2+  
+92.Ke5 Qc3+ 93.Kf4 Qc1+ 94.Kg4 Qd1+ 95.Kh4 Qd8+ 96.Kh5 Qf6 97.Qe1+ Ka6 98. 
+Qe2+ Kb6 99.Qe3+ Ka6 100.Qd3+ Kb6 101.Qd5 Ka6 102.Kh6 Qh4+ 103.Kg7 Qe7+  
+104.Kh8 Qe8+ 105.Kh7 Qe7+ 106.g7 Qh4+ 107.Kg6 Qg4+ 108.Qg5 Qe4+ 109.Qf5  
+Qg2+ 110.Kf6 Qb2+ 111.Qe5 Qf2+ 112.Ke6 Qg2 113.Qd6+ Ka7 114.Qc7+ Ka6 115. 
+Qc8+ Ka7 116.g8=Q Qe4+ 117.Kf6 Qd4+ 118.Kg5 Qe3+ 119.Kh5 Qe5+ 120.Qg5 Qh2+ 
+121.Kg6 Qd6+ 122.Kh7 Qh2+ 123.Kg8 Qa2+ 124.Kf8 1-0 

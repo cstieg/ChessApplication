@@ -1,0 +1,18 @@
+ 
+[Event "Cup Russia"] 
+[Site "Tula RUS"] 
+[Date "2002.??.??"] 
+[Round "4"] 
+[White "Soloviov, Mikhail"] 
+[Black "Asylguzhin, Radik"] 
+[Result "0-1"] 
+[WhiteElo "2345"] 
+[BlackElo "2383"] 
+[ECO "A45"] 
+ 
+1.d4 Nf6 2.f4 b6 3.e3 Bb7 4.Be2 Bxg2 5.Bf3 Bxh1 6.Bxh1 d5 7.c4 e6 8.Nc3 c6 
+9.Nf3 Bb4 10.Ne5 Ne4 11.Qh5 Qe7 12.Bd2 Nxd2 13.Kxd2 Bxc3+ 14.bxc3 g6 15. 
+Qh6 Qf8 16.Qh4 f6 17.Ng4 Nd7 18.cxd5 cxd5 19.e4 dxe4 20.Bxe4 Rc8 21.Bb7  
+Rc7 22.Bf3 g5 23.fxg5 fxg5 24.Qh3 h5 25.Ne5 Nxe5 26.Qxe6+ Qe7 27.Qxe5 Qxe5 
+28.dxe5 Ke7 29.Re1 Rc5 30.e6 g4 31.Bd1 Rd8+ 32.Kc1 Rxc3+ 33.Kb2 Rh3 34.Bb3 
+Rxh2+ 35.Ka3 Rd3 36.Rc1 Rxb3+ 0-1 

@@ -1,0 +1,46 @@
+ 
+[Event "Herceg Novi MNT, Team Ch 2007"] 
+[Site "Herceg Novi MNT"] 
+[Date "2007.09.06"] 
+[Round "4"] 
+[White "Drasko, Milan"] 
+[Black "Saric, Igor"] 
+[Result "1-0"] 
+[WhiteElo "2552"] 
+[BlackElo "2318"] 
+[ECO "A41"] 
+[EventDate "2007.09.03"] 
+ 
+1.d4 d6 2.g3 Nc6 3.Nf3 e5 4.dxe5 dxe5 5.Qxd8+ Kxd8 6.Nc3 Bb4 7.Bd2 Nf6 8. 
+Bg2 a6 9.O-O-O Ke7 10.h3 h6 11.Ne1 Nd4 12.Nd3 Bd6 13.f4 exf4 14.gxf4 c6  
+15.e4 Bc7 16.Be3 Nb5 17.e5 Nd7 18.Na4 Bb8 19.Rhe1 Ba7 20.Bxa7 Rxa7 21.c4  
+Nc7 22.Nc3 Ne8 23.Ne4 Nf8 24.Nd6 Ra8 25.Nc5 b6 26.Bxc6 Rb8 27.Bxe8 bxc5  
+28.Bxf7 Bxh3 29.Rg1 g5 30.fxg5 hxg5 31.Rxg5 Be6 32.Rg7 Bxf7 33.Rxf7+ Ke6  
+34.Rb7 Ng6 35.Rxb8 Rxb8 36.Ne4 Rc8 37.Rd5 Nf4 38.Rd2 Kxe5 39.Nc3 Rg8 40. 
+Na4 Rc8 41.b3 Rc6 42.Kc2 Ke6 43.Kc3 Ke7 44.Rd1 Ke6 45.Re1+ Kd6 46.Re8 Ne6  
+47.Ra8 Nc7 48.Rd8+ Ke7 49.Rb8 Kd6 50.Nb6 a5 51.Na4 Ra6 52.Rd8+ Ke7 53.Rh8  
+Rc6 54.Rh5 Na6 55.Kb2 Kd6 56.Nc3 Kc7 57.Rh7+ Kb8 58.Ka3 Nc7 59.Ka4 Rg6 60. 
+Nb5 Na6 61.a3 Kc8 62.Kxa5 Nb8 63.Rc7+ Kd8 64.Rxc5 Nc6+ 65.Ka4 Kd7 66.Rd5+  
+Ke7 67.b4 Rg3 68.Nd4 1-0 
+ 
+[Event "4NCL"] 
+[Site "Telford ENG"] 
+[Date "2003.01.18"] 
+[Round "3"] 
+[White "Pert, Nicholas"] 
+[Black "Evans-Quek, Suan-Shiau"] 
+[Result "1-0"] 
+[WhiteElo "2468"] 
+[BlackElo "2270"] 
+[ECO "A41"] 
+[EventDate "2003.04.01"] 
+ 
+1.d4 d6 2.g3 Nc6 3.Bg2 g6 4.Nf3 Bg7 5.d5 Nb8 6.O-O e5 7.e4 Nh6 8.c4 O-O 9. 
+Nc3 Qe8 10.Ne1 Nd7 11.Nd3 Nc5 12.Nxc5 dxc5 13.h3 f6 14.a3 Qe7 15.b4 b6 16. 
+Qb3 Nf7 17.bxc5 Qxc5 18.a4 Qe7 19.Ba3 Nd6 20.c5 bxc5 21.Bxc5 Ba6 22.Rfc1  
+Rfb8 23.Qc2 Qd7 24.Rab1 Rb7 25.Rxb7 Nxb7 26.Be3 Bf8 27.Nd1 Bd6 28.Qc6 Qxc6 
+29.Rxc6 Bd3 30.Nb2 Be2 31.Rc2 Ba6 32.Rc6 Be2 33.Rc2 Ba6 34.Bf1 Bxf1 35. 
+Kxf1 Na5 36.Bc5 a6 37.Bxd6 cxd6 38.Rc7 Rb8 39.Nd3 Rb1+ 40.Ke2 Nb3 41.Rd7  
+Ra1 42.Rxd6 Rxa4 43.Ke3 Ra3 44.Rc6 g5 45.Rc3 Nd4 46.Rxa3 Nc2+ 47.Ke2 Nxa3  
+48.Nc5 a5 49.Nb7 Nc4 50.Kd3 Nb6 51.Nxa5 Kf7 52.Kc3 Ke7 53.Kb4 Nd7 54.Kb5  
+f5 55.exf5 Kd6 56.Nc4+ Kc7 57.d6+ Kb7 58.g4 e4 59.Nd2 Nf6 60.Kc5 1-0 

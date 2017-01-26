@@ -1,0 +1,19 @@
+ 
+[Event "Lueneburg IM 2013"] 
+[Site "Lueneburg GER"] 
+[Date "2013.07.19"] 
+[Round "5.3"] 
+[White "Bach, Matthias"] 
+[Black "Fries-Nielsen, Jens Ove"] 
+[Result "1-0"] 
+[WhiteElo "2251"] 
+[BlackElo "2381"] 
+[ECO "A00"] 
+[EventDate "2013.07.15"] 
+ 
+1.d3 d6 2.Nd2 e6 3.b3 f5 4.Bb2 Nf6 5.e4 e5 6.Ngf3 Nc6 7.d4 fxe4 8.dxe5  
+Nxe5 9.Nxe5 dxe5 10.Qe2 Bd6 11.O-O-O O-O 12.Nxe4 Nxe4 13.Qxe4 Qg5+ 14.Kb1  
+Bf5 15.Qxb7 Qg6 16.Bd3 e4 17.Bc4+ Kh8 18.g4 Bd7 19.h4 h6 20.h5 Qg5 21.Qxe4 
+Rad8 22.Rxd6 cxd6 23.Qg6 Rf6 24.Qxg5 hxg5 25.Bxf6 gxf6 26.f3 Bc6 27.Rf1  
+Re8 28.Kc1 Kg7 29.Bd3 Bd7 30.Kd2 f5 31.f4 gxf4 32.gxf5 Rh8 33.Rxf4 Rxh5  
+34.Rd4 Rg5 1-0 

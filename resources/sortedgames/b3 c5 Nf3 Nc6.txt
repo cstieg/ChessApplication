@@ -1,0 +1,36 @@
+ 
+[Event "FSGM March"] 
+[Site "Budapest HUN"] 
+[Date "2003.03.09"] 
+[Round "9"] 
+[White "Brustkern, Juergen"] 
+[Black "Flumbort, Andras Dr"] 
+[Result "0-1"] 
+[WhiteElo "2331"] 
+[BlackElo "2443"] 
+[ECO "A04"] 
+[EventDate "2003.03.01"] 
+ 
+1.b3 c5 2.Nf3 Nc6 3.Bb2 Nf6 4.e3 g6 5.Be2 Bg7 6.O-O O-O 7.c4 d6 8.d4 cxd4  
+9.Nxd4 Bd7 10.Nc3 a6 11.Qd2 Qa5 12.Bf3 Rab8 13.Rfd1 Rfc8 14.Rac1 Nxd4 15. 
+exd4 b5 16.cxb5 axb5 17.a3 e6 18.b4 Qb6 19.h3 d5 20.Na2 Rc4 21.Rxc4 bxc4  
+22.Nc3 Ne8 23.g4 Qd6 24.Re1 Bf6 25.Bd1 Bd8 26.Ne2 Bc7 27.Ng3 Bc6 28.Bc2  
+Qe7 29.Ra1 Bd6 30.Kg2 Qf6 31.Bc3 Nc7 32.a4 e5 33.b5 Ba8 34.g5 Qg7 35.Ne2  
+Ne6 36.Rb1 exd4 37.Nxd4 Bf4 38.Nxe6 d4+ 39.Kg1 Bxd2 40.Bxd4 fxe6 41.Bxg7  
+Kxg7 42.a5 Bxa5 0-1 
+ 
+[Event "It (cat.7)"] 
+[Site "Budapest HUN"] 
+[Date "2003.??.??"] 
+[Round "9"] 
+[White "Brustman, Agnieszka"] 
+[Black "Flumbort, Andras Dr"] 
+[Result "0-1"] 
+[WhiteElo "2331"] 
+[BlackElo "2443"] 
+[ECO "A04"] 
+ 
+1.b3 c5 2.Nf3 Nc6 3.Bb2 Nf6 4.e3 g6 5.Be2 Bg7 6.O-O O-O 7.c4 d6 8.d4 cxd4  
+9.Nxd4 Bd7 10.Nc3 a6 11.Qd2 Qa5 12.Bf3 Rab8 13.Rfd1 Rfc8 14.Rac1 Nxd4 15. 
+exd4 Bb5 16.cxb5 axb5 17.a3 e6 18.b4 Qb6 19.h3 d5 20.Na2 Rc4 21.Rxc4 bxc4  
+22.Nc3 Ne8 23.g4 Qd6 24.Re1 Bf6 25.Bd1 Bd8 26.Ne2 Bc7 27.Ng3 0-1 

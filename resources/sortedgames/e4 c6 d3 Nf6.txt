@@ -1,0 +1,44 @@
+ 
+[Event "1. Serbian League Men"] 
+[Site "Zlatibor SRB"] 
+[Date "2007.08.25"] 
+[Round "5"] 
+[White "Strikovic, Aleksa"] 
+[Black "Drazic, Sinisa"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2567"] 
+[BlackElo "2480"] 
+[ECO "B10"] 
+[EventDate "2007.08.21"] 
+ 
+1.e4 c6 2.d3 Nf6 3.Nf3 e5 4.Nbd2 Qc7 5.g3 d5 6.Bg2 dxe4 7.dxe4 Be6 8.O-O  
+Bc5 9.a4 a5 10.b3 Nbd7 11.Bb2 O-O 12.h3 h6 13.Qe2 Nh7 14.Nc4 Ng5 15.h4  
+Nxf3+ 16.Bxf3 Bd4 17.c3 Bc5 18.Bg4 Rfe8 19.Bxe6 Rxe6 20.Kg2 Bf8 21.Rfd1  
+Nc5 22.Qc2 Ree8 23.b4 axb4 24.cxb4 Nd7 25.Bc3 b5 26.Na5 Nb6 27.Be1 Nxa4  
+28.Qxc6 Qxc6 29.Nxc6 Ra6 30.Na5 Nb6 31.Rac1 Raa8 32.Rc6 Rab8 33.h5 Rec8  
+34.Kf3 f6 35.Kg4 Rxc6 36.Nxc6 Rc8 37.Na7 Rc4 38.Kf5 Kh7 39.Rb1 Nc8 40.Nxb5 
+Rc6 41.Nc3 Rc4 42.b5 Bb4 43.Nd5 Bxe1 44.Rxe1 Nd6+ 45.Ke6 Nxb5 46.f4 Nd4+  
+47.Kd6 Rc6+ 48.Kd7 Ra6 49.Rf1 Ne6 50.Rc1 Nd4 51.fxe5 fxe5 52.g4 Kg8 53.Rf1 
+Kh7 54.Ne7 Ne6 55.Rc1 Ng5 56.Rc4 Ra7+ 57.Ke8 Ra8+ 58.Kd7 Ra7+ 59.Ke8 Ra8+  
+60.Kd7 1/2-1/2 
+ 
+[Event "3. Open"] 
+[Site "Calvia ESP"] 
+[Date "2006.10.23"] 
+[Round "4"] 
+[White "Tattersall Rodriguez, Lester"] 
+[Black "Tate, Emory"] 
+[Result "0-1"] 
+[WhiteElo "2254"] 
+[BlackElo "2413"] 
+[ECO "B10"] 
+[EventDate "2006.10.20"] 
+ 
+1.e4 c6 2.d3 Nf6 3.Nf3 d6 4.g3 h6 5.Bg2 Bg4 6.h3 Be6 7.O-O Qc8 8.Kh2 g5 9. 
+Nc3 g4 10.hxg4 c5 11.d4 Nbd7 12.Kg1 Bxg4 13.e5 dxe5 14.dxe5 Nxe5 15.Re1  
+Ng6 16.Nb5 Be6 17.Qd3 c4 18.Qe3 a6 19.Nbd4 Bd5 20.Ne5 Bxg2 21.Kxg2 Ng4 22. 
+Nxg4 Qxg4 23.f3 Nh4+ 24.Kf2 Qh3 25.gxh4 Qh2+ 26.Kf1 Rg8 27.Qf2 Qh3+ 28.Ke2 
+Rg2 29.Be3 Rxf2+ 30.Bxf2 e5 31.Rh1 Qd7 32.Rad1 exd4 33.Rxd4 Qa4 34.Re4+  
+Be7 35.Re1 Kf8 36.Be3 Qxc2+ 37.Kf1 Bb4 38.Bxh6+ Kg8 39.R1e2 Qd1+ 40.Kg2  
+Kh7 41.Bg5 Rg8 42.a3 f6 43.axb4 fxg5 44.h5 g4 45.f4 Qb3 46.R4e3 Qxb4 47. 
+Kg3 Rg7 48.Re6 Qb3+ 49.R6e3 Qd1 50.Re1 Qd4 51.R1e2 Qd5 52.Rf2 Qh1 0-1 

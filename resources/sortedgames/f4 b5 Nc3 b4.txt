@@ -1,0 +1,19 @@
+ 
+[Event "3. GM"] 
+[Site "Griesheim GER"] 
+[Date "2003.02.06"] 
+[Round "9"] 
+[White "Jakubiec, Artur"] 
+[Black "Buhmann, Rainer"] 
+[Result "1-0"] 
+[WhiteElo "2532"] 
+[BlackElo "2525"] 
+[ECO "A02"] 
+[EventDate "2003.01.29"] 
+ 
+1.f4 b5 2.Nc3 b4 3.Ne4 e6 4.g3 Bb7 5.Bg2 Qc8 6.Bf3 d5 7.Nf2 Nf6 8.d3 Nbd7  
+9.g4 d4 10.c3 c5 11.g5 Nd5 12.c4 Ne7 13.Bxb7 Qxb7 14.Nf3 Nf5 15.Qa4 Bd6  
+16.Ne4 Qc7 17.Nxd6+ Qxd6 18.Ne5 Ke7 19.a3 Nxe5 20.fxe5 Qxe5 21.axb4 Rhb8  
+22.bxc5 Kf8 23.b4 Kg8 24.c6 Ne3 25.b5 g6 26.Bxe3 dxe3 27.O-O a6 28.Kh1 Kg7 
+29.bxa6 Rb2 30.Qa5 Qxa5 31.Rxa5 Rxe2 32.a7 Rd2 33.Kg1 Rxd3 34.c7 Rd4 35. 
+c8=Q Rg4+ 36.Kh1 Rxc8 37.a8=Q Rxa8 38.Rxa8 e2 1-0 

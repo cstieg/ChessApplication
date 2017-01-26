@@ -1,0 +1,55 @@
+ 
+[Event "European Rapid 2014"] 
+[Site "Wroclaw POL"] 
+[Date "2014.12.21"] 
+[Round "11.33"] 
+[White "Chigaev, Maksim"] 
+[Black "Girya, Olga"] 
+[Result "1-0"] 
+[WhiteElo "2494"] 
+[BlackElo "2457"] 
+[ECO "B10"] 
+[EventDate "2014.12.20"] 
+ 
+1.e4 c6 2.e5 d5 3.exd6 exd6 4.d4 d5 5.Nf3 Bd6 6.c4 Nf6 7.Bd3 O-O 8.O-O  
+dxc4 9.Bxc4 Bg4 10.h3 Bh5 11.Nc3 Nbd7 12.Bb3 Qc7 13.g4 Bg6 14.Nh4 Bf4 15. 
+Qf3 Bxc1 16.Nxg6 hxg6 17.Raxc1 Qd6 18.Rcd1 Nb6 19.Rfe1 Nfd5 20.Ne4 Qf4 21. 
+Qxf4 Nxf4 22.Kh2 Nbd5 23.Nc5 b6 24.Nd7 Rfd8 25.Ne5 Rac8 26.h4 f6 27.Nc4  
+Re8 28.Ne3 Kf8 29.Kg3 Rcd8 30.Kf3 Rd6 31.a3 Rde6 32.Nxd5 Nxd5 33.Rxe6 Rxe6 
+34.Rc1 g5 35.h5 Kf7 36.Rxc6 1-0 
+ 
+[Event "It (open) women"] 
+[Site "Bosnjaci CRO"] 
+[Date "2005.01.??"] 
+[Round "6"] 
+[White "Dimitrijevic, Aleksandra"] 
+[Black "Ushenina, Anna"] 
+[Result "0-1"] 
+[WhiteElo "2295"] 
+[BlackElo "2357"] 
+[ECO "B10"] 
+ 
+1.e4 c6 2.e5 d5 3.exd6 exd6 4.d4 d5 5.Bd3 Bd6 6.Qe2+ Ne7 7.Bg5 Qc7 8.Nd2  
+Be6 9.g3 h6 10.Bxe7 Qxe7 11.O-O-O O-O 12.f4 Qf6 13.Qh5 c5 14.dxc5 Bxc5 15. 
+Ngf3 Nc6 16.c3 Rfc8 17.f5 Bd7 18.Kb1 b5 19.g4 Ne5 20.g5 hxg5 21.Nxe5 Qxe5  
+22.Nf3 Qf6 23.h4 g4 24.Qxg4 Rab8 25.Bc2 b4 26.c4 b3 27.axb3 Rb7 28.Nd4 Rb4 
+29.h5 Bxd4 30.Qxd4 Qxd4 31.Rxd4 0-1 
+ 
+[Event "FSIMB December"] 
+[Site "Budapest HUN"] 
+[Date "2001.12.06"] 
+[Round "6"] 
+[White "Brustkern, Juergen"] 
+[Black "Eperjesi, Laszlo Dr"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2275"] 
+[BlackElo "2294"] 
+[ECO "B12"] 
+[EventDate "2001.12.01"] 
+ 
+1.e4 c6 2.e5 d5 3.d4 Bf5 4.Ne2 e6 5.Ng3 Bg6 6.h4 h5 7.Bd3 Bxd3 8.cxd3 g6  
+9.Nd2 Bh6 10.Kf1 Nd7 11.b3 Qa5 12.Nf3 Bxc1 13.Qxc1 Nh6 14.Ke2 Ng4 15.Qf4  
+Qa3 16.Rhb1 a5 17.Ng5 Nh6 18.Nf1 Nf5 19.Ne3 Qe7 20.a3 Kf8 21.Rc1 Kg7 22. 
+Kf1 Ra6 23.Nxf5+ gxf5 24.Qd2 Nf8 25.Rc5 Ng6 26.Nf3 Nxh4 27.Ke2 Nxf3 28. 
+gxf3 Rh6 29.Rg1+ Rg6 30.Rh1 Qg5 31.Qxg5 Rxg5 32.f4 Rg4 33.Rxh5 Rb6 34.Rxa5 
+Rxb3 35.Ra8 f6 36.Rah8 fxe5 37.dxe5 Kf7 1/2-1/2 

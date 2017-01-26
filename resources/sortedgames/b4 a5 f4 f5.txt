@@ -1,0 +1,14 @@
+ 
+[Event "52. World Juniors 2013"] 
+[Site "Kocaeli TUR"] 
+[Date "2013.09.17"] 
+[Round "5.12"] 
+[White "Grandelius, Nils"] 
+[Black "Kurayan, Ruslan"] 
+[Result "0-1"] 
+[WhiteElo "2576"] 
+[BlackElo "2398"] 
+[ECO "A00"] 
+[EventDate "2013.09.13"] 
+ 
+1.b4 a5 2.f4 f5 3.e3 a4 0-1 

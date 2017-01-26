@@ -1,0 +1,105 @@
+ 
+[Event "Petrovac Open 2015"] 
+[Site "Petrovac MNE"] 
+[Date "2015.05.10"] 
+[Round "4.10"] 
+[White "Sale, Srdjan"] 
+[Black "Stanojevic, Branko"] 
+[Result "1-0"] 
+[WhiteElo "2395"] 
+[BlackElo "2228"] 
+[ECO "A04"] 
+[EventDate "2015.05.08"] 
+ 
+1.e4 e6 2.d3 g6 3.Nf3 Bg7 4.g3 c5 5.Bg2 Nc6 6.O-O Nge7 7.c3 e5 8.Be3 d6 9. 
+d4 b6 10.dxe5 dxe5 11.Qe2 O-O 12.Rd1 Qc7 13.Na3 a6 14.b4 cxb4 15.cxb4 Bg4  
+16.Rac1 b5 17.Bc5 Qb7 18.Nc2 Rfd8 19.Ne3 Bxf3 20.Bxf3 Rac8 21.Nd5 Nxd5 22. 
+exd5 Nd4 23.Bxd4 exd4 24.Rc6 Rxc6 25.dxc6 Qc7 26.a3 h5 27.h4 Bf6 28.Rd3  
+Kg7 29.Kg2 Kf8 30.Qc2 Qd6 31.Be4 Be5 32.Rf3 Kg7 33.Rd3 Re8 34.Bf3 Rd8 35. 
+Qa2 Kf6 36.Be4 Kg7 37.Qb3 f5 38.Bf3 Kf6 39.Qc2 Qe6 40.Qc1 Kg7 41.Qc5 Kf6  
+42.Qb6 Ra8 43.Qb7 Qc8 44.c7 1-0 
+ 
+[Event "4. Max Gutmann Memorial"] 
+[Site "Augsburg GER"] 
+[Date "2014.01.02"] 
+[Round "7.5"] 
+[White "Moser, Eva"] 
+[Black "Renner, Christoph"] 
+[Result "1-0"] 
+[WhiteElo "2436"] 
+[BlackElo "2385"] 
+[ECO "C00"] 
+[EventDate "2013.12.27"] 
+ 
+1.e4 e6 2.d3 g6 3.h4 h5 4.Bg5 Be7 5.Qd2 Nc6 6.Bxe7 Qxe7 7.d4 Nf6 8.Nc3 e5  
+9.d5 Nd4 10.Nf3 Nxf3+ 11.gxf3 d6 12.O-O-O Bd7 13.f4 O-O-O 14.Bh3 Kb8 15. 
+Bxd7 Nxd7 16.fxe5 Qxe5 17.f3 Rhe8 18.Nb5 Nb6 19.Nd4 Re7 20.Rhg1 Rde8 21. 
+Rg5 Qf6 22.Qh2 a6 23.Kb1 Re5 24.Rgg1 Na4 25.c4 Ka8 26.Qc2 Nc5 27.b4 Nxe4  
+28.fxe4 Rxe4 29.Ne6 R8xe6 30.dxe6 Qxe6 31.Rc1 c5 32.bxc5 dxc5 33.Rh1 Ka7  
+34.Ka1 Re2 35.Qc3 Re3 36.Qb2 Re2 37.Rc2 Qe4 38.Rxe2 Qxh1+ 39.Qb1 Qxh4 40. 
+Rb2 Qd4 41.Qh1 Qd7 42.Qe4 Qc7 43.Re2 f5 44.Qe7 Qc6 45.Re6 Qh1+ 46.Re1 Qc6  
+47.Qe6 Qf3 48.Qe5 Qc6 49.Qd5 Qc7 50.Qe5 Qb6 51.Rb1 Qc6 52.Rd1 h4 53.Qd6  
+Qxd6 54.Rxd6 g5 55.Rh6 f4 56.Rg6 f3 57.Rxg5 h3 58.Rg1 b5 59.Kb2 Kb6 60.Kc3 
+Ka5 61.Kd3 f2 62.Rb1 Ka4 63.Ke2 h2 64.Rh1 Ka3 65.Rxh2 Kxa2 66.Rxf2 b4 67. 
+Kd3+ Kb3 68.Rf5 a5 69.Rxc5 a4 70.Ra5 a3 71.c5 Ka2 72.c6 b3 73.c7 b2 74. 
+c8=Q b1=Q+ 75.Qc2+ Qb2 76.Rb5 Qxc2+ 77.Kxc2 Ka1 78.Rb1+ Ka2 79.Rb3 Ka1 80. 
+Rxa3# 1-0 
+ 
+[Event "Cultural Village Tournament"] 
+[Site "Wijk aan Zee NED"] 
+[Date "2011.11.30"] 
+[Round "9.5"] 
+[White "Naroditsky, Daniel"] 
+[Black "Bottema, Tom"] 
+[Result "1-0"] 
+[WhiteElo "2472"] 
+[BlackElo "2219"] 
+[ECO "C00"] 
+[EventDate "2011.11.21"] 
+ 
+1.e4 e6 2.d3 g6 3.Nf3 Bg7 4.g3 d6 5.Bg2 Nd7 6.O-O Ne7 7.Nc3 a6 8.a4 b6 9. 
+Ng5 h6 10.Nh3 Bb7 11.Be3 d5 12.d4 O-O 13.Qd2 Kh7 14.Rad1 Rc8 15.Qe2 Nf6  
+16.e5 Nd7 17.f4 c5 18.g4 Qc7 19.Qf2 cxd4 20.Bxd4 Nc6 21.Ne2 Nc5 22.Be3  
+Nxa4 23.b3 Nc5 24.Qh4 Qe7 25.Qf2 f6 26.exf6 Bxf6 27.g5 hxg5 28.fxg5 Bg7  
+29.Nef4 Qe8 30.Qh4+ Kg8 31.Bxc5 bxc5 32.Nxd5 Rd8 33.Nf6+ Bxf6 34.gxf6 1-0 
+ 
+[Event "Lviv UKR, Vasylyshyn Memorial 07"] 
+[Site "Lvov UKR"] 
+[Date "2007.11.01"] 
+[Round "1"] 
+[White "Teterev, Vitaly"] 
+[Black "Firman, Nazar"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2487"] 
+[BlackElo "2526"] 
+[ECO "C00"] 
+[EventDate "2007.11.01"] 
+ 
+1.e4 e6 2.d3 g6 3.Nf3 Bg7 4.h4 h6 5.d4 Ne7 6.Bd3 d6 7.O-O e5 8.dxe5 dxe5  
+9.Bc4 Qxd1 10.Rxd1 Bg4 11.Nbd2 Nbc6 12.c3 f5 13.Be6 Rd8 14.Re1 Rf8 15.Nh2  
+Bh5 16.Ndf1 Rd6 17.Bb3 g5 18.Ng3 Bf7 19.exf5 Bxb3 20.axb3 gxh4 21.Ne4 Nxf5 
+22.Nxd6+ cxd6 23.Ng4 Kd7 24.Ne3 Nfe7 25.Ra4 Bf6 26.Ng4 Bg5 27.Nxh6 Bxh6  
+28.Bxh6 Rh8 29.Be3 a6 30.Rg4 Ke6 31.f3 Nf5 32.Kf2 Nce7 33.Bg5 Ng6 34.Rh1  
+Rf8 35.Bxh4 Nfxh4 36.Rgxh4 Nxh4 37.Rxh4 b5 38.Rh7 e4 39.Rh6+ Kd5 40.Rh5+  
+Kc6 41.Ke3 exf3 42.gxf3 Re8+ 43.Kd3 Rf8 44.Ke3 Re8+ 45.Kf2 a5 46.Rh4 Ra8  
+47.Rd4 a4 48.Rb4 Kc5 49.f4 d5 50.bxa4 bxa4 51.f5 Kd6 52.Rb6+ Kc5 53.Rb4  
+Kd6 54.Kf3 Ke5 55.Rf4 a3 56.bxa3 Rxa3 57.Kg4 Rxc3 58.f6 Rc8 59.f7 Rf8 60. 
+Kg5 d4 1/2-1/2 
+ 
+[Event "7. Open"] 
+[Site "Linares CHI"] 
+[Date "2000.06.24"] 
+[Round "2"] 
+[White "Valiente, Cristobal"] 
+[Black "Rodriguez Gonzales, Jesus"] 
+[Result "1-0"] 
+[WhiteElo "2389"] 
+[BlackElo "2355"] 
+[ECO "C00"] 
+[EventDate "2000.06.24"] 
+ 
+1.e4 e6 2.d3 g6 3.g3 Bg7 4.Bg2 Ne7 5.Nf3 Nbc6 6.O-O O-O 7.Re1 d6 8.c3 e5  
+9.d4 Bg4 10.Be3 Kh8 11.h3 Bd7 12.dxe5 Nxe5 13.Nxe5 Bxe5 14.Nd2 Nc6 15.Nc4  
+Bg7 16.h4 Qc8 17.Qd2 Be6 18.Bf1 b5 19.Na3 Ne5 20.Be2 Bg4 21.Qd1 Bxe2 22. 
+Qxe2 a6 23.Bd4 Qh3 24.Bxe5 Bxe5 25.Nc2 f5 26.exf5 Rxf5 27.Ne3 Rff8 28.Qg4  
+Qxg4 29.Nxg4 h5 30.Nxe5 dxe5 31.Re2 g5 32.hxg5 1-0 

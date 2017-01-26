@@ -1,0 +1,35 @@
+ 
+[Event "Calimanesti ROM, Team Ch 2. Div 2014"] 
+[Site "Calimanesti-Caciulata"] 
+[Date "2014.11.11"] 
+[Round "4.2"] 
+[White "Dobre, Claudiu-Cristian"] 
+[Black "Titu, Maiorescu-Dorin"] 
+[Result "1-0"] 
+[WhiteElo "2342"] 
+[BlackElo "2201"] 
+[ECO "B00"] 
+[EventDate "2014.11.08"] 
+ 
+1.e4 b6 2.Bc4 Bb7 3.Nc3 e6 4.d4 Bb4 5.d5 Bxc3+ 6.bxc3 e5 7.Qg4 Kf8 8.f4  
+Qe7 9.f5 Na6 10.Qf3 Nc5 11.Nh3 h6 12.Nf2 Nf6 13.g4 Ne8 14.h4 Ba6 15.g5 h5  
+16.Rg1 f6 17.gxf6 gxf6 18.Rg6 Qf7 19.Bh6+ Ke7 20.Qg2 Kd8 21.Be2 Kc8 22. 
+Bxh5 Kb7 23.Be2 Nd6 24.Be3 Bc4 25.Bxc5 bxc5 26.Rb1+ Kc8 27.Bxc4 Nxc4 28. 
+Ng4 Rb8 29.Rxb8+ Kxb8 30.Nh6 Qe7 31.Rg7 Qd6 32.Nf7 Qb6 33.Nxh8 Ne3 34.Qd2  
+Qb1+ 35.Kf2 Nc4 36.Qe2 Nd6 37.Rg4 a5 38.Kg2 Qc1 39.h5 Qa3 40.Rg3 Qc1 41. 
+Qa6 Qxc2+ 42.Kh3 1-0 
+ 
+[Event "It"] 
+[Site "Bibinje CRO"] 
+[Date "2001.06.09"] 
+[Round "8"] 
+[White "Levacic, Patrick"] 
+[Black "Polak, Tomas"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2382"] 
+[BlackElo "2503"] 
+[ECO "B00"] 
+[EventDate "2001.06.01"] 
+ 
+1.e4 b6 2.Bc4 Bb7 3.Nh3 e6 4.Qe2 Nf6 5.d3 d5 6.exd5 Nxd5 7.O-O Nd7 8.Nd2  
+Be7 9.Ne4 O-O 10.Bb3 1/2-1/2 

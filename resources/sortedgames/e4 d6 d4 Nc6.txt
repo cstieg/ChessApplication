@@ -1,0 +1,72 @@
+ 
+[Event "XV Villa Martelli ITT"] 
+[Site "Villa Martelli ARG"] 
+[Date "2013.09.15"] 
+[Round "1.5"] 
+[White "De Dovitiis, Alejo"] 
+[Black "Madina Yadarola, M1."] 
+[Result "1/2-1/2"] 
+[WhiteElo "2346"] 
+[BlackElo "2273"] 
+[ECO "B00"] 
+[EventDate "2013.09.15"] 
+ 
+1.e4 d6 2.d4 Nc6 3.Nf3 Bg4 4.Bb5 a6 5.Bxc6+ bxc6 6.Nc3 e6 7.h3 Bh5 8.Qe2  
+Qb8 9.g4 Bg6 10.Bd2 Be7 11.O-O-O Nf6 12.h4 h5 13.g5 Nd7 14.Ne1 d5 15.Nd3  
+Qb6 16.Nf4 Rb8 17.b3 O-O 18.Kb1 Bb4 19.Nxh5 Qa5 20.Rh3 Nb6 21.Nxg7 Nc4 22. 
+Be1 Qa3 23.Na4 Qxa4 24.bxa4 Bc3+ 25.Kc1 Bb2+ 26.Kb1 Bc3+ 27.Kc1 Bb2+ 28. 
+Kb1 Bc3+ 1/2-1/2 
+ 
+[Event "XV Asiad Men's Rapid"] 
+[Site "Doha QAT"] 
+[Date "2006.12.03"] 
+[Round "6"] 
+[White "Al-Modiahki, Mohamad"] 
+[Black "Bakr, Jwan"] 
+[Result "1-0"] 
+[WhiteElo "2550"] 
+[BlackElo "2360"] 
+[ECO "B00"] 
+[EventDate "2006.12.02"] 
+ 
+1.e4 d6 2.d4 Nc6 3.d5 Ne5 4.f4 Ng6 5.c4 e5 6.dxe6 fxe6 7.Nf3 Nf6 8.Bd3 e5  
+9.f5 Ne7 10.Bg5 Nc6 11.Nc3 Be7 12.O-O O-O 13.Bc2 Kh8 14.Qd2 Bd7 15.Rad1  
+Be8 16.h3 Bf7 17.b3 a6 18.Bb1 Rb8 19.Nd5 Na7 20.Nxe7 Qxe7 21.Qf2 c5 22.g4  
+Nc6 23.Bh4 Qc7 24.Bxf6 gxf6 25.Qh4 Be8 26.g5 fxg5 27.Nxg5 Rg8 28.Kh1 Qg7  
+29.Rg1 Nd4 30.f6 Qg6 31.f7 Bxf7 32.Rdf1 Rbf8 33.Rf6 Qg7 34.Nxf7+ Rxf7 35. 
+Rxg7 Rfxg7 36.Qf2 Rg3 37.Kh2 Rd3 38.Bxd3 1-0 
+ 
+[Event "It \"] 
+[Site "Doha (Qatar)"] 
+[Date "2006.12.03"] 
+[Round "6"] 
+[White "Al-Modiahki, Mohamad"] 
+[Black "Bakr, Jwan"] 
+[Result "1-0"] 
+[WhiteElo "2550"] 
+[BlackElo "2360"] 
+[ECO "B00"] 
+ 
+1.e4 d6 2.d4 Nc6 3.d5 Ne5 4.f4 Ng6 5.c4 e5 6.dxe6 fxe6 7.Nf3 Nf6 8.Bd3 e5  
+9.f5 Ne7 10.Bg5 Nc6 11.Nc3 Be7 12.O-O O-O 13.Bc2 Kh8 14.Qd2 Bd7 15.Rad1  
+Be8 16.h3 Bf7 17.b3 a6 18.Bb1 Rb8 19.Nd5 Na7 20.Nxe7 Qxe7 21.Qf2 c5 22.g4  
+Nc6 23.Bh4 Qc7 24.Bxf6 gxf6 25.Qh4 Be8 26.g5 fxg5 27.Nxg5 Rg8 28.Kh1 Qg7  
+29.Rg1 Nd4 30.f6 Qg6 31.f7 Bxf7 32.Rdf1 Rbf8 33.Rf6 Qg7 34.Nxf7+ Rxf7 35. 
+Rxg7 Rfxg7 36.Qf2 Rg3 37.Kh2 Rd3 38.Bxd3 1-0 
+ 
+[Event "3. PGMA Cup"] 
+[Site "Manila PHI"] 
+[Date "2008.09.08"] 
+[Round "2"] 
+[White "Paragua, Mark"] 
+[Black "Elorta, David"] 
+[Result "1-0"] 
+[WhiteElo "2523"] 
+[BlackElo "2405"] 
+[ECO "C46"] 
+[EventDate "2008.09.07"] 
+ 
+1.e4 d6 2.d4 Nc6 3.Nc3 e5 4.Nf3 Bg4 5.Bb5 exd4 6.Qxd4 Ne7 7.Bg5 a6 8.Bxe7  
+Qxe7 9.Bxc6+ bxc6 10.O-O-O f6 11.Rhe1 Bxf3 12.gxf3 g6 13.Nd5 Qe5 14.Nxc7+  
+Kd7 15.Nxa8 Bh6+ 16.Kb1 Qxd4 17.Rxd4 Rxa8 18.e5 fxe5 19.Rh4 Bf4 20.Rxh7+  
+Ke6 21.h4 Rf8 22.Rg1 Rf6 23.Ra7 d5 24.Rxa6 Kf5 25.b4 1-0 

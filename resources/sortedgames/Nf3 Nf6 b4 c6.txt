@@ -1,0 +1,63 @@
+ 
+[Event "19. Hoogeveen Open 2015"] 
+[Site "Hoogeveen NED"] 
+[Date "2015.10.23"] 
+[Round "8.10"] 
+[White "De Jong, Migchiel"] 
+[Black "Pruijssers, Roeland"] 
+[Result "0-1"] 
+[WhiteElo "2328"] 
+[BlackElo "2501"] 
+[ECO "A05"] 
+[EventDate "2015.10.17"] 
+ 
+1.Nf3 Nf6 2.b4 c6 3.Bb2 Qb6 4.a3 a5 5.Bd4 Qc7 6.e3 d5 7.c4 Bg4 8.cxd5 Nxd5 
+9.Nc3 Nf6 10.Be2 Bxf3 11.Bxf3 axb4 12.axb4 Rxa1 13.Qxa1 e5 14.Bc5 Bxc5 15. 
+bxc5 O-O 16.O-O Rd8 17.d4 Nbd7 18.Qa7 exd4 19.exd4 Nf8 20.Rb1 Rxd4 21.Rxb7 
+Qe5 22.Re7 Qg5 23.Re3 Rc4 24.g3 Qxc5 25.Qxc5 Rxc5 26.Na4 Rc4 27.Nb6 Rc1+  
+28.Kg2 Ne6 29.Rd3 c5 30.Rd6 g6 31.Rc6 Kg7 32.Nd5 Nd7 33.Nf4 Nxf4+ 34.gxf4  
+Nf6 35.Rc7 Rc3 36.h4 h5 37.Bb7 Rc2 38.Kg3 Ne8 39.Rd7 Nf6 40.Rc7 Rc1 41.f3  
+Rc2 42.Be4 Rc1 43.f5 Nxe4+ 44.fxe4 gxf5 45.e5 Rc4 46.e6 Rg4+ 47.Kf3 Rxh4  
+48.exf7 Rc4 49.Kg3 Kf8 50.Rd7 Rd4 51.Rc7 c4 52.Kf3 h4 53.Rc5 Kxf7 54.Rxf5+ 
+Ke6 55.Rc5 Kd6 56.Rc8 Kd5 57.Ke2 Rd3 58.Rd8+ Ke4 0-1 
+ 
+[Event "TCh-Europe u18"] 
+[Site "Balatonlelle HUN"] 
+[Date "2003.07.22"] 
+[Round "4"] 
+[White "Doncea, Vladimir"] 
+[Black "Milovic, Jovan"] 
+[Result "1-0"] 
+[WhiteElo "2203"] 
+[BlackElo "2223"] 
+[ECO "A05"] 
+[EventDate "2003.07.19"] 
+ 
+1.Nf3 Nf6 2.b4 c6 3.Bb2 a5 4.a3 axb4 5.axb4 Rxa1 6.Bxa1 Qb6 7.c3 d5 8.e3  
+Bg4 9.d4 Bxf3 10.Qxf3 Qa7 11.Qg3 e6 12.Bd3 Nbd7 13.Bb2 Qa2 14.Ba3 Ne4 15. 
+Bxe4 dxe4 16.O-O e5 17.dxe5 Qd5 18.e6 fxe6 19.Qc7 b5 20.c4 Qd3 21.cxb5  
+cxb5 22.Nc3 Bd6 23.Qc6 O-O 24.Rd1 Qc2 25.Rf1 Ne5 26.Qxd6 Qxc3 27.Qxe6+ Kh8 
+28.Qe7 Ra8 29.Rd1 Nd3 30.Qxe4 Qxa3 31.Qd5 Rc8 32.h3 Qxb4 33.Qxd3 Qa5 34. 
+Qf5 Rb8 35.Qe5 Qb6 36.Rd7 Rg8 37.Qd4 Qxd4 38.Rxd4 Rb8 39.Kf1 b4 40.Ke1 b3  
+41.Rd1 g5 42.Rb1 h5 43.Rb2 g4 44.hxg4 hxg4 45.Kd2 g3 46.f3 Rd8+ 47.Kc3 Rd1 
+48.e4 Kg7 49.Kxb3 Kf6 50.Kc2 Rg1 51.Kd3 Ke5 52.Ke3 Re1+ 53.Re2 Rf1 54.Ra2  
+Re1+ 55.Kd2 Rg1 56.Ra5+ Kf6 57.Ke3 Rxg2 58.Kf4 Rg1 59.Rg5 g2 60.Rg4 Ke6  
+61.Kg3 Ke5 62.Kf2 Ra1 63.Rxg2 Kd4 64.Rg5 Ra2+ 65.Kg3 Ra1 66.Kf4 Kd3 67.Rb5 
+Ra8 68.Rd5+ Ke2 69.e5 Ra4+ 70.Kf5 Ke3 71.e6 Rf4+ 72.Ke5 Kxf3 73.Rd3+ Kg4  
+74.Rd4 1-0 
+ 
+[Event "ch"] 
+[Site "Asker NOR"] 
+[Date "2000.07.12"] 
+[Round "6"] 
+[White "Johannessen, Svein"] 
+[Black "Eriksen, Terje"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2306"] 
+[BlackElo "2242"] 
+[ECO "A05"] 
+[EventDate "2000.07.08"] 
+ 
+1.Nf3 Nf6 2.b4 c6 3.Nc3 d5 4.e3 Bg4 5.h3 Bh5 6.g4 Bg6 7.Ne5 Nbd7 8.Nxg6  
+hxg6 9.Bg2 e5 10.Rb1 Bd6 11.b5 Qa5 12.g5 Ng8 13.h4 Qd8 14.Qe2 Ne7 15.bxc6  
+bxc6 16.e4 d4 17.Na4 Qa5 18.Qc4 1/2-1/2 

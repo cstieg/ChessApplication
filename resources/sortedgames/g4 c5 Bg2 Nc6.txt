@@ -1,0 +1,44 @@
+ 
+[Event "Kemerovo RUS, Open 2011"] 
+[Site "Kemerovo RUS"] 
+[Date "2011.07.27"] 
+[Round "4"] 
+[White "Vlassov, Nikolai"] 
+[Black "Chigaev, Maksim"] 
+[Result "1-0"] 
+[WhiteElo "2443"] 
+[BlackElo "2309"] 
+[ECO "A00"] 
+[EventDate "2011.07.25"] 
+ 
+1.g4 c5 2.Bg2 Nc6 3.e4 d6 4.d3 g6 5.h4 Ne5 6.g5 h5 7.c3 Bg7 8.d4 cxd4 9. 
+cxd4 Nc6 10.d5 Ne5 11.Nc3 Bd7 12.Nh3 Qb6 13.Qe2 e6 14.Nf4 Ne7 15.Be3 Qb4  
+16.O-O Nc4 17.dxe6 fxe6 18.Rab1 O-O 19.Bh3 Rxf4 20.Bxf4 Rf8 21.Bg3 Nc6 22. 
+a3 Qb3 23.Qd1 Nd4 24.Kh1 Qb6 25.Ne2 Nf3 26.Nf4 Ncd2 27.Nxg6 Rf7 28.Nf4 Qb5 
+29.Bg2 Nxb1 30.Bxf3 Nd2 31.Qxd2 Qxf1+ 32.Kh2 Be5 33.Bxh5 Rf8 34.Qe3 Kh7  
+35.g6+ Kg8 36.Be2 Qb1 37.Ng2 Bxg3+ 38.Kxg3 Qxb2 39.h5 Qb6 40.f4 Bc6 41.Nh4 
+d5 42.e5 Qd8 43.Bg4 d4 44.Bxe6+ Kh8 45.Qd3 Qe7 46.h6 Qxe6 47.g7+ Kg8 48. 
+gxf8=Q+ Kxf8 49.Qf5+ Qxf5 50.Nxf5 Kg8 51.Ne7+ Kh7 52.Nxc6 bxc6 53.e6 1-0 
+ 
+[Event "WYCC Boys U18"] 
+[Site "Vung Tau VIE"] 
+[Date "2008.10.29"] 
+[Round "10"] 
+[White "Toufighi, Homayoon"] 
+[Black "Poetz, Florian"] 
+[Result "1-0"] 
+[WhiteElo "2470"] 
+[BlackElo "2255"] 
+[ECO "A00"] 
+[EventDate "2008.10.20"] 
+ 
+1.g4 c5 2.Bg2 Nc6 3.d3 g6 4.c4 Bg7 5.Nc3 d6 6.g5 h6 7.h4 hxg5 8.hxg5 Rxh1  
+9.Bxh1 Bd7 10.Bd2 a6 11.Nf3 Rb8 12.a4 Nd4 13.Nxd4 Bxd4 14.Qb3 Bc6 15.Ne4  
+Kf8 16.e3 Bg7 17.Bc3 f5 18.gxf6 exf6 19.Ke2 f5 20.Bxg7+ Kxg7 21.Qc3+ Kf7  
+22.Nd2 Nf6 23.Rg1 Bxa4 24.Nf3 Ng4 25.Nh2 Qf6 26.Nxg4 Qxc3 27.Nh6+ Kg7 28. 
+Nxf5+ Kf6 29.bxc3 gxf5 30.Rb1 b5 31.Bc6 Rb6 32.Bd7 Rb7 33.Bc8 Rb6 34.cxb5  
+axb5 35.Bd7 Rb7 36.Bc6 Rb6 37.Bd5 Ke5 38.Bg8 Rb8 39.Rg1 Kf6 40.Kd2 b4 41. 
+Bd5 Bd7 42.Rh1 Kg7 43.Ra1 Kf6 44.Ra6 bxc3+ 45.Kxc3 Ke5 46.Bc4 f4 47.exf4+  
+Kxf4 48.Rxd6 Bf5 49.Rf6 Ke5 50.Rf7 Re8 51.Bb5 Rd8 52.Bc4 Re8 53.Rg7 Kf4  
+54.Rc7 Rc8 55.Rf7 Re8 56.Kb3 Re5 57.Rf8 Kf3 58.Bb5 Kg4 59.f3+ Kg3 60.f4  
+Rd5 61.Bc4 Rxd3+ 62.Bxd3 Bxd3 63.Kc3 c4 64.Kd4 1-0 

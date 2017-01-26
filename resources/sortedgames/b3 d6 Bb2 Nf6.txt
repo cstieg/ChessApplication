@@ -1,0 +1,62 @@
+ 
+[Event "Dutch League 2014-15"] 
+[Site "Netherlands NED"] 
+[Date "2014.11.01"] 
+[Round "2.6"] 
+[White "Bosboom, Manuel"] 
+[Black "Pel, Bonno"] 
+[Result "0-1"] 
+[WhiteElo "2424"] 
+[BlackElo "2282"] 
+[ECO "A01"] 
+[EventDate "2014.09.27"] 
+ 
+1.b3 d6 2.Bb2 Nf6 3.e3 g6 4.f4 Bg7 5.Nf3 O-O 6.Be2 e5 7.fxe5 Ng4 8.O-O Nc6 
+9.Nc3 Ncxe5 10.Nxe5 Nxe5 11.d4 Nc6 12.Bc4 Bf5 13.Rxf5 gxf5 14.Qh5 Ne7 15. 
+Rf1 c5 16.Rf3 d5 17.Rh3 h6 18.Bd3 Rc8 19.Rg3 Rc6 20.Rxg7+ Kxg7 21.dxc5 f6  
+22.Ne2 Qa5 23.Qh4 Re6 24.Bd4 Qd2 25.Qg3+ Kf7 26.Nf4 Qd1+ 27.Kf2 Qg4 28. 
+Nxe6 Qxg3+ 29.Kxg3 Kxe6 30.b4 Rg8+ 31.Kf2 Nc6 32.c3 Ne5 33.Bc2 h5 34.h3 h4 
+35.a4 a5 36.b5 Rc8 37.g3 hxg3+ 38.Kxg3 Rg8+ 39.Kf2 Nc4 40.h4 Rg4 41.b6 Ne5 
+42.h5 Rg8 43.Bd1 Rc8 44.Be2 Nd7 45.c4 Nxc5 46.cxd5+ Kxd5 47.Kf3 Nxa4 48. 
+Kf4 Nc3 49.Bf3+ Ke6 50.h6 Ne4 51.Bd1 Nd2 52.Bh5 Nb3 53.Bb2 Rc4+ 54.Kg3 Nc5 
+55.h7 Ne4+ 56.Kg2 Rc8 57.Bd1 Kf7 58.Kf3 Rd8 59.Bd4 Ng5+ 60.Kf4 Kg6 61.Bb3  
+Nxh7 62.Be6 Nf8 63.Bxf5+ Kf7 64.Bc3 a4 65.Bb1 Ne6+ 66.Kf5 Rd5+ 67.Ke4 Rb5  
+68.Ba2 Rxb6 69.Kd5 Rc6 70.Bb4 Kg6 71.Bb1+ Kg5 72.Bd3 Nc7+ 73.Kd4 Ne6+ 74. 
+Kd5 Kg4 75.Be2+ Kg3 76.Bd1 Nc7+ 77.Kd4 b5 78.Be7 Rc4+ 79.Kd3 Nd5 80.Bd6+  
+Kf2 0-1 
+ 
+[Event "13. Festival A"] 
+[Site "Zupanja CRO"] 
+[Date "2007.01.06"] 
+[Round "4"] 
+[White "Drazic, Sinisa"] 
+[Black "Dimitrov, Pavel"] 
+[Result "0-1"] 
+[WhiteElo "2483"] 
+[BlackElo "2441"] 
+[ECO "A01"] 
+[EventDate "2007.01.03"] 
+ 
+1.b3 d6 2.Bb2 Nf6 3.c4 e5 4.g3 Be7 5.Bg2 c6 6.Nf3 O-O 7.O-O Bf5 8.Nc3 Qc8  
+9.Re1 Re8 10.e4 Bh3 11.d4 Bf8 12.Rc1 Bxg2 13.Kxg2 Nbd7 14.d5 a6 15.Rc2 Nb6 
+16.Qe2 cxd5 17.cxd5 Qd7 18.Qe3 Nc8 19.Nb1 Ne7 20.Nbd2 Ng6 21.Nc4 Qd8 22.h3 
+b5 23.Ncd2 Qd7 24.Rec1 Rec8 25.Ne1 Nh5 26.Nd3 Rxc2 27.Rxc2 f5 28.Nb4 f4  
+29.Qc3 fxg3 30.fxg3 Be7 31.Nd3 Rf8 32.Qc6 Qa7 33.Nf1 Nxg3 34.Rf2 Rxf2+ 35. 
+Nxf2 Nf4+ 36.Kxg3 Bh4+ 37.Kg4 h5+ 38.Kxh4 Qxf2+ 39.Ng3 g5+ 0-1 
+ 
+[Event "93. ch-GBR"] 
+[Site "Swansea WLS"] 
+[Date "2006.08.16"] 
+[Round "10"] 
+[White "Tippleston, Charles E"] 
+[Black "Mason, Donald J"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2203"] 
+[BlackElo "2266"] 
+[ECO "A01"] 
+[EventDate "2006.08.07"] 
+ 
+1.b3 d6 2.Bb2 Nf6 3.e3 e5 4.c4 g6 5.Nf3 Bg7 6.d4 e4 7.Nfd2 O-O 8.Nc3 Re8  
+9.Qc2 Qe7 10.h3 h5 11.O-O-O a6 12.Kb1 c6 13.Be2 b5 14.Rdg1 bxc4 15.Nxc4  
+Be6 16.g4 Bxc4 17.Bxc4 d5 18.Be2 h4 19.Na4 Bf8 20.Rc1 Nfd7 21.Qd2 a5 22. 
+Rc2 Qd8 23.Bc3 Ra7 24.Bf1 Bd6 25.Ka1 g5 26.Rc1 Nf6 1/2-1/2 

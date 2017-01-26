@@ -1,0 +1,19 @@
+ 
+[Event "Campeonato Continental Absolut"] 
+[Site "Cali COL"] 
+[Date "2007.07.15"] 
+[Round "6"] 
+[White "Ossa, Orlando"] 
+[Black "Barrientos, Sergio E"] 
+[Result "0-1"] 
+[WhiteElo "2272"] 
+[BlackElo "2417"] 
+[ECO "A00"] 
+[EventDate "2007.07.10"] 
+ 
+1.a3 c5 2.Nf3 g6 3.g3 Bg7 4.Bg2 Nc6 5.O-O e5 6.e4 Nge7 7.d3 h6 8.Nc3 d6 9. 
+Nd2 h5 10.Nc4 Nd4 11.Bg5 f6 12.Bd2 Be6 13.Ne3 Qd7 14.Ncd5 Nxd5 15.Nxd5 h4  
+16.c3 Nc6 17.Be3 h3 18.Bf3 O-O 19.b4 b6 20.Qd2 Rac8 21.Bd1 f5 22.Bb3 Rf7  
+23.Bg5 f4 24.f3 fxg3 25.hxg3 Rcf8 26.Ba4 Re8 27.Kh2 Kh7 28.Rf2 Qb7 29.Bb3  
+b5 30.g4 Qc8 31.Raf1 cxb4 32.axb4 a5 33.Kxh3 axb4 34.cxb4 Nd4 35.Ba2 Nxf3  
+36.Rxf3 Rxf3+ 37.Rxf3 Bxg4+ 38.Kg3 Bxf3 39.Kxf3 Qh3+ 40.Ke2 Rf8 0-1 

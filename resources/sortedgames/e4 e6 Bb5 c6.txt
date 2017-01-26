@@ -1,0 +1,17 @@
+ 
+[Event "9. Valley"] 
+[Site "Saint Vincent ITA"] 
+[Date "2001.02.06"] 
+[Round "4"] 
+[White "Rossi, Carlo"] 
+[Black "Castaldo, Folco"] 
+[Result "1-0"] 
+[WhiteElo "2418"] 
+[BlackElo "2283"] 
+[ECO "C00"] 
+[EventDate "2001.02.03"] 
+ 
+1.e4 e6 2.Bb5 c6 3.Ba4 d5 4.d4 Nf6 5.e5 Nfd7 6.Nf3 c5 7.O-O Nc6 8.c4 Nb6  
+9.cxd5 Nxd5 10.Nc3 Be7 11.Qe2 O-O 12.dxc5 Qa5 13.Bc2 Nxc3 14.bxc3 Qxc3 15. 
+Rb1 Nd4 16.Nxd4 Qxd4 17.Rb3 f5 18.exf6 Qxf6 19.Bb2 Qf7 20.Rh3 h6 21.Rg3 g5 
+22.Rf3 Qe8 23.Qe5 1-0 

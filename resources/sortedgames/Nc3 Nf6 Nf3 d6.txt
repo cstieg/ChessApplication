@@ -1,0 +1,20 @@
+ 
+[Event "5. HIT Open"] 
+[Site "Nova Gorica SLO"] 
+[Date "2000.02.05"] 
+[Round "5"] 
+[White "Mestrovic, Zvonimir"] 
+[Black "Nikolov, S."] 
+[Result "0-1"] 
+[WhiteElo "2456"] 
+[BlackElo "2376"] 
+[ECO "A00"] 
+[EventDate "2000.02.01"] 
+ 
+1.Nc3 Nf6 2.Nf3 d6 3.g3 c6 4.Bg2 e5 5.O-O Be7 6.d4 Nbd7 7.d5 O-O 8.a4 cxd5 
+9.Nxd5 Nxd5 10.Qxd5 Nf6 11.Qd1 Bd7 12.c4 Rc8 13.b3 Bc6 14.Ba3 Re8 15.Bh3  
+Rc7 16.Ra2 Bf8 17.Qa1 Ne4 18.Bg2 f5 19.Rd1 Qf6 20.Nd2 Ng5 21.Nf3 Ne4 22. 
+Nd2 Rf7 23.Nxe4 fxe4 24.e3 Qg6 25.Rad2 Re6 26.Qb1 Ref6 27.Qc2 b6 28.b4 h5  
+29.b5 Bb7 30.a5 h4 31.a6 Ba8 32.Bb4 hxg3 33.hxg3 Rc7 34.Qa2 Kh7 35.Bf1  
+Rcf7 36.Qa3 Qh5 37.Qb3 Rh6 38.Bg2 Qh2+ 39.Kf1 Qxg3 40.Qc2 Rg6 41.Bxe4 Qg1+ 
+42.Ke2 Qxf2+ 43.Kd3 Bxe4+ 44.Kxe4 Qf5+ 45.Kd5 e4+ 0-1 

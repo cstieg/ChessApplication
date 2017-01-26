@@ -1,0 +1,16 @@
+ 
+[Event "21. Czech GM Open"] 
+[Site "Pardubice CZE"] 
+[Date "2010.07.26"] 
+[Round "4"] 
+[White "Schuh, Dirk"] 
+[Black "Haba, Petr"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2336"] 
+[BlackElo "2512"] 
+[ECO "B00"] 
+[EventDate "2010.07.23"] 
+ 
+1.e4 Nc6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 h6 5.d4 Bf5 6.Bd3 e6 7.O-O Bxe4 8.Bxe4 
+Nf6 9.Bd3 Bd6 10.Ne5 O-O 11.Qf3 Re8 12.Qg3 Nh5 13.Qg4 Nf6 14.Qg3 Nh5 15. 
+Qg4 Nf6 16.Qg3 1/2-1/2 

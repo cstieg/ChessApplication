@@ -1,0 +1,18 @@
+ 
+[Event "Gent BEL, 37. Taminco Open"] 
+[Site "Gent BEL"] 
+[Date "2014.07.19"] 
+[Round "1.6"] 
+[White "Otte, Marco"] 
+[Black "Ernst, Thomas"] 
+[Result "0-1"] 
+[WhiteElo "2226"] 
+[BlackElo "2364"] 
+[ECO "A00"] 
+[EventDate "2014.07.19"] 
+ 
+1.b4 Nf6 2.e3 g6 3.Bb2 Bg7 4.c4 d6 5.Nf3 O-O 6.Nc3 e5 7.Qc2 b6 8.d4 exd4  
+9.Nxd4 Bb7 10.Nf3 Bxf3 11.gxf3 Nc6 12.a3 a5 13.b5 Ne5 14.f4 Nf3+ 15.Ke2  
+Nh4 16.Bh3 Re8 17.Rad1 Nd7 18.Rhg1 f5 19.Nd5 Bxb2 20.Qxb2 Kf7 21.Rg5 Nf6  
+22.Qd2 Ne4 23.Qd4 Nxg5 24.fxg5 Re4 25.Qd3 Qxg5 26.Nxc7 Qh5+ 27.Kf1 Rd8 28. 
+Qd5+ Kg7 29.Rd4 Re5 30.Ne6+ Kh6 31.Nxd8 Rxd5 32.cxd5 Nf3 0-1 

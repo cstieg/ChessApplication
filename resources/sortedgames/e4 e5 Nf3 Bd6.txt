@@ -1,0 +1,17 @@
+ 
+[Event "Hanoi VIE, Ch U7 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.13"] 
+[Round "3.39"] 
+[White "Nguyen, Minh Dat"] 
+[Black "Nguyen, Le Trong Nhan"] 
+[Result "1-0"] 
+[WhiteElo "2574"] 
+[BlackElo "2545"] 
+[ECO "C40"] 
+[EventDate "2012.07.12"] 
+ 
+1.e4 e5 2.Nf3 Bd6 3.Nc3 Nh6 4.Bc4 O-O 5.O-O Nc6 6.d3 Na5 7.Bg5 Qe8 8.Bb5  
+a6 9.Ba4 b6 10.h3 b5 11.Bb3 b4 12.Ne2 Nxb3 13.cxb3 a5 14.Rc1 a4 15.bxa4  
+Bb7 16.Qd2 Ba6 17.Rfd1 Rb8 18.Qc2 f6 19.Bh4 f5 20.Ng3 Bb7 21.Qb3+ Nf7 22. 
+Nxf5 Be7 23.Bxe7 d6 24.Bxf8 Qxf8 25.Rxc7 1-0 

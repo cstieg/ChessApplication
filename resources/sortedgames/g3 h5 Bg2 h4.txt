@@ -1,0 +1,21 @@
+ 
+[Event "9. Dos Hermanas Internet"] 
+[Site "Internet Chess Club INT"] 
+[Date "2008.04.04"] 
+[Round "2.3"] 
+[White "Khusnutdinov, Rustam"] 
+[Black "Andriasian, Zaven"] 
+[Result "0-1"] 
+[WhiteElo "2453"] 
+[BlackElo "2533"] 
+[ECO "A00"] 
+[EventDate "2008.04.04"] 
+ 
+1.g3 h5 2.Bg2 h4 3.e4 d6 4.d4 h3 5.Bf1 Nf6 6.Nc3 g6 7.f3 Bg7 8.Be3 c6 9. 
+Qd2 b5 10.O-O-O b4 11.Nce2 Qa5 12.Kb1 Nbd7 13.Nc1 Rb8 14.Bxh3 Nb6 15.Nb3  
+Qa4 16.Bf1 Be6 17.h4 Rh5 18.d5 cxd5 19.g4 Rh8 20.Bxb6 axb6 21.g5 Nd7 22. 
+exd5 Bf5 23.Ne2 Ra8 24.Nec1 Nc5 25.Bd3 Nxd3 26.cxd3 Kd7 27.Qe3 Rhc8 28. 
+Rhe1 e6 29.Qf4 e5 30.Qe3 Kc7 31.f4 Kb7 32.fxe5 dxe5 33.Qf3 Ka7 34.h5 Qd7  
+35.h6 Bh8 36.Ka1 Bg4 37.Qe4 Bxd1 38.Rxd1 Rc2 39.Qxb4 Rac8 40.a3 e4 41.d4  
+e3 42.Ka2 e2 43.Re1 Qxd5 44.Rxe2 Rxc1 45.Qa4+ Kb7 46.Re7+ R1c7 47.Re2 Ra8  
+48.Qb4 Ra5 49.Kb1 Rb5 50.Qf8 Qxb3 51.Qe8 0-1 

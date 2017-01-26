@@ -1,0 +1,40 @@
+ 
+[Event "TCh-NOR Open"] 
+[Site "Oslo NOR"] 
+[Date "2006.06.07"] 
+[Round "1"] 
+[White "Agdestein, Simen"] 
+[Black "Nordahl, Helge"] 
+[Result "1-0"] 
+[WhiteElo "2594"] 
+[BlackElo "2374"] 
+[ECO "A10"] 
+[EventDate "2006.06.07"] 
+ 
+1.c4 f5 2.b4 e6 3.Bb2 Nf6 4.a3 a5 5.b5 b6 6.Nf3 Bb7 7.g3 d6 8.Bg2 Be7 9. 
+O-O O-O 10.d3 Qe8 11.e4 fxe4 12.Ng5 Bd8 13.Nd2 Nbd7 14.Ngxe4 Nxe4 15.Nxe4  
+Qg6 16.Re1 Rb8 17.d4 e5 18.Rc1 Be7 19.Rc2 Kh8 20.a4 exd4 21.Bxd4 Nf6 22. 
+Nc3 Bxg2 23.Kxg2 Rbe8 24.Rce2 Qf7 25.Qd3 Bd8 26.Bxf6 Bxf6 27.Nd5 Re5 28.f4 
+Rxe2+ 29.Qxe2 h5 30.Qe6 Kh7 31.Qxf7 Rxf7 32.Re8 Rd7 33.Kf3 Kg6 34.Ke4 Kf7  
+35.Rc8 Bd8 36.f5 h4 37.Nf4 Bf6 38.Ng6 Be7 39.Nf4 d5+ 40.cxd5 Bd6 41.g4 h3  
+42.g5 Bxf4 43.Kxf4 Rxd5 44.g6+ Kf6 45.Rf8+ Ke7 46.Rf7+ Ke8 47.Rxg7 Rd4+  
+48.Kg3 Rxa4 49.f6 Ra3+ 50.Kg4 Ra1 51.Rg8+ 1-0 
+ 
+[Event "Geneve (open des maitres)"] 
+[Site "Geneva SUI"] 
+[Date "2004.01.29"] 
+[Round "6"] 
+[White "Gerber, Richard"] 
+[Black "Cherniaev, Alexander"] 
+[Result "1-0"] 
+[WhiteElo "2415"] 
+[BlackElo "2496"] 
+[ECO "A10"] 
+ 
+1.c4 f5 2.b4 e6 3.Bb2 Nf6 4.b5 b6 5.Nf3 Bb7 6.e3 Be7 7.Be2 O-O 8.d3 c5 9. 
+Nbd2 Qe8 10.h3 d6 11.Ng5 Bd8 12.Bf3 d5 13.h4 Nbd7 14.Qb3 Bc7 15.a4 Ne5 16. 
+a5 bxa5 17.Bxe5 Bxe5 18.Rxa5 Bc7 19.Ra2 Qd7 20.Ke2 Bb6 21.Rc1 Rac8 22.Nh3  
+Qf7 23.Nf4 Rcd8 24.Qb1 Nd7 25.Nb3 Ba8 26.Qa1 dxc4 27.dxc4 e5 28.Bxa8 Rxa8  
+29.Nd5 Qh5+ 30.f3 Qxh4 31.Nxb6 Nxb6 32.Rxa7 Qg3 33.Kf1 Rad8 34.Rb7 Rd6 35. 
+Qa7 Rfd8 36.Rb8 Nxc4 37.Rxd8+ Rxd8 38.Qxc5 Nb2 39.Qe7 Rf8 40.Qe6+ Kh8 41. 
+Rc8 1-0 

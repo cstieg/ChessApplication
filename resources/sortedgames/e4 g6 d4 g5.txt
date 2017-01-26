@@ -1,0 +1,16 @@
+ 
+[Event "6. ECCW"] 
+[Site "Belgrade SRB"] 
+[Date "2001.09.21"] 
+[Round "6"] 
+[White "Bojkovic, Natasa"] 
+[Black "Benderac, Ana"] 
+[Result "1-0"] 
+[WhiteElo "2452"] 
+[BlackElo "2276"] 
+[ECO "B06"] 
+[EventDate "2001.09.16"] 
+ 
+1.e4 g6 2.d4 g5 3.Nc3 d6 4.Be3 e5 5.dxe5 dxe5 6.Qxd8+ Kxd8 7.Rd1+ Nd7 8. 
+Bc4 f6 9.f4 Bh6 10.Nh3 c6 11.Rf1 Kc7 12.Bg1 Ne7 13.Bb3 b6 14.fxe5 Ba6 15. 
+e6 Ne5 16.Rxf6 Rhf8 17.Bd4 Ng4 18.Rf7 Rxf7 19.exf7 Rf8 20.Nf2 1-0 

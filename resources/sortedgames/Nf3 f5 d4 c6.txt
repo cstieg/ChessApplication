@@ -1,0 +1,38 @@
+ 
+[Event "Belgrade Premier League"] 
+[Site "Belgrade SRB"] 
+[Date "2015.09.29"] 
+[Round "8.4"] 
+[White "Cvetkovic, Srdjan"] 
+[Black "Svicevic, Rastko"] 
+[Result "1-0"] 
+[WhiteElo "2351"] 
+[BlackElo "2290"] 
+[ECO "A80"] 
+[EventDate "2015.09.21"] 
+ 
+1.Nf3 f5 2.d4 c6 3.g3 Nf6 4.Bg2 e6 5.O-O d5 6.b3 b5 7.c4 Bd6 8.Ba3 b4 9. 
+Bb2 a5 10.Nbd2 O-O 11.Ne5 Qe7 12.Qc2 Bb7 13.Nd3 Nbd7 14.c5 Bc7 15.a3 bxa3  
+16.Rxa3 e5 17.Nxe5 Nxe5 18.dxe5 Ne4 19.Nxe4 fxe4 20.Qc3 Rf5 21.f4 exf3 22. 
+Rxf3 d4 1-0 
+ 
+[Event "3. Llucmajor Open 2014"] 
+[Site "Llucmajor ESP"] 
+[Date "2014.05.14"] 
+[Round "5.6"] 
+[White "Granda Zuniga, Julio E"] 
+[Black "Galiana Salom, Juan Ramon"] 
+[Result "1-0"] 
+[WhiteElo "2675"] 
+[BlackElo "2245"] 
+[ECO "A80"] 
+[EventDate "2014.05.11"] 
+ 
+1.Nf3 f5 2.d4 c6 3.Nc3 Nf6 4.Bg5 Ne4 5.Nxe4 fxe4 6.Nd2 Qa5 7.Bf4 d6 8.e3  
+Nd7 9.Bc4 Nf6 10.O-O g5 11.b4 Qf5 12.Bg3 Be6 13.Be2 h5 14.f3 h4 15.fxe4  
+Qg6 16.Be1 g4 17.Bd3 Qh6 18.Qe2 Bg7 19.c4 Bf7 20.c5 dxc5 21.bxc5 Bh5 22.g3 
+O-O 23.Rb1 Rab8 24.Nc4 Nd7 25.e5 Rf3 26.gxh4 Rxf1+ 27.Qxf1 b5 28.cxb6 axb6 
+29.Qf4 b5 30.Nd2 Nb6 31.Qg5 Ra8 32.Bc2 Bf7 33.Bb3 Bxb3 34.axb3 Nd5 35.Rc1  
+Nxe3 36.Ne4 Nf5 37.Bf2 Rf8 38.Rc3 Qe6 39.Nc5 Qf7 40.Qxg4 Ne3 41.Qe6 Nd5  
+42.Rf3 Qxe6 43.Rxf8+ Bxf8 44.Nxe6 Bh6 45.Kg2 Bd2 46.Kf3 Ba5 47.Ke4 Bb6 48. 
+Kf5 1-0 

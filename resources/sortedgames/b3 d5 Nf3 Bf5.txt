@@ -1,0 +1,15 @@
+ 
+[Event "Open A"] 
+[Site "Djakovo CRO"] 
+[Date "2006.05.03"] 
+[Round "6"] 
+[White "Kovacevic, Blazimir"] 
+[Black "Cebalo, Miso"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2468"] 
+[BlackElo "2506"] 
+[ECO "A06"] 
+[EventDate "2006.04.30"] 
+ 
+1.b3 d5 2.Nf3 Bf5 3.Bb2 e6 4.g3 h6 5.Bg2 Nf6 6.O-O Be7 7.c4 c6 8.d4 O-O 9. 
+Nc3 Nbd7 10.Nd2 Rc8 11.e4 dxe4 12.Ndxe4 Nxe4 13.Nxe4 1/2-1/2 

@@ -1,0 +1,151 @@
+ 
+[Event "31. ECC Open 2015"] 
+[Site "Skopje MKD"] 
+[Date "2015.10.19"] 
+[Round "2.18"] 
+[White "Bednarich, Jan"] 
+[Black "Boidman, Yuri"] 
+[Result "1-0"] 
+[WhiteElo "2248"] 
+[BlackElo "2339"] 
+[ECO "A53"] 
+[EventDate "2015.10.18"] 
+ 
+1.c4 c6 2.d4 d6 3.Nf3 Nf6 4.Nc3 Nbd7 5.Bg5 h6 6.Bh4 e5 7.e3 Be7 8.Qc2 O-O  
+9.O-O-O Qc7 10.g4 exd4 11.exd4 d5 12.Bg3 Qa5 13.h3 dxc4 14.Bxc4 Nb6 15.Bb3 
+Nbd5 16.Rhe1 Nxc3 17.bxc3 Nd5 18.Rd3 Ba3+ 19.Kb1 f5 20.Ne5 fxg4 21.hxg4  
+Re8 22.Rde3 Qd8 23.Qg6 Be6 24.Nxc6 bxc6 25.Rxe6 Rxe6 26.Rxe6 Nxc3+ 27.Kc2  
+Nd5 28.Be5 Qd7 29.Rxc6 Bf8 30.Rc7 Rc8 31.Rxc8 Qxc8+ 32.Kd1 Qb7 33.Qe6+ Kh8 
+34.Qxd5 Qa6 1-0 
+ 
+[Event "ECF Counties Finals 2014"] 
+[Site "Warwick ENG"] 
+[Date "2014.07.12"] 
+[Round "1.3"] 
+[White "Ledger, Andrew J"] 
+[Black "Eden, Tomer"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2391"] 
+[BlackElo "2207"] 
+[ECO "A55"] 
+[EventDate "2014.07.12"] 
+ 
+1.c4 c6 2.d4 d6 3.Nc3 e5 4.Nf3 Nd7 5.g3 Ngf6 6.Bg2 Be7 7.O-O O-O 8.e4 Re8  
+9.h3 a6 10.d5 Bf8 11.Ne1 cxd5 12.cxd5 b5 13.Nc2 Nc5 14.Re1 Bd7 15.b4 Na4  
+16.Nxa4 bxa4 17.Na3 Qb8 18.Bd2 Rc8 19.Bf1 Be7 20.Qe2 Bd8 21.Rac1 Ne8 22. 
+Nc4 Ra7 23.Qe3 Rac7 24.Qa3 Bb5 25.Ne3 Rxc1 26.Rxc1 Bb6 27.Bxb5 axb5 28. 
+Rxc8 Qxc8 29.Qd3 Qd7 30.Kg2 g6 31.Qc2 Qc7 32.Qc6 Qxc6 33.dxc6 Nc7 34.Nd5  
+Nxd5 35.exd5 Kg7 36.Be3 Bd8 1/2-1/2 
+ 
+[Event "TATA 50. ch-National Premier"] 
+[Site "Kolkata IND"] 
+[Date "2012.10.05"] 
+[Round "5.14"] 
+[White "Sethuraman, S P"] 
+[Black "Abhilash, Reddy M L"] 
+[Result "1-0"] 
+[WhiteElo "2553"] 
+[BlackElo "2242"] 
+[ECO "A55"] 
+[EventDate "2012.10.01"] 
+ 
+1.c4 c6 2.d4 d6 3.Nf3 Nd7 4.Nc3 e5 5.e4 Ngf6 6.g3 Be7 7.Bg2 a6 8.a4 a5 9. 
+O-O O-O 10.h3 Re8 11.Be3 exd4 12.Nxd4 Bf8 13.Qc2 Nc5 14.Rad1 Qc7 15.f4  
+Nfd7 16.g4 Na6 17.Qf2 Ndc5 18.g5 Nb4 19.Qg3 Bd7 20.f5 Nbd3 21.Nf3 g6 22. 
+Nh2 Ne5 23.Bxc5 dxc5 24.Ng4 Bg7 25.Nf6+ Bxf6 26.gxf6 Qd8 27.Rd6 b6 28.fxg6 
+fxg6 29.f7+ Nxf7 30.Rxg6+ hxg6 31.Qxg6+ Kh8 32.Rxf7 1-0 
+ 
+[Event "TCh-UKR Clubs 2011"] 
+[Site "Alushta UKR"] 
+[Date "2011.05.16"] 
+[Round "4.2"] 
+[White "Biriukov, Nikolai"] 
+[Black "Sitnikov, Anton"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2426"] 
+[BlackElo "2496"] 
+[ECO "A40"] 
+[EventDate "2011.05.13"] 
+ 
+1.c4 c6 2.d4 d6 3.e4 Nd7 4.Nc3 e5 5.Nge2 Be7 6.g3 h5 7.h4 Nb6 8.Qd3 Nf6 9. 
+d5 Nfd7 10.Be3 cxd5 11.exd5 O-O 12.O-O-O f5 13.f3 e4 14.fxe4 Ne5 15.Qc2  
+Nbxc4 16.Bd4 fxe4 17.Nf4 Bf5 18.Ne6 Nd3+ 19.Rxd3 exd3 20.Bxd3 Bxe6 21.dxe6 
+Ne5 22.Bxe5 dxe5 23.Qe2 Qd4 24.Rd1 Qg4 25.Nd5 Rac8+ 26.Kb1 Qxe6 27.Qe4 Rf2 
+28.Qh7+ Kf8 29.Qh8+ Kf7 30.Qxh5+ Kf8 31.Qh8+ Kf7 32.Qh5+ Kf8 33.Qh8+ Kf7  
+1/2-1/2 
+ 
+[Event "It \"] 
+[Site "Ilyichevsk UKR"] 
+[Date "2006.07.25"] 
+[Round "6"] 
+[White "Makarov V (MDA)"] 
+[Black "Kalinin, Mikolaj"] 
+[Result "1-0"] 
+[WhiteElo "2272"] 
+[BlackElo "2247"] 
+[ECO "A42"] 
+ 
+1.c4 c6 2.d4 d6 3.Nc3 g6 4.e4 Bg7 5.Be3 Nf6 6.Be2 Nbd7 7.Nf3 O-O 8.O-O a6  
+9.b4 a5 10.b5 c5 11.Rc1 b6 12.d5 Ne8 13.Qd2 e5 14.dxe6 fxe6 15.Bf4 Qe7 16. 
+Rfd1 Bxc3 17.Rxc3 Ndf6 18.Re3 e5 19.Bh6 Bb7 20.Bxf8 Qxf8 21.Bd3 Ng7 22.Bc2 
+Nfe8 23.Ng5 Nh5 24.Rf3 Nhf6 25.Rh3 h6 26.Ne6 Qe7 27.Qxh6 Qxe6 28.Qxg6+ Kf8 
+29.Rh7 Bc8 30.Qh6+ Kg8 31.Rxd6 Qg4 32.Rh8+ Kf7 33.Qf8+ Kg6 34.Rxf6+ Nxf6  
+35.Rh6+ 1-0 
+ 
+[Event "Sunny Pawn B"] 
+[Site "Illichevsk UKR"] 
+[Date "2006.07.25"] 
+[Round "6"] 
+[White "Makarov, Vladimir MDA"] 
+[Black "Kalinin, Mikolaj"] 
+[Result "1-0"] 
+[WhiteElo "2272"] 
+[BlackElo "2247"] 
+[ECO "A42"] 
+[EventDate "2006.07.20"] 
+ 
+1.c4 c6 2.d4 d6 3.Nc3 g6 4.e4 Bg7 5.Be3 Nf6 6.Be2 Nbd7 7.Nf3 O-O 8.O-O a6  
+9.b4 a5 10.b5 c5 11.Rc1 b6 12.d5 Ne8 13.Qd2 e5 14.dxe6 fxe6 15.Bf4 Qe7 16. 
+Rfd1 Bxc3 17.Rxc3 Ndf6 18.Re3 e5 19.Bh6 Bb7 20.Bxf8 Qxf8 21.Bd3 Ng7 22.Bc2 
+Nfe8 23.Ng5 Nh5 24.Rf3 Nhf6 25.Rh3 h6 26.Ne6 Qe7 27.Qxh6 Qxe6 28.Qxg6+ Kf8 
+29.Rh7 Bc8 30.Qh6+ Kg8 31.Rxd6 Qg4 32.Rh8+ Kf7 33.Qf8+ Kg6 34.Rxf6+ Nxf6  
+35.Rh6+ 1-0 
+ 
+[Event "Pernik BUL, Grigorov Memorial 2003"] 
+[Site "Pernik"] 
+[Date "2003.12.13"] 
+[Round "5"] 
+[White "Tsvetkov, Ilia"] 
+[Black "Kukov, Velislav"] 
+[Result "1-0"] 
+[WhiteElo "2307"] 
+[BlackElo "2239"] 
+[ECO "A55"] 
+[EventDate "2003.12.12"] 
+ 
+1.c4 c6 2.d4 d6 3.Nf3 Nf6 4.g3 Nbd7 5.Nc3 e5 6.e4 Be7 7.Bg2 O-O 8.O-O a6  
+9.Qc2 Re8 10.Rd1 Qc7 11.h3 Rb8 12.Be3 b6 13.Rac1 Bb7 14.b4 Rbd8 15.a3 Qb8  
+16.d5 c5 17.Nd2 Bf8 18.bxc5 Nxc5 19.Rb1 Qc7 20.Rb2 Rb8 21.Rdb1 Nfd7 22.Na4 
+Nxa4 23.Qxa4 b5 24.cxb5 axb5 25.Rxb5 Ra8 26.Rxb7 Qxb7 27.Rxb7 Rxa4 28.Rxd7 
+Rxa3 29.Nc4 Ra1+ 30.Kh2 Ra6 31.Bf1 g6 32.Kg2 f6 33.Nxe5 Ra2 34.Ng4 Bg7 35. 
+Bh6 Bxh6 36.Nxh6+ Kh8 37.Nf7+ Kg8 38.Nxd6 1-0 
+ 
+[Event "Chess Summer IM"] 
+[Site "Aarhus DEN"] 
+[Date "2002.07.11"] 
+[Round "7"] 
+[White "Hanley, Craig A"] 
+[Black "Holst, Allan"] 
+[Result "1-0"] 
+[WhiteElo "2331"] 
+[BlackElo "2390"] 
+[ECO "A40"] 
+[EventDate "2002.07.05"] 
+ 
+1.c4 c6 2.d4 d6 3.Nc3 e5 4.g3 Nf6 5.Bg2 Be7 6.e4 O-O 7.Nge2 a6 8.a4 exd4  
+9.Nxd4 a5 10.O-O Na6 11.h3 Re8 12.g4 Bf8 13.g5 Nd7 14.b3 Nb4 15.Be3 Nc5  
+16.Qh5 g6 17.Qh4 Bg7 18.Rad1 Qe7 19.f4 f5 20.gxf6 Bxf6 21.Qg3 Qg7 22.Bf2  
+Bd7 23.Nde2 Qe7 24.Bxc5 dxc5 25.e5 Bg7 26.Ne4 Be6 27.Rd6 b6 28.Rfd1 Rad8  
+29.Qg5 Rxd6 30.Rxd6 Bf5 31.Qxe7 Rxe7 32.Rd8+ Bf8 33.N2g3 Be6 34.Nf6+ Kg7  
+35.Nge4 h6 36.Nd6 b5 37.axb5 cxb5 38.cxb5 Bxb3 39.b6 c4 40.b7 Na6 41.b8=Q  
+Nxb8 42.Rxb8 Ra7 43.Nde8+ Kh8 44.Bd5 a4 45.Nc7 1-0 

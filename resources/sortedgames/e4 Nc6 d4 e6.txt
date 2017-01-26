@@ -1,0 +1,93 @@
+ 
+[Event "SLO Ch"] 
+[Site "Ljubljana SLO"] 
+[Date "2008.08.19"] 
+[Round "3"] 
+[White "Crepan, Marjan"] 
+[Black "Mohr, Georg"] 
+[Result "0-1"] 
+[WhiteElo "2363"] 
+[BlackElo "2494"] 
+[ECO "B00"] 
+[EventDate "2008.08.17"] 
+ 
+1.e4 Nc6 2.d4 e6 3.Nf3 d5 4.e5 f6 5.c3 Nh6 6.Bd3 Nf7 7.Nbd2 fxe5 8.dxe5  
+Ncxe5 9.Nxe5 Nxe5 10.Qh5+ Nf7 11.Bxh7 g6 12.Qxg6 Qe7 13.Nf3 Kd7 14.Bg8 Nd8 
+15.Ne5+ Kd6 16.Bf4 Kc5 17.Be3+ Kd6 18.Qg3 Rxg8 19.Qf4 Nc6 20.b4 Nxe5 21. 
+Bc5+ Kd7 22.Qxe5 Qg7 23.Qxg7+ Bxg7 24.Rc1 Bh6 25.Rc2 Rxg2 26.h4 b6 27.Bd4  
+Ba6 28.Kd1 Rag8 0-1 
+ 
+[Event "WSB Masters"] 
+[Site "Wroclaw POL"] 
+[Date "2006.04.28"] 
+[Round "3"] 
+[White "Fatianova, Tatiana"] 
+[Black "Markosian, David S"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2237"] 
+[BlackElo "2397"] 
+[ECO "B00"] 
+[EventDate "2006.04.27"] 
+ 
+1.e4 Nc6 2.d4 e6 3.Be3 d5 4.Nc3 Bb4 5.e5 Nge7 6.Bd3 Nf5 7.Bxf5 exf5 8.Qf3  
+Be6 9.Ne2 Qd7 10.a3 Be7 11.Nf4 O-O-O 1/2-1/2 
+ 
+[Event "Cup of STEK (cat.3)"] 
+[Site "Tula RUS"] 
+[Date "2002.??.??"] 
+[Round "11"] 
+[White "Tahirov, Farhad"] 
+[Black "Sosulin, Eduard"] 
+[Result "1-0"] 
+[WhiteElo "2363"] 
+[BlackElo "2311"] 
+[ECO "B00"] 
+ 
+1.e4 Nc6 2.d4 e6 3.c4 d5 4.exd5 exd5 5.Nf3 Nf6 6.Nc3 Be6 7.c5 Be7 8.Bb5  
+O-O 9.Bxc6 bxc6 10.Ne5 Qe8 11.O-O Ne4 12.Qa4 Nxc3 13.bxc3 Bf6 14.Bf4 a5  
+15.Qxc6 Qxc6 16.Nxc6 Ra6 17.Ne5 g5 18.Bg3 Bf5 19.h3 h5 20.Bh2 Re8 21.Rae1  
+Rae6 22.Re3 Bg7 23.Rfe1 Be4 24.c4 Rd8 25.Kf1 f5 26.Nf3 dxc4 27.Bxc7 Rxd4  
+28.Nxg5 Bd3+ 29.Kg1 Rxe3 30.Rxe3 Bf6 31.Bxa5 Bxg5 32.Rg3 h4 33.Rxg5+ Kf7  
+34.Bc3 Rd5 35.c6 Ke7 36.Bd2 Kf7 37.c7 Rc5 38.Bc3 Ke6 39.Rg7 f4 40.a4 Be4  
+41.Bb4 Rc6 42.Re7+ Kf6 43.Rxe4 c3 44.Rxf4+ Ke5 45.Rf7 c2 46.Ba3 Ke6 47.Rh7 
+Kf5 48.Bc1 1-0 
+ 
+[Event "TCh-POR Div 1 Final"] 
+[Site "Matosinhos POR"] 
+[Date "2012.07.27"] 
+[Round "7.1.1"] 
+[White "Vasques, Antonio Pedro Freixial"] 
+[Black "Rocha, Sergio"] 
+[Result "0-1"] 
+[WhiteElo "2214"] 
+[BlackElo "2404"] 
+[ECO "C10"] 
+[EventDate "2012.06.21"] 
+ 
+1.e4 Nc6 2.d4 e6 3.Nf3 d5 4.Nc3 Nf6 5.Bg5 Bb4 6.e5 h6 7.Bd2 Ne4 8.Nxe4  
+dxe4 9.Bxb4 Nxb4 10.Nd2 Qxd4 11.c3 Nd3+ 12.Bxd3 Qxd3 13.Qe2 Bd7 14.Qxe4  
+Qxe4+ 15.Nxe4 Bc6 16.Nd2 Rd8 17.Ke2 Ke7 18.Rhd1 Rd5 19.f4 Rhd8 20.Nf3 Rxd1 
+21.Rxd1 Bxf3+ 22.gxf3 Rxd1 23.Kxd1 Kf8 24.Kd2 Kg8 25.Kd3 Kh7 26.a4 Kg6 27. 
+Ke4 Kh5 28.Ke3 Kh4 29.Kf2 Kh3 30.Kg1 c5 31.b4 c4 32.a5 a6 33.Kh1 g6 34.Kg1 
+g5 35.fxg5 hxg5 36.Kh1 g4 37.fxg4 Kxg4 38.Kg2 Kf4 39.Kf2 Kxe5 40.Ke3 f5  
+41.h4 f4+ 42.Kf3 Kf5 43.h5 e5 44.h6 e4+ 45.Kf2 Kg6 0-1 
+ 
+[Event "FSGM August"] 
+[Site "Budapest HUN"] 
+[Date "2001.08.12"] 
+[Round "9"] 
+[White "Breder, Dennis"] 
+[Black "Drazic, Sinisa"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2411"] 
+[BlackElo "2480"] 
+[ECO "C04"] 
+[EventDate "2001.08.04"] 
+ 
+1.e4 Nc6 2.d4 e6 3.Nf3 d5 4.Nbd2 Nf6 5.e5 Ne4 6.c3 f6 7.exf6 Nxf6 8.Ne5  
+Bd6 9.f4 O-O 10.Bd3 Bd7 11.O-O Be8 12.Qe1 Bxe5 13.fxe5 Nd7 14.Nf3 Bh5 15. 
+Ng5 Rxf1+ 16.Qxf1 Nf8 17.g4 Bxg4 18.Qf7+ Kh8 19.h3 Bf5 20.Qxf5 exf5 21. 
+Nf7+ Kg8 22.Nxd8 Nxd8 23.Bxf5 Nde6 24.Be3 Rd8 25.Rf1 c6 26.Bg4 Rd7 27.Kg2  
+Rf7 28.Rxf7 Kxf7 29.Kg3 Ng6 30.h4 Ne7 31.Bg5 Nf8 32.Bh5+ g6 33.Bg4 h6 34. 
+Bd2 Nd7 35.Bxh6 Nf5+ 36.Bxf5 gxf5 37.h5 Kg8 38.Kh4 Kh7 39.Bd2 Kg7 40.Be3  
+Kh7 1/2-1/2 

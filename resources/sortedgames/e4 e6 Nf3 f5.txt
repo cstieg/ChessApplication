@@ -1,0 +1,16 @@
+ 
+[Event "Texas Collegiate 2013"] 
+[Site "Houston, TX USA"] 
+[Date "2013.11.09"] 
+[Round "2"] 
+[White "Zherebukh, Yaroslav"] 
+[Black "Cornejo, Max"] 
+[Result "1-0"] 
+[WhiteElo "2611"] 
+[BlackElo "2364"] 
+[ECO "C00"] 
+[EventDate "2013.11.08"] 
+ 
+1.e4 e6 2.Nf3 f5 3.Ne5 Nf6 4.Nc4 c6 5.Nc3 Be7 6.d4 d6 7.Bd3 Qc7 8.Ne3 e5  
+9.O-O fxe4 10.Qf3 exf3 11.Rb1 Nbd7 12.Bd2 Nb6 13.Ng4 Bd7 14.g3 g6 15.h4 h5 
+16.Ne4 Kf7 17.Nxd6+ Qxd6 1-0 

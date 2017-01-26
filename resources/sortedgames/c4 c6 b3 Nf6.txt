@@ -1,0 +1,42 @@
+ 
+[Event "4. ch-Vojvodina Int"] 
+[Site "Novi Sad SRB"] 
+[Date "2013.06.29"] 
+[Round "3.10"] 
+[White "Ilijc, Milan"] 
+[Black "Blazeka, Matej"] 
+[Result "0-1"] 
+[WhiteElo "2205"] 
+[BlackElo "2300"] 
+[ECO "A12"] 
+[EventDate "2013.06.28"] 
+ 
+1.c4 c6 2.b3 Nf6 3.Bb2 d5 4.Nf3 Bf5 5.g3 e6 6.Bg2 Nbd7 7.O-O h6 8.d3 Be7  
+9.Nc3 O-O 10.Rc1 Bh7 11.Qd2 Re8 12.h3 Qb6 13.g4 dxc4 14.bxc4 e5 15.Qc2 e4  
+16.dxe4 Nxe4 17.Nxe4 Bxe4 18.Qxe4 Qxb2 19.Rc2 Qf6 20.Qd4 Nc5 21.e3 Rad8  
+22.Qb2 Qxb2 23.Rxb2 Bf6 24.Rc2 a5 25.Rb1 a4 26.Kf1 a3 27.Nd2 Bb2 28.Rbxb2  
+axb2 29.Rxb2 Ra8 30.Nb3 Nxb3 31.axb3 Ra1+ 32.Ke2 Rea8 33.Rd2 R8a2 34.Be4  
+Rxd2+ 35.Kxd2 Ra2+ 36.Bc2 Kf8 37.h4 g6 38.Kc3 Kg7 0-1 
+ 
+[Event "Politiken Cup"] 
+[Site "Copenhagen DEN"] 
+[Date "2001.07.20"] 
+[Round "6"] 
+[White "Jacobsen, Bo"] 
+[Black "Hoi, Carsten"] 
+[Result "0-1"] 
+[WhiteElo "2274"] 
+[BlackElo "2407"] 
+[ECO "A11"] 
+[EventDate "2001.07.16"] 
+ 
+1.c4 c6 2.b3 Nf6 3.Bb2 g6 4.Nf3 Bg7 5.g3 O-O 6.Bg2 d6 7.d4 Bf5 8.Nh4 Bxb1  
+9.Qxb1 Qa5+ 10.Kf1 Nbd7 11.Nf3 d5 12.Bh3 e6 13.Kg2 Ne4 14.Rc1 f5 15.Kg1  
+Qc7 16.Qd3 g5 17.Bg2 g4 18.Nd2 Bh6 19.Bc3 Ndf6 20.Rc2 Bg7 21.Nf1 h5 22.Bd2 
+Nxd2 23.Nxd2 Ne4 24.b4 Qb6 25.Nb3 Qxb4 26.Rb1 a5 27.e3 a4 28.Nd2 Qe7 29. 
+Rcb2 Ra7 30.Rb4 Rf7 31.c5 e5 32.a3 h4 33.Bxe4 fxe4 34.Qe2 exd4 35.exd4 Qg5 
+36.Nf1 hxg3 37.hxg3 Bf6 38.Ne3 Rg7 39.Kg2 Qg6 40.Rh1 Ra8 41.Qd1 Rf8 42.Rb2 
+Bd8 43.Qxa4 Bg5 44.Nxg4 Qf5 45.Qd1 Bc1 46.Nh6+ Bxh6 47.Rxh6 Qf3+ 48.Qxf3  
+Rxf3 49.Rd6 Rxa3 50.Rd8+ Kh7 51.Rb8 Ra7 52.Rb3 Rf7 53.g4 Kg7 54.Kg3 Ra2  
+55.f3 exf3 56.R8xb7 Rg2+ 57.Kh3 Rxb7 58.Rxb7+ Kg6 59.Rb3 Rd2 60.Rxf3 Rxd4  
+0-1 

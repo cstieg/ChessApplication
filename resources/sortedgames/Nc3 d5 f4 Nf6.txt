@@ -1,0 +1,75 @@
+ 
+[Event "Podgorica MNE, Semi-final 2014"] 
+[Site "Podgorica MNE"] 
+[Date "2014.07.26"] 
+[Round "4"] 
+[White "Kontic, Djordjije"] 
+[Black "Draganic, Veljko"] 
+[Result "0-1"] 
+[WhiteElo "2351"] 
+[BlackElo "2263"] 
+[ECO "A00"] 
+[EventDate "2014.07.24"] 
+ 
+1.Nc3 d5 2.f4 Nf6 3.d3 c5 4.Nf3 Nc6 5.g3 g6 6.Bg2 Bg7 7.O-O O-O 8.h3 d4 9. 
+Na4 Qd6 10.e4 e5 11.b4 cxb4 12.fxe5 Nxe5 13.Nxe5 Qxe5 14.a3 bxa3 15.Rxa3  
+Be6 16.Bf4 Qa5 17.Bd2 Qc7 18.Bf4 Qe7 19.Qa1 Rac8 20.Rf2 Nh5 21.Nb2 a6 22. 
+Ra5 h6 23.Na4 Nxf4 24.gxf4 Qb4 25.Nb2 Rc5 26.Ra4 Qb6 27.Qa3 Qc7 28.Rb4  
+Rxc2 29.Rxc2 Qxc2 30.Nc4 b5 31.Nd6 Qc3 32.Qb2 Qe1+ 33.Kh2 Qe3 0-1 
+ 
+[Event "XXXV Open"] 
+[Site "Seville ESP"] 
+[Date "2010.01.14"] 
+[Round "7"] 
+[White "Rivas Pastor, Manuel"] 
+[Black "Teran Alvarez, Ismael"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2531"] 
+[BlackElo "2425"] 
+[ECO "A00"] 
+[EventDate "2010.01.08"] 
+ 
+1.Nc3 d5 2.f4 Nf6 3.e3 g6 4.Nf3 Bg7 5.d4 O-O 6.b4 b6 7.b5 1/2-1/2 
+ 
+[Event "57. ch-Montenegro"] 
+[Site "Cetinje SCG"] 
+[Date "2005.07.16"] 
+[Round "9"] 
+[White "Nikac, Predrag"] 
+[Black "Miljanic, Boro"] 
+[Result "0-1"] 
+[WhiteElo "2360"] 
+[BlackElo "2435"] 
+[ECO "A00"] 
+[EventDate "2005.07.08"] 
+ 
+1.Nc3 d5 2.f4 Nf6 3.d3 d4 4.Ne4 Nc6 5.Nf3 e5 6.g3 Nxe4 7.dxe4 exf4 8.gxf4  
+Bb4+ 9.Bd2 Qe7 10.e5 f6 11.exf6 gxf6 12.Bg2 Rg8 13.Kf1 Bc5 14.a3 Bd7 15. 
+Be1 O-O-O 16.b4 Bb6 17.Qd2 Bf5 18.Bg3 Kb8 19.Rb1 Qe6 20.Nh4 Be4 21.Bxe4  
+Qxe4 22.Rg1 d3 23.cxd3 Bxg1 24.Kxg1 Qd4+ 25.Kg2 Qd5+ 26.Kf2 Rge8 27.Qc3  
+Nd4 28.Rb2 Nb5 29.Qxf6 Rd6 30.Qg7 Rd7 31.Qg4 Qd4+ 32.Kg2 Qxb2 33.Qxd7  
+Qxe2+ 34.Kh3 Qf1+ 35.Kg4 Qe2+ 36.Kh3 Qe6+ 37.Qxe6 Rxe6 38.f5 Ra6 39.a4  
+Rxa4 40.f6 Nd4 41.Nf5 Ne6 42.Ng7 Nd8 43.Kg4 Rxb4+ 44.Kf5 Rb5+ 45.Be5 a5  
+46.Ne6 Nf7 47.d4 a4 48.Nxc7 Rxe5+ 49.dxe5 Kxc7 50.e6 Nd6+ 51.Kf4 Kd8 52. 
+Ke5 Nc8 53.Kd4 a3 54.Kc3 b5 0-1 
+ 
+[Event "Ch Montenegro"] 
+[Site "Cetinje (Montenegro)"] 
+[Date "2005.07.??"] 
+[Round "9"] 
+[White "Nikac, Predrag"] 
+[Black "Miljanic, Boro"] 
+[Result "0-1"] 
+[WhiteElo "2360"] 
+[BlackElo "2435"] 
+[ECO "A00"] 
+ 
+1.Nc3 d5 2.f4 Nf6 3.d3 d4 4.Ne4 Nc6 5.Nf3 e5 6.g3 Nxe4 7.dxe4 exf4 8.gxf4  
+Bb4+ 9.Bd2 Qe7 10.e5 f6 11.exf6 gxf6 12.Bg2 Rg8 13.Kf1 Bc5 14.a3 Bd7 15. 
+Be1 O-O-O 16.b4 Bb6 17.Qd2 Bf5 18.Bg3 Kb8 19.Rb1 Qe6 20.Nh4 Be4 21.Bxe4  
+Qxe4 22.Rg1 d3 23.cxd3 Bxg1 24.Kxg1 Qd4+ 25.Kg2 Qd5+ 26.Kf2 Rge8 27.Qc3  
+Nd4 28.Rb2 Nb5 29.Qxf6 Rd6 30.Qg7 Rd7 31.Qg4 Qd4+ 32.Kg2 Qxb2 33.Qxd7  
+Qxe2+ 34.Kh3 Qf1+ 35.Kg4 Qe2+ 36.Kh3 Qe6+ 37.Qxe6 Rxe6 38.f5 Ra6 39.a4  
+Rxa4 40.f6 Nd4 41.Nf5 Ne6 42.Ng7 Nd8 43.Kg4 Rxb4+ 44.Kf5 Rb5+ 45.Be5 a5  
+46.Ne6 Nf7 47.d4 a4 48.Nxc7 Rxe5+ 49.dxe5 Kxc7 50.e6 Nd6+ 51.Kf4 Kd8 52. 
+Ke5 Nc8 53.Kd4 a3 54.Kc3 b5 0-1 

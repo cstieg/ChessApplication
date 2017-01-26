@@ -1,0 +1,37 @@
+ 
+[Event "TCh-NED 2006-7"] 
+[Site "Netherlands NED"] 
+[Date "2006.10.14"] 
+[Round "2"] 
+[White "Schmitz, Henk"] 
+[Black "Lanchava, Tea"] 
+[Result "0-1"] 
+[WhiteElo "2314"] 
+[BlackElo "2389"] 
+[ECO "B20"] 
+[EventDate "2006.09.23"] 
+ 
+1.g3 d6 2.e4 g6 3.Bg2 Bg7 4.f4 c5 5.d3 Nc6 6.Nf3 e6 7.O-O Nge7 8.c3 O-O 9. 
+Be3 Rb8 10.Re1 b5 11.d4 cxd4 12.cxd4 Bb7 13.Bf2 Rc8 14.a3 Na5 15.Bf1 a6  
+16.Nbd2 Qd7 17.b4 Nc4 18.Nxc4 bxc4 19.Rc1 d5 20.e5 Bc6 21.h4 a5 22.bxa5  
+Qa7 23.Qd2 Ra8 24.h5 Rfb8 25.g4 Rb3 26.Re3 Ba4 27.Bh4 Nc6 28.Be1 Rab8 29. 
+Rxb3 Rxb3 30.Rc3 Qxa5 31.Rxb3 Qxd2 32.Nxd2 cxb3 33.Bf2 Bf8 34.Nb1 Na7 35. 
+Nc3 b2 36.Bd3 Bb3 37.a4 Bb4 38.Nb5 Nc6 0-1 
+ 
+[Event "Ch Netherlands (team) 2006/07"] 
+[Site "NED"] 
+[Date "2006.10.14"] 
+[Round "2"] 
+[White "Schmitz H (NED)"] 
+[Black "Lanchava, Tea"] 
+[Result "0-1"] 
+[WhiteElo "2314"] 
+[BlackElo "2389"] 
+[ECO "B20"] 
+ 
+1.g3 d6 2.e4 g6 3.Bg2 Bg7 4.f4 c5 5.d3 Nc6 6.Nf3 e6 7.O-O Nge7 8.c3 O-O 9. 
+Be3 Rb8 10.Re1 b5 11.d4 cxd4 12.cxd4 Bb7 13.Bf2 Rc8 14.a3 Na5 15.Bf1 a6  
+16.Nbd2 Qd7 17.b4 Nc4 18.Nxc4 bxc4 19.Rc1 d5 20.e5 Bc6 21.h4 a5 22.bxa5  
+Qa7 23.Qd2 Ra8 24.h5 Rfb8 25.g4 Rb3 26.Re3 Ba4 27.Bh4 Nc6 28.Be1 Rab8 29. 
+Rxb3 Rxb3 30.Rc3 Qxa5 31.Rxb3 Qxd2 32.Nxd2 cxb3 33.Bf2 Bf8 34.Nb1 Na7 35. 
+Nc3 b2 36.Bd3 Bb3 37.a4 Bb4 38.Nb5 Nc6 0-1 

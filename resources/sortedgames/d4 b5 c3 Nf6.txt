@@ -1,0 +1,20 @@
+ 
+[Event "TCh-MNE Premier League"] 
+[Site "Cetinje MNE"] 
+[Date "2010.07.24"] 
+[Round "1"] 
+[White "Nikolic, N MNE"] 
+[Black "Vulevic, Vjekoslav"] 
+[Result "1-0"] 
+[WhiteElo "2386"] 
+[BlackElo "2292"] 
+[ECO "A40"] 
+[EventDate "2010.07.24"] 
+ 
+1.d4 b5 2.c3 Nf6 3.Bg5 Ne4 4.Bf4 d5 5.e3 a6 6.Bd3 Nd7 7.a4 b4 8.Bxe4 dxe4  
+9.Ne2 e6 10.Nd2 Bb7 11.Qc2 bxc3 12.bxc3 f5 13.Rb1 Ra7 14.O-O Be7 15.Qa2  
+Bd5 16.c4 Ba8 17.Bg3 h5 18.Nf4 Rh6 19.c5 Nf8 20.h4 g5 21.hxg5 Bxg5 22.Rb4  
+Bxf4 23.Bxf4 Rg6 24.Rfb1 Bd5 25.Nc4 Ra8 26.Qe2 Bxc4 27.Qxc4 h4 28.Rb7 Rc8  
+29.Qxa6 h3 30.g3 e5 31.Qb5+ Qd7 32.Bxe5 Rc6 33.Bd6 f4 34.d5 Kf7 35.Qxc6  
+Qg4 36.Qa6 fxg3 37.fxg3 h2+ 38.Kxh2 Nd7 39.Be5 Qh5+ 40.Kg1 Qxe5 41.Qe6+  
+Qxe6 42.dxe6+ Kxe6 43.Rc1 Ne5 44.Rb4 1-0 

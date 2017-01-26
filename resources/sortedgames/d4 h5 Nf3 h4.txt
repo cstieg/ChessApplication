@@ -1,0 +1,15 @@
+ 
+[Event "FSGM May"] 
+[Site "Budapest HUN"] 
+[Date "2010.05.02"] 
+[Round "2"] 
+[White "Solomon, Kenny"] 
+[Black "Papp, Gellert"] 
+[Result "1-0"] 
+[WhiteElo "2351"] 
+[BlackElo "2400"] 
+[ECO "A40"] 
+[EventDate "2010.05.01"] 
+ 
+1.d4 h5 2.Nf3 h4 3.h3 a5 4.Bg5 a4 5.Bxh4 Rxh4 6.Nxh4 e5 7.g3 e4 8.e3 a3 9. 
+b3 g5 10.Ng2 d5 11.Be2 Nc6 12.c3 Be6 13.Qd2 f5 14.g4 f4 15.exf4 1-0 

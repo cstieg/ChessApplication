@@ -1,0 +1,55 @@
+ 
+[Event "Ada Open"] 
+[Site "Belgrade SRB"] 
+[Date "2005.08.21"] 
+[Round "7"] 
+[White "Cvetkovic, Srdjan"] 
+[Black "Strbac, M."] 
+[Result "0-1"] 
+[WhiteElo "2423"] 
+[BlackElo "2248"] 
+[ECO "A87"] 
+[EventDate "2005.08.15"] 
+ 
+1.c4 f5 2.d4 d6 3.Nf3 Nf6 4.g3 g6 5.Bg2 Bg7 6.O-O O-O 7.d5 Na6 8.Nd4 Qe8  
+9.Nc3 Bd7 10.Rb1 c6 11.b3 Nc7 12.dxc6 bxc6 13.b4 e5 14.Nb3 Qe6 15.Na5 e4  
+16.Bb2 f4 17.gxf4 e3 18.Nxc6 Ng4 19.Nd5 exf2+ 20.Rxf2 Bxc6 21.Bxg7 Nxf2  
+22.Qd4 Bxd5 23.Bxf8 Rxf8 24.cxd5 Nh3+ 25.Kh1 Qg4 26.e3 Nf2+ 27.Kg1 Qh4 28. 
+Rf1 Ng4 29.h3 Nh6 30.Qxa7 Ne8 31.Qd7 Nf5 32.b5 Qg3 33.Qe6+ Kg7 34.b6 Nxe3  
+35.Rf3 Qxg2# 0-1 
+ 
+[Event "Grenoble FRA, Closed IM 2005"] 
+[Site "Grenoble FRA"] 
+[Date "2005.??.??"] 
+[Round "4.2"] 
+[White "Burnier, David"] 
+[Black "Bratanov, Zsivko"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2293"] 
+[BlackElo "2423"] 
+[ECO "A85"] 
+[EventDate "2005.06.??"] 
+ 
+1.c4 f5 2.d4 d6 3.Nc3 Nf6 4.Bg5 Nbd7 5.Qc2 g6 6.e4 fxe4 7.Nxe4 Bg7 8.Nf3  
+Nxe4 9.Qxe4 Nf6 10.Qc2 c5 11.d5 b5 12.cxb5 Nxd5 13.Qd2 Bb7 14.Bc4 Nf6 15. 
+O-O-O Qc7 16.Be6 a6 17.bxa6 Rxa6 18.Rhe1 c4 19.Qc3 Rxa2 20.Bxc4 Ra1+ 21. 
+Kc2 Rxd1 22.Bb5+ Kd8 23.Qxc7+ Kxc7 24.Rxe7+ Kb6 25.Kxd1 Bxf3+ 26.gxf3 Kxb5 
+27.Rxg7 Nd5 28.Bh6 Kc6 29.Rf7 Rb8 30.Kc1 Rb4 31.Bg5 h6 32.Bxh6 Rh4 33.Be3  
+Rxh2 34.Rg7 Rg2 35.f4 Rg4 36.Rf7 Rg1+ 1/2-1/2 
+ 
+[Event "19. Open"] 
+[Site "Reykjavik ISL"] 
+[Date "2000.04.09"] 
+[Round "5"] 
+[White "Olafsson, H."] 
+[Black "Schnabel, Ralf"] 
+[Result "1-0"] 
+[WhiteElo "2491"] 
+[BlackElo "2233"] 
+[ECO "A87"] 
+[EventDate "2000.04.05"] 
+ 
+1.c4 f5 2.d4 d6 3.Nf3 Nf6 4.g3 g6 5.Bg2 Bg7 6.b3 c6 7.Bb2 O-O 8.Qc2 Na6 9. 
+O-O Qe8 10.Nbd2 h6 11.Rfe1 g5 12.e4 fxe4 13.Nxe4 Qg6 14.Nxf6+ Qxf6 15.Qd2  
+Bg4 16.Re3 Rf7 17.h3 Bd7 18.Rae1 Bf8 19.d5 Qg6 20.Nd4 Rc8 21.Be4 Qh5 22.g4 
+Bxg4 23.hxg4 Qxg4+ 24.Rg3 Qf4 25.Qxf4 1-0 

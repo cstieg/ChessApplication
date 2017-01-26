@@ -1,0 +1,155 @@
+ 
+[Event "European Blitz 2015"] 
+[Site "Minsk BLR"] 
+[Date "2015.12.18"] 
+[Round "18.26"] 
+[White "Goganov, Aleksey"] 
+[Black "Pershin, Denis"] 
+[Result "0-1"] 
+[WhiteElo "2597"] 
+[BlackElo "2375"] 
+[ECO "A06"] 
+[EventDate "2015.12.18"] 
+ 
+1.e3 d5 2.Nf3 Nf6 3.b3 g6 4.Bb2 Bg7 5.Be2 O-O 6.O-O c5 7.d4 cxd4 8.exd4  
+Nc6 9.Na3 Bf5 10.c4 Rc8 11.Nc2 h6 12.Ne3 Be6 13.a3 b6 14.Rc1 Na5 15.c5 Ne4 
+16.b4 Nc4 17.Bxc4 dxc4 18.Ba1 bxc5 19.bxc5 Bd5 20.Nxc4 Qd7 21.Nfd2 Nxd2  
+22.Qxd2 Rfd8 23.Ne3 Bc6 24.Rfd1 e6 25.f3 Ba4 26.Re1 Bxd4 27.Bxd4 Qxd4 28. 
+Qxd4 Rxd4 29.Kf2 Kg7 30.Rc3 Bc6 31.Rd1 Rxd1 32.Nxd1 Rb8 33.Ne3 f5 34.Nc4  
+Kf6 35.f4 g5 36.Ne5 Rb2+ 37.Ke3 gxf4+ 38.Kxf4 Bd5 39.c6 Rf2+ 40.Ke3 Rxg2  
+41.c7 Rg8 42.Nd7+ Ke7 43.c8=Q Rxc8 44.Rxc8 Kxd7 45.Rh8 e5 46.Rxh6 f4+ 47. 
+Ke2 e4 48.Rf6 Bc4+ 49.Ke1 f3 50.Kf2 Ke7 51.Rf4 Bd3 52.Ke3 Ke6 53.h4 Ke5  
+54.h5 f2 55.Rxf2 0-1 
+ 
+[Event "European Blitz 2015"] 
+[Site "Minsk BLR"] 
+[Date "2015.12.18"] 
+[Round "17.26"] 
+[White "Pershin, Denis"] 
+[Black "Goganov, Aleksey"] 
+[Result "1-0"] 
+[WhiteElo "2375"] 
+[BlackElo "2597"] 
+[ECO "A06"] 
+[EventDate "2015.12.18"] 
+ 
+1.e3 d5 2.Nf3 Nf6 3.b3 g6 4.Bb2 Bg7 5.Be2 O-O 6.O-O c5 7.d4 cxd4 8.exd4  
+Nc6 9.Na3 Bf5 10.c4 Rc8 11.Nc2 h6 12.Ne3 Be6 13.a3 b6 14.Rc1 Na5 15.c5 Ne4 
+16.b4 Nc4 17.Bxc4 dxc4 18.Ba1 bxc5 19.bxc5 Bd5 20.Nxc4 Qd7 21.Nfd2 Nxd2  
+22.Qxd2 Rfd8 23.Ne3 Bc6 24.Rfd1 e6 25.f3 Ba4 26.Re1 Bxd4 27.Bxd4 Qxd4 28. 
+Qxd4 Rxd4 29.Kf2 Kg7 30.Rc3 Bc6 31.Rd1 Rxd1 32.Nxd1 Rb8 33.Ne3 f5 34.Nc4  
+Kf6 35.f4 g5 36.Ne5 Rb2+ 37.Ke3 gxf4+ 38.Kxf4 Bd5 39.c6 Rf2+ 40.Ke3 Rxg2  
+41.c7 Rg8 42.Nd7+ Ke7 43.c8=Q Rxc8 44.Rxc8 Kxd7 45.Rh8 e5 46.Rxh6 f4+ 47. 
+Ke2 e4 48.Rf6 Bc4+ 49.Ke1 f3 50.Kf2 Ke7 51.Rf4 Bd3 52.Ke3 Ke6 53.h4 Ke5  
+54.h5 f2 55.Rxf2 1-0 
+ 
+[Event "Copenhagen CC 2015"] 
+[Site "Ballerup DEN"] 
+[Date "2015.04.30"] 
+[Round "3.5"] 
+[White "Fries-Nielsen, Jens Ove"] 
+[Black "Percivaldi, Martin"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2457"] 
+[BlackElo "2344"] 
+[ECO "A06"] 
+[EventDate "2015.04.29"] 
+ 
+1.e3 d5 2.Nf3 Nf6 3.b4 Bf5 4.c4 c6 5.cxd5 cxd5 6.Bb2 Nbd7 7.a3 e6 8.Nc3 h6 
+9.Be2 Be7 10.Nd4 Bh7 11.f4 a5 12.b5 O-O 13.O-O Nb6 14.d3 Bc5 15.Na4 Nxa4  
+16.Qxa4 Qe7 17.Rac1 Nd7 18.Kh1 Rfc8 19.Qb3 a4 20.Qa2 Qd6 21.Rcd1 Qb6 22. 
+Qa1 Be7 23.Rf3 Bf6 24.Rg3 e5 25.fxe5 Bxe5 26.Nc6 Bxg3 27.Ne7+ Kf8 28.Nxc8  
+Qg6 29.Rc1 Bf2 30.Bd4 Qg5 31.Nd6 Bxe3 32.Rf1 Bxd4 33.Qxd4 Nf6 1/2-1/2 
+ 
+[Event "US Chess League 2014"] 
+[Site "Internet Chess Club INT"] 
+[Date "2014.08.26"] 
+[Round "1"] 
+[White "Korley, Kassa"] 
+[Black "Aaron, Deepak"] 
+[Result "1-0"] 
+[WhiteElo "2426"] 
+[BlackElo "2346"] 
+[ECO "A06"] 
+[EventDate "2014.08.26"] 
+ 
+1.e3 d5 2.Nf3 Nf6 3.Be2 e6 4.O-O Bd6 5.d4 Nbd7 6.c4 c6 7.b3 O-O 8.Bb2 b6  
+9.Nbd2 Bb7 10.Qc2 c5 11.cxd5 exd5 12.Rac1 Re8 13.Rfd1 Qe7 14.Qf5 a6 15.Qh3 
+Rad8 16.g3 Ne4 17.Nxe4 dxe4 18.Nh4 g6 19.dxc5 Be5 20.Bxe5 Nxe5 21.cxb6 Qa3 
+22.Rc7 Rxd1+ 23.Bxd1 Qd6 24.Rxb7 Qxd1+ 25.Qf1 Qd6 26.Qc1 Nd3 27.Qc3 Nc5  
+28.Rc7 Qd1+ 29.Kg2 Nd3 30.b7 Qe2 31.Qf6 Ne1+ 32.Kg1 Rf8 33.b8=R Nf3+ 34. 
+Nxf3 Qd1+ 35.Ne1 1-0 
+ 
+[Event "TCh-Belgrade Premier liga 2013"] 
+[Site "Belgrade SRB"] 
+[Date "2013.10.22"] 
+[Round "11.2"] 
+[White "Popovic, Aleksandar M"] 
+[Black "Podinic, Bojan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2281"] 
+[BlackElo "2304"] 
+[ECO "A06"] 
+[EventDate "2013.10.12"] 
+ 
+1.e3 d5 2.Nf3 Nf6 3.d3 c5 4.g3 Nc6 5.Bg2 e6 6.O-O Be7 7.Nbd2 1/2-1/2 
+ 
+[Event "9. Dos Hermanas Internet"] 
+[Site "Internet Chess Club INT"] 
+[Date "2008.04.04"] 
+[Round "1.1"] 
+[White "Perez Ponsa, Federico"] 
+[Black "Jobava, Baadur"] 
+[Result "0-1"] 
+[WhiteElo "2235"] 
+[BlackElo "2658"] 
+[ECO "A06"] 
+[EventDate "2008.04.04"] 
+ 
+1.e3 d5 2.Nf3 Nf6 3.b3 Bg4 4.Bb2 e6 5.Be2 Be7 6.Ne5 Bxe2 7.Qxe2 Nbd7 8.f4  
+O-O 9.O-O Nxe5 10.fxe5 Nd7 11.d3 f6 12.exf6 Bxf6 13.Bxf6 Nxf6 14.Nd2 Qe7  
+15.Nf3 e5 16.d4 exd4 17.Nxd4 Rae8 18.Rae1 c6 19.c4 Qe4 20.Rf4 Qxf4 21.exf4 
+Rxe2 22.Rxe2 dxc4 23.bxc4 Rd8 24.Nf5 Rd7 25.c5 g6 26.Nd6 b6 27.cxb6 axb6  
+28.Nc4 Nd5 29.g3 Ra7 30.Ne5 Nb4 31.Rb2 c5 32.Nc4 b5 33.a3 bxc4 34.axb4 c3  
+35.Rb3 c2 36.Rc3 Ra1+ 0-1 
+ 
+[Event "White Nights"] 
+[Site "St Petersburg RUS"] 
+[Date "2007.06.28"] 
+[Round "4"] 
+[White "Turikov, Viktor"] 
+[Black "Vunder, Andrey"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2367"] 
+[BlackElo "2259"] 
+[ECO "A06"] 
+[EventDate "2007.06.25"] 
+ 
+1.e3 d5 2.Nf3 Nf6 3.b3 e6 4.Bb2 Bd6 5.c4 O-O 6.Be2 c5 7.cxd5 exd5 8.O-O  
+Nc6 9.d4 cxd4 10.Nxd4 Re8 11.Nc3 Be5 12.Nf3 Bb8 13.Nb5 Ne4 14.Rc1 Bg4 15. 
+Nbd4 Qd6 16.h3 Bxf3 17.Nxf3 Ng5 18.Re1 Rxe3 19.fxe3 Nxh3+ 20.Kf1 Qg3 21. 
+gxh3 Qxh3+ 22.Kg1 Qg3+ 1/2-1/2 
+ 
+[Event "3. ch-GER Internet Blitz Candidates"] 
+[Site "playchess INT"] 
+[Date "2005.04.02"] 
+[Round "4"] 
+[White "Drabke, Lorenz Maximilian"] 
+[Black "Rodewis, Thomas Dr"] 
+[Result "0-1"] 
+[WhiteElo "2456"] 
+[BlackElo "2364"] 
+[ECO "A06"] 
+[EventDate "2005.04.02"] 
+ 
+1.e3 d5 2.Nf3 Nf6 3.b3 c6 4.Bb2 Bg4 5.Be2 Bxf3 6.Bxf3 Nbd7 7.c4 e5 8.Nc3  
+d4 9.exd4 exd4 10.Ne2 Ne5 11.Bxd4 Nxf3+ 12.gxf3 Be7 13.Qc2 O-O 14.O-O-O  
+Re8 15.Bb2 a5 16.Rhg1 a4 17.Nd4 axb3 18.axb3 Ba3 19.Nf5 g6 20.Qc3 Bxb2+  
+21.Kxb2 Re6 22.Rde1 Qf8 23.Rxe6 fxe6 24.Ne3 Nh5 25.Ng4 Qa3+ 26.Kc2 Ng7 27. 
+Nh6+ Kh8 28.Rg4 Rf8 29.Rd4 Qa2+ 30.Kc1 Qa3+ 31.Kd1 Qc5 32.Rd7 e5 33.Nf7+  
+Kg8 34.Nh6+ Kh8 35.Nf7+ Kg8 36.Qxe5 Qxe5 37.Nxe5 Nf5 38.Rxb7 Nd4 39.Nd7  
+Rd8 40.c5 h5 41.b4 Nxf3 42.Ke2 Ne5 43.Ke3 Nxd7 44.Ke4 Nf6+ 45.Ke5 Nd5 46. 
+Rb6 Nxb6 47.cxb6 Rb8 48.Kd6 Rxb6 49.Kc5 Rb5+ 50.Kxc6 Rxb4 51.Kc5 Rf4 52.d4 
+Rxf2 53.d5 Rc2+ 54.Kd6 Rxh2 55.Ke5 Rd2 56.d6 Rxd6 57.Kxd6 h4 58.Ke5 h3 59. 
+Kf4 h2 60.Kg5 h1=Q 61.Kxg6 Qd5 62.Kf6 Kf8 63.Kg6 Ke7 64.Kg7 Qg5+ 65.Kh8  
+Kf7 66.Kh7 Qh5# 0-1 

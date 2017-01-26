@@ -1,0 +1,23 @@
+ 
+[Event "ch-ROU"] 
+[Site "Cluj ROU"] 
+[Date "2008.02.28"] 
+[Round "6"] 
+[White "Grecescu, Gabriel-Andrei"] 
+[Black "Marinescu, Mircea"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2383"] 
+[BlackElo "2252"] 
+[ECO "A13"] 
+[EventDate "2008.02.25"] 
+ 
+1.c4 e6 2.b3 Be7 3.Bb2 Bf6 4.d4 c5 5.Nf3 Nc6 6.e3 Nge7 7.Be2 cxd4 8.exd4  
+d5 9.cxd5 Nxd5 10.O-O O-O 11.Na3 Nf4 12.Bb5 Ne7 13.Re1 a6 14.Bf1 b5 15.g3  
+Nfg6 16.Bg2 Bb7 17.Nc2 Rc8 18.Ne3 h5 19.Qe2 Nc6 20.Rad1 Nb4 21.Ne5 Bxg2  
+22.Nxg6 fxg6 23.Nxg2 Rc2 24.Qxe6+ Kh7 25.Re2 Rxe2 26.Qxe2 Nxa2 27.Nf4 Qc8  
+28.Ra1 Nb4 29.Rc1 Qa8 30.Re1 Rc8 31.Qe6 Rc7 32.d5 Re7 33.Qxe7 Bxe7 34.Rxe7 
+Nxd5 35.Rxg7+ Kh6 36.Rxg6+ Kh7 37.Rg7+ Kh6 38.Rg6+ Kh7 39.Rg7+ Kh6 40.Ne6  
+Qc8 41.Ng5 Nf6 42.Rf7 Kxg5 43.Rxf6 h4 44.gxh4+ Kg4 45.Rg6+ Kxh4 46.Bf6+  
+Kh5 47.Rg5+ Kh6 48.Rg3 Qc1+ 49.Kg2 Qc6+ 50.Rf3 Qe4 51.Bc3 Kh5 52.h3 b4 53. 
+Bd2 a5 54.Kg3 a4 55.bxa4 b3 56.Bc3 Qc2 57.a5 b2 58.Bxb2 Qxb2 59.Re3 Qa1  
+60.Kh2 Qxa5 61.Rg3 1/2-1/2 

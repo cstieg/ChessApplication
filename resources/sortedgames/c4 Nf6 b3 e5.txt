@@ -1,0 +1,94 @@
+ 
+[Event "8. Arad Open 2015"] 
+[Site "Arad ROU"] 
+[Date "2015.08.11"] 
+[Round "8.7"] 
+[White "Cvetkovic, Srdjan"] 
+[Black "Miron, Lucian-Costin"] 
+[Result "0-1"] 
+[WhiteElo "2323"] 
+[BlackElo "2499"] 
+[ECO "A15"] 
+[EventDate "2015.08.06"] 
+ 
+1.c4 Nf6 2.b3 e5 3.Bb2 Nc6 4.Nc3 d5 5.cxd5 Nxd5 6.g3 Be6 7.Bg2 f6 8.Nf3  
+Qd7 9.O-O O-O-O 10.Rc1 g5 11.Ne4 Bh3 12.Bxh3 Qxh3 13.Rxc6 bxc6 14.Qc2 Qe6  
+15.Rc1 Be7 16.Qc4 Kb7 17.d4 g4 18.dxe5 gxf3 19.exf6 Bb4 20.a3 Rhe8 21.exf3 
+Bf8 22.f7 Qxf7 23.Qxc6+ Kb8 24.Bd4 Nb6 25.Be3 Bxa3 26.Bf4 Bxc1 27.Nc5 Rd1+ 
+28.Kg2 Kc8 29.Bxc7 Qd5 30.Qxe8+ Kxc7 31.b4 Nd7 32.Ne6+ Kd6 33.Nd8 Rd3 34. 
+Qe2 Ne5 35.Kh3 Qxf3 36.Qc2 Qf5+ 0-1 
+ 
+[Event "BSG Pinkster GpA"] 
+[Site "Bossum NED"] 
+[Date "2010.05.23"] 
+[Round "4"] 
+[White "Meijers, Viesturs"] 
+[Black "Ootes, Lars"] 
+[Result "1-0"] 
+[WhiteElo "2459"] 
+[BlackElo "2318"] 
+[ECO "A15"] 
+[EventDate "2010.05.21"] 
+ 
+1.c4 Nf6 2.b3 e5 3.Bb2 Nc6 4.e3 d5 5.cxd5 Nxd5 6.a3 Bd6 7.Qc2 O-O 8.Nf3  
+Qe7 9.d3 Kh8 10.Be2 Bd7 11.O-O f5 12.Nbd2 Rae8 13.Nc4 Rf6 14.Rfd1 Rh6 15. 
+g3 Nf6 16.d4 e4 17.Nfe5 Be6 18.Rac1 Bd5 19.b4 Qe6 20.b5 Nd8 21.Bf1 Bf8 22. 
+a4 g5 23.Qd2 Qg8 24.Ba3 Ne6 25.Bxf8 Rxf8 26.a5 b6 27.h3 Qg7 28.Nc6 f4 29. 
+N4e5 g4 30.exf4 gxh3 31.Kh2 Nh5 32.Rc3 Rg8 33.f5 Ng5 34.Be2 Nf6 35.a6 Nf3+ 
+36.Bxf3 exf3 37.Re1 Rh5 38.Qf4 Rg5 39.Ng6+ Rxg6 40.fxg6 Qxg6 41.Ne5 Qg7  
+42.Rec1 c5 43.bxc6 Ne4 44.c7 Nxc3 45.Rxc3 Rc8 46.Qf5 Rxc7 47.Nf7+ Qxf7 48. 
+Qe5+ Qg7 49.Rxc7 Qxe5 50.dxe5 b5 51.Rxa7 1-0 
+ 
+[Event "BSG Pinkster GpA"] 
+[Site "Bussum NED"] 
+[Date "2010.05.23"] 
+[Round "4"] 
+[White "Meijers, Viesturs"] 
+[Black "Ootes, Lars"] 
+[Result "1-0"] 
+[WhiteElo "2459"] 
+[BlackElo "2318"] 
+[ECO "A15"] 
+[EventDate "2010.05.21"] 
+ 
+1.c4 Nf6 2.b3 e5 3.Bb2 Nc6 4.e3 d5 5.cxd5 Nxd5 6.a3 Bd6 7.Qc2 O-O 8.Nf3  
+Qe7 9.d3 Kh8 10.Be2 Bd7 11.O-O f5 12.Nbd2 Rae8 13.Nc4 Rf6 14.Rfd1 Rh6 15. 
+g3 Nf6 16.d4 e4 17.Nfe5 Be6 18.Rac1 Bd5 19.b4 Qe6 20.b5 Nd8 21.Bf1 Bf8 22. 
+a4 g5 23.Qd2 Qg8 24.Ba3 Ne6 25.Bxf8 Rxf8 26.a5 b6 27.h3 Qg7 28.Nc6 f4 29. 
+N4e5 g4 30.exf4 gxh3 31.Kh2 Nh5 32.Rc3 Rg8 33.f5 Ng5 34.Be2 Nf6 35.a6 Nf3+ 
+36.Bxf3 exf3 37.Re1 Rh5 38.Qf4 Rg5 39.Ng6+ Rxg6 40.fxg6 Qxg6 41.Ne5 Qg7  
+42.Rec1 c5 43.bxc6 Ne4 44.c7 Nxc3 45.Rxc3 Rc8 46.Qf5 Rxc7 47.Nf7+ Qxf7 48. 
+Qe5+ Qg7 49.Rxc7 Qxe5 50.dxe5 b5 51.Rxa7 1-0 
+ 
+[Event "4. ch-EU"] 
+[Site "Liverpool ENG"] 
+[Date "2008.09.18"] 
+[Round "10"] 
+[White "Meijers, Viesturs"] 
+[Black "D'Costa, Lorin A R"] 
+[Result "0-1"] 
+[WhiteElo "2496"] 
+[BlackElo "2414"] 
+[ECO "A15"] 
+[EventDate "2008.09.09"] 
+ 
+1.c4 Nf6 2.b3 e5 3.Bb2 Nc6 4.e3 Be7 5.d3 d5 6.cxd5 Nxd5 7.a3 f5 8.b4 Bf6  
+9.Nd2 Qe7 10.b5 Nd8 11.Ngf3 c5 12.Nc4 Nf7 13.Be2 O-O 14.Rc1 b6 15.O-O Bb7  
+16.Qb3 Kh8 17.Rfe1 e4 18.Nfd2 Rae8 19.Bxf6 Qxf6 20.Qb2 Qg6 21.g3 Ng5 22. 
+Bf1 exd3 23.Ne5 Qh5 24.h4 f4 25.e4 fxg3 26.fxg3 Rxe5 27.exd5 Rxe1 28.Rxe1  
+Qf7 29.Qe5 Qf2+ 30.Kh1 Qxd2 31.Bg2 Nf7 32.Rf1 Kg8 33.Be4 Nxe5 0-1 
+ 
+[Event "Kings Gambit B"] 
+[Site "Lipetsk RUS"] 
+[Date "2008.07.10"] 
+[Round "2"] 
+[White "Korneevets, Alexander"] 
+[Black "Pesotskyi, Vitalii"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2302"] 
+[BlackElo "2338"] 
+[ECO "A15"] 
+[EventDate "2008.07.09"] 
+ 
+1.c4 Nf6 2.b3 e5 3.Bb2 Nc6 4.e3 a6 5.a3 d5 6.cxd5 Nxd5 7.Qc2 Be6 8.Nf3 Bd6 
+9.d4 exd4 10.Nxd4 Nxd4 11.Bxd4 O-O 12.Bd3 Qh4 13.Nd2 c5 14.Nf3 Qh6 1/2-1/2 

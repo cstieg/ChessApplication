@@ -1,0 +1,18 @@
+ 
+[Event "ITT 76 Final Bogata 2014"] 
+[Site "Bogota COL"] 
+[Date "2014.03.26"] 
+[Round "2.3"] 
+[White "Valle, Efrain"] 
+[Black "Ruiz C, Joshua D"] 
+[Result "1-0"] 
+[WhiteElo "2201"] 
+[BlackElo "2365"] 
+[ECO "A06"] 
+[EventDate "2014.03.25"] 
+ 
+1.b3 c5 2.Nf3 d5 3.e4 dxe4 4.Ng5 e5 5.Nxe4 f5 6.Ng3 Nf6 7.Nc3 Nc6 8.Bb5  
+Bd6 9.Bb2 O-O 10.Bxc6 bxc6 11.d3 Bd7 12.Qd2 Nd5 13.O-O-O Qh4 14.Kb1 Nf4  
+15.Nxf5 Bxf5 16.g3 Qh5 17.gxf4 Bg4 18.Rde1 Bf3 19.Rhg1 Rxf4 20.Ne4 Bxe4  
+21.dxe4 Qh6 22.Rd1 Rf6 23.f4 Re8 24.c4 Ree6 25.f5 Qxd2 26.Rxd2 Re7 27.Ba3  
+Re8 28.Rgd1 Be7 29.Bb2 Rh6 30.Re2 Bd6 31.Bc1 Rf6 32.Bg5 1-0 

@@ -1,0 +1,41 @@
+ 
+[Event "Vizag GM Open"] 
+[Site "Visakhapatnam IND"] 
+[Date "2011.11.26"] 
+[Round "4"] 
+[White "Gokhale, Chandrashekhar"] 
+[Black "Vijayalakshmi, Subbaraman"] 
+[Result "0-1"] 
+[WhiteElo "2230"] 
+[BlackElo "2415"] 
+[ECO "A04"] 
+[EventDate "2011.11.24"] 
+ 
+1.Nf3 g6 2.g3 d6 3.Bg2 Bd7 4.O-O Qc8 5.d4 Bh3 6.e4 Bg7 7.c3 Bxg2 8.Kxg2  
+Nf6 9.Qe2 O-O 10.Re1 a5 11.a4 Ra6 12.Nbd2 Nbd7 13.h3 h6 14.e5 dxe5 15.dxe5 
+Nd5 16.Qe4 e6 17.Nc4 Nc5 18.Qc2 Rd8 19.Nd4 Nb6 20.Nxb6 Rxb6 21.Be3 Rd5 22. 
+f4 Ra6 23.Red1 Bf8 24.Rd2 Ra8 25.Rad1 b6 26.Nf3 Rxd2+ 27.Rxd2 Qb7 28.h4 h5 
+29.Qd1 Qe4 30.Bxc5 Bxc5 31.Kh2 Rf8 32.Ng5 Qc6 33.Rd8 Be7 34.Rxf8+ Kxf8 35. 
+Qd4 Bxg5 36.hxg5 Ke7 37.Qd1 Qd5 38.Qc2 Qf3 39.Qd2 Qc6 40.Qd1 Qc4 41.Qc2  
+Kd7 42.Kg2 Kc6 43.Kf3 Qf1+ 44.Ke3 Qg1+ 45.Kf3 Qh1+ 46.Ke3 Kd7 47.Qd3+ Ke7  
+48.Qc4 Kd7 49.Qd3+ Kc8 50.Qe2 Qg1+ 51.Kf3 Qh1+ 52.Ke3 Kb7 53.Kd2 Qc6 54.b3 
+Qh1 55.Kc2 Qa1 56.Qf3+ Kb8 57.Kd3 Qa3 58.Kc4 Qc5+ 59.Kd3 Kc8 60.Qe3 Qd5+  
+61.Kc2 Kd7 62.c4 Qg2+ 63.Kc3 Ke7 64.Kd3 Kd7 65.Kc3 Kc6 66.Kd3 Qf1+ 67.Ke4  
+Qb1+ 68.Kd4 Qa1+ 69.Ke4 Qb2 70.Kf3 Qc2 71.Qd4 Qxb3+ 72.Kg2 Qxa4 73.Qd8  
+Qc2+ 74.Kg1 Kb7 75.Qd7 a4 76.Qxf7 a3 77.Qxe6 a2 78.Qd5+ Ka7 0-1 
+ 
+[Event "Ch Bulgaria (qual.)"] 
+[Site "Pleven BUL"] 
+[Date "2006.01.31"] 
+[Round "6"] 
+[White "Galunov, Todor"] 
+[Black "Milchev, Nikolay"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2286"] 
+[BlackElo "2201"] 
+[ECO "A04"] 
+ 
+1.Nf3 g6 2.g3 d6 3.Bg2 e5 4.d3 Bg7 5.O-O Nc6 6.c4 f5 7.Nc3 h6 8.Rb1 Nf6 9. 
+b4 O-O 10.b5 Ne7 11.c5 Be6 12.Ba3 g5 13.Qc2 f4 14.Nd2 d5 15.c6 b6 16.Qb3  
+Re8 17.Nde4 Nh7 18.Nd2 Nf6 19.Nde4 Nh7 20.Nd2 Nf6 21.Nde4 Nh7 22.Nd2 Nf6  
+1/2-1/2 

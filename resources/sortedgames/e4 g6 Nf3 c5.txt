@@ -1,0 +1,19 @@
+ 
+[Event "Gov Cup A Rapid KO"] 
+[Site "Moscow RUS"] 
+[Date "2013.02.23"] 
+[Round "4.1"] 
+[White "Golovin, Leonid"] 
+[Black "Gubajdullin, Alexei"] 
+[Result "0-1"] 
+[WhiteElo "2471"] 
+[BlackElo "2332"] 
+[ECO "A04"] 
+[EventDate "2013.02.23"] 
+ 
+1.e4 g6 2.Nf3 c5 3.d3 Bg7 4.g3 Nc6 5.Bg2 Nf6 6.O-O O-O 7.Re1 d6 8.e5 Nxe5  
+9.Nxe5 dxe5 10.Rxe5 Nd7 11.Re1 Rb8 12.a4 b6 13.Nc3 Bb7 14.Bxb7 Rxb7 15.Qf3 
+Rb8 16.Bg5 Ne5 17.Qg2 Qd7 18.Bf4 Qf5 19.Qe4 Qxe4 20.Rxe4 Nf3+ 21.Kg2 e5  
+22.Kxf3 exf4 23.Rxf4 a6 24.Ra2 Rb7 25.Nd5 Rd8 26.c4 b5 27.axb5 axb5 28.b3  
+bxc4 29.bxc4 Rb3 30.Ke2 f5 31.Rf3 Bd4 32.Ra7 Rb1 33.h3 Re8+ 34.Re7 Reb8  
+35.Rfe3 R8b2+ 36.Kf3 Rf1 37.Kf4 0-1 

@@ -1,0 +1,95 @@
+ 
+[Event "Nebesna sotnya Mem Blitz"] 
+[Site "Lutsk UKR"] 
+[Date "2016.02.19"] 
+[Round "4.3"] 
+[White "Budnikov, Oleg"] 
+[Black "Mukha, Nikolay"] 
+[Result "1-0"] 
+[WhiteElo "2374"] 
+[BlackElo "2201"] 
+[ECO "A20"] 
+[EventDate "2016.02.19"] 
+ 
+1.c4 e5 2.e3 g6 3.Nc3 Bg7 4.Nf3 Nc6 5.d4 d6 6.Be2 exd4 7.exd4 Nf6 8.d5 Ne7 
+9.O-O O-O 10.h3 Re8 11.Bd3 Bf5 12.Nd4 Bxd3 13.Qxd3 Nd7 14.Nf3 Nf5 15.Bg5  
+Bf6 16.Bxf6 Qxf6 17.Nb5 Nc5 18.Qa3 Re7 19.Rfe1 a6 20.Rxe7 Qxe7 21.Re1 Qd8  
+22.Nbd4 Nxd4 23.Nxd4 Qf8 24.Qe3 Rc8 25.b3 Qg7 26.Nf3 Qf6 27.b4 Nd7 28.Qa7  
+Rb8 29.c5 Qd8 30.cxd6 cxd6 31.Qd4 Rc8 32.a4 Qb6 33.Qh4 Qd8 1-0 
+ 
+[Event "Pacific Meridian 2015"] 
+[Site "Vladivostok RUS"] 
+[Date "2015.07.20"] 
+[Round "10.5"] 
+[White "Papin, Vasily"] 
+[Black "Bocharov, Dmitry"] 
+[Result "0-1"] 
+[WhiteElo "2500"] 
+[BlackElo "2561"] 
+[ECO "A20"] 
+[EventDate "2015.07.18"] 
+ 
+1.c4 e5 2.e3 g6 3.Qc2 Bg7 4.Nf3 Ne7 5.Nc3 O-O 6.Be2 c6 7.d4 d6 8.O-O Bf5  
+9.Qb3 Qc7 10.h3 Nd7 11.Rd1 h6 12.e4 Be6 13.Qa3 exd4 14.Nxd4 Nc8 15.Bf4 Ne5 
+16.Nxe6 fxe6 17.Be3 g5 18.Rac1 a6 19.Qb3 c5 20.Qc2 Ne7 21.Bf1 N7g6 22.g3  
+Nf3+ 23.Kh1 Bd4 24.Qe2 Nge5 25.b3 Qg7 26.Bg2 g4 27.h4 Rf7 28.Bxd4 cxd4 29. 
+Na4 Raf8 30.Rf1 Qf6 31.c5 Nxh4 32.cxd6 Nhf3 33.Bxf3 gxf3 34.Qd2 Qg6 35.Kg1 
+Qh5 0-1 
+ 
+[Event "13. European Seniors"] 
+[Site "Plovdiv BUL"] 
+[Date "2013.03.13"] 
+[Round "3"] 
+[White "Iliushkin, Evgeny"] 
+[Black "Raicevic, Momcilo"] 
+[Result "1-0"] 
+[WhiteElo "2304"] 
+[BlackElo "2370"] 
+[ECO "A20"] 
+[EventDate "2013.03.11"] 
+ 
+1.c4 e5 2.e3 g6 3.Nc3 Bg7 4.Nf3 Ne7 5.Be2 O-O 6.O-O Nbc6 7.d3 d5 8.cxd5  
+Nxd5 9.Qc2 Be6 10.a3 h6 11.Bd2 Nce7 12.Rac1 Rc8 13.b4 Kh7 14.Rfd1 c5 15. 
+Nxd5 cxb4 16.Nc7 b3 17.Qc3 b2 18.Qxb2 Rxc7 19.Nxe5 Qb8 20.d4 Bxe5 21.dxe5  
+Rxc1 22.Rxc1 Nc6 23.Bc3 Rd8 24.Bf3 Qc7 25.h3 Rc8 26.Bd4 Qd7 27.Rb1 b6 28. 
+Rd1 Qc7 29.Bc3 Na5 30.Bxa5 bxa5 31.Bg4 Rb8 32.Qd4 Bb3 33.Qd6 Qb6 34.Rc1  
+Rd8 35.Qe7 h5 36.e6 hxg4 37.exf7 Bxf7 38.Qxf7+ Kh6 39.Qf4+ g5 40.Qxg4 Qf6  
+41.Qa4 Rd5 42.Rc6 Rd6 43.Rxd6 Qxd6 44.Qxa5 Qd1+ 45.Kh2 Qd6+ 46.g3 a6 47. 
+Qb4 Qc6 48.e4 Qc2 49.Kg1 Qe2 50.a4 Kg6 51.Qd6+ Kh7 52.Qc6 Qe1+ 53.Kg2 a5  
+54.Qe8 Qb4 55.Qh5+ Kg7 56.Qxg5+ Kh8 57.Qh6+ Kg8 58.Qc6 Kg7 59.h4 1-0 
+ 
+[Event "SUI, Team Ch 2006 1. Division"] 
+[Site "SUI"] 
+[Date "2006.09.03"] 
+[Round "7.1"] 
+[White "Zeller, Frank"] 
+[Black "Prusikin, Michael"] 
+[Result "0-1"] 
+[WhiteElo "2457"] 
+[BlackElo "2507"] 
+[ECO "A20"] 
+[EventDate "2006.10.01"] 
+ 
+1.c4 e5 2.e3 g6 3.d4 exd4 4.exd4 Bg7 5.Nc3 Ne7 6.Bg5 h6 7.Bh4 d6 8.Qd2 g5  
+9.Bg3 Nf5 10.Nge2 Nc6 11.d5 Na5 12.Qd3 c5 13.h4 a6 14.hxg5 hxg5 15.Rxh8+  
+Bxh8 16.Bh2 Kf8 17.Ng3 Qf6 18.Nge4 Qh6 19.Qh3 Nh4 20.Bxd6+ Kg8 21.Qg3 Nf5  
+22.Qh2 Qg6 23.Be5 f6 24.Bc7 Nd4 25.O-O-O b6 26.Bxb6 Nb7 27.Bd3 f5 28.Rh1  
+Bg7 29.Qc7 fxe4 30.Nxe4 Qf5 31.Nxc5 Qxf2 32.Kb1 Bf5 33.Qxb7 Rf8 34.a4  
+Bxd3+ 35.Nxd3 Qc2+ 36.Ka2 Qxc4+ 37.b3 0-1 
+ 
+[Event "XXVIII"] 
+[Site "Seville ESP"] 
+[Date "2003.01.15"] 
+[Round "6"] 
+[White "Rodriguez Lopez, R."] 
+[Black "Lalic, Bogdan"] 
+[Result "0-1"] 
+[WhiteElo "2263"] 
+[BlackElo "2547"] 
+[ECO "A20"] 
+[EventDate "2003.01.10"] 
+ 
+1.c4 e5 2.e3 g6 3.d4 d6 4.Nc3 Nd7 5.g3 Bg7 6.Bg2 Ngf6 7.Nge2 O-O 8.h3 c6  
+9.b3 Re8 10.Qc2 exd4 11.exd4 d5 12.cxd5 Nxd5 13.Nxd5 cxd5 14.O-O Nf6 15. 
+Bf4 Bf5 16.Qb2 Qd7 17.g4 Bd3 18.Rfe1 h5 19.g5 Ne4 20.f3 Nxg5 21.Bxg5 Bxe2  
+0-1 

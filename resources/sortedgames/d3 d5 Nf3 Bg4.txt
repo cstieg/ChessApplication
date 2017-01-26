@@ -1,0 +1,46 @@
+ 
+[Event "BSF IM Cup 2012"] 
+[Site "Copenhagen DEN"] 
+[Date "2012.10.13"] 
+[Round "3.1"] 
+[White "Fries-Nielsen, Niels Jorgen"] 
+[Black "Cederstam-Barsk, Carl"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2313"] 
+[BlackElo "2216"] 
+[ECO "A06"] 
+[EventDate "2012.10.12"] 
+ 
+1.d3 d5 2.Nf3 Bg4 3.Ne5 Bf5 4.g4 Be6 5.f4 Nd7 6.f5 Nxe5 7.fxe6 fxe6 8.g5  
+Qd6 9.c3 Nc6 10.Qa4 h6 11.Qh4 O-O-O 12.Nd2 g6 13.Nf3 Bg7 14.Bd2 hxg5 15. 
+Qa4 g4 16.Qxg4 Ne5 17.Nxe5 Qxe5 18.Bh3 Qf5 19.e4 dxe4 20.dxe4 Qxg4 21.Bxg4 
+Nf6 22.Bxe6+ Kb8 23.O-O-O Nxe4 24.Be3 Nd6 25.Kb1 Bf6 26.Bf4 g5 27.Bxd6  
+exd6 28.h3 Rde8 29.Bg4 Be5 30.Rhe1 Rhf8 31.Rd2 c6 32.Rde2 Kc7 33.Re4 Rf6  
+34.R1e2 Ref8 35.Kc2 a5 36.a4 Rb8 37.R4e3 Rbf8 38.Kb3 Rf4 39.Re4 Kb6 40. 
+R2e3 Kc5 41.Re2 Rf1 42.Re1 Rxe1 43.Rxe1 Rf4 44.Re2 b6 45.Re3 b5 46.axb5  
+cxb5 47.Rf3 b4 48.Kc2 bxc3 49.bxc3 Kc4 50.Rxf4+ gxf4 51.Be2+ Kd5 52.Bf3+  
+Ke6 53.Bg4+ Kf6 54.h4 d5 55.Bf3 Kf5 56.h5 Kg5 57.Kb3 d4 58.cxd4 Bxd4 59. 
+Kc4 Bf6 60.Kb5 Bd8 61.Bd1 Kh4 62.h6 Kg3 63.h7 Bf6 64.Kxa5 f3 65.Bxf3 Kxf3  
+66.h8=B Bc3+ 67.Kb5 Bg7 1/2-1/2 
+ 
+[Event "Mulhouse (tournoi GMI)"] 
+[Site "Mulhouse FRA"] 
+[Date "2004.07.06"] 
+[Round "7.5"] 
+[White "Bricard, Emmanuel"] 
+[Black "Eliet, Nicolas"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2450"] 
+[BlackElo "2412"] 
+[ECO "A06"] 
+ 
+1.d3 d5 2.Nf3 Bg4 3.Ne5 Bh5 4.g4 f6 5.gxh5 fxe5 6.c4 e6 7.Bh3 Qd6 8.Qb3  
+Nd7 9.Qxb7 Rb8 10.Qxa7 Ngf6 11.Nc3 c6 12.h6 g6 13.Qa4 Be7 14.Qc2 O-O 15. 
+Bd2 d4 16.Ne4 Nxe4 17.dxe4 Bh4 18.O-O Rf6 19.b4 Qf8 20.f3 g5 21.Kh1 Rxh6  
+22.Rg1 Rg6 23.c5 h5 24.a4 Qg7 25.b5 Bf2 26.Rg2 g4 27.fxg4 hxg4 28.Bxg4  
+Rxg4 29.Rxf2 Nf6 30.b6 Qg6 31.Rf3 Nxe4 32.Qd3 Nxc5 33.Qxg6+ Rxg6 34.a5 e4  
+35.Rg3 Rxg3 36.hxg3 e3 37.Bb4 Na6 38.Bd6 Rd8 39.Bc7 Rd7 40.Bf4 Rd5 41.Rc1  
+e5 42.Bxe3 Rxa5 43.Rxc6 dxe3 44.b7 Rb5 45.Rxa6 Rxb7 46.Ra3 Kf7 47.Kg2 Kf6  
+48.Kf3 Rg7 49.Rxe3 Kf5 50.Ra3 e4+ 51.Kf2 Rg4 52.Ra8 Rg7 53.Rf8+ Ke5 54.e3  
+Ra7 55.g4 Ra3 56.g5 Ra2+ 57.Kg3 Ra3 58.g6 Ra6 59.Rg8 Kf5 60.g7 Rg6+ 61.Kf2 
+Kf6 1/2-1/2 

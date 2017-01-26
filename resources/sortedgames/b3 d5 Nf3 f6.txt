@@ -1,0 +1,21 @@
+ 
+[Event "8. Batavia Blitz 2016"] 
+[Site "Amsterdam NED"] 
+[Date "2016.02.18"] 
+[Round "5.5"] 
+[White "De Ruiter, Danny"] 
+[Black "Nijboer, Friso"] 
+[Result "0-1"] 
+[WhiteElo "2312"] 
+[BlackElo "2545"] 
+[ECO "A06"] 
+[EventDate "2016.02.18"] 
+ 
+1.b3 d5 2.Nf3 f6 3.Bb2 e5 4.e3 Be6 5.c4 c6 6.Nc3 Nh6 7.Be2 Nf7 8.O-O Be7  
+9.Rc1 O-O 10.Ne1 d4 11.exd4 exd4 12.Ne4 c5 13.Nd3 Na6 14.Bf3 Rb8 15.Re1  
+Bd7 16.a3 b6 17.b4 f5 18.Ng3 Bf6 19.Nf4 g6 20.Bd5 Nc7 21.Bf3 Be5 22.Nd5  
+Ne6 23.d3 Neg5 24.Be2 f4 25.Ne4 Nxe4 26.dxe4 Nd6 27.Bg4 h5 28.Bxh5 gxh5  
+29.Qxh5 Nf7 30.h4 Kg7 31.g3 Rh8 32.Qf3 Rh6 33.gxf4 Qxh4 34.f5 Rh5 35.Kf1  
+Rg5 36.Ke2 Qh5 37.Rg1 Qxf3+ 38.Kxf3 Re8 39.Rxg5+ Nxg5+ 40.Kg4 Nxe4 41.Rg1  
+Kf7 42.Kf3 Bxf5 43.Rh1 Ng5+ 44.Ke2 Be4 45.f3 Bxf3+ 46.Kf2 Bxh1 47.Bc1 Bxd5 
+48.cxd5 c4 49.Bxg5 c3 50.Ke2 Kg6 51.Bc1 Kf5 52.Kd3 Rd8 0-1 

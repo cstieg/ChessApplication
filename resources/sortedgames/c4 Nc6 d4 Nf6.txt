@@ -1,0 +1,22 @@
+ 
+[Event "Bansko Grand Chess Open"] 
+[Site "Bansko BUL"] 
+[Date "2010.12.14"] 
+[Round "3.10"] 
+[White "Korobkov, Piotr"] 
+[Black "Kukov, Velislav"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2484"] 
+[BlackElo "2355"] 
+[ECO "A50"] 
+[EventDate "2010.12.13"] 
+ 
+1.c4 Nc6 2.d4 Nf6 3.Nc3 e5 4.d5 Ne7 5.g3 Ng6 6.Bg2 Bc5 7.e3 O-O 8.a3 a6 9. 
+b4 Ba7 10.d6 cxd6 11.Qxd6 Bb8 12.Qd3 d6 13.Bb2 Qc7 14.Rc1 Be6 15.Nd5 Bxd5  
+16.cxd5 Qe7 17.e4 Ba7 18.Ne2 Rac8 19.Bh3 Rxc1+ 20.Bxc1 h5 21.Bg5 Qc7 22. 
+O-O Ng4 23.Kg2 Rc8 24.Rc1 Qd7 25.Rxc8+ Qxc8 26.f3 a5 27.Nc3 axb4 28.axb4  
+Nf2 29.Bxc8 Nxd3 30.Nb5 Ne1+ 31.Kf1 Nxf3 32.Bc1 Bb8 33.Be3 Nxh2+ 34.Ke2  
+Ng4 35.Bg1 Nf6 36.Nc3 b5 37.Ba6 h4 38.gxh4 Nf4+ 39.Kf3 Nd3 40.Na2 Ne1+ 41. 
+Ke2 Ng2 42.Bxb5 Nxh4 43.Bd3 Ng6 44.b5 Nf4+ 45.Kd2 Nxd3 46.Kxd3 Nd7 47.b6  
+Kf8 48.Nb4 Ke8 49.Nc6 g6 50.b7 Bc7 51.Ba7 f5 52.exf5 gxf5 53.b8=Q+ Bxb8  
+54.Bxb8 Nc5+ 55.Kc4 Ne4 1/2-1/2 

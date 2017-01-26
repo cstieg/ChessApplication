@@ -1,0 +1,74 @@
+ 
+[Event "Victoria CAN, 4. Open"] 
+[Site "Victoria CAN"] 
+[Date "2010.04.05"] 
+[Round "6"] 
+[White "Yoos, Jack"] 
+[Black "Grund, Holger"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2444"] 
+[BlackElo "2422"] 
+[ECO "B12"] 
+[EventDate "2010.04.02"] 
+ 
+1.e4 d5 2.d4 c6 3.e5 Bf5 4.Nf3 e6 5.Be2 Ne7 6.O-O h6 7.a3 Nd7 8.Nbd2 Bh7  
+9.b3 c5 10.dxc5 Nxc5 11.b4 Ne4 12.Nxe4 Bxe4 13.Nd2 Bh7 14.c4 dxc4 15.Nxc4  
+Qxd1 16.Rxd1 Nd5 17.Bf3 O-O-O 18.Ne3 Nxe3 19.Rxd8+ Kxd8 20.Bxe3 b6 21.Rc1  
+Be7 22.Bb7 Kd7 23.Bc6+ Kd8 24.f3 Bg5 25.f4 Be7 26.b5 Kc7 27.Be8+ Kb7 28. 
+Bxf7 Bxa3 29.Rd1 Bf5 30.Rd7+ Kb8 31.Bh5 Rc8 32.Bf3 Rc7 33.Rd8+ Rc8 34.Rd1  
+Rc3 35.Kf2 Kc7 36.g4 Bd3 37.Be2 1/2-1/2 
+ 
+[Event "IND Ch National A"] 
+[Site "Mumbai IND"] 
+[Date "2009.12.10"] 
+[Round "9"] 
+[White "Syed Anwar, Shazuli"] 
+[Black "Ramnathan, Balasubramaniam"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2360"] 
+[BlackElo "2277"] 
+[ECO "B19"] 
+[EventDate "2009.12.01"] 
+ 
+1.e4 d5 2.d4 c6 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.h5 Bh7 8.Nf3 Nd7 
+9.Bd3 Bxd3 10.Qxd3 Ngf6 11.Bf4 Qa5+ 12.Bd2 Qc7 13.O-O-O e6 14.c4 O-O-O 15. 
+Bc3 c5 16.d5 exd5 17.cxd5 Kb8 18.Kb1 Bd6 19.Nf5 Rhg8 20.Ka1 Ne8 21.Rhe1  
+Nef6 22.Nxd6 Qxd6 23.Ne5 Rdf8 24.Nc4 Qc7 25.Re7 Qf4 26.Ne5 Nb6 27.d6 Qe4  
+28.Qxe4 Nxe4 29.f3 Nxc3 30.bxc3 f6 31.Ng6 Re8 32.Rxe8+ Rxe8 1/2-1/2 
+ 
+[Event "TCh-NED 2006-7"] 
+[Site "Netherlands NED"] 
+[Date "2006.10.14"] 
+[Round "2"] 
+[White "Landa, Konstantin"] 
+[Black "Okkes, Menno"] 
+[Result "1-0"] 
+[WhiteElo "2584"] 
+[BlackElo "2355"] 
+[ECO "B19"] 
+[EventDate "2006.09.23"] 
+ 
+1.e4 d5 2.d4 c6 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 e6 8.Ne5 Bh7 
+9.Bd3 Bxd3 10.Qxd3 Nd7 11.f4 Bb4+ 12.c3 Be7 13.h5 Ngf6 14.Be3 O-O 15.O-O-O 
+c5 16.dxc5 Nxc5 17.Qxd8 Rfxd8 18.c4 a6 19.Kc2 Ncd7 20.Nxd7 Nxd7 21.Ne4 f5  
+22.Nd6 Bxd6 23.Rxd6 Nf6 24.Rxe6 Rac8 25.b3 b5 26.Bb6 Rd7 27.c5 Nd5 28.Kb1  
+Kf7 29.Rhe1 b4 30.g3 Nc3+ 31.Kc2 Nb5 32.c6 Nd6 33.c7 Nb5 34.R6e5 Rd6 35. 
+Ba5 Nd4+ 36.Kb1 Nc6 37.Re8 Rd1+ 38.Rxd1 Rxe8 39.Rd8 Re1+ 40.Kc2 1-0 
+ 
+[Event "Ch Netherlands (team) 2006/07"] 
+[Site "NED"] 
+[Date "2006.10.14"] 
+[Round "2"] 
+[White "Landa, Konstantin"] 
+[Black "Okkes, Menno"] 
+[Result "1-0"] 
+[WhiteElo "2584"] 
+[BlackElo "2355"] 
+[ECO "B19"] 
+ 
+1.e4 d5 2.d4 c6 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 e6 8.Ne5 Bh7 
+9.Bd3 Bxd3 10.Qxd3 Nd7 11.f4 Bb4+ 12.c3 Be7 13.h5 Ngf6 14.Be3 O-O 15.O-O-O 
+c5 16.dxc5 Nxc5 17.Qxd8 Rfxd8 18.c4 a6 19.Kc2 Ncd7 20.Nxd7 Nxd7 21.Ne4 f5  
+22.Nd6 Bxd6 23.Rxd6 Nf6 24.Rxe6 Rac8 25.b3 b5 26.Bb6 Rd7 27.c5 Nd5 28.Kb1  
+Kf7 29.Rhe1 b4 30.g3 Nc3+ 31.Kc2 Nb5 32.c6 Nd6 33.c7 Nb5 34.R6e5 Rd6 35. 
+Ba5 Nd4+ 36.Kb1 Nc6 37.Re8 Rd1+ 38.Rxd1 Rxe8 39.Rd8 Re1+ 40.Kc2 1-0 

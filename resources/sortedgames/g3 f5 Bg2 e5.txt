@@ -1,0 +1,17 @@
+ 
+[Event "41. Rubinstein Mem Open A"] 
+[Site "Polanica Zdroj POL"] 
+[Date "2005.08.24"] 
+[Round "6"] 
+[White "Kuzmicz, Krystian"] 
+[Black "Jakubiec, Artur"] 
+[Result "0-1"] 
+[WhiteElo "2357"] 
+[BlackElo "2538"] 
+[ECO "A00"] 
+[EventDate "2005.08.19"] 
+ 
+1.g3 f5 2.Bg2 e5 3.d3 Nf6 4.Nf3 Nc6 5.O-O d5 6.c3 Bd6 7.Nbd2 e4 8.Nd4 Nxd4 
+9.cxd4 h5 10.Nb3 h4 11.Bg5 hxg3 12.hxg3 Qe7 13.dxe4 fxe4 14.f4 Qf7 15.Bxf6 
+gxf6 16.e3 Qg6 17.Qe1 Rg8 18.Kh2 Qh5+ 19.Kg1 b6 20.Qc3 Bd7 21.a4 Rxg3 22. 
+Kf2 Rxg2+ 23.Kxg2 Ke7 24.Kf2 Rg8 25.Ke1 Rg2 26.Nc1 a5 0-1 

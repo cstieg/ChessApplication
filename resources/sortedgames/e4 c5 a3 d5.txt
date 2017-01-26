@@ -1,0 +1,102 @@
+ 
+[Event "TCh-MNE Premier 2014"] 
+[Site "Ulcinj MNE"] 
+[Date "2014.09.21"] 
+[Round "2.2"] 
+[White "Sale, Srdjan"] 
+[Black "Miladinovic, Igor"] 
+[Result "0-1"] 
+[WhiteElo "2404"] 
+[BlackElo "2560"] 
+[ECO "B20"] 
+[EventDate "2014.09.20"] 
+ 
+1.e4 c5 2.a3 d5 3.exd5 Qxd5 4.Nc3 Qd8 5.Nf3 Nc6 6.b4 e6 7.bxc5 Bxc5 8.Ne4  
+Bb6 9.Bb2 Nf6 10.Nxf6+ gxf6 11.Bb5 e5 12.Qe2 O-O 13.O-O Bg4 14.Bxc6 bxc6  
+15.Qe4 Qd7 16.d4 Bf5 17.Qh4 e4 18.d5 Bd8 19.dxc6 Qxc6 20.Nd4 Qc8 21.Rae1  
+Bg6 22.Re3 Rb8 23.Ba1 Rb6 24.Qh6 Rd6 25.h4 Bb6 26.c3 Rd5 27.Rg3 Bc7 28.c4  
+Rh5 29.Qxh5 Bxg3 30.Qh6 Be5 31.h5 Bf5 32.f4 exf3 33.Nxf3 Qc5+ 34.Kh1 Bxa1  
+35.Rxa1 Bg4 36.Qxf6 Qxh5+ 37.Nh4 Re8 38.Rb1 Qe5 39.Qf2 Qe4 40.Rf1 Qxc4 41. 
+Kg1 a6 42.Qg3 Qd4+ 43.Kh2 Qg7 44.Rf4 h5 45.Ra4 Bc8 46.Ra5 Qxg3+ 47.Kxg3  
+Kg7 48.Kf4 Kh6 49.Nf3 f6 50.g3 Bb7 51.Nh4 Re4+ 52.Kf5 Kg7 53.Rc5 Re7 54. 
+Kf4 Kf7 55.a4 Re4+ 56.Kf5 Re1 57.Rc7+ Re7 58.Rc5 Be4+ 59.Kf4 Bd3 60.a5  
+Re4+ 61.Kf3 Re5 62.Rxe5 fxe5 63.g4 hxg4+ 64.Kxg4 Ke6 65.Ng2 Kd5 66.Kg3 Kc4 
+67.Ne3+ Kb4 68.Ng4 e4 69.Kf4 Kxa5 70.Ke3 Kb4 71.Kd2 Kb3 0-1 
+ 
+[Event "3. Keshabananda Das Memorial"] 
+[Site "Bhubaneswar IND"] 
+[Date "2014.08.24"] 
+[Round "10.1"] 
+[White "Venkatesh, Marani Rajendran"] 
+[Black "Narayanan, Srinath"] 
+[Result "0-1"] 
+[WhiteElo "2503"] 
+[BlackElo "2405"] 
+[ECO "B20"] 
+[EventDate "2014.08.18"] 
+ 
+1.e4 c5 2.a3 d5 3.exd5 Nf6 4.b4 Nxd5 5.Bb2 Nc6 6.Qf3 cxb4 7.Bc4 e6 8.Ne2  
+Nf6 9.h4 Bd6 10.axb4 Ne5 11.Bb5+ Bd7 12.Qxb7 Rb8 13.Bxd7+ Nfxd7 14.Qa6  
+Bxb4 15.Ba3 Nc5 16.Qxa7 Ra8 17.Qxa8 Qxa8 18.O-O Bxa3 19.Rxa3 Na6 20.Nbc3  
+Qc8 21.Rfa1 Nb8 0-1 
+ 
+[Event "FIDE World Blitz 2013"] 
+[Site "Khanty-Mansiysk RUS"] 
+[Date "2013.06.09"] 
+[Round "13.27"] 
+[White "Bezgodov, Alexei"] 
+[Black "Nadanian, Ashot"] 
+[Result "1-0"] 
+[WhiteElo "2482"] 
+[BlackElo "2428"] 
+[ECO "B20"] 
+[EventDate "2013.06.09"] 
+ 
+1.e4 c5 2.a3 d5 3.exd5 Nf6 4.Bb5+ Bd7 5.Bc4 Bg4 6.f3 Bf5 7.Nc3 Nbd7 8.d4  
+cxd4 9.Qxd4 Bxc2 10.Bf4 Rc8 11.Rc1 Bg6 12.Nge2 a6 13.g4 h6 14.h4 Qa5 15.h5 
+Bh7 16.Ba2 b5 17.b4 Qxa3 18.O-O e5 19.dxe6 fxe6 20.Bxe6 Qxb4 21.Nxb5 Bc5  
+22.Nd6+ Kf8 23.Rxc5 Qxd4+ 24.Nxd4 Rxc5 25.Bxd7 Nxd7 26.Re1 g5 27.Ne6+ Kg8  
+28.Nxc5 Nxc5 29.Re8+ Kg7 30.Be5# 1-0 
+ 
+[Event "AUT, 2. Bundesliga Ost rounds 1-5"] 
+[Site "AUT"] 
+[Date "2006.10.07"] 
+[Round "2"] 
+[White "Kleiser, Gregor"] 
+[Black "Steiner, Bruno"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2276"] 
+[BlackElo "2259"] 
+[ECO "B20"] 
+[EventDate "2006.10.06"] 
+ 
+1.e4 c5 2.a3 d5 3.exd5 Qxd5 4.Nc3 Qd8 5.Nf3 Nc6 6.Bb5 Bd7 7.d4 Nxd4 8.Nxd4 
+cxd4 9.Qxd4 Bxb5 10.Nxb5 a6 11.Qxd8+ Rxd8 12.Nc7+ Kd7 13.Nd5 e6 14.Nb6+  
+Ke8 15.Be3 Nf6 16.f3 Nd5 17.Nxd5 Rxd5 18.c4 Rd7 19.Ke2 Bd6 20.Rac1 Ke7 21. 
+h3 Rc8 22.b4 Be5 23.Rc2 Rcd8 24.Bb6 Bc7 25.Bxc7 Rxc7 26.Rd1 Rxd1 27.Kxd1  
+e5 28.Ke2 f5 29.Kd3 Rd7+ 30.Kc3 Rd1 31.Rd2 Re1 32.Kc2 h5 33.c5 e4 34.fxe4  
+fxe4 35.Rd4 e3 36.Kd3 Ra1 37.Re4+ Kf6 38.Rxe3 Rxa3+ 39.Kd4 a5 40.bxa5 Rxa5 
+41.Kd5 Ra2 42.Re6+ Kf5 43.g4+ hxg4 44.hxg4+ Kxg4 45.Re7 Rd2+ 46.Kc4 Rb2  
+47.Rxg7+ Kf5 48.Re7 Kf6 49.Re3 Rb1 50.Re2 Kf7 51.Kd4 Rd1+ 52.Kc4 Rb1 53. 
+Kd5 Rd1+ 54.Kc4 1/2-1/2 
+ 
+[Event "Open"] 
+[Site "Kavala GRE"] 
+[Date "2004.08.02"] 
+[Round "4"] 
+[White "Van de Berkmortel, Theo"] 
+[Black "Dembo, Yelena"] 
+[Result "0-1"] 
+[WhiteElo "2278"] 
+[BlackElo "2423"] 
+[ECO "B20"] 
+[EventDate "2004.07.31"] 
+ 
+1.e4 c5 2.a3 d5 3.exd5 Qxd5 4.Nc3 Qd8 5.Nf3 Nc6 6.Bc4 Nf6 7.b4 e6 8.b5 Nd4 
+9.Bb2 Bd6 10.O-O O-O 11.Re1 Qc7 12.h3 b6 13.Bd3 Bb7 14.Ne4 Nxe4 15.Bxe4  
+Bxe4 16.Rxe4 e5 17.d3 Rae8 18.Bxd4 cxd4 19.Nd2 Qd7 20.Nc4 Bb8 21.a4 f5 22. 
+Re1 e4 23.Nd2 Qd6 24.Nf1 e3 25.Qf3 f4 26.Re2 Re5 27.Rae1 Qa3 28.Rb1 Qd6  
+29.Nh2 h5 30.Kf1 Rfe8 31.Ra1 Qc5 32.Qb7 Rd5 33.Nf3 Rdd8 34.h4 Re7 35.Qc6  
+Qxc6 36.bxc6 Re6 37.a5 b5 38.Rb1 a6 39.Rb4 Red6 40.Re1 Ba7 41.Ne5 Bc5 42. 
+Rb3 Re6 43.c7 Rc8 44.Nf3 Rxc7 45.c3 dxc3 46.Rxc3 Bd6 47.Rxc7 Bxc7 48.fxe3  
+fxe3 49.Rc1 e2+ 50.Kf2 Bxa5 0-1 

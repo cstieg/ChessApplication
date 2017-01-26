@@ -1,0 +1,16 @@
+ 
+[Event "Sparkassen Open A"] 
+[Site "Dortmund GER"] 
+[Date "2012.07.17"] 
+[Round "4.1"] 
+[White "Zatonskih, Vitaly"] 
+[Black "Zaitsev, Mikhail"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2276"] 
+[BlackElo "2505"] 
+[ECO "A20"] 
+[EventDate "2012.07.14"] 
+ 
+1.d3 e5 2.c4 Bb4+ 3.Bd2 Bxd2+ 4.Qxd2 d6 5.Nc3 Nc6 6.g3 f5 7.Bg2 Nf6 8.e4  
+O-O 9.Nge2 Kh8 10.O-O Be6 11.Nd5 Rb8 12.Rac1 Ne7 13.Qa5 Bxd5 14.cxd5  
+1/2-1/2 

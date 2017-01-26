@@ -1,0 +1,73 @@
+ 
+[Event "ch-PriFO"] 
+[Site "Kazan RUS"] 
+[Date "2009.01.29"] 
+[Round "9"] 
+[White "Askarov, Marat"] 
+[Black "Dimukhametov, Artur"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2512"] 
+[BlackElo "2250"] 
+[ECO "A30"] 
+[EventDate "2009.01.21"] 
+ 
+1.d4 b6 2.Nf3 e6 3.g3 Bb7 4.Bg2 c5 5.c4 cxd4 6.Qxd4 Nf6 7.Nc3 Be7 8.O-O d6 
+9.Rd1 1/2-1/2 
+ 
+[Event "Africa Ch"] 
+[Site "Tripoli LBA"] 
+[Date "2009.07.29"] 
+[Round "8"] 
+[White "Frhat, Ali"] 
+[Black "Njili, Kamel"] 
+[Result "1-0"] 
+[WhiteElo "2397"] 
+[BlackElo "2318"] 
+[ECO "A40"] 
+[EventDate "2009.07.21"] 
+ 
+1.d4 b6 2.Nf3 e6 3.g3 Bb7 4.Bg2 f5 5.O-O Nf6 6.c4 Bd6 7.Nc3 O-O 8.d5 e5 9. 
+Nb5 Na6 10.Nxd6 cxd6 11.Nh4 g6 12.Bg5 Rc8 13.Rc1 Nc5 14.b4 Nce4 15.Bh6 Rf7 
+16.f3 Nxg3 17.hxg3 Nh5 18.f4 exf4 19.Nf3 fxg3 20.Ng5 Rf8 21.e4 f4 22.Qg4  
+Qe7 23.Nh3 Rf7 24.Qg5 Qe5 25.Nxf4 Qxg5 26.Bxg5 Nxf4 27.Bxf4 b5 1-0 
+ 
+[Event "Open"] 
+[Site "Pula CRO"] 
+[Date "2002.05.15"] 
+[Round "5"] 
+[White "Kuljasevic, Davorin"] 
+[Black "Filipovic, Branko"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2297"] 
+[BlackElo "2442"] 
+[ECO "A40"] 
+[EventDate "2002.05.12"] 
+ 
+1.d4 b6 2.Nf3 e6 3.g3 Bb7 4.Bg2 f5 5.O-O Nf6 6.c4 g6 7.Nc3 Bg7 8.d5 Na6 9. 
+e4 Nxe4 10.Nxe4 fxe4 11.Ng5 exd5 12.cxd5 Nc5 13.Nxe4 Nxe4 14.Bxe4 O-O 15. 
+Qc2 Qf6 16.Be3 Ba6 17.Bd3 Bxd3 18.Qxd3 Qxb2 19.Rac1 Qxa2 20.Rxc7 Rf7 21. 
+Qb5 Qa5 22.Qxa5 bxa5 23.Rc5 a4 24.Ra5 Bc3 25.Rxa4 a5 26.Rc1 Bb4 27.Rc7 d6  
+28.Rc4 Rb8 29.Rd4 Rb5 30.g4 Re7 31.Bd2 Bc5 32.Rf4 Bb6 33.Rf6 Rf7 34.Raf4  
+Rxf6 35.Rxf6 Bc5 36.Bh6 Rb8 37.Rf4 Ra8 38.Ra4 Bb4 39.Kg2 Re8 40.Bf4 Kf7  
+41.Kf3 Re7 42.Ra2 Ra7 43.Be3 Ra8 44.Ra4 Ke7 45.Ke4 Kd7 46.f4 Kc7 47.Bd4  
+Re8+ 48.Kf3 Rf8 49.Ke4 Kb7 50.f5 Ka6 51.f6 Kb5 52.Ra1 a4 53.Rf1 Rf7 54.Kd3 
+a3 55.g5 Ka4 56.Kc2 Ba5 57.Rf4 a2 58.Kb2 a1=Q+ 59.Kxa1 Kb3 60.Kb1 Bd2 61. 
+Rf3+ Kc4 62.Be3 Bc3 63.Kc2 Be5 1/2-1/2 
+ 
+[Event "Rabac CRO, Open 2003"] 
+[Site "Rabac CRO"] 
+[Date "2003.??.??"] 
+[Round "7"] 
+[White "Medancic, Rikard"] 
+[Black "Filipovic, Branko"] 
+[Result "0-1"] 
+[WhiteElo "2275"] 
+[BlackElo "2420"] 
+[ECO "E16"] 
+[EventDate "2003.11.11"] 
+ 
+1.d4 b6 2.Nf3 e6 3.g3 Bb7 4.c4 Bb4+ 5.Bd2 Qe7 6.Bg2 Nf6 7.O-O Bxd2 8.Qxd2  
+d6 9.Nc3 O-O 10.d5 e5 11.e4 Nbd7 12.Nh4 g6 13.Rae1 Nh5 14.Bh3 Bc8 15.Ng2  
+a6 16.f4 f6 17.Be6+ Kh8 18.Qe2 exf4 19.gxf4 Ng7 20.Bh3 Nc5 21.Bxc8 Raxc8  
+22.e5 fxe5 23.fxe5 Rxf1+ 24.Kxf1 dxe5 25.Qxe5 Qf8+ 26.Kg1 Nd3 27.Qd4 Nxe1  
+28.Nxe1 Qf5 29.b3 Rf8 0-1 

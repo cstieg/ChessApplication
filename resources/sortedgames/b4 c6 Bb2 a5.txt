@@ -1,0 +1,17 @@
+ 
+[Event "EuJun"] 
+[Site "Baku AZE"] 
+[Date "2002.07.24"] 
+[Round "11"] 
+[White "Cernousek, Lukas"] 
+[Black "Laciner, Kerem"] 
+[Result "1-0"] 
+[WhiteElo "2294"] 
+[BlackElo "2220"] 
+[ECO "A00"] 
+[EventDate "2002.07.14"] 
+ 
+1.b4 c6 2.Bb2 a5 3.a3 Qb6 4.c4 axb4 5.c5 Qc7 6.axb4 Rxa1 7.Bxa1 b6 8.e3  
+Ba6 9.Bxa6 Nxa6 10.Qa4 Qb7 11.cxb6 Qxb6 12.Nf3 e6 13.O-O Nf6 14.Na3 Bxb4  
+15.Bd4 Qb7 16.Ra1 Be7 17.Nc4 Nc7 18.Qa7 Qxa7 19.Rxa7 Nb5 20.Ra8+ Bd8 21. 
+Bb6 Ke7 22.Rb8 Re8 23.Bc5+ d6 24.Rb7+ Nd7 25.Nxd6 Nxd6 26.Ne5 1-0 

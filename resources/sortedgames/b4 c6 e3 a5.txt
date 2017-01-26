@@ -1,0 +1,21 @@
+ 
+[Event "World Blitz 2015"] 
+[Site "Berlin GER"] 
+[Date "2015.10.14"] 
+[Round "18.48"] 
+[White "Bauer, Christian"] 
+[Black "Wagner, Dennis"] 
+[Result "1-0"] 
+[WhiteElo "2623"] 
+[BlackElo "2575"] 
+[ECO "A00"] 
+[EventDate "2015.10.13"] 
+ 
+1.b4 c6 2.e3 a5 3.b5 Nf6 4.c4 d5 5.Nc3 e5 6.bxc6 bxc6 7.cxd5 cxd5 8.Nf3  
+Bd6 9.Nb5 O-O 10.Nxd6 Qxd6 11.Qa4 Nc6 12.Ba3 Nb4 13.Bxb4 Qxb4 14.Qxb4 axb4 
+15.Nxe5 b3 16.a4 Bf5 17.Bd3 Nd7 18.Bxf5 Nxe5 19.Ke2 Rfb8 20.Rhb1 Nc4 21. 
+Bd7 Kf8 22.d3 Nd6 23.Ra3 b2 24.Ra2 Ra7 25.Bc6 Rc7 26.Bxd5 Rc2+ 27.Kf3 h5  
+28.a5 Rb4 29.a6 g5 30.g3 g4+ 31.Kg2 Nf5 32.Re1 b1=Q 33.Rxc2 Qxc2 34.a7 Rb2 
+35.a8=Q+ Kg7 36.Rf1 Nxe3+ 37.Kg1 Nxf1 38.Qa7 Rb1 39.Qxf7+ Kh6 40.Qf6+ Kh7  
+41.Be4+ Kg8 42.Bd5+ Kh7 43.Be4+ Kg8 44.Qd8+ Kg7 45.Qe7+ Kg8 46.Bd5+ Kh8  
+47.Qf8+ Kh7 48.Be4# 1-0 

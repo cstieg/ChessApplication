@@ -1,0 +1,95 @@
+ 
+[Event "Petersburg Summer Blitz 2013"] 
+[Site "St Petersburg RUS"] 
+[Date "2013.08.28"] 
+[Round "9.7"] 
+[White "Stupak, Kirill"] 
+[Black "Demidov, Mikhail"] 
+[Result "0-1"] 
+[WhiteElo "2492"] 
+[BlackElo "2494"] 
+[ECO "A40"] 
+[EventDate "2013.08.28"] 
+ 
+1.d4 Nc6 2.Nf3 Nf6 3.d5 Nb4 4.c4 c6 5.a3 Na6 6.Nc3 g6 7.e4 d6 8.dxc6 bxc6  
+9.e5 Nd7 10.exd6 exd6 11.Bf4 Qe7+ 12.Be2 Ne5 13.O-O Nc5 14.b4 Ne6 15.Nxe5  
+dxe5 16.Bxe5 Bg7 17.Bxg7 Nxg7 18.Bf3 O-O 19.Bxc6 Rb8 20.Re1 Qf6 21.Qf3 Qd4 
+22.Bd5 Be6 23.Rad1 Qb6 24.c5 Qa6 25.Ne4 h5 26.Nd6 Bg4 27.Bxf7+ Kh7 28.Qf6  
+Rxf7 29.Qxf7 Bxd1 30.Rxd1 Qxa3 31.Qd5 Rxb4 32.c6 Qc3 33.h3 Rb6 34.Ne4 Qxc6 
+35.Qxc6 Rxc6 36.Rd7 a6 37.Ng5+ Kh6 38.h4 Rc8 39.Ra7 a5 40.Rxa5 Nf5 41.Ra7  
+Ng7 42.g3 Rf8 43.Kg2 Re8 44.Kg1 Rf8 45.Rxg7 Kxg7 46.Ne6+ Kf7 47.Nxf8 Kxf8  
+48.Kg2 Kf7 49.Kf3 Kf6 50.Kf4 Kf7 51.Kg5 Kg7 52.f4 Kf7 53.f5 0-1 
+ 
+[Event "2. Grand Europe Open 2013"] 
+[Site "Golden Sands BUL"] 
+[Date "2013.06.17"] 
+[Round "8.40"] 
+[White "Abdalla, Luiz Guilherme Aurelli"] 
+[Black "Dimitrov, Radoslav"] 
+[Result "0-1"] 
+[WhiteElo "2288"] 
+[BlackElo "2429"] 
+[ECO "A40"] 
+[EventDate "2013.06.10"] 
+ 
+1.d4 Nc6 2.Nf3 Nf6 3.d5 Nb8 4.c4 g6 5.Nc3 Bg7 6.e4 d6 7.Be2 O-O 8.O-O e5  
+9.Ne1 Nfd7 10.Be3 f5 11.f3 a5 12.Nd3 Na6 13.a3 Nac5 14.b4 axb4 15.axb4  
+Rxa1 16.Qxa1 Nb3 17.Qb2 Nd4 18.Bd1 Nf6 19.Nf2 Nh5 20.Ne2 Nxe2+ 21.Qxe2 Bd7 
+22.Bb3 Qh4 23.Ra1 Nf6 24.Bc2 f4 25.Bd2 g5 26.Be1 Qh5 27.Bd1 Qg6 28.Ra7 h5  
+29.h3 g4 30.hxg4 hxg4 31.Nxg4 Bxg4 32.fxg4 f3 33.gxf3 Bh6 34.c5 Bf4 35.c6  
+bxc6 36.dxc6 Nh7 37.Qa2+ Kh8 38.Ra8 Qh6 39.Rxf8+ Nxf8 40.Bb3 Kg7 41.Qg2  
+Ng6 42.Kf1 Be3 43.g5 Bxg5 44.b5 Nf4 45.Qg3 Qh1+ 46.Kf2 Kf8 47.Ke3 Qf1 0-1 
+ 
+[Event "US Amateur Team East"] 
+[Site "Parsippany, NJ USA"] 
+[Date "2003.02.15"] 
+[Round "2"] 
+[White "Nakamura, Hikaru"] 
+[Black "Bonin, Jay R"] 
+[Result "1-0"] 
+[WhiteElo "2520"] 
+[BlackElo "2370"] 
+[ECO "A50"] 
+[EventDate "2003.02.15"] 
+ 
+1.d4 Nc6 2.Nf3 Nf6 3.c4 d6 4.Nc3 g6 5.e4 Bg4 6.d5 Ne5 7.Be2 Bxf3 8.gxf3 c6 
+9.Be3 Bg7 10.O-O O-O 11.Rc1 Qa5 12.a3 Rfc8 13.b4 Qd8 14.c5 cxd5 15.exd5  
+Qd7 16.f4 Neg4 17.c6 bxc6 18.dxc6 Qf5 19.Nd5 Qxd5 20.Bxg4 Qxd1 21.Bxd1 Nd5 
+22.Bd2 Bb2 23.Rc2 Bxa3 24.Bf3 a5 25.Bxd5 axb4 26.Be3 e6 27.Bb3 Ra6 28.c7  
+Kf8 1-0 
+ 
+[Event "Open"] 
+[Site "Antalya TUR"] 
+[Date "2002.02.23"] 
+[Round "2"] 
+[White "Volkov, S."] 
+[Black "Yilmaz, Turhan"] 
+[Result "1-0"] 
+[WhiteElo "2567"] 
+[BlackElo "2283"] 
+[ECO "A40"] 
+[EventDate "2002.02.22"] 
+ 
+1.d4 Nc6 2.Nf3 Nf6 3.d5 Nb8 4.Nc3 e6 5.e4 Bb4 6.dxe6 fxe6 7.Bd3 Qe7 8.e5  
+Nd5 9.Bd2 Bxc3 10.bxc3 O-O 11.Qe2 Nf4 12.Bxh7+ Kxh7 13.Qe4+ Kg8 14.Bxf4  
+Qf7 15.Bg3 Nc6 16.h4 Qh5 17.Ng5 Ne7 18.f3 Rb8 19.Rd1 b5 20.O-O Bb7 21.Qb4  
+Nd5 22.Qxb5 Nxc3 23.Qxd7 Nxd1 24.Rxd1 Qg6 25.Qxe6+ Qxe6 26.Nxe6 Rfe8 27. 
+Nxc7 Re7 28.e6 g6 29.Rb1 Kh8 30.Bd6 Rg7 31.e7 1-0 
+ 
+[Event "ch-Balkan"] 
+[Site "Istanbul TUR"] 
+[Date "2001.11.25"] 
+[Round "9"] 
+[White "Nikolaidis, Ioannis"] 
+[Black "Yilmaz, Turhan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2524"] 
+[BlackElo "2277"] 
+[ECO "A54"] 
+[EventDate "2001.11.19"] 
+ 
+1.d4 Nc6 2.Nf3 Nf6 3.c4 d6 4.Nc3 e5 5.g3 Bg4 6.d5 Ne7 7.Bg2 Ng6 8.e4 h5 9. 
+h3 Bd7 10.Be3 Be7 11.Qb3 b6 12.h4 Ng4 13.Bd2 Nf8 14.Nh2 Nxh2 15.Rxh2 g5  
+16.hxg5 Bxg5 17.O-O-O Bxd2+ 18.Rxd2 Ng6 19.Qd1 h4 20.Bh3 Bxh3 21.Rxh3 Qd7  
+22.g4 O-O-O 23.f3 Qe7 24.Kb1 Rh6 25.Qa4 Kb7 26.Qc6+ Kb8 27.Qa4 Kb7 28.Qc6+ 
+Kb8 29.Qa4 1/2-1/2 

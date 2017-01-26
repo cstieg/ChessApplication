@@ -1,0 +1,298 @@
+ 
+[Event "Aloas Cup Magistral 2015"] 
+[Site "Buenos Aires ARG"] 
+[Date "2015.11.03"] 
+[Round "3.1"] 
+[White "Krysa, Leandro"] 
+[Black "Lima, Darcy"] 
+[Result "1-0"] 
+[WhiteElo "2476"] 
+[BlackElo "2522"] 
+[ECO "A40"] 
+[EventDate "2015.11.01"] 
+ 
+1.d4 c6 2.c4 b5 3.cxb5 cxb5 4.Bg5 Bb7 5.Nd2 h6 6.Bh4 Qb6 7.e3 e6 8.Ngf3  
+Nc6 9.Be2 a6 10.d5 Nce7 11.dxe6 dxe6 12.a4 1-0 
+ 
+[Event "Groningen NED, Atlantis Open 2013"] 
+[Site "Groningen NED"] 
+[Date "2013.08.24"] 
+[Round "5"] 
+[White "Clemens, Adrian"] 
+[Black "Lambrechts, Koen"] 
+[Result "0-1"] 
+[WhiteElo "2217"] 
+[BlackElo "2241"] 
+[ECO "A40"] 
+[EventDate "2013.08.22"] 
+ 
+1.d4 c6 2.c4 b5 3.c5 g6 4.Nf3 Bg7 5.g3 d6 6.cxd6 exd6 7.Bg2 Ne7 8.O-O O-O  
+9.a4 b4 10.e4 Nd7 11.Bf4 Ba6 12.Re1 Nc8 13.Nbd2 c5 14.e5 Rb8 15.Ne4 cxd4  
+16.exd6 d3 17.Rb1 h6 18.Bf1 Ncb6 19.Bxd3 Bxd3 20.Qxd3 Nxa4 21.Qb3 Nac5 22. 
+Nxc5 Nxc5 23.Qd5 Nd7 24.Ne5 Nb6 25.Qd3 Rc8 26.g4 Rc5 27.Bg3 Rd5 28.Qb3  
+Rxd6 29.Qxb4 Rd4 30.Qa5 Ra4 31.Qc5 Bxe5 32.Qxe5 Rxg4 33.Rbd1 Qa8 34.Rd4  
+Rg5 35.Qe3 Nd5 36.Qd2 Nf6 37.Re7 Nh5 38.Rdd7 Nxg3 39.fxg3 Qf3 40.Rxa7 Rd5  
+0-1 
+ 
+[Event "75. ch-BUL Semi-Final"] 
+[Site "Plovdiv BUL"] 
+[Date "2011.02.12"] 
+[Round "8"] 
+[White "Arnaudov, G Petar"] 
+[Black "Panayotov, Yanko"] 
+[Result "1-0"] 
+[WhiteElo "2489"] 
+[BlackElo "2243"] 
+[ECO "A40"] 
+[EventDate "2011.02.07"] 
+ 
+1.d4 c6 2.c4 b5 3.c5 d6 4.cxd6 exd6 5.e4 a6 6.a4 Bb7 7.Nf3 Nd7 8.Bd3 Ngf6  
+9.O-O Be7 10.Re1 O-O 11.h3 Re8 12.b3 Qb6 13.Nbd2 c5 14.d5 Bf8 15.Bb2 g6  
+16.Qc2 Bg7 17.Bf1 Rac8 18.Qd3 c4 19.bxc4 bxa4 20.Bd4 Nc5 21.Qc3 Nh5 22.e5  
+dxe5 23.Nxe5 Qc7 24.Rab1 Rb8 25.Re3 f5 26.Rbe1 Rbc8 27.Nef3 Rxe3 28.Rxe3  
+Qd7 29.Ne5 Qc7 30.Qb4 Nd7 31.Nxd7 Bxd4 32.Re7 Qf4 33.Nf3 Bxd5 34.Nxd4 Qxd4 
+35.Qd6 a3 36.cxd5 Kh8 37.Qxa3 a5 38.Ne5 Qc3 39.Rxh7+ 1-0 
+ 
+[Event "WCh w Blitz Final"] 
+[Site "Moscow RUS"] 
+[Date "2010.09.18"] 
+[Round "20"] 
+[White "Gunina, Valentina"] 
+[Black "Krush, Irina"] 
+[Result "1-0"] 
+[WhiteElo "2465"] 
+[BlackElo "2490"] 
+[ECO "A40"] 
+[EventDate "2010.09.17"] 
+ 
+1.d4 c6 2.c4 b5 3.cxb5 cxb5 4.Nf3 Bb7 5.e3 a6 6.Be2 Nf6 7.O-O e6 8.Nbd2  
+Be7 9.Nb3 O-O 10.Bd2 Nc6 11.a4 b4 12.a5 Ne4 13.Be1 d5 14.Bd3 f5 15.Nfd2  
+Bd6 16.g3 Qe7 17.Qe2 Rfc8 18.f3 Nf6 19.Bf2 Nb8 20.Rfc1 Nbd7 21.Rxc8+ Bxc8  
+22.Rc1 Bb7 23.Rc2 Qd8 24.Qf1 Rc8 25.Rxc8 Qxc8 26.Qb1 Qc7 27.Nf1 Qc8 28.Be1 
+g6 29.Bd2 e5 30.Qe1 e4 31.fxe4 dxe4 32.Be2 Nd5 33.Qd1 Qc7 34.g4 f4 35.exf4 
+Bxf4 36.Qe1 e3 37.Bc1 N7f6 38.Bf3 Qe7 39.Nc5 Bc8 40.Qe2 Kg7 41.h4 h5 42.g5 
+Ng4 43.Bxd5 Bd6 44.Bf3 Bc7 45.Nxe3 1-0 
+ 
+[Event "WCh w Blitz Final"] 
+[Site "Moscow RUS"] 
+[Date "2010.09.17"] 
+[Round "8"] 
+[White "Koneru, Humpy"] 
+[Black "Krush, Irina"] 
+[Result "1-0"] 
+[WhiteElo "2593"] 
+[BlackElo "2490"] 
+[ECO "A40"] 
+[EventDate "2010.09.17"] 
+ 
+1.d4 c6 2.c4 b5 3.cxb5 cxb5 4.e4 Bb7 5.Nd2 Nf6 6.Bd3 e6 7.Ngf3 a6 8.O-O  
+Be7 9.a4 b4 10.e5 Nd5 11.Nc4 O-O 12.a5 Nc6 13.Qe2 Na7 14.Qe4 g6 15.Bh6 Re8 
+16.h4 Nb5 17.h5 Rc8 18.Qg4 f5 19.Qg3 Kf7 20.Nd6+ Nxd6 21.exd6 Bf6 22.Ng5+  
+Bxg5 23.Bxg5 Nf6 24.Qh4 gxh5 25.Rac1 Rg8 26.f3 h6 27.Rxc8 Bxc8 28.Bxh6  
+Qxa5 29.Bg5 Rxg5 30.Qxg5 Qd5 31.Qf4 Ne8 32.Qe5 Bb7 33.Qxd5 Bxd5 34.Bxa6  
+Nxd6 35.Rc1 f4 36.Kf2 Nf5 37.Rc7 Ke7 38.Bb5 Nxd4 39.Rxd7+ Kf6 40.Bd3 b3  
+41.Rh7 Ke5 42.Rxh5+ 1-0 
+ 
+[Event "WCh w Blitz Semi-Final"] 
+[Site "Moscow RUS"] 
+[Date "2010.09.16"] 
+[Round "25"] 
+[White "Guseva, Marina"] 
+[Black "Krush, Irina"] 
+[Result "1-0"] 
+[WhiteElo "2411"] 
+[BlackElo "2490"] 
+[ECO "A40"] 
+[EventDate "2010.09.15"] 
+ 
+1.d4 c6 2.c4 b5 3.cxb5 cxb5 4.Nf3 Bb7 5.Bf4 Nf6 6.e3 a6 7.Bd3 e6 8.O-O Be7 
+9.Nbd2 O-O 10.e4 Nc6 11.Rc1 Qb6 12.d5 Nb4 13.Bb1 exd5 14.e5 Ne4 15.a3 Nc6  
+16.Nxe4 dxe4 17.Bxe4 Rad8 18.Qd3 h6 19.Qd2 Na5 20.Bxb7 Nxb7 21.Nd4 Bc5 22. 
+Nf5 Qe6 23.Qd3 d6 24.Bxh6 gxh6 25.Qg3+ 1-0 
+ 
+[Event "WCh w Blitz Semi-Final"] 
+[Site "Moscow RUS"] 
+[Date "2010.09.16"] 
+[Round "24"] 
+[White "Cori T, Deysi"] 
+[Black "Krush, Irina"] 
+[Result "1-0"] 
+[WhiteElo "2368"] 
+[BlackElo "2490"] 
+[ECO "A40"] 
+[EventDate "2010.09.15"] 
+ 
+1.d4 c6 2.c4 b5 3.c5 d6 4.cxd6 exd6 5.Nf3 Nf6 6.g3 Be7 7.Bg2 O-O 8.O-O  
+Nbd7 9.a4 Bb7 10.Re1 Ne4 11.axb5 cxb5 12.Nfd2 Ndf6 13.Nxe4 Bxe4 14.Bxe4  
+Nxe4 15.Qd3 d5 16.Qxb5 Bf6 17.Be3 Qd6 18.Ra6 Rab8 19.Qa5 Qb4 20.Qxb4 Rxb4  
+21.Nc3 Nxc3 22.bxc3 Rb3 23.Rxa7 Rxc3 24.Rd7 g6 25.Rxd5 h5 26.h4 Ra8 27.Rd7 
+Ra2 28.Rb1 Ra8 29.Rbb7 Rf8 30.Kg2 Rc2 31.Kf3 Bd8 32.Bh6 1-0 
+ 
+[Event "WCh w Blitz Semi-Final"] 
+[Site "Moscow RUS"] 
+[Date "2010.09.16"] 
+[Round "21"] 
+[White "Charochkina, Daria"] 
+[Black "Krush, Irina"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2303"] 
+[BlackElo "2490"] 
+[ECO "A40"] 
+[EventDate "2010.09.15"] 
+ 
+1.d4 c6 2.c4 b5 3.cxb5 cxb5 4.e4 Bb7 5.Bd3 Nf6 6.Qe2 e6 7.Nf3 a6 8.O-O Be7 
+9.a4 b4 10.Nbd2 O-O 11.e5 Nd5 12.Ne4 f5 13.exf6 Nxf6 14.Bd2 Bd5 15.Ne5 Nc6 
+16.Nxf6+ Bxf6 17.Nxc6 Bxc6 18.Bxb4 Rf7 19.Rfd1 Bxd4 20.Bxh7+ Kxh7 21.Qh5+  
+Kg8 22.Rxd4 Rf5 23.Qh3 Qf6 24.Rg4 Rxf2 25.Bc3 e5 26.Qe3 Rf8 27.h3 d6 28. 
+Re1 Qf7 29.Rg5 Rf5 30.Rg4 Qd5 31.Kh2 Rf4 32.Rg3 Bxa4 33.Qe2 Bd7 34.Qxa6  
+Rf2 35.Qb6 Bc6 36.Rg1 Qe4 37.Qc7 R8f7 38.Qd8+ Kh7 39.Rg4 R7f4 40.Qh4+ Kg8  
+41.Qd8+ Kh7 42.Qh4+ Kg8 43.Qd8+ Kh7 1/2-1/2 
+ 
+[Event "WCh w Blitz Semi-Final"] 
+[Site "Moscow RUS"] 
+[Date "2010.09.15"] 
+[Round "13"] 
+[White "Zhukova, Natalia"] 
+[Black "Krush, Irina"] 
+[Result "0-1"] 
+[WhiteElo "2499"] 
+[BlackElo "2490"] 
+[ECO "A40"] 
+[EventDate "2010.09.15"] 
+ 
+1.d4 c6 2.c4 b5 3.cxb5 cxb5 4.e3 Bb7 5.Nf3 a6 6.Bd3 Nf6 7.O-O e6 8.a4 b4  
+9.Nbd2 Nc6 10.e4 Be7 11.e5 Nd5 12.Ne4 O-O 13.Bg5 f6 14.exf6 Nxf6 15.Bxf6  
+Bxf6 16.Nc5 Nxd4 17.Nxd4 Bxd4 18.Nxb7 Qb6 19.Qh5 g6 20.Qh4 Bf6 21.Qe4 Ra7  
+22.a5 Qxb7 23.Qxb7 Rxb7 24.Bxa6 Ra7 25.Bc4 Bxb2 26.Ra2 Bd4 27.a6 d5 28.Bb3 
+Rfa8 29.Rd1 Bc3 30.Re2 Rxa6 31.Rxe6 Rxe6 32.Bxd5 Re8 33.f4 Kg7 0-1 
+ 
+[Event "WCh w Blitz Semi-Final"] 
+[Site "Moscow RUS"] 
+[Date "2010.09.15"] 
+[Round "9"] 
+[White "Nebolsina, Vera"] 
+[Black "Krush, Irina"] 
+[Result "0-1"] 
+[WhiteElo "2360"] 
+[BlackElo "2490"] 
+[ECO "A40"] 
+[EventDate "2010.09.15"] 
+ 
+1.d4 c6 2.c4 b5 3.e3 bxc4 4.Bxc4 Ba6 5.b3 Nf6 6.Nf3 e6 7.O-O d5 8.Bxa6  
+Nxa6 9.Ba3 Bxa3 10.Nxa3 Qa5 11.Nc2 c5 12.dxc5 Qxc5 13.Qe2 Qb6 14.Ne5 O-O  
+15.Rfc1 Rfc8 16.Nd4 Ne4 17.Nec6 Rc7 18.Qb5 Nac5 19.Qxb6 axb6 20.f3 Nd6 21. 
+b4 Na4 22.Kf2 Rac8 23.b5 Kf8 24.Rc2 e5 25.Nxe5 Rxc2+ 26.Nxc2 Rxc2+ 27.Kg3  
+Nxb5 28.Rb1 Nac3 29.Rb4 Ke7 30.Nc6+ Kd6 31.Nd4 Nxd4 32.exd4 b5 33.a3 Ra2  
+34.Rb3 Ne2+ 35.Kh3 Nxd4 36.Rd3 Kc5 37.Rc3+ Kd6 38.Rd3 Ne6 39.Kg4 d4 0-1 
+ 
+[Event "Open"] 
+[Site "Leuven BEL"] 
+[Date "2009.11.14"] 
+[Round "4"] 
+[White "Akesson, Ralf"] 
+[Black "Claesen, Pieter"] 
+[Result "1-0"] 
+[WhiteElo "2454"] 
+[BlackElo "2338"] 
+[ECO "A40"] 
+[EventDate "2009.11.12"] 
+ 
+1.d4 c6 2.c4 b5 3.cxb5 cxb5 4.e4 Bb7 5.f3 a6 6.Be3 e6 7.Bd3 Bd6 8.Ne2 Nc6  
+9.Nd2 Nge7 10.O-O O-O 11.Nb3 Nb4 12.Bb1 f5 13.a3 fxe4 14.fxe4 Nbc6 15. 
+Rxf8+ Qxf8 16.Qd3 Ng6 17.e5 Bc7 18.Nc5 Qc8 19.Bc2 Bb6 20.Nxb7 Qxb7 21.h4  
+Rc8 22.h5 Nf8 23.Rf1 Qb8 24.Rxf8+ Kxf8 25.Qxh7 1-0 
+ 
+[Event "1. WMSG Blitz Team"] 
+[Site "Beijing CHN"] 
+[Date "2008.10.13"] 
+[Round "11"] 
+[White "Korobov, Anton"] 
+[Black "Fier, Alexandr"] 
+[Result "1-0"] 
+[WhiteElo "2605"] 
+[BlackElo "2581"] 
+[ECO "A40"] 
+[EventDate "2008.10.13"] 
+ 
+1.d4 c6 2.c4 b5 3.c5 d6 4.cxd6 exd6 5.e4 Nf6 6.Bd3 Be7 7.Ne2 O-O 8.O-O Re8 
+9.f4 d5 10.e5 Ne4 11.Nbc3 f5 12.g4 b4 13.Na4 Rf8 14.Ng3 g6 15.gxf5 gxf5  
+16.Kh1 Kh8 17.Be3 Be6 18.Rg1 Nd7 19.Rc1 Rc8 20.Qh5 Nxg3+ 21.Rxg3 Qe8 22. 
+Qh6 Qf7 23.Be2 Bd8 24.Rcg1 Nf6 25.Rg7 Rc7 26.exf6 1-0 
+ 
+[Event "DMP Ekstraliga"] 
+[Site "Karpacz POL"] 
+[Date "2008.09.14"] 
+[Round "9"] 
+[White "Dziuba, Marcin"] 
+[Black "Praszak, Michal"] 
+[Result "1-0"] 
+[WhiteElo "2570"] 
+[BlackElo "2235"] 
+[ECO "A40"] 
+[EventDate "2008.09.06"] 
+ 
+1.d4 c6 2.c4 b5 3.cxb5 cxb5 4.e4 Bb7 5.Nd2 a6 6.Ngf3 Nf6 7.Bd3 e6 8.O-O  
+Nc6 9.Qe2 Qb6 10.d5 Nb4 11.Bb1 a5 12.Nb3 Na6 13.Be3 Nc5 14.d6 Bxd6 15.e5  
+Be7 16.exf6 gxf6 17.Nxc5 Bxc5 18.Bxc5 Qxc5 19.Be4 d5 20.Bd3 b4 21.Rac1 Qb6 
+22.Rc2 Rc8 23.Rfc1 Kd7 24.Rxc8 Bxc8 25.h4 Bb7 26.Qd2 e5 27.Bf5+ Kd6 28.Qh6 
+Ke7 29.Nxe5 1-0 
+ 
+[Event "4. Kesarovski - Georgiev Memorial"] 
+[Site "Sunny Beach BUL"] 
+[Date "2005.09.17"] 
+[Round "2"] 
+[White "Chatalbashev, Boris"] 
+[Black "Panayotov, Yanko"] 
+[Result "1-0"] 
+[WhiteElo "2499"] 
+[BlackElo "2302"] 
+[ECO "A40"] 
+[EventDate "2005.09.16"] 
+ 
+1.d4 c6 2.c4 b5 3.cxb5 cxb5 4.Bg5 h6 5.Bh4 g5 6.Bg3 Nf6 7.h4 Rg8 8.hxg5  
+hxg5 9.Nd2 Bb7 10.Rc1 d6 11.e4 Qa5 12.Bd3 Nc6 13.e5 dxe5 14.dxe5 Rd8 15. 
+Bb1 Nd5 16.e6 Nf6 17.exf7+ Kxf7 18.a3 e6 19.Nf3 Bd6 20.Bxd6 Rxd6 21.Rc5 g4 
+22.Ng5+ Ke7 23.Ne4 Nxe4 24.Bxe4 Rg7 25.Qc1 Kd7 26.b4 Qb6 27.O-O Nd4 28.Re1 
+g3 29.Bxb7 gxf2+ 30.Kxf2 Qxb7 31.Ne4 Rf7+ 32.Kg1 Rd5 33.Qe3 Rff5 34.Rd1  
+Nf3+ 35.Qxf3 Rxf3 36.Rcxd5+ Qxd5 37.Rxd5+ exd5 38.Nc5+ 1-0 
+ 
+[Event "Georgiev-Kesarovski Memorial"] 
+[Site "Sunny Beach BUL"] 
+[Date "2004.09.19"] 
+[Round "3"] 
+[White "Vasilev, Milen"] 
+[Black "Badev, Kiril"] 
+[Result "0-1"] 
+[WhiteElo "2417"] 
+[BlackElo "2282"] 
+[ECO "A40"] 
+[EventDate "2004.09.18"] 
+ 
+1.d4 c6 2.c4 b5 3.c5 d6 4.cxd6 exd6 5.g3 Nf6 6.Bg2 d5 7.Nf3 Bd6 8.O-O Nbd7 
+9.a4 O-O 10.axb5 cxb5 11.Nc3 b4 12.Nb5 Bb8 13.Bd2 Qb6 14.Qa4 a5 15.Rfc1  
+Bb7 16.e3 Bc6 17.Bf1 Ne4 18.Rc2 Nd6 19.Rxc6 Qxc6 20.Rc1 Nc4 21.Nc3 Qxa4  
+22.Nxa4 Ba7 23.Bxc4 dxc4 24.Rxc4 Rfc8 25.Rxc8+ Rxc8 26.Ne1 Nb6 27.Nxb6  
+Bxb6 28.Kf1 b3 29.Ke2 a4 30.Bb4 Ba5 31.Ba3 Rc2+ 32.Nxc2 bxc2 33.b3 Bb4 0-1 
+ 
+[Event "10. Open"] 
+[Site "Valle d'Aosta ITA"] 
+[Date "2002.02.13"] 
+[Round "5"] 
+[White "Babula, Vlastimil"] 
+[Black "Drazic, Sinisa"] 
+[Result "1-0"] 
+[WhiteElo "2551"] 
+[BlackElo "2471"] 
+[ECO "A40"] 
+[EventDate "2002.02.09"] 
+ 
+1.d4 c6 2.c4 b5 3.cxb5 cxb5 4.a4 bxa4 5.Nc3 e6 6.e4 Bb4 7.Bd3 Ne7 8.Nf3 a3 
+9.O-O axb2 10.Bxb2 Ng6 11.Nb5 O-O 12.Nxa7 Ba6 13.Bxa6 Rxa7 14.d5 Rxa6 15. 
+Qd4 e5 16.Qxb4 Rb6 17.Qa3 d6 18.Nd2 Ra6 19.Qe3 Qc8 20.Rxa6 Qxa6 21.Ra1 Qb5 
+22.Qb3 Qe2 23.Qd1 Qd3 24.Ra3 Qb5 25.Rb3 Qa4 26.Ba3 Nd7 27.Bxd6 Rc8 28.g3  
+h5 29.Rb1 Qd4 30.Rc1 Ra8 31.Qc2 h4 32.Nf3 Qa7 33.Qc7 Qa4 34.Qc6 Qa7 35.Bc7 
+Qa3 36.Qc3 Qe7 37.Ra1 Rc8 38.Ra6 Qc5 39.Rc6 Qb5 40.Bd6 Qb1+ 41.Qe1 Qb7 42. 
+Qc1 Re8 43.Rc7 Qb5 44.Ng5 Nf6 45.Rc8 h3 46.Ba3 Qd3 47.Bb4 Qb3 48.Be1 Qa4  
+49.Qc6 Qxc6 50.Rxc6 Ra8 51.f3 Ra1 52.Kf1 Ra2 53.Bf2 Ra1+ 54.Be1 Ra2 55.Bf2 
+Ra1+ 56.Ke2 Rh1 57.Rc8+ Nf8 58.Bc5 Nd7 59.Bxf8 Rxh2+ 60.Ke3 Nxf8 61.d6 Rh1 
+62.d7 Re1+ 63.Kd2 h2 64.Rxf8+ 1-0 

@@ -1,0 +1,41 @@
+ 
+[Event "Czech Open GMA"] 
+[Site "Pardubice CZE"] 
+[Date "2007.07.25"] 
+[Round "6"] 
+[White "Jakubiec, Artur"] 
+[Black "Priborsky, Ivo"] 
+[Result "1-0"] 
+[WhiteElo "2541"] 
+[BlackElo "2339"] 
+[ECO "C30"] 
+[EventDate "2007.07.20"] 
+ 
+1.f4 e5 2.e4 Qh4+ 3.g3 Qe7 4.Nc3 exf4 5.d4 fxg3 6.hxg3 d5 7.Bf4 c6 8.Qe2  
+Be6 9.O-O-O Nf6 10.e5 Nfd7 11.Nf3 Na6 12.Ng5 O-O-O 13.Nxe6 fxe6 14.Qg4 Qf7 
+15.Bd3 Be7 16.Rhf1 h5 17.Bg6 hxg4 18.Bxf7 Nc7 19.Bg6 Rdf8 20.Ne2 c5 21.Rh1 
+Rh3 22.c3 Rfh8 23.Rhf1 Nf8 24.Bd3 c4 25.Bc2 Rh2 26.Rde1 Kd7 27.Be3 g5 28. 
+Rf7 Rg8 29.Kd1 Ke8 30.Ref1 b5 31.b3 a6 32.Bc1 Kd8 33.Ke1 a5 34.Bd2 Ng6 35. 
+Kd1 Nh8 36.R7f2 Rh3 37.a4 cxb3 38.Bxb3 bxa4 39.Bxa4 Na8 40.c4 dxc4 41. 
+Bxa5+ Kc8 42.Kd2 Kb7 43.Bb5 Nc7 44.Bxc4 Nd5 45.Rb1+ Ka7 46.Ra1 Kb7 47.Rff1 
+Ra8 48.Rfb1+ Kc8 49.Nc3 Rh2+ 50.Kd3 Nc7 51.Bxc7 Rxa1 52.Bxe6+ Kxc7 53.Nd5+ 
+1-0 
+ 
+[Event "Autumn I"] 
+[Site "Alushta UKR"] 
+[Date "2002.09.18"] 
+[Round "6"] 
+[White "Obukhov, Alexander"] 
+[Black "Solovjov, Sergey I"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2444"] 
+[BlackElo "2457"] 
+[ECO "C30"] 
+[EventDate "2002.09.15"] 
+ 
+1.f4 e5 2.e4 Qh4+ 3.g3 Qe7 4.fxe5 d6 5.Nc3 dxe5 6.Nf3 Nf6 7.d3 Nc6 8.Bg5  
+Qb4 9.Rb1 h6 10.Bxf6 gxf6 11.Nd2 Be6 12.Nd5 Bxd5 13.exd5 Ne7 14.Qf3 O-O-O  
+15.Qxf6 Rg8 16.c4 Qa4 17.a3 Rg6 18.Qxf7 c6 19.Bh3+ Kb8 20.Be6 cxd5 21.cxd5 
+Qd4 22.Ke2 Rxe6 23.Qxe6 Nxd5 24.Qf5 Bc5 25.Nc4 Re8 26.Qg6 Qf2+ 27.Kd1 Rd8  
+28.Re1 Ne3+ 29.Rxe3 Bxe3 30.Qe4 Bd4 31.Qe2 Qf7 32.a4 Qd7 33.b3 Rf8 34.Nxe5 
+Bxe5 35.Qxe5+ Ka8 36.Kd2 Rf2+ 37.Ke3 Rf8 1/2-1/2 

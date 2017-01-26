@@ -1,0 +1,128 @@
+ 
+[Event "2. Maremma Open"] 
+[Site "Grosseto ITA"] 
+[Date "2013.05.11"] 
+[Round "5"] 
+[White "Lazic, Miroljub"] 
+[Black "Delfino, Luigi"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2476"] 
+[BlackElo "2210"] 
+[ECO "B26"] 
+[EventDate "2013.05.09"] 
+ 
+1.g3 c5 2.e4 Nc6 3.Bg2 g6 4.Nc3 Bg7 5.d3 d6 6.Be3 Rb8 7.a4 a6 8.f4 Nh6 9. 
+h3 f5 10.Nf3 O-O 11.O-O Nd4 12.Ng5 Kh8 13.Qd2 Nf7 14.Nxf7+ Rxf7 15.Nd1 b5  
+16.axb5 axb5 17.Nf2 b4 18.Rae1 e6 19.c3 Nb3 20.Qc2 bxc3 21.bxc3 Qa5  
+1/2-1/2 
+ 
+[Event "Bar MNE, Open Nov 2010"] 
+[Site "Bar MNE"] 
+[Date "2010.11.20"] 
+[Round "4"] 
+[White "Lazic, Miroljub"] 
+[Black "Djukanovic, Sreten"] 
+[Result "1-0"] 
+[WhiteElo "2480"] 
+[BlackElo "2307"] 
+[ECO "B24"] 
+[EventDate "2010.11.18"] 
+ 
+1.g3 c5 2.e4 Nc6 3.Bg2 g6 4.Nc3 Bg7 5.d3 Rb8 6.a4 d6 7.f4 e6 8.Nf3 Nge7 9. 
+O-O O-O 10.Be3 Nd4 11.Bf2 Nec6 12.Nh4 f5 13.Nb1 Qb6 14.Nd2 Qxb2 15.Rb1  
+Qxc2 16.Qxc2 Nxc2 17.exf5 N6b4 18.fxg6 h6 19.Ne4 Nxd3 20.Nxd6 Nxf2 21.Nxc8 
+Rfxc8 22.Kxf2 c4 23.Bxb7 Rd8 24.Be4 Rd2+ 25.Kg1 Bd4+ 26.Kh1 Rxb1 27.Rxb1  
+Re2 28.Rb8+ Kg7 29.Rb7+ Kg8 30.Bxc2 Rxc2 31.f5 Rb2 32.Rc7 c3 33.fxe6 Rb1+  
+34.Kg2 1-0 
+ 
+[Event "29. Mem Nezhmetdinov"] 
+[Site "Kazan RUS"] 
+[Date "2007.06.09"] 
+[Round "9"] 
+[White "Isajevsky, Anton"] 
+[Black "Kutlaev, Maxim"] 
+[Result "0-1"] 
+[WhiteElo "2466"] 
+[BlackElo "2242"] 
+[ECO "B20"] 
+[EventDate "2007.06.01"] 
+ 
+1.g3 c5 2.e4 Nc6 3.Bg2 g6 4.Ne2 Bg7 5.c3 e5 6.a3 b6 7.b4 Ba6 8.O-O Bd3 9. 
+Bb2 Nf6 10.Re1 Bxe4 11.Bxe4 Nxe4 12.Nf4 O-O 13.Rxe4 d5 14.Nxd5 Qxd5 15.Re1 
+e4 16.c4 Qxc4 17.Nc3 f5 18.Rc1 Qf7 19.f3 Ne5 0-1 
+ 
+[Event "Sunny Pawn B"] 
+[Site "Illichevsk UKR"] 
+[Date "2006.07.28"] 
+[Round "9"] 
+[White "Romcovici, Victor"] 
+[Black "Voicu-Jagodzinsky, Carmen"] 
+[Result "0-1"] 
+[WhiteElo "2310"] 
+[BlackElo "2286"] 
+[ECO "B20"] 
+[EventDate "2006.07.20"] 
+ 
+1.g3 c5 2.e4 Nc6 3.Bg2 g6 4.d3 Bg7 5.f4 d6 6.c3 e5 7.Nf3 Nge7 8.Na3 O-O 9. 
+O-O b6 10.Nc2 Ba6 11.Rf2 Rc8 12.Bh3 Rc7 13.f5 Bc8 14.g4 d5 15.Qe1 f6 16. 
+Bf1 c4 17.exd5 Na5 18.fxg6 hxg6 19.g5 Nxd5 20.dxc4 Nxc4 21.b3 Nd6 22.Ba3  
+Nxc3 23.Bxd6 Qxd6 24.Bc4+ Rxc4 25.bxc4 Qd3 26.Ne3 Bb7 27.Rc1 Ne4 28.Rf1  
+fxg5 29.Rd1 Qa3 30.Nd5 Qc5+ 31.Kh1 Qxc4 32.Ne7+ Kh7 33.Rd7 Nf2+ 34.Rxf2  
+Bxf3+ 35.Rxf3 Rxf3 36.Rd1 e4 37.Nd5 Rd3 38.Ne3 Qxa2 39.Rxd3 exd3 40.Qg3  
+Qe6 41.Qxg5 Bh6 0-1 
+ 
+[Event "It \"] 
+[Site "Ilyichevsk UKR"] 
+[Date "2006.07.28"] 
+[Round "9"] 
+[White "Romcovici, Victor"] 
+[Black "Voicu-Jagodzinsky, Carmen"] 
+[Result "0-1"] 
+[WhiteElo "2310"] 
+[BlackElo "2286"] 
+[ECO "B20"] 
+ 
+1.g3 c5 2.e4 Nc6 3.Bg2 g6 4.d3 Bg7 5.f4 d6 6.c3 e5 7.Nf3 Nge7 8.Na3 O-O 9. 
+O-O b6 10.Nc2 Ba6 11.Rf2 Rc8 12.Bh3 Rc7 13.f5 Bc8 14.g4 d5 15.Qe1 f6 16. 
+Bf1 c4 17.exd5 Na5 18.fxg6 hxg6 19.g5 Nxd5 20.dxc4 Nxc4 21.b3 Nd6 22.Ba3  
+Nxc3 23.Bxd6 Qxd6 24.Bc4+ Rxc4 25.bxc4 Qd3 26.Ne3 Bb7 27.Rc1 Ne4 28.Rf1  
+fxg5 29.Rd1 Qa3 30.Nd5 Qc5+ 31.Kh1 Qxc4 32.Ne7+ Kh7 33.Rd7 Nf2+ 34.Rxf2  
+Bxf3+ 35.Rxf3 Rxf3 36.Rd1 e4 37.Nd5 Rd3 38.Ne3 Qxa2 39.Rxd3 exd3 40.Qg3  
+Qe6 41.Qxg5 Bh6 0-1 
+ 
+[Event "TCh-AUT B Mitte 2003-4"] 
+[Site "St Veit AUT"] 
+[Date "2003.11.09"] 
+[Round "2"] 
+[White "Stuhlik, Marko"] 
+[Black "Hebesberger, Thomas"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2277"] 
+[BlackElo "2307"] 
+[ECO "B24"] 
+[EventDate "2003.11.01"] 
+ 
+1.g3 c5 2.e4 Nc6 3.Bg2 g6 4.Nc3 Bg7 5.Nf3 Nh6 6.h4 d6 7.h5 Bg4 8.d3 Qd7 9. 
+Bxh6 Bxh6 10.hxg6 hxg6 11.Qc1 Bg7 12.Rxh8+ Bxh8 13.Qh6 O-O-O 14.Ng5 Bf6  
+15.f3 1/2-1/2 
+ 
+[Event "2. IECC"] 
+[Site "Ohrid MKD"] 
+[Date "2001.06.13"] 
+[Round "12"] 
+[White "Blatny, Pavel"] 
+[Black "Petkovski, Vlatko"] 
+[Result "1-0"] 
+[WhiteElo "2547"] 
+[BlackElo "2265"] 
+[ECO "B25"] 
+[EventDate "2001.06.05"] 
+ 
+1.g3 c5 2.e4 Nc6 3.Bg2 g6 4.Nc3 Bg7 5.d3 d6 6.f4 e6 7.Nf3 Nge7 8.O-O O-O  
+9.Kh1 Rb8 10.a4 a6 11.Qe1 f5 12.Nd1 Bd7 13.Ne3 b5 14.axb5 axb5 15.Nh4 Nd4  
+16.Qd1 b4 17.Nf3 Nec6 18.Nd2 Na5 19.g4 fxg4 20.Qxg4 b3 21.c3 Nc2 22.Nxc2  
+bxc2 23.Ra3 c4 24.dxc4 Qc7 25.Qe2 Rfc8 26.Qd3 Bh6 27.Qxc2 Rf8 28.b4 Nxc4  
+29.Nxc4 Qxc4 30.Ra7 Bc6 31.Qa2 Qxa2 32.Rxa2 e5 33.f5 Bxc1 34.Rxc1 gxf5 35. 
+exf5 Bxg2+ 36.Rxg2+ Kf7 37.Rd1 Rb6 38.Rg3 Kf6 39.Rh3 Rc8 40.Rf1 e4 41.Rh6+ 
+Kg5 42.Rxh7 Rxc3 43.f6 Rc8 44.Rg7+ Kh6 45.Rfg1 Rb5 46.R7g6+ Kh7 47.R6g4  
+Rh5 48.Rg7+ Kh8 49.f7 1-0 

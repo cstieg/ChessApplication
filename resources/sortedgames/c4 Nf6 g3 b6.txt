@@ -1,0 +1,35 @@
+ 
+[Event "Kecskemet GM Jan 2016"] 
+[Site "Kecskemet HUN"] 
+[Date "2016.01.26"] 
+[Round "4.4"] 
+[White "To, N"] 
+[Black "Radlovacki, Jovan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2317"] 
+[BlackElo "2347"] 
+[ECO "A15"] 
+[EventDate "2016.01.22"] 
+ 
+1.c4 Nf6 2.g3 b6 3.Bg2 c6 4.e4 e5 5.d4 Bb4+ 6.Bd2 Bxd2+ 7.Qxd2 d6 8.Nc3  
+Ba6 9.b3 O-O 10.Nge2 b5 11.cxb5 cxb5 12.O-O b4 13.Nd5 Nxd5 14.exd5 Bxe2  
+15.Qxe2 exd4 16.Qd2 Qb6 17.Rfc1 Nd7 18.Rc6 Qb8 19.Qxd4 Ne5 20.Rac1 a5 21. 
+Rc7 a4 22.f4 axb3 23.axb3 Ng4 24.Bf3 Nh6 25.R7c4 Nf5 26.Qd2 Ra3 27.Rxb4  
+Qa7+ 28.Qf2 Ne3 29.Ra4 Rxa4 30.bxa4 Re8 31.Re1 f5 32.Kh1 Qc5 33.Qd2 Re7  
+34.Qc1 Qd4 35.Qc8+ Kf7 36.a5 g6 37.Qc1 Qd3 38.a6 Qxa6 39.Qc3 Kg8 40.Rb1  
+Ng4 41.Re1 Re3 42.Qb4 Qd3 43.Rc1 Kg7 44.Bg2 Re2 45.Qxd6 Nf2+ 46.Kg1 Nh3+  
+47.Kh1 Nf2+ 1/2-1/2 
+ 
+[Event "Helmut Kohls IM"] 
+[Site "Dortmund GER"] 
+[Date "2009.07.12"] 
+[Round "9"] 
+[White "Trella, Thomas"] 
+[Black "Eismont, Oleg"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2371"] 
+[BlackElo "2326"] 
+[ECO "A15"] 
+[EventDate "2009.07.03"] 
+ 
+1.c4 Nf6 2.g3 b6 3.Bg2 c6 4.Nf3 e6 5.d4 d5 6.O-O Be7 1/2-1/2 

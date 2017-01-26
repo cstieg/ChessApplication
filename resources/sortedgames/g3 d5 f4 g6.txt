@@ -1,0 +1,98 @@
+ 
+[Event "37. Badalona Open A"] 
+[Site "Badalona ESP"] 
+[Date "2011.08.07"] 
+[Round "7"] 
+[White "Karlsson, Lars"] 
+[Black "Buchenau, Frank"] 
+[Result "1-0"] 
+[WhiteElo "2482"] 
+[BlackElo "2237"] 
+[ECO "A03"] 
+[EventDate "2011.08.01"] 
+ 
+1.g3 d5 2.f4 g6 3.Bg2 Bg7 4.Nf3 Nf6 5.d3 O-O 6.O-O c5 7.Nc3 d4 8.Ne4 Nxe4  
+9.dxe4 Nc6 10.e5 Qb6 11.Kh1 Rd8 12.h3 f6 13.Nh4 f5 14.Nf3 Be6 15.Ng5 Bd5  
+16.Bxd5+ Rxd5 17.g4 Qd8 18.gxf5 gxf5 19.e4 dxe3 20.Qh5 h6 21.Ne6 e2 22. 
+Qxe2 Nd4 23.Nxd4 cxd4 24.Rg1 e6 25.Qh5 Rc5 26.Bd2 Qd5+ 27.Kh2 Rxc2 28. 
+Rxg7+ Kxg7 29.Rg1+ Kf8 30.Qxh6+ Ke8 31.Rg7 Rxd2+ 32.Kg1 Rd1+ 33.Kf2 Rd2+  
+34.Ke1 Qe4+ 35.Kxd2 Qe3+ 36.Kd1 Qf3+ 37.Ke1 Qe3+ 38.Kf1 Qc1+ 39.Kf2 Qd2+  
+40.Kg1 Qd1+ 41.Kh2 1-0 
+ 
+[Event "4NCL 2005-6"] 
+[Site "Birmingham ENG"] 
+[Date "2005.10.23"] 
+[Round "2"] 
+[White "Lund, D Brett"] 
+[Black "Webster, Andrew A"] 
+[Result "1-0"] 
+[WhiteElo "2231"] 
+[BlackElo "2411"] 
+[ECO "A03"] 
+[EventDate "2005.10.22"] 
+ 
+1.g3 d5 2.f4 g6 3.Bg2 Bg7 4.Nf3 Nd7 5.Nc3 c6 6.e4 dxe4 7.Nxe4 Ndf6 8.Neg5  
+h6 9.Nh3 Bg4 10.Nf2 Bxf3 11.Qxf3 e6 12.O-O a5 13.c3 h5 14.d4 Nh6 15.Nd3 h4 
+16.Ne5 hxg3 17.hxg3 Nf5 18.Be3 Nxe3 19.Qxe3 Nd5 20.Qe2 Qd6 21.Rad1 Rd8 22. 
+Rfe1 O-O 23.Qf2 a4 24.a3 Ra8 25.g4 Rac8 26.Rd3 Rfd8 27.Red1 b5 28.R3d2 g5  
+29.Bxd5 cxd5 30.Rf1 Rf8 31.Re2 gxf4 32.Qxf4 f6 33.Nd3 Qd7 34.Nc5 Rxc5 35. 
+dxc5 e5 36.Qf3 Qc6 37.Qf2 Qc8 38.Qf5 Qxc5+ 39.Kg2 Qc4 40.Rd2 Rf7 41.g5 Qc6 
+42.Kg3 b4 43.cxb4 Rc7 44.Rff2 Qd6 45.Rc2 e4+ 46.Kg2 1-0 
+ 
+[Event "Ch England (team) 2005/06"] 
+[Site "England"] 
+[Date "2005.10.23"] 
+[Round "2"] 
+[White "Lund, D Brett"] 
+[Black "Webster, Andrew A"] 
+[Result "1-0"] 
+[WhiteElo "2231"] 
+[BlackElo "2411"] 
+[ECO "A03"] 
+ 
+1.g3 d5 2.f4 g6 3.Bg2 Bg7 4.Nf3 Nd7 5.Nc3 c6 6.e4 dxe4 7.Nxe4 Ndf6 8.Neg5  
+h6 9.Nh3 Bg4 10.Nf2 Bxf3 11.Qxf3 e6 12.O-O a5 13.c3 h5 14.d4 Nh6 15.Nd3 h4 
+16.Ne5 hxg3 17.hxg3 Nf5 18.Be3 Nxe3 19.Qxe3 Nd5 20.Qe2 Qd6 21.Rad1 Rd8 22. 
+Rfe1 O-O 23.Qf2 a4 24.a3 Ra8 25.g4 Rac8 26.Rd3 Rfd8 27.Red1 b5 28.R3d2 g5  
+29.Bxd5 cxd5 30.Rf1 Rf8 31.Re2 gxf4 32.Qxf4 f6 33.Nd3 Qd7 34.Nc5 Rxc5 35. 
+dxc5 e5 36.Qf3 Qc6 37.Qf2 Qc8 38.Qf5 Qxc5+ 39.Kg2 Qc4 40.Rd2 Rf7 41.g5 Qc6 
+42.Kg3 b4 43.cxb4 Rc7 44.Rff2 Qd6 45.Rc2 e4+ 46.Kg2 1-0 
+ 
+[Event "AUT, 2. Bundesliga Ost 2003/04"] 
+[Site "AUT"] 
+[Date "2003.12.07"] 
+[Round "6"] 
+[White "Rumpl, Erwin"] 
+[Black "Schneider-Zinner, Harald"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2254"] 
+[BlackElo "2347"] 
+[ECO "A03"] 
+[EventDate "2004.02.28"] 
+ 
+1.g3 d5 2.f4 g6 3.Nf3 Bg7 4.Bg2 Nf6 5.O-O O-O 6.d3 c5 7.Qe1 d4 8.Na3 Nc6  
+9.c4 Rb8 10.Bd2 b6 11.Nc2 Bb7 12.b4 e6 13.b5 Ne7 14.a4 Nf5 15.Ne5 Bxg2 16. 
+Kxg2 Qc7 17.Qf2 Ne7 18.a5 Nd7 19.Nxd7 Qxd7 20.Ra2 Nc8 21.axb6 axb6 22.Rfa1 
+Re8 23.Ne1 Rb7 24.Nf3 Qd6 25.Ra8 Rbe7 26.R1a3 Qc7 27.Kf1 f6 28.Qg2 Qb7 29. 
+Ng1 Qc7 30.R3a6 Kf7 31.Nf3 Qb7 32.Ng1 Qc7 1/2-1/2 
+ 
+[Event "IEWCC"] 
+[Site "Istanbul TUR"] 
+[Date "2003.06.14"] 
+[Round "11"] 
+[White "Michna, Marta"] 
+[Black "Makka, Ioulia"] 
+[Result "1-0"] 
+[WhiteElo "2430"] 
+[BlackElo "2234"] 
+[ECO "A03"] 
+[EventDate "2003.06.02"] 
+ 
+1.g3 d5 2.f4 g6 3.Bg2 Bg7 4.Nf3 Nf6 5.O-O O-O 6.e3 Nbd7 7.Qe2 c5 8.Nc3 b6  
+9.Ne5 Bb7 10.d3 Qc7 11.Nxd7 Qxd7 12.e4 dxe4 13.dxe4 Rad8 14.h3 Qc8 15.Re1  
+Qa8 16.a4 a6 17.Kh2 e6 18.Ra3 Bc6 19.Rb3 Nd7 20.e5 Bxg2 21.Qxg2 Qxg2+ 22. 
+Kxg2 Rc8 23.Ne4 Rfd8 24.c4 Rb8 25.Rd1 Kf8 26.a5 Ke7 27.axb6 Nxb6 28.Rxd8  
+Kxd8 29.Nxc5 Kc8 30.Nxa6 Rb7 31.Nc5 Rb8 32.Ne4 Bf8 33.Be3 Na4 34.Rxb8+  
+Kxb8 35.Bd4 Kc7 36.b3 Nb6 37.Ng5 Nd7 38.Nxf7 h6 39.Kf3 Nb8 40.Nh8 Nc6 41. 
+Ke4 g5 42.fxg5 hxg5 43.Nf7 Be7 44.Be3 g4 45.hxg4 Na5 46.g5 Kd7 47.g6 Bf8  
+48.Bh6 Ke7 49.Bxf8+ Kxf8 50.Nd8 Kg7 51.Nxe6+ Kxg6 52.Nd4 1-0 

@@ -1,0 +1,38 @@
+ 
+[Event "83. ch-GER 2012"] 
+[Site "Osterburg GER"] 
+[Date "2012.03.06"] 
+[Round "5"] 
+[White "Schulz, Karsten"] 
+[Black "Degtiarev, Evgeny"] 
+[Result "0-1"] 
+[WhiteElo "2289"] 
+[BlackElo "2342"] 
+[ECO "A07"] 
+[EventDate "2012.03.02"] 
+ 
+1.Nf3 d5 2.g3 b5 3.Bg2 Nf6 4.d3 Bb7 5.O-O e6 6.c4 bxc4 7.dxc4 c5 8.cxd5  
+exd5 9.Nh4 Qc8 10.Bg5 Ne4 11.Be3 Be7 12.Nc3 Nxc3 13.bxc3 g5 14.Nf3 f6 15. 
+Qb3 Nd7 16.Rfd1 Nb6 17.Rab1 Bc6 18.Qa3 Nc4 19.Qc1 Qe6 20.Bd2 O-O 21.Be1  
+Qxe2 22.Nd2 Ne5 23.Nb3 Nf3+ 24.Kh1 d4 25.Rb2 Qa6 26.Nd2 Ne5 27.Qc2 d3 28. 
+Qb1 Bxg2+ 29.Kxg2 Qc6+ 30.Kg1 c4 31.Rb7 Bd6 32.Qb5 Qxb5 33.Rxb5 g4 34.Ne4  
+Nf3+ 35.Kg2 Be5 36.Nd2 Nxe1+ 37.Rxe1 Bxc3 38.Re7 Bxd2 39.Rbb7 Bh6 40.Rxh7  
+d2 0-1 
+ 
+[Event "Open"] 
+[Site "Baku AZE"] 
+[Date "2009.09.23"] 
+[Round "3"] 
+[White "Pantsulaia, Levan"] 
+[Black "Khurtsidze, Nino"] 
+[Result "0-1"] 
+[WhiteElo "2600"] 
+[BlackElo "2420"] 
+[ECO "A07"] 
+[EventDate "2009.09.21"] 
+ 
+1.Nf3 d5 2.g3 b5 3.Bg2 Nf6 4.a4 b4 5.c4 bxc3 6.bxc3 e6 7.O-O Ba6 8.d3 Be7  
+9.Nbd2 Nbd7 10.Nd4 Bb7 11.c4 c5 12.N4b3 O-O 13.Ba3 Rc8 14.Qb1 Bc6 15.a5 d4 
+16.Bxc6 Rxc6 17.Qa2 e5 18.Bc1 h5 19.Qa4 Qc8 20.Ba3 h4 21.Nf3 Ng4 22.Nbd2  
+Rg6 23.Rab1 Ndf6 24.Kg2 Ne3+ 25.fxe3 Qg4 26.Rg1 Qxg3+ 27.Kf1 Qh3+ 28.Kf2  
+Ne4+ 29.Nxe4 0-1 

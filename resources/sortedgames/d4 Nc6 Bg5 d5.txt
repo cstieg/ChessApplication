@@ -1,0 +1,75 @@
+ 
+[Event "TV 2 Chess International"] 
+[Site "Fagernes NOR"] 
+[Date "2016.01.02"] 
+[Round "8.5"] 
+[White "Turner, Matthew J"] 
+[Black "Hansen, Torbjorn Ringdal"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2493"] 
+[BlackElo "2472"] 
+[ECO "A40"] 
+[EventDate "2015.12.27"] 
+ 
+1.d4 Nc6 2.Bg5 d5 3.e3 f6 4.Bh4 Nh6 5.c4 e5 6.dxe5 Bb4+ 7.Nc3 d4 8.exd4  
+Qxd4 9.Qxd4 Nxd4 10.O-O-O Bxc3 11.bxc3 Ndf5 12.Bg3 Nxg3 13.hxg3 fxe5 14. 
+Nf3 Ng4 15.Rd2 O-O 16.c5 g6 17.Bc4+ Kg7 18.Ng5 h6 19.Ne4 Bf5 20.f3 Rad8  
+21.Re1 Nf6 22.Nxf6 Kxf6 23.Rb2 b6 24.Rbe2 Bd3 25.Bxd3 Rxd3 26.Kc2 Rd5 27. 
+cxb6 axb6 28.Re4 Ra8 29.a4 h5 30.g4 h4 31.g5+ Kxg5 32.Rg4+ Kf5 33.Rxh4  
+Rda5 34.Rc4 Rxa4 35.g4+ Kf6 36.Rxc7 Ra2+ 37.Kd3 Rd8+ 38.Ke3 Rd6 39.Rb1 Rc2 
+40.Rb5 Ke6 41.f4 exf4+ 42.Kxf4 Rf2+ 43.Kg5 Rf7 44.Rc4 Kd7 45.Rd4 Rxd4 46. 
+cxd4 Kc6 47.Rb4 b5 48.Kxg6 Ra7 49.Kf6 Ra4 50.d5+ Kd6 51.Rxb5 1/2-1/2 
+ 
+[Event "TCh-Extraliga 2012-13"] 
+[Site "Slovakia SVK"] 
+[Date "2013.03.03"] 
+[Round "11.5"] 
+[White "Stocek, Jiri"] 
+[Black "Petenyi, Tamas"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2557"] 
+[BlackElo "2457"] 
+[ECO "A40"] 
+[EventDate "2012.10.27"] 
+ 
+1.d4 Nc6 2.Bg5 d5 3.e3 f6 4.Bh4 e5 5.Bb5 exd4 6.exd4 Qe7+ 7.Ne2 Bd7 8.Nc3  
+Qf7 9.Bg3 O-O-O 10.Ba4 Nce7 11.Bxd7+ Rxd7 12.Qd3 Nh6 13.O-O-O Nhf5 14.Na4  
+Nxg3 15.hxg3 Ng6 16.f4 Bd6 17.Nc5 Bxc5 18.dxc5 c6 19.Nd4 Kb8 20.Nf5 Ne7  
+21.Nd6 Qg6 22.Qe3 Nc8 23.f5 Qg5 24.Qxg5 fxg5 25.Nxc8 Kxc8 26.Rde1 Kd8 27. 
+Kd2 h6 28.Re6 Rf8 29.f6 Rxf6 1/2-1/2 
+ 
+[Event "XVIII Open"] 
+[Site "Montcada i Reixac ESP"] 
+[Date "2010.06.30"] 
+[Round "6"] 
+[White "Bhat, Vinay S"] 
+[Black "Cotonnec, Melkior"] 
+[Result "1-0"] 
+[WhiteElo "2547"] 
+[BlackElo "2296"] 
+[ECO "A40"] 
+[EventDate "2010.06.25"] 
+ 
+1.d4 Nc6 2.Bg5 d5 3.Nf3 Bg4 4.e3 f6 5.Bh4 e6 6.h3 Bh5 7.Nbd2 Bd6 8.g4 Bg6  
+9.a3 h5 10.g5 Nce7 11.Rg1 Qd7 12.c4 c6 13.Qa4 Kf7 14.Qb3 Rc8 15.Bd3 Bxd3  
+16.gxf6 gxf6 17.Qxd3 Nf5 18.e4 Nxh4 19.Nxh4 Ne7 20.O-O-O Rcg8 21.Rxg8 Rxg8 
+22.Qf3 Rg5 23.e5 Nf5 24.Qf4 Be7 25.Ndf3 Rg7 26.Nxf5 exf5 27.c5 Kg8 28.Re1  
+fxe5 29.Rxe5 Bd8 30.Rxf5 Qe8 31.Ne5 Bc7 32.Kb1 Bxe5 33.dxe5 Qg6 34.Ka2 d4  
+35.a4 a5 36.Rf8+ Kh7 37.Qxd4 Qe6+ 38.b3 Qg6 39.Kb2 1-0 
+ 
+[Event "29. World Open"] 
+[Site "Philadelphia, PA USA"] 
+[Date "2001.07.06"] 
+[Round "4"] 
+[White "Finegold, Benjamin"] 
+[Black "Gonzales, Jayson"] 
+[Result "1-0"] 
+[WhiteElo "2511"] 
+[BlackElo "2396"] 
+[ECO "A40"] 
+[EventDate "2001.06.30"] 
+ 
+1.d4 Nc6 2.Bg5 d5 3.e3 Bf5 4.Nf3 f6 5.Bh4 e6 6.a3 Nge7 7.c4 Bg4 8.Nc3 a6  
+9.cxd5 exd5 10.Bd3 Qd7 11.Rc1 Bf5 12.Bg3 Bg6 13.O-O Nf5 14.Bxf5 Bxf5 15. 
+Qb3 O-O-O 16.Na4 Re8 17.Nc5 Bxc5 18.Rxc5 Rd8 19.Rfc1 Rhe8 20.Qc3 Qf7 21. 
+Rxc6 bxc6 22.Qxc6 Re7 23.Qxa6+ Kd7 24.Bxc7 1-0 

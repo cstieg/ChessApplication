@@ -1,0 +1,63 @@
+ 
+[Event "FSGM July"] 
+[Site "Budapest HUN"] 
+[Date "2006.07.07"] 
+[Round "7"] 
+[White "Chernyshov, Konstantin"] 
+[Black "Le Quang, Kim"] 
+[Result "0-1"] 
+[WhiteElo "2544"] 
+[BlackElo "2315"] 
+[ECO "A03"] 
+[EventDate "2006.07.01"] 
+ 
+1.f4 d5 2.b3 g6 3.Bb2 Nf6 4.e3 Bg7 5.Nf3 O-O 6.Be2 c5 7.O-O Nc6 8.Ne5 Qc7  
+9.Bf3 Bf5 10.Nxc6 Qxc6 11.Be5 Rfd8 12.Nc3 Qd7 13.Ne2 Be4 14.Ng3 Bxf3 15. 
+Qxf3 e6 16.d3 Rac8 17.Rad1 b5 18.e4 Qc6 19.Rde1 c4 20.Re2 cxd3 21.cxd3 h5  
+22.h3 h4 23.Nh1 dxe4 24.dxe4 Nh5 25.Bxg7 Kxg7 26.Qf2 Qc5 27.Re3 Qd4 28. 
+Rfe1 Rc3 29.Rxc3 Qxc3 30.Qxh4 Nxf4 31.e5 Nh5 32.g4 Rd4 33.Rf1 Qc5 34.Qf2  
+Nf4 35.Qe3 Rd2 36.Re1 Qd5 37.Qe4 Nxh3+ 38.Kf1 Rh2 39.Qxd5 exd5 40.Re3 d4  
+41.Rg3 d3 0-1 
+ 
+[Event "It (cat.7)"] 
+[Site "Budapest HUN"] 
+[Date "2006.07.07"] 
+[Round "7"] 
+[White "Chernyshov, Konstantin"] 
+[Black "Le, Quang Liem"] 
+[Result "0-1"] 
+[WhiteElo "2544"] 
+[BlackElo "2472"] 
+[ECO "A03"] 
+ 
+1.f4 d5 2.b3 g6 3.Bb2 Nf6 4.e3 Bg7 5.Nf3 O-O 6.Be2 c5 7.O-O Nc6 8.Ne5 Qc7  
+9.Bf3 Bf5 10.Nxc6 Qxc6 11.Be5 Rfd8 12.Nc3 Qd7 13.Ne2 Be4 14.Ng3 Bxf3 15. 
+Qxf3 e6 16.d3 Rac8 17.Rad1 b5 18.e4 Qc6 19.Rde1 c4 20.Re2 cxd3 21.cxd3 h5  
+22.h3 h4 23.Nh1 dxe4 24.dxe4 Nh5 25.Bxg7 Kxg7 26.Qf2 Qc5 27.Re3 Qd4 28. 
+Rfe1 Rc3 29.Rxc3 Qxc3 30.Qxh4 Nxf4 31.e5 Nh5 32.g4 Rd4 33.Rf1 Qc5 34.Qf2  
+Nf4 35.Qe3 Rd2 36.Re1 Qd5 37.Qe4 Nxh3+ 38.Kf1 Rh2 39.Qxd5 exd5 40.Re3 d4  
+41.Rg3 d3 0-1 
+ 
+[Event "IEWCC"] 
+[Site "Istanbul TUR"] 
+[Date "2003.06.02"] 
+[Round "1"] 
+[White "Sikorova, Olga"] 
+[Black "Cmilyte, Viktorija"] 
+[Result "0-1"] 
+[WhiteElo "2261"] 
+[BlackElo "2430"] 
+[ECO "A03"] 
+[EventDate "2003.06.02"] 
+ 
+1.f4 d5 2.b3 g6 3.Bb2 Nf6 4.Nf3 Bg7 5.e3 c5 6.Bb5+ Nbd7 7.O-O O-O 8.Bxd7  
+Qxd7 9.Qe1 b6 10.d3 Bb7 11.Nbd2 Rad8 12.Qh4 d4 13.e4 Ng4 14.Nc4 b5 15.Nce5 
+Nxe5 16.Nxe5 Qc7 17.a4 a6 18.Rf3 Bc8 19.Qg3 f6 20.Ng4 Bxg4 21.Qxg4 f5 22. 
+exf5 Rxf5 23.axb5 axb5 24.g3 Rdf8 25.Raf1 c4 26.bxc4 bxc4 27.R3f2 c3 28. 
+Bc1 Qc6 29.Ba3 Re8 30.Re1 e5 31.Qf3 Qxf3 32.Rxf3 Ra8 33.Bd6 exf4 34.Rxf4  
+Rd5 35.Be7 Bh6 36.Rfe4 Be3+ 37.Kg2 Ra2 38.Re2 Ra1 39.h4 Rg1+ 40.Kh2 Rd1  
+41.Bf6 Rd2 42.Rg2 h6 43.Be5 Kf7 44.Bf4 Bxf4 45.Rxf4+ Ke6 46.Rff2 Rd1 47. 
+Re2+ Re5 48.Rxe5+ Kxe5 49.Re2+ Kd5 50.Kg2 Kc5 51.Kf3 Kd5 52.Kf2 h5 53.Kf3  
+Rf1+ 54.Kg2 Rc1 55.Kf3 Kc5 56.Ke4 Rg1 57.Kf3 Kb4 58.Re4 Ka3 59.Rxd4 Kb2  
+60.Rd6 Kxc2 61.Rxg6 Kd2 62.Rc6 c2 63.d4 c1=Q 64.Rxc1 Rxc1 65.g4 Kd3 66.Kf4 
+Rf1+ 67.Kg5 hxg4 68.Kxg4 Kxd4 69.h5 Ke5 70.Kg5 Rg1+ 71.Kh6 Kf6 0-1 

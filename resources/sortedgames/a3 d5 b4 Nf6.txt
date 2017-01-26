@@ -1,0 +1,20 @@
+ 
+[Event "17. Open"] 
+[Site "Kavala GRE"] 
+[Date "2008.08.01"] 
+[Round "3"] 
+[White "Deviatkin, Andrei"] 
+[Black "Melia, Salome"] 
+[Result "1-0"] 
+[WhiteElo "2567"] 
+[BlackElo "2416"] 
+[ECO "A00"] 
+[EventDate "2008.07.31"] 
+ 
+1.a3 d5 2.b4 Nf6 3.Bb2 e6 4.Nf3 Be7 5.e3 O-O 6.c4 c6 7.Nc3 Nbd7 8.Be2 b6  
+9.cxd5 cxd5 10.O-O a6 11.Nd4 Bb7 12.f4 Nb8 13.Rc1 Qd6 14.Bd3 Rc8 15.b5  
+axb5 16.Ncxb5 Qd8 17.Rxc8 Qxc8 18.Rf3 Nbd7 19.Rh3 Nf8 20.Rg3 g6 21.f5 Ne4  
+22.Bxe4 dxe4 23.fxe6 fxe6 24.Qb3 Kf7 25.Nc3 Bc5 26.Rg4 Bxd4 27.exd4 Ra5  
+28.Qxb6 Rf5 29.d5 Ba6 30.h3 Qb7 31.Qxb7+ Bxb7 32.dxe6+ Nxe6 33.Nxe4 Rd5  
+34.Bc3 Rd3 35.Ng5+ Nxg5 36.Rxg5 Bd5 37.a4 Ke6 38.a5 Kd6 39.Kf2 Be4 40.a6  
+Kc6 41.Re5 Bf5 42.g4 Bc8 43.a7 Kb7 44.Re8 1-0 

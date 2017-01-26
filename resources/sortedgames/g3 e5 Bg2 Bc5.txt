@@ -1,0 +1,78 @@
+ 
+[Event "Hanoi VIE, Ch U7 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.14"] 
+[Round "4.24"] 
+[White "Le, Tri Kien"] 
+[Black "Pham, Duy Hai"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2555"] 
+[BlackElo "2587"] 
+[ECO "A00"] 
+[EventDate "2012.07.12"] 
+ 
+1.g3 e5 2.Bg2 Bc5 3.d3 Nf6 4.Nf3 d6 5.O-O O-O 6.h3 Nc6 7.Bg5 h6 8.Bxf6  
+Qxf6 9.e4 Nd4 10.Nxd4 Bxd4 11.c3 Bc5 12.b4 Bb6 13.a4 a5 14.b5 Be6 15.Nd2  
+c6 16.Nc4 Bc5 17.bxc6 bxc6 18.Qb3 Rab8 19.Qc2 Qg5 20.Nxa5 Rbc8 21.Rab1 Qh5 
+22.h4 Bg4 23.Rb2 Qg6 24.Nb7 Ba3 25.Rb3 Bc5 26.Nxc5 dxc5 27.Kh2 Qf6 28.f3  
+Be6 29.c4 Ra8 30.Rb6 Bd7 31.Rb7 Be6 32.Rc7 Rac8 33.Rxc8 Rxc8 34.Qc3 Ra8  
+35.Qa3 g5 36.hxg5 Qxg5 37.Qxc5 Qh5+ 38.Kg1 Rc8 39.d4 Bh3 40.Qxe5 Qxe5 41. 
+dxe5 Be6 42.c5 Ra8 43.Rd1 Rxa4 44.Rd6 Ra6 45.Rd8+ Kg7 46.Kh2 Ra5 47.Bh3  
+Ra2+ 48.Bg2 Bc4 49.Kh3 Be6+ 50.Kh2 Bc4 51.Kh1 Ra1+ 52.Kh2 Ra2 53.Kh3 Be6+  
+54.Kh2 Bc4 55.Kh3 Be6+ 56.Kh2 Bc4 1/2-1/2 
+ 
+[Event "XXXVI Open"] 
+[Site "Sitges ESP"] 
+[Date "2010.07.30"] 
+[Round "9"] 
+[White "Lorenzo de la Riva, Lazaro"] 
+[Black "Capellades Subirana, Marc"] 
+[Result "0-1"] 
+[WhiteElo "2407"] 
+[BlackElo "2268"] 
+[ECO "A00"] 
+[EventDate "2010.07.22"] 
+ 
+1.g3 e5 2.Bg2 Bc5 3.d3 Ne7 4.Nf3 Nbc6 5.O-O O-O 6.c3 d5 7.b4 Bd6 8.a3 Ng6  
+9.Nbd2 Nce7 10.c4 c6 11.Bb2 f6 12.Rc1 Be6 13.e4 d4 14.c5 Bc7 15.h4 Qd7 16. 
+h5 Nh8 17.Nh4 Nf7 18.Rc2 Bg4 19.Bf3 Bh3 20.Re1 Ng5 21.Bc1 Nxf3+ 22.Qxf3  
+Bg4 23.Qg2 Bxh5 24.f3 g5 25.g4 gxh4 26.gxh5+ Kh8 27.Kh2 Rg8 28.Qh3 Qxh3+  
+29.Kxh3 Rg3+ 30.Kxh4 Rag8 31.Nc4 Rxf3 32.Nd6 Bxd6 33.cxd6 Nc8 34.d7 Nb6  
+35.b5 Nxd7 36.bxc6 bxc6 37.Rxc6 Nf8 38.Bh6 Rfg3 39.Bg7+ R8xg7 40.h6 R7g4+  
+41.Kh5 Rg5+ 42.Kh4 0-1 
+ 
+[Event "1. Breizh Masters"] 
+[Site "Guingamp FRA"] 
+[Date "2003.03.02"] 
+[Round "3"] 
+[White "Parmentier, Xavier"] 
+[Black "Gervasio, Ricardo"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2339"] 
+[BlackElo "2332"] 
+[ECO "A00"] 
+[EventDate "2003.02.28"] 
+ 
+1.g3 e5 2.Bg2 Bc5 3.c4 Qf6 4.e3 Nc6 5.Ne2 Nb4 6.d3 Qg6 7.e4 Qd6 8.O-O Qxd3 
+9.Nbc3 Qxc4 10.a3 Na6 11.b4 Bd6 12.Bb2 1/2-1/2 
+ 
+[Event "Bundesliga 2002/03 women"] 
+[Site "GER"] 
+[Date "2003.??.??"] 
+[Round "6"] 
+[White "Juergens, Vera"] 
+[Black "Dergatschova-Daus, Anna"] 
+[Result "0-1"] 
+[WhiteElo "2276"] 
+[BlackElo "2250"] 
+[ECO "A00"] 
+ 
+1.g3 e5 2.Bg2 Bc5 3.d3 d5 4.Nf3 Qe7 5.e4 dxe4 6.dxe4 Nf6 7.O-O O-O 8.Bg5  
+h6 9.Bxf6 Qxf6 10.Qd5 Nd7 11.Nbd2 c6 12.Qb3 a5 13.a4 Ba7 14.Qc3 Bc5 15.Nb3 
+Bb4 16.Qe3 b6 17.Rfd1 Re8 18.Nfd2 Rb8 19.Nc4 Bf8 20.Bf1 Qe6 21.Qd2 Nc5 22. 
+Qe3 Nxb3 23.Qxb3 Qg6 24.Nxa5 Bg4 25.Nc4 Bxd1 26.Rxd1 Qxe4 27.Bg2 Qg6 28. 
+Nxb6 Bc5 29.a5 e4 30.Re1 Qf6 31.Re2 Qd4 32.c3 Qd3 33.Bf1 Qf3 34.Qc4 Bxb6  
+35.axb6 e3 36.fxe3 Rxb6 37.Bg2 Qf6 38.e4 Rd8 39.h3 Rd1+ 40.Kh2 Rb5 41.Qa4  
+Rd8 42.Qa7 Re5 43.Rf2 Qe7 44.Qb6 c5 45.Qb5 h5 46.Qc4 h4 47.gxh4 Rh5 48.e5  
+Qxe5+ 49.Qf4 Qe7 50.Kg3 Rd6 51.Bf3 Rg6+ 52.Kh2 Rxh4 53.Qb8+ Kh7 54.Re2 Qg5 
+55.Bg2 Rxh3+ 0-1 

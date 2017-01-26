@@ -1,0 +1,23 @@
+ 
+[Event "Russia Cup Final"] 
+[Site "Serpuhov RUS"] 
+[Date "2008.11.06"] 
+[Round "1.6"] 
+[White "Deviatkin, Andrei"] 
+[Black "Landa, Konstantin"] 
+[Result "1-0"] 
+[WhiteElo "2563"] 
+[BlackElo "2613"] 
+[ECO "A00"] 
+[EventDate "2008.11.05"] 
+ 
+1.a3 e5 2.c4 c6 3.d4 exd4 4.Qxd4 d5 5.Nf3 Nf6 6.Bg5 Be7 7.cxd5 Qxd5 8.Nc3  
+Qxd4 9.Nxd4 g6 10.e4 Nfd7 11.Be3 a5 12.Be2 Na6 13.f4 Nac5 14.O-O-O a4 15. 
+Rhe1 Nb6 16.e5 h5 17.Bf3 Bd7 18.Ne4 Nxe4 19.Bxe4 Nc4 20.Bf2 O-O 21.Bd3 Na5 
+22.e6 Bxe6 23.Nxe6 fxe6 24.Rxe6 Rxf4 25.Be3 Rf7 26.Bxg6 Rg7 27.Bh6 Nb3+  
+28.Kb1 Nc5 29.Bxg7 Nxe6 30.Be5 Nc5 31.Bxh5 Rf8 32.Bf3 Rf5 33.Bc3 Bf6 34. 
+Bxf6 Rxf6 35.Kc2 Kg7 36.h4 Rf4 37.h5 Kf6 38.Rd6+ Ke5 39.Rg6 Rc4+ 40.Kd2  
+Nb3+ 41.Ke3 Nd4 42.h6 Nf5+ 43.Kd3 Rh4 44.Rg5 Kf4 45.Rg7 b6 46.Rg6 c5 47. 
+Rxb6 Ke5 48.Rg6 Nxh6 49.Rg5+ Kd6 50.Rd5+ Ke7 51.Rxc5 Nf7 52.Kc3 Nd6 53.b4  
+axb3 54.Kxb3 Ke6 55.a4 Nf5 56.a5 Nd4+ 57.Ka3 Nxf3 58.gxf3 Rf4 59.Rc3 Kd5  
+60.Kb2 Kd6 61.a6 1-0 

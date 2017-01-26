@@ -1,0 +1,15 @@
+ 
+[Event "Kragujevac SER, Radnicki Vodovod IM"] 
+[Site "Kragujevac SER"] 
+[Date "2014.03.10"] 
+[Round "10.1"] 
+[White "Pavlovic, Goran"] 
+[Black "Arapovic, Vitomir"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2372"] 
+[BlackElo "2358"] 
+[ECO "A40"] 
+[EventDate "2014.03.03"] 
+ 
+1.d4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Rb1 f5 6.b4 d6 7.b5 Nce7 8.e3 Nf6 9. 
+Nge2 O-O 10.O-O 1/2-1/2 

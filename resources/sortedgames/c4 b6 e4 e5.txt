@@ -1,0 +1,20 @@
+ 
+[Event "TCh-FIN 2014-15"] 
+[Site "Finland FIN"] 
+[Date "2015.03.15"] 
+[Round "11.6"] 
+[White "Hentunen, Asko"] 
+[Black "Kosmo, Santul"] 
+[Result "0-1"] 
+[WhiteElo "2299"] 
+[BlackElo "2227"] 
+[ECO "A10"] 
+[EventDate "2014.09.27"] 
+ 
+1.c4 b6 2.e4 e5 3.Nf3 Nc6 4.Nc3 f5 5.d4 exd4 6.Nxd4 Nxd4 7.Qxd4 Nf6 8.Bg5  
+fxe4 9.O-O-O Bb7 10.Bxf6 gxf6 11.Nxe4 Bh6+ 12.Kb1 O-O 13.Ng3 f5 14.c5 Bg7  
+15.Qc4+ Kh8 16.Bd3 bxc5 17.Qxc5 d6 18.Qa3 Rb8 19.Rd2 Qg5 20.Rc2 f4 21.h4  
+Qe5 22.Re2 fxg3 23.Rxe5 Bxe5 24.f3 Bxf3 25.b3 Bxg2 26.Re1 Rf7 27.Qxa7 Rbf8 
+28.Bc4 Re7 29.Qe3 Bh3 30.Qg5 Bf5+ 31.Kc1 Rg7 32.Qe3 g2 33.Qg1 c5 34.Bd5  
+Bh3 35.Bxg2 Rxg2 36.Qh1 Bf4+ 37.Kb1 Bf5+ 38.Ka1 Rfg8 39.Qf1 Rg1 40.Qxf4  
+Rxe1+ 41.Kb2 Re2+ 42.Kc3 Rc2# 0-1 

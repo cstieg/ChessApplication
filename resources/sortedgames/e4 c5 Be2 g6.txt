@@ -1,0 +1,22 @@
+ 
+[Event "Najdorf Mem Open A 2015"] 
+[Site "Warsaw POL"] 
+[Date "2015.07.12"] 
+[Round "3.1"] 
+[White "Kovalenko, Igor"] 
+[Black "Olszewski, Michal"] 
+[Result "1-0"] 
+[WhiteElo "2682"] 
+[BlackElo "2562"] 
+[ECO "B20"] 
+[EventDate "2015.07.10"] 
+ 
+1.e4 c5 2.Be2 g6 3.f4 Bg7 4.Nf3 d5 5.d3 dxe4 6.dxe4 Qxd1+ 7.Bxd1 b6 8.Na3  
+Ba6 9.c3 Nd7 10.Be2 Bxe2 11.Kxe2 O-O-O 12.Be3 Nh6 13.h3 f6 14.Nc4 Nf7 15. 
+g4 Nd6 16.Ncd2 Kc7 17.Rag1 Kc6 18.h4 Rhe8 19.c4 e5 20.f5 Kc7 21.a3 Bf8 22. 
+fxg6 hxg6 23.h5 g5 24.Ne1 Be7 25.Nd3 Nf8 26.b4 cxb4 27.Nxb4 Ne6 28.Rc1 Nf7 
+29.Nd5+ Kd7 30.Nb3 Kc6 31.a4 Nf4+ 32.Kf3 Kb7 33.a5 Nxd5 34.cxd5 Rc8 35. 
+axb6 axb6 36.Rb1 Bb4 37.Nd2 Bc5 38.Rhc1 Bxe3 39.Kxe3 Nd6 40.Kd3 b5 41.Rxc8 
+Rxc8 42.Rf1 b4 43.Ke2 Nb5 44.h6 Nd4+ 45.Kf2 Kb6 46.h7 Rh8 47.Rh1 Kb5 48. 
+Ke3 b3 49.Kd3 Kb4 50.Nc4 Nf3 51.d6 Nh4 52.d7 Ng6 53.Nb6 Nf4+ 54.Kd2 Kb5  
+55.Nd5 Kc6 56.d8=Q 1-0 

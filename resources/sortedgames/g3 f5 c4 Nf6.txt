@@ -1,0 +1,154 @@
+ 
+[Event "TCh-AUT 2014-15"] 
+[Site "Austria AUT"] 
+[Date "2014.11.22"] 
+[Round "3.4"] 
+[White "Vitouch, Anatol"] 
+[Black "Rapport, Richard"] 
+[Result "0-1"] 
+[WhiteElo "2325"] 
+[BlackElo "2718"] 
+[ECO "A10"] 
+[EventDate "2014.11.20"] 
+ 
+1.g3 f5 2.c4 Nf6 3.Bg2 e5 4.d4 e4 5.Bg5 Bb4+ 6.Nc3 Bxc3+ 7.bxc3 O-O 8.h4  
+d6 9.Qb3 Nc6 10.Nh3 Na5 11.Qa4 b6 12.Nf4 Bd7 13.Qd1 h6 14.Bxf6 Qxf6 15.e3  
+Nxc4 16.Qb3 Qf7 17.h5 b5 18.g4 fxg4 19.Bxe4 Rae8 20.Bd5 Be6 21.Bxe6 Rxe6  
+22.O-O-O Re4 23.Nd3 a6 24.Qc2 g3 25.Nb2 Qxf2 26.Qxf2 Rxf2 27.Nxc4 bxc4 0-1 
+ 
+[Event "11. Gibraltar Masters"] 
+[Site "Caleta ENG"] 
+[Date "2013.01.23"] 
+[Round "2.44"] 
+[White "Storey, Charles H"] 
+[Black "Muzychuk, Mariya"] 
+[Result "0-1"] 
+[WhiteElo "2245"] 
+[BlackElo "2471"] 
+[ECO "A10"] 
+[EventDate "2013.01.22"] 
+ 
+1.g3 f5 2.c4 Nf6 3.Bg2 g6 4.Nc3 Bg7 5.Nf3 O-O 6.d3 d6 7.Rb1 Nh5 8.Qb3 Kh8  
+9.Nd5 c6 10.Nf4 Nxf4 11.gxf4 Nd7 12.h4 Nf6 13.Bd2 Qc7 14.Bc3 Bd7 15.c5  
+dxc5 16.e3 Qb6 17.Qc2 Be6 18.b3 Bd5 19.Ke2 Rad8 20.Rbg1 Qa6 21.Ne5 Nh5 22. 
+Bf3 Bxf3+ 23.Kxf3 Rd5 24.Rg5 Bf6 25.Rhg1 b5 26.Ke2 Qc8 27.Kf1 Ng7 28.Qe2  
+Bxg5 29.hxg5 Kg8 30.Rh1 Qe6 31.Ba1 Rfd8 32.Qb2 Rxe5 33.Qxe5 Qxe5 34.Bxe5  
+Rxd3 35.Ke2 Rd5 36.a4 Ne6 37.axb5 cxb5 38.Ra1 Nxg5 39.Rxa7 Kf7 40.Rb7 b4  
+41.fxg5 Rxe5 42.Kd3 Rd5+ 43.Ke2 Ke8 44.f4 Rd7 45.Rb5 Rd5 46.Rb8+ Kd7 47. 
+Rh8 Rd6 48.Rxh7 Ra6 49.Kd3 Ra1 50.Kc4 Rc1+ 51.Kd5 Rc3 52.Rg7 Rxe3 53.Kxc5  
+Rxb3 54.Rxg6 Rf3 55.Kxb4 Rxf4+ 56.Kc5 Ke8 57.Rg7 Kf8 58.Rh7 Re4 59.Kd5 Kg8 
+60.g6 e6+ 61.Kd6 Rg4 62.Ke5 Rxg6 63.Rh1 Kg7 64.Rh2 Rg1 65.Kxe6 Kg6 66.Rf2  
+Re1+ 67.Kd5 Kg5 68.Kd4 f4 69.Kd3 Kg4 70.Kd2 Re7 71.Rg2+ Kf3 72.Rg8 Kf2 73. 
+Rd8 f3 74.Rd6 Kg2 75.Rg6+ Kf1 76.Rf6 f2 77.Rf8 Rg7 78.Ke3 Kg1 0-1 
+ 
+[Event "26. Le Touquet Open"] 
+[Site "Le Touquet FRA"] 
+[Date "2011.10.28"] 
+[Round "9.1"] 
+[White "Romanov, Evgeny"] 
+[Black "Van Oosterom, Chiel"] 
+[Result "1-0"] 
+[WhiteElo "2639"] 
+[BlackElo "2389"] 
+[ECO "A10"] 
+[EventDate "2011.10.22"] 
+ 
+1.g3 f5 2.c4 Nf6 3.Nc3 g6 4.Bg2 Bg7 5.d3 O-O 6.e4 fxe4 7.dxe4 d6 8.Nge2 c5 
+9.O-O Nc6 10.f4 Be6 11.Nd5 Qd7 12.Qc2 Bh3 13.Be3 Bxg2 14.Kxg2 Nxd5 15.cxd5 
+Nb4 16.Qd2 Qb5 17.Rfd1 Qc4 18.Kf3 g5 19.Nc3 gxf4 20.gxf4 e6 21.Rac1 exd5  
+22.Nxd5 Qxa2 23.Nxb4 cxb4 24.Rg1 Rf7 25.Qxd6 Qxb2 26.Qd5 Rf8 27.Rxg7+ 1-0 
+ 
+[Event "2. Pfalz Open"] 
+[Site "Neustadt an der Weinstrasse GER"] 
+[Date "2009.02.22"] 
+[Round "9"] 
+[White "Markowski, Tomasz"] 
+[Black "Muzychuk, Anna"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2605"] 
+[BlackElo "2540"] 
+[ECO "A10"] 
+[EventDate "2009.02.15"] 
+ 
+1.g3 f5 2.c4 Nf6 3.Nf3 g6 4.b4 Bg7 5.Bb2 d6 6.Bg2 O-O 7.O-O c6 8.d3 e5 9. 
+Qb3 Kh8 10.Nbd2 Be6 11.Qc2 Na6 12.a3 Nd7 13.Rac1 Rc8 14.Qb1 Qe7 15.Nb3 b6  
+16.Nbd2 Bg8 17.Qc2 Nc7 18.e3 Ne6 19.Rfe1 Rc7 20.Qb1 Rfc8 21.Qa1 Bf6 22.Nf1 
+Qg7 23.N3d2 g5 24.Qb1 h5 25.Qc2 Bf7 26.Qd1 g4 27.f4 h4 28.Qe2 exf4 29.Bxf6 
+Nxf6 30.exf4 h3 31.Bh1 Nd4 32.Qf2 c5 33.bxc5 1/2-1/2 
+ 
+[Event "2. Pfalz Open"] 
+[Site "Neustadt an der Weinstrasse G"] 
+[Date "2009.02.22"] 
+[Round "9"] 
+[White "Markowski, Tomasz"] 
+[Black "Muzychuk, Anna"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2605"] 
+[BlackElo "2540"] 
+[ECO "A10"] 
+[EventDate "2009.02.15"] 
+ 
+1.g3 f5 2.c4 Nf6 3.Nf3 g6 4.b4 Bg7 5.Bb2 d6 6.Bg2 O-O 7.O-O c6 8.d3 e5 9. 
+Qb3 Kh8 10.Nbd2 Be6 11.Qc2 Na6 12.a3 Nd7 13.Rac1 Rc8 14.Qb1 Qe7 15.Nb3 b6  
+16.Nbd2 Bg8 17.Qc2 Nc7 18.e3 Ne6 19.Rfe1 Rc7 20.Qb1 Rfc8 21.Qa1 Bf6 22.Nf1 
+Qg7 23.N3d2 g5 24.Qb1 h5 25.Qc2 Bf7 26.Qd1 g4 27.f4 h4 28.Qe2 exf4 29.Bxf6 
+Nxf6 30.exf4 h3 31.Bh1 Nd4 32.Qf2 c5 33.bxc5 1/2-1/2 
+ 
+[Event "BDO Premier"] 
+[Site "Haarlem NED"] 
+[Date "2008.08.14"] 
+[Round "6"] 
+[White "Spraggett, Kevin"] 
+[Black "Rombaldoni, Axel"] 
+[Result "1-0"] 
+[WhiteElo "2601"] 
+[BlackElo "2374"] 
+[ECO "A10"] 
+[EventDate "2008.08.09"] 
+ 
+1.g3 f5 2.c4 Nf6 3.Bg2 e6 4.Nf3 Be7 5.O-O O-O 6.b3 a5 7.Bb2 Na6 8.Nc3 d5  
+9.d4 b6 10.Rc1 Bb7 11.cxd5 exd5 12.Ne5 c6 13.f3 c5 14.e3 Nc7 15.Rf2 Bd6  
+16.Bf1 Rc8 17.Nb5 Nxb5 18.Bxb5 Qe7 19.Rfc2 g5 20.Bd3 Qe6 21.Rg2 Nd7 22.f4  
+Nxe5 23.fxe5 Be7 24.Qf1 Rf7 25.Rf2 Rcf8 26.Qe2 Bc8 27.Rcf1 g4 28.Bc3 h5  
+29.Qc2 c4 30.Be2 Bg5 31.Bd2 b5 32.bxc4 dxc4 33.e4 Bxd2 34.Qxd2 Bb7 35.a4  
+Bxe4 36.axb5 Rc8 37.Rc1 a4 38.Qb4 Bd5 39.Qxa4 h4 40.Qa6 hxg3 41.hxg3 Rc6  
+42.bxc6 Qh6 43.Rh2 Qe3+ 44.Kf1 Qxc1+ 45.Kf2 Qd2 46.Qc8+ 1-0 
+ 
+[Event "4NCL"] 
+[Site "Birmingham ENG"] 
+[Date "2000.03.25"] 
+[Round "7"] 
+[White "Hennigan, Michael T"] 
+[Black "Pert, Nicholas"] 
+[Result "0-1"] 
+[WhiteElo "2456"] 
+[BlackElo "2396"] 
+[ECO "A10"] 
+[EventDate "2000.09.23"] 
+ 
+1.g3 f5 2.c4 Nf6 3.Bg2 d6 4.Nc3 g6 5.d3 Bg7 6.e4 Nc6 7.Nge2 O-O 8.O-O e5  
+9.Nd5 Ne7 10.Nxf6+ Bxf6 11.Bh6 Rf7 12.Qd2 c6 13.d4 fxe4 14.Bxe4 Nf5 15. 
+dxe5 dxe5 16.Qxd8+ Bxd8 17.Bd2 Nd6 18.Bd3 Rf3 19.Be3 Bb6 20.Kg2 e4 21.Bxb6 
+Rxd3 22.Bc7 Nxc4 23.b3 Nd2 24.Nf4 Nxf1 25.Nxd3 exd3 26.Rxf1 Bf5 27.f3 Re8  
+28.g4 Re2+ 29.Rf2 d2 0-1 
+ 
+[Event "chT"] 
+[Site "Zakopane chT"] 
+[Date "2000.09.09"] 
+[Round "7"] 
+[White "Markowski, Tomasz"] 
+[Black "Kveinys, Aloyzas"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2568"] 
+[BlackElo "2522"] 
+[ECO "A96"] 
+[EventDate "2000.09.02"] 
+ 
+1.g3 f5 2.c4 Nf6 3.Nf3 e6 4.Bg2 Be7 5.O-O O-O 6.b3 d6 7.d4 Ne4 8.Bb2 Nd7  
+9.Nc3 Ndf6 10.Nd2 d5 11.Nf3 Ng4 12.e3 c6 13.Nxe4 fxe4 14.Nd2 Nh6 15.Qc1  
+Nf5 16.Ba3 Bd7 17.Bxe7 Qxe7 18.Qc3 a5 19.f3 Qb4 20.Rac1 Qxc3 21.Rxc3 exf3  
+22.Nxf3 Nd6 23.Rcc1 Nf5 24.Rfe1 Rf6 25.e4 dxe4 26.Rxe4 Rd8 27.c5 Be8 28. 
+Rce1 Bg6 29.g4 Nh6 30.Rxe6 Rxe6 31.Rxe6 Nxg4 32.Re7 Re8 33.Rxb7 Re2 34. 
+Rb8+ Kf7 35.h3 Ne3 36.Ne5+ Kf6 37.Bxc6 Bf5 38.Bf3 Rxa2 39.h4 Be6 40.Rb6  
+Kf5 41.Nd3 Bd5 42.Bxd5 Nxd5 43.Rd6 Ke4 44.c6 Rc2 45.Ne5 Nf4 46.Kf1 Rc1+  
+47.Kf2 Rc2+ 48.Ke1 Ng2+ 49.Kf1 Ne3+ 50.Ke1 1/2-1/2 

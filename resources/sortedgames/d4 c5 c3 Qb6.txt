@@ -1,0 +1,22 @@
+ 
+[Event "Kemerovo Region Cup sf"] 
+[Site "Kemerovo"] 
+[Date "2014.07.25"] 
+[Round "8"] 
+[White "Vlasov, Igor"] 
+[Black "Gontcharov, Vladislav"] 
+[Result "0-1"] 
+[WhiteElo "2234"] 
+[BlackElo "2415"] 
+[ECO "A43"] 
+[EventDate "2014.07.21"] 
+ 
+1.d4 c5 2.c3 Qb6 3.Nf3 Nf6 4.Qb3 Qxb3 5.axb3 cxd4 6.Nxd4 Nc6 7.Nxc6 dxc6  
+8.Be3 a6 9.g3 e5 10.Bg2 Nd5 11.Bc1 Be6 12.e4 Nb6 13.Be3 Nd7 14.b4 Be7 15. 
+Nd2 O-O 16.O-O Rfd8 17.Rfd1 c5 18.bxc5 Nxc5 19.Bf1 Rac8 20.f3 b5 21.Rdb1  
+h6 22.Be2 Rc6 23.Kf2 g6 24.Rd1 Kg7 25.Nf1 Rb8 26.Nd2 Na4 27.Rdb1 Nc5 28. 
+Rd1 Nb7 29.Nf1 Nd6 30.Nd2 Bd8 31.Rdc1 a5 32.h4 h5 33.Bd3 a4 34.Ke2 Rbc8  
+35.Rd1 Be7 36.Rg1 Rb8 37.Rgc1 f6 38.Nf1 Nc4 39.Rc2 Rd8 40.Nd2 Nxe3 41.Kxe3 
+Bc5+ 42.Ke2 Rb6 43.Nf1 Bb3 44.Rd2 b4 45.Ne3 bxc3 46.bxc3 Bxe3 47.Kxe3 Rbd6 
+48.f4 Rc8 49.c4 Kf8 50.fxe5 fxe5 51.Rf2+ Ke7 52.Raf1 Rxd3+ 53.Kxd3 Bxc4+  
+54.Kd2 Bxf1 55.Rxf1 Rc4 0-1 

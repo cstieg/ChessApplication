@@ -1,0 +1,15 @@
+ 
+[Event "SLO Team Ch League"] 
+[Site "Rogaska Slatina SLO"] 
+[Date "2009.12.16"] 
+[Round "9"] 
+[White "Piskur, Mitja"] 
+[Black "Kovac, B."] 
+[Result "1/2-1/2"] 
+[WhiteElo "2284"] 
+[BlackElo "2338"] 
+[ECO "A00"] 
+[EventDate "2009.12.05"] 
+ 
+1.d3 d6 2.Nf3 g6 3.g3 Bg7 4.e4 Nf6 5.Bg2 O-O 6.O-O c5 7.c3 Nc6 8.a4 Rb8 9. 
+Nbd2 a6 10.Nb3 1/2-1/2 

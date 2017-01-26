@@ -1,0 +1,40 @@
+ 
+[Event "XL Open"] 
+[Site "Mar del Plata ARG"] 
+[Date "2009.04.05"] 
+[Round "1"] 
+[White "Zamorano, Jorge"] 
+[Black "Rodriguez, Jorge Luis"] 
+[Result "1-0"] 
+[WhiteElo "2247"] 
+[BlackElo "2393"] 
+[ECO "B00"] 
+[EventDate "2009.04.05"] 
+ 
+1.Nf3 Nc6 2.e4 e6 3.Bb5 a6 4.Ba4 b5 5.Bb3 Bb7 6.O-O Na5 7.Re1 Nxb3 8.axb3  
+Nf6 9.d3 h6 10.c4 c5 11.Nc3 Qb6 12.Bf4 Nh5 13.Bd2 Be7 14.Qe2 g5 15.Nd5  
+Bxd5 16.exd5 b4 17.Ne5 Nf6 18.f4 gxf4 19.Bxf4 Rh7 20.Qf3 Rc8 21.Kh1 a5 22. 
+Rf1 Qd8 23.Rae1 h5 24.d6 Bxd6 25.Bg5 Bxe5 26.Rxe5 d6 27.Bxf6 Qd7 28.Rxh5  
+Rxh5 29.Qxh5 Qc6 30.Bh4 1-0 
+ 
+[Event "Kirov RUS, 1. Chudinovskikh Memorial"] 
+[Site "Kirov RUS"] 
+[Date "2014.07.01"] 
+[Round "7"] 
+[White "Uraev, Ivan"] 
+[Black "Vlasenko, Miroslav"] 
+[Result "0-1"] 
+[WhiteElo "2247"] 
+[BlackElo "2403"] 
+[ECO "C00"] 
+[EventDate "2014.06.26"] 
+ 
+1.Nf3 Nc6 2.e4 e6 3.d3 d5 4.Nbd2 Nf6 5.c3 Be7 6.g3 O-O 7.Qe2 dxe4 8.dxe4  
+e5 9.Bg2 Bg4 10.h3 Bh5 11.O-O Bg6 12.b4 a6 13.a4 Re8 14.Bb2 Bf8 15.Rfd1  
+Qc8 16.Nh4 Bh5 17.Nhf3 a5 18.b5 Nb8 19.Nc4 Nbd7 20.g4 Bg6 21.Nh4 Nc5 22. 
+Nf5 b6 23.h4 h5 24.g5 Nfxe4 25.Nfe3 Ne6 26.Nd5 Nf4 27.Qf3 Bc5 28.Nce3 Nxg2 
+29.Qxg2 Nd6 30.Ba3 Be4 31.Qg3 Bxe3 32.Nxe3 Nf5 33.Nxf5 Qxf5 34.Re1 Kh7 35. 
+Re3 f6 36.Rae1 Bb7 37.c4 Rad8 38.Bb2 Rd2 39.Bc3 Ra2 40.f3 Rxa4 41.Kh2 Rxc4 
+42.gxf6 gxf6 43.Rg1 Qf4 44.Rd3 Qxg3+ 45.Rxg3 Re7 46.Kh3 Bc8+ 47.Kh2 Bf5  
+48.Re3 Rxh4+ 49.Kg2 Ra4 50.Kf2 Ra2+ 51.Kf1 h4 52.Rg1 Rd7 53.f4 Rd1+ 54.Be1 
+Bd3+ 0-1 

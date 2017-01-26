@@ -1,0 +1,15 @@
+ 
+[Event "Hanoi VIE, Ch U7 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.15"] 
+[Round "5.37"] 
+[White "Duong, Thanh Tung"] 
+[Black "Vu, Nguyen Thai Duong"] 
+[Result "0-1"] 
+[WhiteElo "2528"] 
+[BlackElo "2588"] 
+[ECO "A00"] 
+[EventDate "2012.07.12"] 
+ 
+1.d3 d5 2.Nd2 Nc6 3.e4 Nf6 4.Be2 d4 5.Ngf3 e5 6.O-O Bg4 7.c3 Bc5 8.h3 Bxf3 
+9.Bxf3 O-O 10.Qc2 b5 11.Nb3 Bb6 0-1 

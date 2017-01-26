@@ -1,0 +1,76 @@
+ 
+[Event "69. Moscow Blitz"] 
+[Site "Moscow RUS"] 
+[Date "2015.09.06"] 
+[Round "16.5"] 
+[White "Mozharov, Mikhail"] 
+[Black "Nepomniachtchi, Ian"] 
+[Result "0-1"] 
+[WhiteElo "2573"] 
+[BlackElo "2705"] 
+[ECO "A07"] 
+[EventDate "2015.09.06"] 
+ 
+1.Nf3 g6 2.g3 d5 3.Bg2 Bg7 4.d3 e5 5.O-O Ne7 6.e4 O-O 7.Nbd2 Nbc6 8.c3 a5  
+9.h3 h6 10.Qe2 Kh7 11.Rd1 f5 12.exd5 Nxd5 13.Nc4 Re8 14.a4 b6 15.h4 Bb7  
+16.Nh2 Qd7 17.Nf1 Rad8 18.Nfe3 Nf4 19.gxf4 exf4 20.d4 fxe3 21.fxe3 Qf7 22. 
+b3 Rd7 23.Rf1 Nd8 24.Bxb7 Nxb7 25.Qf3 Nd6 26.Nxd6 Rxd6 27.e4 Qxb3 28.exf5  
+gxf5 29.Qxf5+ Rg6+ 30.Kh1 Rf8 0-1 
+ 
+[Event "2. Gligoric Cup 2014"] 
+[Site "Kragujevac SRB"] 
+[Date "2014.12.07"] 
+[Round "2.3"] 
+[White "Stanojevic, Branko"] 
+[Black "Radovic, Luka"] 
+[Result "0-1"] 
+[WhiteElo "2242"] 
+[BlackElo "2352"] 
+[ECO "A08"] 
+[EventDate "2014.12.06"] 
+ 
+1.Nf3 g6 2.g3 d5 3.Bg2 Bg7 4.O-O c5 5.c4 d4 6.d3 Nc6 7.Na3 Nf6 8.Nc2 O-O  
+9.e3 e5 10.exd4 cxd4 11.Re1 Re8 12.Bg5 h6 13.Bxf6 Bxf6 14.Qd2 Bf5 15.Rad1  
+e4 16.dxe4 Bxe4 17.h4 Qb6 18.Na3 Rad8 19.b3 Qc5 20.Nb5 Kg7 21.Qf4 g5 22. 
+hxg5 hxg5 23.Qd2 Qf5 24.Nc7 Re7 25.Nd5 Bxf3 26.Nxe7 Bxe7 27.Bxf3 Qxf3 28. 
+Qe2 Qxe2 29.Rxe2 0-1 
+ 
+[Event "Czech Open GMA"] 
+[Site "Pardubice CZE"] 
+[Date "2007.07.23"] 
+[Round "4"] 
+[White "Otte, Marco"] 
+[Black "Feller, Sebastien"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2216"] 
+[BlackElo "2478"] 
+[ECO "A07"] 
+[EventDate "2007.07.20"] 
+ 
+1.Nf3 g6 2.g3 d5 3.Bg2 Bg7 4.O-O e5 5.c4 dxc4 6.Na3 Nc6 7.Nxc4 Nge7 8.d3  
+Be6 9.Ng5 Bd5 10.e4 Bxc4 11.dxc4 Qd4 12.Qa4 O-O 13.Be3 Qd8 14.Rad1 Nd4 15. 
+c5 Nec6 16.Bxd4 Nxd4 17.Nf3 Qe7 18.Nxd4 exd4 19.Qc4 Rfd8 20.Rd3 b5 21.cxb6 
+axb6 22.a4 Ra5 23.Rfd1 Qd7 24.b3 Rc5 25.Qb4 Rc2 26.Qe1 c5 27.R1d2 Rxd2 28. 
+Qxd2 c4 29.bxc4 Qxa4 30.Qb2 Qa5 31.Bf3 Rc8 32.Qb5 Qxb5 33.cxb5 Rc5 34.Rb3  
+Rc1+ 35.Kg2 Bf8 36.Be2 Bc5 37.Rd3 Rc2 38.Kf3 Rb2 39.Rd1 g5 40.g4 h5 41.h3  
+h4 42.Bd3 Kg7 43.e5 Kf8 44.Rf1 Bb4 45.Ke4 Bd2 46.Kxd4 Bf4 47.Ke4 Rb4+ 48. 
+Kd5 Rb3 49.Rd1 Rc3 50.Kd4 Ra3 51.Kd5 Rc3 1/2-1/2 
+ 
+[Event "Kleve Open"] 
+[Site "Kleve GER"] 
+[Date "2000.06.04"] 
+[Round "7"] 
+[White "Podzielny, Karl-Heinz Jr"] 
+[Black "Berebora, Ferenc"] 
+[Result "1-0"] 
+[WhiteElo "2506"] 
+[BlackElo "2374"] 
+[ECO "A07"] 
+ 
+1.Nf3 g6 2.g3 d5 3.Bg2 Bg7 4.O-O e5 5.c4 dxc4 6.Qa4+ Nd7 7.Qxc4 Ne7 8.d3  
+O-O 9.Nbd2 Nc6 10.Qc2 h6 11.a3 Nb6 12.e4 a5 13.b3 Bg4 14.Bb2 Qd7 15.Rfe1  
+Rfd8 16.Bf1 Qe7 17.h3 Bxf3 18.Nxf3 Nd7 19.h4 Nc5 20.h5 g5 21.Rac1 b6 22. 
+Qc4 Qf6 23.Re3 Nd4 24.Nxd4 exd4 25.Ree1 Qd6 26.Bh3 Be5 27.Kg2 a4 28.b4 Nb3 
+29.Rc2 c5 30.b5 Kf8 31.Rf1 f6 32.Bf5 Ra7 33.Re2 Re8 34.Bc1 Nxc1 35.Qxc1 c4 
+36.f4 gxf4 37.gxf4 Rg7+ 38.Bg6 cxd3 39.fxe5 Qxe5 40.Ref2 Qxh5 41.Rxf6+ Kg8 
+42.Qc4+ 1-0 

@@ -1,0 +1,65 @@
+ 
+[Event "63. TCh-GpB 2013"] 
+[Site "Sunny Beach BUL"] 
+[Date "2013.09.22"] 
+[Round "6.2"] 
+[White "Dimov, Dian"] 
+[Black "Jovchev, Aleksi"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2289"] 
+[BlackElo "2287"] 
+[ECO "A07"] 
+[EventDate "2013.09.19"] 
+ 
+1.Nf3 d5 2.g3 f5 3.Bg2 Nf6 4.O-O e6 5.c4 Bd6 6.d3 O-O 7.Nc3 a6 8.cxd5 exd5 
+9.Qb3 c6 10.e4 Nbd7 11.exd5 Nc5 12.Qc2 cxd5 13.Bg5 Be7 14.Nd4 h6 15.Be3  
+Re8 16.Rfe1 Bf8 17.b4 Ne6 18.Qb3 f4 19.Nxe6 Bxe6 20.Bxf4 Bf7 21.d4 Qd7 22. 
+Be5 a5 23.bxa5 Rxa5 24.a4 Rea8 25.Rab1 Rc8 26.h3 Rc4 27.Bf3 Rb4 28.Qc2 Qc8 
+29.Bg2 Ne4 30.Bxe4 dxe4 1/2-1/2 
+ 
+[Event "Zonal 2.5"] 
+[Site "Asuncion PAR"] 
+[Date "2011.05.19"] 
+[Round "4"] 
+[White "Roselli Mailhe, Bernardo"] 
+[Black "Larrea, Manuel"] 
+[Result "0-1"] 
+[WhiteElo "2437"] 
+[BlackElo "2299"] 
+[ECO "A10"] 
+[EventDate "2011.05.16"] 
+ 
+1.Nf3 d5 2.g3 f5 3.Bg2 Nf6 4.O-O e6 5.c4 c6 6.d3 dxc4 7.dxc4 Qxd1 8.Rxd1  
+Bc5 9.Nc3 Ng4 10.e3 Nd7 11.b3 e5 12.h3 Ngf6 13.Bb2 e4 14.Nd4 Nb6 15.Rd2  
+Bd7 16.Rad1 Ke7 17.Nc2 Rhd8 18.Ne2 Be6 19.Ned4 Bd7 20.Bf1 a5 21.Bc3 Ne8  
+22.a3 Bd6 23.Ne2 c5 24.a4 g5 25.Na3 Bc6 26.Nc1 Nd7 27.Be2 b6 28.Na2 f4 29. 
+exf4 gxf4 30.Nb5 Bxb5 31.cxb5 fxg3 32.Bc4 Bf4 33.Re2 gxf2+ 34.Kxf2 Ndf6  
+35.Rg1 Rd6 36.Bxf6+ Nxf6 37.Rg7+ Ke8 38.Nc3 e3+ 39.Kf3 Bh6 40.Rb7 Rad8 41. 
+Rg2 R8d7 42.Rb8+ Ke7 43.Ne2 Rd8 44.Rb7+ Nd7 45.Rg8 Rf6+ 46.Ke4 Rxg8 47. 
+Bxg8 Kd8 48.Bc4 Rd6 49.Ra7 Bg5 50.Kf5 h6 51.Ra8+ Ke7 52.Rg8 Rf6+ 53.Ke4  
+Rf1 54.Rg7+ Kd6 55.Rg6+ Nf6+ 56.Kd3 Rd1+ 57.Kc2 Rd2+ 58.Kc1 Ke5 59.h4 Kf5  
+60.h5 Kg4 61.Rg7 Kf3 62.Ng1+ Kg2 63.Ne2 Kf2 64.Nc3 e2 65.Bxe2 Rxe2+ 66.Kb1 
+Nxh5 67.Rb7 Re1+ 68.Kc2 Nf6 69.Rxb6 Rc1+ 0-1 
+ 
+[Event "FSIM July"] 
+[Site "Budapest HUN"] 
+[Date "2010.07.06"] 
+[Round "4"] 
+[White "Berczes, Csaba"] 
+[Black "Virag, Attila Aba"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2384"] 
+[BlackElo "2258"] 
+[ECO "A07"] 
+[EventDate "2010.07.05"] 
+ 
+1.Nf3 d5 2.g3 f5 3.Bg2 Nf6 4.O-O e6 5.d3 Bd6 6.Bf4 O-O 7.Nbd2 Nc6 8.Bxd6  
+Qxd6 9.e4 Qb4 10.Qc1 fxe4 11.dxe4 Bd7 12.c3 Qb6 13.Qc2 Rae8 14.h3 g6 15.e5 
+Nh5 16.Kh2 Nd8 17.Nd4 c5 18.N4b3 c4 19.Nd4 Nc6 20.N2f3 Ng7 21.Rad1 Nf5 22. 
+Qe2 Qc7 23.Rfe1 Re7 24.Nb5 Qb8 25.Nfd4 a6 26.Na3 Nfxd4 27.cxd4 b5 28.f4 b4 
+29.Nc2 b3 30.axb3 Qxb3 31.Ne3 Qb6 32.Ng4 Rb8 33.f5 gxf5 34.Nf6+ Kh8 35.Rd2 
+Rg7 36.Rf1 Ne7 37.Qe3 Ng8 38.Nh5 Rg6 39.Qf4 Qb4 40.Rf3 Qe7 41.Qe3 Rb3 42. 
+Qf2 Rxf3 43.Qxf3 Qb4 44.Rf2 Qe1 45.g4 Rg5 46.Qf4 h6 47.Nf6 Nxf6 48.exf6  
+Kh7 49.Rf1 Qb4 50.Qc7 Qb5 51.Qd6 Kg8 52.Kh1 Qc6 53.Qe7 Be8 54.gxf5 Bf7 55. 
+Qd8+ Kh7 56.Qf8 Qd7 57.Re1 Rg8 58.fxe6 Rxf8 59.exd7 Rd8 60.Re5 Kg6 61.Bxd5 
+Rxd7 62.Bxf7+ Kxf7 63.d5 Kxf6 64.Re6+ Kg5 65.Rxa6 Rxd5 1/2-1/2 

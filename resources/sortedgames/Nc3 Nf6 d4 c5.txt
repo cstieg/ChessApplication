@@ -1,0 +1,40 @@
+ 
+[Event "Nebesna sotnya Mem Blitz"] 
+[Site "Lutsk UKR"] 
+[Date "2016.02.19"] 
+[Round "14.3"] 
+[White "Reprintsev, A"] 
+[Black "Rakhmangulov, Andrei"] 
+[Result "1-0"] 
+[WhiteElo "2321"] 
+[BlackElo "2318"] 
+[ECO "A45"] 
+[EventDate "2016.02.19"] 
+ 
+1.Nc3 Nf6 2.d4 c5 3.Nf3 cxd4 4.Nxd4 Nc6 5.g3 e6 6.Bg2 d5 7.O-O Bc5 8.Nb3  
+Bb6 9.Bg5 h6 10.Bxf6 Qxf6 11.e4 d4 12.Na4 Qd8 13.Nxb6 Qxb6 14.e5 Nxe5 15. 
+Qxd4 Qxd4 16.Nxd4 a6 17.Rfe1 Nd7 18.Nf5 Nf6 19.Rad1 O-O 20.Nd6 Rb8 21.a4  
+b6 22.c4 Bd7 23.b3 Rfd8 24.Rd2 Kf8 25.f4 Ne8 26.Nb7 Rxb7 27.Bxb7 a5 28. 
+Red1 Ke7 29.Bc6 Nf6 30.Bxd7 Rxd7 31.Rxd7+ Nxd7 32.b4 axb4 33.Rb1 Kd6 34. 
+Rxb4 Kc6 35.Rb5 f5 36.a5 bxa5 37.Rxa5 g5 38.fxg5 hxg5 39.h4 gxh4 40.gxh4  
+Nf6 41.Ra6+ Kd7 42.c5 Nh5 43.Rd6+ Ke7 44.Rd2 Nf6 45.c6 Nd5 46.h5 Kd6 47.h6 
+1-0 
+ 
+[Event "Prague CZE, Open-A 2011"] 
+[Site "Prague CZE"] 
+[Date "2011.01.12"] 
+[Round "7"] 
+[White "Hasangatin, Ramil"] 
+[Black "Hosticka, Frantisek"] 
+[Result "1-0"] 
+[WhiteElo "2508"] 
+[BlackElo "2203"] 
+[ECO "A44"] 
+[EventDate "2011.01.07"] 
+ 
+1.Nc3 Nf6 2.d4 c5 3.d5 e5 4.e4 d6 5.Be2 Be7 6.Nf3 O-O 7.O-O Ne8 8.Nd2 f5  
+9.exf5 Bxf5 10.Nde4 h6 11.Ng3 Bh7 12.Bd3 Bg5 13.Bxh7+ Kxh7 14.Be3 Nd7 15. 
+Qd3+ Kg8 16.Nge4 Bxe3 17.fxe3 a6 18.Rxf8+ Nxf8 19.Rf1 Nh7 20.Ng3 Nef6 21. 
+Nf5 Qd7 22.Ne4 Nxe4 23.Qxe4 Rf8 24.Qg4 Kh8 25.Nxh6 Rxf1+ 26.Kxf1 Qe8 27. 
+Nf5 g6 28.Nh4 g5 29.Nf3 Qb5+ 30.c4 Qxb2 31.Qc8+ Kg7 32.Qd7+ Kh8 33.Qxd6  
+Qa1+ 34.Ke2 Qxa2+ 35.Nd2 Qb2 36.Qe7 1-0 

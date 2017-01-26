@@ -1,0 +1,21 @@
+ 
+[Event "Cup Russia"] 
+[Site "Serpukhov RUS"] 
+[Date "2007.11.05"] 
+[Round "1.1"] 
+[White "Turov, Maxim"] 
+[Black "Gutov, Andrey"] 
+[Result "1-0"] 
+[WhiteElo "2561"] 
+[BlackElo "2469"] 
+[ECO "A58"] 
+[EventDate "2007.11.05"] 
+ 
+1.d3 Nf6 2.d4 c6 3.c4 c5 4.d5 b5 5.cxb5 a6 6.bxa6 g6 7.Nc3 Bxa6 8.Nf3 d6  
+9.g3 Nbd7 10.Bg2 Bg7 11.Rb1 Ng4 12.Qc2 Qa5 13.Bd2 O-O 14.O-O Rfb8 15.a4  
+Nge5 16.Nxe5 Nxe5 17.b3 Rb7 18.Rfe1 Rab8 19.Na2 Qb6 20.b4 cxb4 21.Rxb4 Qa7 
+22.Reb1 Rxb4 23.Nxb4 Bxe2 24.Be3 Qa5 25.Qxe2 Rxb4 26.Rxb4 Qxb4 27.Qb5 Qe1+ 
+28.Bf1 h5 29.a5 h4 30.a6 Nf3+ 31.Kg2 Nd4 32.a7 Nxb5 33.a8=Q+ Kh7 34.Bxb5  
+hxg3 35.hxg3 Qb1 36.Qa4 Bf6 37.Be2 Kg7 38.Bf3 Qb2 39.Qe4 Be5 40.Bd1 Bf6  
+41.Bc2 Qc3 42.f4 Qb2 43.g4 Kg8 44.g5 Bg7 45.f5 gxf5 46.Qxf5 Qc3 47.g6 fxg6 
+48.Qe6+ Kh8 49.Qxg6 Kg8 50.Bh6 1-0 

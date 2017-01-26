@@ -1,0 +1,19 @@
+ 
+[Event "1. ch-Europe"] 
+[Site "Saint Vincent ITA"] 
+[Date "2000.07.11"] 
+[Round "8"] 
+[White "Epishin, Vladimir"] 
+[Black "Shirazi, Kamran"] 
+[Result "1-0"] 
+[WhiteElo "2667"] 
+[BlackElo "2399"] 
+[ECO "A40"] 
+[EventDate "2000.07.03"] 
+ 
+1.d4 c6 2.Nf3 a6 3.e4 d5 4.Nc3 b5 5.Bd3 Bg4 6.h3 Bh5 7.Bg5 h6 8.Be3 e6 9. 
+g4 Bg6 10.Ne5 Ne7 11.Qe2 Nd7 12.Nxg6 Nxg6 13.O-O-O Bb4 14.exd5 cxd5 15. 
+Bxg6 fxg6 16.Bxh6 gxh6 17.Qxe6+ Kf8 18.Nxd5 Be7 19.Qxg6 Qe8 20.Qc6 Bg5+  
+21.Kb1 Rc8 22.Qd6+ Be7 23.Qxa6 Nb8 24.Qe6 Bg5 25.Qd6+ Kf7 26.h4 Rc6 27.Qa3 
+Bd8 28.Qf3+ Kg7 29.Nf4 Rf8 30.Rhe1 Qf7 31.d5 Qxf4 32.dxc6 b4 33.g5 hxg5  
+34.hxg5 Nxc6 35.Qxc6 1-0 

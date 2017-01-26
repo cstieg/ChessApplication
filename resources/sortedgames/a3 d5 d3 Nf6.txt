@@ -1,0 +1,20 @@
+ 
+[Event "13. Goodricke"] 
+[Site "Calcutta IND"] 
+[Date "2002.03.23"] 
+[Round "7"] 
+[White "Yogesh, G"] 
+[Black "Sundararajan, Kidambi"] 
+[Result "1-0"] 
+[WhiteElo "2333"] 
+[BlackElo "2412"] 
+[ECO "A00"] 
+[EventDate "2002.03.17"] 
+ 
+1.a3 d5 2.d3 Nf6 3.g3 e5 4.Nf3 Bd6 5.Bg2 O-O 6.O-O c6 7.Nbd2 Bg4 8.h3 Bh5  
+9.Qe1 Re8 10.e4 Nbd7 11.Nh4 dxe4 12.Nf5 Bc7 13.dxe4 a5 14.Nc4 b5 15.Nce3  
+Nc5 16.f3 Bg6 17.h4 Ne6 18.Bd2 Bb6 19.Kh2 Qc7 20.Ng4 Nd7 21.Rd1 f6 22.Bc3  
+Ndf8 23.Nge3 Rad8 24.Rxd8 Rxd8 25.Bh3 Bf7 26.Qc1 Bd4 27.Qe1 Bxc3 28.Qxc3  
+Nd4 29.f4 Nfe6 30.fxe5 fxe5 31.Ng4 Bg6 32.Rf2 Rf8 33.Nge3 Be8 34.Qe1 Bd7  
+35.Ne7+ Kh8 36.Rxf8+ Nxf8 37.Qf2 Qd8 38.Qf7 Nfe6 39.c3 Nf3+ 40.Kg2 Neg5  
+41.hxg5 Nxg5 42.Ng6+ hxg6 43.Qxd7 1-0 

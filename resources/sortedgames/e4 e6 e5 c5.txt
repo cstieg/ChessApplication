@@ -1,0 +1,38 @@
+ 
+[Event "5. Amplico AIG Life"] 
+[Site "Warsaw POL"] 
+[Date "2005.12.17"] 
+[Round "8"] 
+[White "Zolnierowicz, Krzysztof"] 
+[Black "Schmidt, Wlodzimierz"] 
+[Result "0-1"] 
+[WhiteElo "2287"] 
+[BlackElo "2435"] 
+[ECO "C00"] 
+[EventDate "2005.12.17"] 
+ 
+1.e4 e6 2.e5 c5 3.c3 d5 4.exd6 Bxd6 5.d4 Nf6 6.Nf3 Nc6 7.dxc5 Bxc5 8.Bb5  
+Bd7 9.O-O a6 10.Bxc6 Bxc6 11.Ne5 h6 12.Be3 Bxe3 13.fxe3 Nd7 14.Nd2 Rc8 15. 
+Nd3 f6 16.Rf4 g5 17.Rb4 Rc7 18.Nf3 Ke7 19.e4 Nc5 20.Nf2 Nd3 21.h4 Bd5 22. 
+Rb6 Rc4 23.Nd4 Ra4 24.g3 Ra5 25.b3 Rc5 26.Ne2 Bxb3 27.Rd6 Bd5 28.Rb1 b5  
+29.Nc1 Rc4 30.Rb2 Bxe4 31.Rb1 Bb7 32.Nfxd3 Kxd6 33.Ne5+ 0-1 
+ 
+[Event "2. League TCh-SCG"] 
+[Site "Belgrade SRB"] 
+[Date "2003.09.28"] 
+[Round "2"] 
+[White "Markovic, Miros"] 
+[Black "Certic, Branimir"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2525"] 
+[BlackElo "2396"] 
+[ECO "C00"] 
+[EventDate "2003.09.27"] 
+ 
+1.e4 e6 2.e5 c5 3.Nf3 Nc6 4.c3 d6 5.exd6 Bxd6 6.g3 Nge7 7.Bg2 O-O 8.O-O e5 
+9.Na3 Bg4 10.d3 Qd7 11.Qb3 Rad8 12.Re1 Na5 13.Qc2 Ng6 14.Nd2 b5 15.Ne4 Be7 
+16.Bg5 Bxg5 17.Nxg5 a6 18.Ne4 Nb7 19.b4 cxb4 20.cxb4 Qxd3 21.Qxd3 Rxd3 22. 
+Nc2 Rdd8 23.a4 Be6 24.Ne3 Rd4 25.Reb1 Nd6 26.Ng5 Bg4 27.h3 Be2 28.Rb2 Bc4  
+29.Nf3 Rd3 30.Nd2 Be6 31.h4 Ne7 32.axb5 axb5 33.Ra6 Nc4 34.Ndxc4 bxc4 35. 
+Rc2 Rb3 36.Nxc4 Rxb4 37.Nxe5 Rb5 38.Re2 Ng6 39.Nf3 Rb1+ 40.Re1 Rxe1+ 41. 
+Nxe1 Ne5 42.Nc2 Rc8 43.Ra8 1/2-1/2 

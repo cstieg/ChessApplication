@@ -1,0 +1,87 @@
+ 
+[Event "18. Lienz Open 2015"] 
+[Site "Lienz AUT"] 
+[Date "2015.02.11"] 
+[Round "6.4"] 
+[White "Venkatesh, Marani Rajendran"] 
+[Black "Drazic, Sinisa"] 
+[Result "0-1"] 
+[WhiteElo "2460"] 
+[BlackElo "2413"] 
+[ECO "C00"] 
+[EventDate "2015.02.07"] 
+ 
+1.e4 e6 2.d3 e5 3.f4 d5 4.exd5 exf4 5.Bxf4 Nf6 6.Nc3 Bb4 7.Qe2+ Be7 8.Qf3  
+O-O 9.Nge2 c6 10.d6 Bxd6 11.Bxd6 Qxd6 12.Qf4 Qd8 13.O-O-O Na6 14.Ng3 Nc7  
+15.d4 Bg4 16.Rd2 Ncd5 17.Nxd5 Qxd5 18.Kb1 Qa5 19.Bc4 Rae8 20.Rc1 Be6 21. 
+Bxe6 Rxe6 22.Re2 Rxe2 23.Nxe2 Re8 24.Nc3 h6 25.a3 Qg5 26.Qc7 Qxg2 27.Qxb7  
+h5 28.h4 a5 29.Qb6 Qf2 30.Qxc6 Qxd4 31.Rh1 Qf2 32.b3 Kh7 33.Kb2 Qd4 34.Qf3 
+Re3 35.Qf5+ g6 36.Qxa5 Ne4 37.Rd1 Qxc3+ 38.Qxc3 Nxc3 39.Rd7 g5 40.hxg5 Kg6 
+41.a4 h4 42.Rd8 h3 43.Rh8 Kxg5 44.a5 Kg4 45.a6 Nb5 46.Rh7 Rf3 47.Rg7+ Kh4  
+48.b4 h2 49.Rh7+ Kg3 50.c4 Nd6 51.c5 Nb5 0-1 
+ 
+[Event "Subotica SER, Closed IM 2011"] 
+[Site "Subotica SER"] 
+[Date "2011.12.02"] 
+[Round "1"] 
+[White "Cabarkapa, Novak"] 
+[Black "Dinev, Dejan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2274"] 
+[BlackElo "2398"] 
+[ECO "C00"] 
+[EventDate "2011.??.??"] 
+ 
+1.e4 e6 2.d3 e5 3.f4 d5 4.exd5 Qxd5 5.Nf3 e4 6.Qe2 Nf6 7.Nc3 Bb4 8.Bd2  
+Bxc3 9.Bxc3 O-O 10.Bxf6 exf3 11.gxf3 Qc6 12.Bd4 Re8 13.Be3 Na6 14.a3 Bg4  
+15.Kf2 Re7 16.Rg1 Rae8 17.fxg4 Rxe3 18.Qxe3 Rxe3 19.Kxe3 Qxc2 20.Rg2 Qb3  
+21.Rc1 Qe6+ 22.Kf3 Qd5+ 23.Kg3 g5 24.fxg5 Qxg5 25.Re1 Nc5 26.Rf2 Ne6 27. 
+Re4 Qd5 28.h4 a5 29.Rf3 c5 30.Bh3 Nd4 31.Rfe3 Qd6+ 32.Kg2 Qb6 33.g5 Qxb2+  
+34.Kg3 Qc1 35.h5 Qg1+ 36.Kf4 Qh2+ 37.Kg4 h6 38.Re8+ Kg7 39.R8e5 hxg5 40. 
+Rxg5+ Kh6 41.Rxc5 f5+ 42.Rxf5 Nxf5 43.Kxf5 Qf2+ 44.Ke4 Kg5 45.d4 Qc2+ 46. 
+Rd3 Qe2+ 47.Re3 Qxh5 48.Rb3 Qg6+ 49.Ke5 Qf6+ 50.Ke4 Qe7+ 51.Kd3 Kf4 52.Kd2 
+Qd6 53.Rd3 Qd5 54.Bf1 Qa2+ 55.Ke1 Qa1+ 56.Ke2 Qa2+ 57.Kd1 Qd5 58.Kd2 b5  
+59.Be2 b4 60.axb4 axb4 61.Bd1 Qa5 62.Bb3 Qg5 63.Bc2 Ke4+ 64.Kd1 Kd5 65. 
+Bb3+ Kd6 66.d5 Qf4 67.Kc2 Qf2+ 68.Kb1 Qf1+ 69.Rd1 Qf3 70.Kb2 Qe2+ 71.Bc2  
+Qe5+ 72.Kb1 Qe8 73.Rd3 Qc8 74.Kb2 Qc4 75.Kb1 Qc8 76.Kb2 Kc5 77.d6 Kc4 78. 
+d7 Qd8 1/2-1/2 
+ 
+[Event "1. Metropolitan IM"] 
+[Site "Los Angeles, CA USA"] 
+[Date "2010.11.21"] 
+[Round "9"] 
+[White "Gupta, Ankit"] 
+[Black "Kretchetov, Alexandre"] 
+[Result "1-0"] 
+[WhiteElo "2235"] 
+[BlackElo "2358"] 
+[ECO "C00"] 
+[EventDate "2010.11.12"] 
+ 
+1.e4 e6 2.d3 e5 3.f4 Bc5 4.fxe5 Bxg1 5.Rxg1 Qh4+ 6.g3 Qxh2 7.Rg2 Qh3 8.Bf4 
+Ne7 9.Nc3 O-O 10.Rf2 Qe6 11.Qh5 Nbc6 12.Nb5 Nb4 13.Nxc7 Qc6 14.Nxa8 Nxc2+  
+15.Rxc2 Qxc2 16.Qe2 Qa4 17.Qd2 Nc6 18.Be2 Nd4 19.Bd1 Qc6 20.Rc1 Qe6 21.Qf2 
+Nc6 22.Bb3 Qg4 23.Nc7 g5 24.Bd1 Qh3 25.Bxg5 Nxe5 26.Kd2 f5 27.Nd5 Nxd3 28. 
+Ne7+ Kg7 29.Qd4+ Kf7 30.Qf6+ Ke8 31.Rxc8# 1-0 
+ 
+[Event "Sofia BUL, 1. Open Sofia"] 
+[Site "Sofia BUL"] 
+[Date "2006.05.16"] 
+[Round "8.8"] 
+[White "Nikolov, Momchil"] 
+[Black "Strbac, Mladen"] 
+[Result "1-0"] 
+[WhiteElo "2451"] 
+[BlackElo "2273"] 
+[ECO "C00"] 
+[EventDate "2006.05.11"] 
+ 
+1.e4 e6 2.d3 e5 3.f4 d5 4.exd5 Qxd5 5.Nc3 Bb4 6.Bd2 Qc5 7.a3 Bxc3 8.Bxc3  
+Nc6 9.fxe5 Nge7 10.d4 Qd5 11.Qf3 Bf5 12.Qxd5 Nxd5 13.Kd2 O-O-O 14.Nf3 Bg4  
+15.Re1 Nde7 16.Re4 Bf5 17.Rf4 h6 18.Bd3 Be6 19.h4 Nd5 20.Re4 Nce7 21.g4 h5 
+22.gxh5 Rxh5 23.Rg1 Nf5 24.Kc1 Nde7 25.Rg5 Rdh8 26.Be1 Ng6 27.Rxh5 Rxh5  
+28.c4 Nfe7 29.Kc2 Bf5 30.Re3 Nf4 31.Bxf5+ Rxf5 32.Ng5 Neg6 33.Re4 c5 34. 
+dxc5 Rxe5 35.Nxf7 Rxe4 36.Nd6+ Kd7 37.Nxe4 Ng2 38.Bc3 Ne3+ 39.Kd3 Nf5 40. 
+Nd6 Nxd6 41.cxd6 Kxd6 42.Be1 Ne5+ 43.Kc3 Ke6 44.b4 a6 45.a4 g6 46.Bg3 Nd7  
+47.Kd4 Nb6 48.a5 Nd7 49.b5 Nf6 50.Bf4 Nd7 51.bxa6 bxa6 52.c5 Nf6 53.c6 Ng8 
+54.Kc5 Ne7 55.Kb6 1-0 

@@ -1,0 +1,128 @@
+ 
+[Event "Odense DEN, Open 2013"] 
+[Site "Odense DEN"] 
+[Date "2013.10.05"] 
+[Round "3.4"] 
+[White "Steffens, Olaf"] 
+[Black "Nordenbaek, Jan"] 
+[Result "1-0"] 
+[WhiteElo "2205"] 
+[BlackElo "2252"] 
+[ECO "A00"] 
+[EventDate "2013.10.04"] 
+ 
+1.b4 c6 2.e3 Nf6 3.Bb2 Qb6 4.a3 a5 5.b5 d5 6.c4 Bf5 7.Nc3 e6 8.Nf3 Be7 9. 
+Nd4 Bg6 10.Na4 Qc7 11.bxc6 bxc6 12.cxd5 exd5 13.Rc1 Qb7 14.Qb3 Qxb3 15. 
+Nxb3 O-O 16.Nbc5 Ne4 17.Be2 Ra7 18.Bd4 Nxc5 19.Bxc5 Bxc5 20.Rxc5 Rc8 21.d4 
+Nd7 22.Rc3 f5 23.Kd2 Nf6 24.f3 Be8 25.Rb1 Kf8 26.Bd3 g6 27.Nc5 Ke7 28.h4  
+Rcc7 29.Kc2 Bd7 30.Rb6 Bc8 31.Rb1 Ne8 32.Rh1 Kd6 33.h5 g5 34.e4 fxe4 35. 
+fxe4 Rf7 36.e5+ Ke7 37.Rf1 Rxf1 38.Bxf1 Bf5+ 39.Kd2 Ng7 40.h6 Nh5 41.Na6  
+Kd7 42.Nb8+ Ke8 43.Rb3 Rc7 44.Na6 Rf7 45.Rb8+ Ke7 46.Rb7+ Kf8 47.Rxf7+  
+Kxf7 48.Nb8 g4 49.Nxc6 a4 50.Ke3 Be4 51.Be2 Bf5 52.Bd1 Kg6 53.Ne7+ Kg5 54. 
+Nxf5 Kxf5 55.Bxa4 Nf4 56.g3 Nh5 57.Bc2+ Kg5 58.a4 Nxg3 59.a5 Nf1+ 60.Ke2  
+Nh2 61.Kf2 Nf3 62.a6 Kf4 63.Bd1 g3+ 64.Kg2 Nh4+ 65.Kg1 1-0 
+ 
+[Event "XXXIV Open"] 
+[Site "Seville ESP"] 
+[Date "2009.01.27"] 
+[Round "5"] 
+[White "Campora, Daniel H"] 
+[Black "Komljenovic, Davorin"] 
+[Result "0-1"] 
+[WhiteElo "2522"] 
+[BlackElo "2418"] 
+[ECO "A00"] 
+[EventDate "2009.01.23"] 
+ 
+1.b4 c6 2.e3 Nf6 3.Nf3 Qb6 4.a3 a5 5.b5 d5 6.Bb2 Bg4 7.c4 Nbd7 8.Nc3 e5 9. 
+cxd5 cxd5 10.h3 Bxf3 11.gxf3 d4 12.Na4 Qe6 13.Rg1 g6 14.Qe2 Bg7 15.O-O-O  
+O-O 16.Kb1 0-1 
+ 
+[Event "SenWM"] 
+[Site "Bad Zwischenahn GER"] 
+[Date "2008.11.08"] 
+[Round "11"] 
+[White "Karasev, Vladimir I"] 
+[Black "Bachmann, Karlheinz"] 
+[Result "1-0"] 
+[WhiteElo "2412"] 
+[BlackElo "2275"] 
+[ECO "A00"] 
+[EventDate "2008.10.28"] 
+ 
+1.b4 c6 2.e3 Nf6 3.Bb2 d5 4.c4 Bg4 5.Qb3 e6 6.Nf3 Nbd7 7.Nc3 Be7 8.cxd5  
+cxd5 9.h3 Bh5 10.Be2 O-O 11.g4 Bg6 12.Nh4 Qb6 13.Nxg6 hxg6 14.a3 Nc5 15. 
+Qd1 Nfe4 16.Qc2 Nd7 17.Nxe4 dxe4 18.Qxe4 Bf6 19.d4 Bh4 20.O-O Nf6 21.Qf3  
+Nd5 22.e4 Ne7 23.Rac1 Rad8 24.Rc5 a6 25.Rd1 f5 26.gxf5 gxf5 27.Qh5 g5 28. 
+d5 fxe4 29.Qh8+ Kf7 30.Bh5+ 1-0 
+ 
+[Event "XI Open"] 
+[Site "Coria del Rio BRA"] 
+[Date "2005.02.14"] 
+[Round "5"] 
+[White "Campora, Daniel H"] 
+[Black "Cheparinov, Ivan"] 
+[Result "0-1"] 
+[WhiteElo "2529"] 
+[BlackElo "2572"] 
+[ECO "A00"] 
+[EventDate "2005.02.10"] 
+ 
+1.b4 c6 2.e3 Nf6 3.Bb2 a5 4.b5 a4 5.Nf3 d6 6.Be2 e5 7.c4 Be7 8.O-O O-O 9. 
+d4 e4 10.Nfd2 cxb5 11.cxb5 d5 12.Ba3 Bxa3 13.Nxa3 Qd6 14.Qc1 Bg4 15.Re1  
+Bxe2 16.Rxe2 Nbd7 17.Qb2 Ng4 18.Nf1 f5 19.h3 Nh6 20.Rc1 Nb6 21.Rc5 g5 22. 
+f3 Rae8 23.Nb1 exf3 24.gxf3 Nd7 25.Rcc2 f4 26.e4 dxe4 27.fxe4 f3 28.Re3 g4 
+29.Qc3 Qg6 30.Ng3 gxh3 31.Rxf3 Rxe4 32.Rxf8+ Nxf8 33.Nd2 h2+ 34.Kg2 Re2+  
+35.Kf1 h1=Q+ 0-1 
+ 
+[Event "NOR Ch"] 
+[Site "Kristiansund NOR"] 
+[Date "2001.07.08"] 
+[Round "2"] 
+[White "Nordahl, Helge"] 
+[Black "Ostmoe, Geir S Tallaksen"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2279"] 
+[BlackElo "2239"] 
+[ECO "A00"] 
+[EventDate "2001.07.07"] 
+ 
+1.b4 c6 2.e3 Nf6 3.Bb2 Qb6 4.a3 a5 5.Bd4 Qc7 6.b5 e5 7.Bb2 d5 8.c4 Be6 9. 
+bxc6 Nxc6 10.cxd5 Nxd5 11.Nf3 Be7 12.Bb5 f6 13.Nc3 Nxc3 14.Bxc3 O-O 15.Qb1 
+a4 16.h4 Qb6 17.O-O Kh8 18.Bxc6 Qxb1 19.Rfxb1 bxc6 20.h5 Rfb8 21.d4  
+1/2-1/2 
+ 
+[Event "NOR Ch"] 
+[Site "Kristiansand NOR"] 
+[Date "2001.07.08"] 
+[Round "2"] 
+[White "Nordahl, Helge"] 
+[Black "Ostmoe, Geir S Tallaksen"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2279"] 
+[BlackElo "2239"] 
+[ECO "A00"] 
+[EventDate "2001.07.07"] 
+ 
+1.b4 c6 2.e3 Nf6 3.Bb2 Qb6 4.a3 a5 5.Bd4 Qc7 6.b5 e5 7.Bb2 d5 8.c4 Be6 9. 
+bxc6 Nxc6 10.cxd5 Nxd5 11.Nf3 Be7 12.Bb5 f6 13.Nc3 Nxc3 14.Bxc3 O-O 15.Qb1 
+a4 16.h4 Qb6 17.O-O Kh8 18.Bxc6 Qxb1 19.Rfxb1 bxc6 20.h5 Rfb8 21.d4  
+1/2-1/2 
+ 
+[Event "Open"] 
+[Site "Fajr IRI"] 
+[Date "2001.02.11"] 
+[Round "9"] 
+[White "Guliev, S."] 
+[Black "Moradiabadi, Elshan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2519"] 
+[BlackElo "2303"] 
+[ECO "A00"] 
+[EventDate "2001.02.03"] 
+ 
+1.b4 c6 2.e3 Nf6 3.Nf3 d5 4.Be2 Bf5 5.O-O e6 6.a3 Bd6 7.Bb2 Nbd7 8.d4 h6  
+9.Nbd2 O-O 10.c4 a5 11.b5 c5 12.cxd5 exd5 13.dxc5 Nxc5 14.Nd4 Bd7 15.a4  
+Re8 16.N2f3 Qe7 17.Bd3 Nce4 18.Qb3 Rad8 19.Rad1 Bg4 20.Be2 Nc5 21.Qa2 Nfe4 
+22.Nb3 b6 23.Nbd4 Qc7 24.h3 Be6 25.Qa1 Rc8 26.Nc6 Nb3 27.Qb1 Nbc5 28.Qa1  
+Nb3 29.Qb1 Nbc5 30.Qa1 1/2-1/2 

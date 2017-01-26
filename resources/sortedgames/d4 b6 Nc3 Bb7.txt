@@ -1,0 +1,19 @@
+ 
+[Event "Tournament"] 
+[Site "St Petersburg RUS"] 
+[Date "2002.??.??"] 
+[Round "8"] 
+[White "Dmitriev, Igor"] 
+[Black "Turikov, Viktor"] 
+[Result "1-0"] 
+[WhiteElo "2368"] 
+[BlackElo "2351"] 
+[ECO "A40"] 
+ 
+1.d4 b6 2.Nc3 Bb7 3.e4 e6 4.Nf3 Bb4 5.Bd3 Nf6 6.Nd2 O-O 7.O-O Nc6 8.Ne2  
+Be7 9.c3 e5 10.d5 Nb8 11.Ng3 d6 12.Rb1 c6 13.c4 g6 14.b4 Ne8 15.Nf3 Ng7  
+16.Bh6 Nd7 17.Qd2 c5 18.b5 Nf6 19.h3 Kh8 20.Qc2 Ng8 21.Bd2 Bc8 22.Nh2 Bh4  
+23.Ne2 Nh5 24.g4 Ng7 25.f4 exf4 26.Bxf4 Bg5 27.Qd2 Bxf4 28.Qxf4 Qe7 29.Nf3 
+f6 30.Kg2 Bd7 31.Ng3 a6 32.bxa6 Rxa6 33.Rf2 Rfa8 34.Rbb2 Ne8 35.g5 fxg5  
+36.Nxg5 Ngf6 37.Qh4 Kg8 38.Bb1 Qe5 39.Nf3 Qc3 40.Rfc2 Qa5 41.e5 dxe5 42. 
+Nxe5 R6a7 43.Rf2 Qc3 44.Rbe2 Kg7 45.Bxg6 1-0 

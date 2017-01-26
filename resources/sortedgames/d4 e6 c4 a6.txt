@@ -1,0 +1,75 @@
+ 
+[Event "NED Team Ch 0102"] 
+[Site "NED"] 
+[Date "2001.??.??"] 
+[Round "1"] 
+[White "Bosch, Jeroen"] 
+[Black "Bertholee, Rob"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2436"] 
+[BlackElo "2340"] 
+[ECO "A40"] 
+ 
+1.d4 e6 2.c4 a6 3.e4 d5 4.exd5 exd5 5.Nc3 Nf6 6.Nf3 Bb4 7.Be2 O-O 8.O-O  
+dxc4 9.Bxc4 Nbd7 10.Bb3 c5 11.Bg5 Qc7 12.dxc5 Bxc3 13.bxc3 Nxc5 14.Bxf6  
+gxf6 15.Nd4 Nxb3 16.Qxb3 Bd7 17.Rad1 Rac8 18.Rd3 Kh8 19.Re3 Bc6 20.Rfe1  
+Rce8 21.Rxe8 Rxe8 22.Rxe8+ Bxe8 23.Qb4 Kg8 24.Nf5 h5 25.Ne7+ Kg7 26.Nf5+  
+Kg8 27.Ne7+ Kg7 28.Nf5+ Kg8 1/2-1/2 
+ 
+[Event "Autumn Cup IM"] 
+[Site "Bucharest ROU"] 
+[Date "2000.11.27"] 
+[Round "7"] 
+[White "Jianu, Vlad-Cristian"] 
+[Black "Berechet, Otiliu-Octavian"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2293"] 
+[BlackElo "2224"] 
+[ECO "A40"] 
+[EventDate "2000.11.04"] 
+ 
+1.d4 e6 2.c4 a6 3.Nf3 Bb4+ 4.Bd2 Bxd2+ 5.Nbxd2 d6 6.g3 Nh6 7.Bg2 O-O 8.O-O 
+f6 9.Qb3 Kh8 10.Rfd1 Qe7 11.Rac1 c6 12.Qa3 Nf7 13.e4 Nd7 14.e5 Re8 15.exd6 
+Nxd6 16.Re1 Nf8 17.Re2 Rd8 18.Rce1 Qc7 19.h4 b5 20.Qc3 Qb8 21.h5 bxc4 22. 
+Nxc4 Nxc4 23.Qxc4 Qb5 24.Qc5 Qxc5 25.dxc5 e5 26.Nd2 Bg4 27.Re4 Bxh5 28.Nc4 
+Rab8 29.Rh4 Bg6 30.Na5 Rxb2 31.Nxc6 Rdd2 32.Ne7 Rxf2 33.Bh1 Rfc2 34.c6 Bf7 
+35.Ra4 Rc3 36.Be4 Rxg3+ 37.Kh1 Rh3+ 38.Kg1 Rg3+ 39.Kh1 Ne6 40.Rxa6 Rh3+  
+41.Kg1 Rg3+ 42.Kh1 g6 43.Ra7 Rh3+ 1/2-1/2 
+ 
+[Event "UTD Invitational A"] 
+[Site "Dallas, TX USA"] 
+[Date "2009.11.26"] 
+[Round "6"] 
+[White "Bercys, Salvijus"] 
+[Black "Izoria, Zviad"] 
+[Result "0-1"] 
+[WhiteElo "2439"] 
+[BlackElo "2589"] 
+[ECO "D31"] 
+[EventDate "2009.11.21"] 
+ 
+1.d4 e6 2.c4 a6 3.Nc3 d5 4.cxd5 exd5 5.Bf4 c6 6.e3 Bd6 7.Bxd6 Qxd6 8.Bd3  
+Ne7 9.Qc2 g6 10.Nf3 Bf5 11.Bxf5 Nxf5 12.O-O-O Nd7 13.Kb1 O-O 14.e4 dxe4  
+15.Nxe4 Qf4 16.Nfg5 Ne7 17.h4 h6 18.Nh3 Qf5 19.h5 g5 20.g4 Qh7 21.f4 f6  
+22.f5 Nd5 23.Rhe1 Rfd8 24.Nhf2 Nf8 25.Nd3 Re8 26.Re2 Re7 27.Rde1 Rae8 28. 
+Qc5 Qg7 29.Nb4 Nxb4 30.Nxf6+ Qxf6 31.Rxe7 Rxe7 32.Rxe7 Nd5 33.Rxb7 Ne3 34. 
+Rc7 Nxg4 35.Rxc6 Qf7 36.Rc8 Ne3 37.Rc6 Nxf5 38.a3 g4 39.Qe5 g3 40.Qe4 Qxh5 
+41.Rf6 Ng7 42.Qf4 Nd7 43.Rxa6 g2 44.Ra8+ Kh7 0-1 
+ 
+[Event "Open"] 
+[Site "Kavala GRE"] 
+[Date "2006.07.07"] 
+[Round "5"] 
+[White "Jeremic, Veljko"] 
+[Black "Drazic, Sinisa"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2527"] 
+[BlackElo "2514"] 
+[ECO "D31"] 
+[EventDate "2006.07.04"] 
+ 
+1.d4 e6 2.c4 a6 3.Nc3 d5 4.cxd5 exd5 5.Nf3 c6 6.Qb3 Nd7 7.Bf4 Ne7 8.e3 Ng6 
+9.Bg3 Nf6 10.Bd3 Bd6 11.O-O O-O 12.Na4 Ne4 13.Bxe4 dxe4 14.Nd2 Re8 15.Nc3  
+Be6 16.Qxb7 Bxg3 17.fxg3 c5 18.Ndxe4 Re7 19.Qc6 cxd4 20.exd4 Rc7 21.Qd6  
+Rd7 22.Qa3 Rxd4 23.Rad1 Ne5 24.h3 Bc4 25.Qc5 Nd3 26.Qa3 Ne5 27.Qc5 Nd3 28. 
+Qa3 Ne5 29.Rfe1 Nd3 30.Rf1 Ne5 1/2-1/2 

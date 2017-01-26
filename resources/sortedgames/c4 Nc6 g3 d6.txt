@@ -1,0 +1,81 @@
+ 
+[Event "47. Italian Teams 2015"] 
+[Site "Civitanova Marche ITA"] 
+[Date "2015.04.29"] 
+[Round "1.1"] 
+[White "Mogranzini, Roberto"] 
+[Black "Rossi, C1"] 
+[Result "1-0"] 
+[WhiteElo "2494"] 
+[BlackElo "2291"] 
+[ECO "A10"] 
+[EventDate "2015.04.29"] 
+ 
+1.c4 Nc6 2.g3 d6 3.Bg2 g6 4.Nc3 Bg7 5.d3 Bd7 6.Nf3 Qc8 7.h4 Nf6 8.Rb1 a6  
+9.Bd2 Rb8 10.Nd5 Nh5 11.Qc1 e6 12.Nf4 Nf6 13.h5 e5 14.h6 Bf8 15.Nd5 Nxd5  
+16.cxd5 Ne7 17.Bg5 Nxd5 18.Nxe5 dxe5 19.Bxd5 Bb4+ 20.Kf1 O-O 21.Bf6 Bd6  
+22.Qg5 Be6 23.Bxe5 f6 24.Bxf6 Rf7 25.Be4 Qf8 26.Bd4 c5 27.Bxg6 cxd4 28. 
+Bxf7+ Kxf7 29.Rh4 Qh8 30.Rc1 Rg8 31.Rf4+ Ke8 32.Qh5+ Rg6 33.Re4 Kd7 34. 
+Rxe6 Kxe6 35.Qh3+ Ke7 36.Qh1 Qb8 37.Qe4+ Kf7 38.Qf5+ Rf6 39.Qxh7+ Ke6 40. 
+Qe4+ Kf7 41.Qh7+ Ke6 42.Kg2 Qf8 43.Qe4+ Be5 44.f4 Rf5 45.h7 Qg7 46.Rc5 1-0 
+ 
+[Event "16. Masters 2012"] 
+[Site "Zenica BIH"] 
+[Date "2012.11.13"] 
+[Round "3.2"] 
+[White "Goric, Esad"] 
+[Black "Mestrovic, Zvonimir"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2344"] 
+[BlackElo "2320"] 
+[ECO "A10"] 
+[EventDate "2012.11.12"] 
+ 
+1.c4 Nc6 2.g3 d6 3.Bg2 Nf6 4.Nc3 e5 5.d3 Be7 6.Nf3 O-O 7.O-O Bd7 8.h3 h6  
+1/2-1/2 
+ 
+[Event "13. Trieste Open"] 
+[Site "Trieste ITA"] 
+[Date "2011.09.08"] 
+[Round "7"] 
+[White "Cebalo, Miso"] 
+[Black "Rossi, C1"] 
+[Result "1-0"] 
+[WhiteElo "2478"] 
+[BlackElo "2346"] 
+[ECO "A10"] 
+[EventDate "2011.09.03"] 
+ 
+1.c4 Nc6 2.g3 d6 3.Bg2 Bd7 4.Nc3 Qc8 5.d4 e5 6.Nf3 Be7 7.d5 Nd8 8.c5 f5 9. 
+cxd6 cxd6 10.O-O Nf7 11.e4 Nf6 12.exf5 Bxf5 13.Be3 O-O 14.Rc1 Qd7 15.Nh4  
+Bh3 16.Qd3 g5 17.Nf3 Qg4 18.Nd2 Qh5 19.f3 e4 20.Ncxe4 Ne5 21.Qe2 Bxg2 22. 
+Kxg2 Nxd5 23.Bd4 Nc6 24.Bg1 Nf6 25.Qb5 Nxe4 26.Nxe4 Rab8 27.Rcd1 Qg6 28. 
+Qd5+ Kg7 29.Bd4+ Kh6 30.Bc3 Rf5 31.Qd3 d5 32.Nf2 d4 33.Ng4+ Kh5 34.Bxd4  
+Rd8 35.Ne3 Ra5 36.g4+ Kh6 37.Qc3 Bb4 38.Qc4 Qg8 39.Nf5+ Rxf5 40.Qxg8 Rxg8  
+41.gxf5 Rf8 42.a3 Be7 43.Rfe1 Rxf5 44.Bc3 Bc5 45.Rd7 1-0 
+ 
+[Event "KB Czech Open"] 
+[Site "Pardubice CZE"] 
+[Date "2000.07.28"] 
+[Round "8"] 
+[White "Jirovsky, Milos"] 
+[Black "Kos, Toni"] 
+[Result "0-1"] 
+[WhiteElo "2472"] 
+[BlackElo "2400"] 
+[ECO "A25"] 
+[EventDate "2000.07.21"] 
+ 
+1.c4 Nc6 2.g3 d6 3.Bg2 e5 4.Nc3 Be6 5.d3 Qd7 6.Rb1 g6 7.b4 Bg7 8.e3 Nge7  
+9.Nd5 Nd8 10.b5 Nc8 11.Qa4 c6 12.bxc6 bxc6 13.Nc3 O-O 14.Nge2 Bh3 15.O-O  
+Bxg2 16.Kxg2 Ne6 17.Ba3 Nb6 18.Qa6 f5 19.f3 Bh6 20.f4 e4 21.Rfd1 Nc7 22. 
+Qa5 exd3 23.Rxd3 Nxc4 24.Qa4 Nxa3 25.Qxa3 Ne8 26.e4 fxe4 27.Nxe4 d5 28.Nc5 
+Qd6 29.Nd4 Rf6 30.Nce6 Qxa3 31.Rxa3 Nd6 32.Nc7 Rc8 33.Rxa7 Rf7 34.Nde6 Ne8 
+35.Rc1 Nxc7 36.Rxc6 Ne8 37.Rxc8 Rxa7 38.a4 Re7 39.Nc5 Kf7 40.a5 Re2+ 41. 
+Kf3 Ra2 42.Ra8 Ra3+ 43.Ke2 Bf8 44.Ra7+ Kg8 45.Ne6 Ng7 46.Nc7 d4 47.Ra8 d3+ 
+48.Kd2 Rxa5 49.Rxa5 Bb4+ 50.Kxd3 Bxa5 51.Nd5 Kf7 52.g4 Ne8 53.Ne3 Bb6 54. 
+Nc4 Bc7 55.Ke4 Nf6+ 56.Kf3 Nd5 57.f5 Bxh2 58.fxg6+ hxg6 59.Nd2 Bd6 60.Ne4  
+Be7 61.Ng3 Nf6 62.Ne2 Nh7 63.Nf4 Bd6 64.Nxg6 Kxg6 65.g5 Nxg5+ 66.Ke3 Kf5  
+67.Kd4 Ke6 68.Kc4 Nf3 69.Kd3 Kd5 70.Ke3 Ng5 71.Kd3 Bc5 72.Kd2 Kd4 73.Ke2  
+Ke4 74.Kf1 Kf3 75.Ke1 Ne4 76.Kd1 Bb4 77.Kc1 Ke2 78.Kc2 Nc5 79.Kc1 Kd3 80. 
+Kd1 Na4 81.Kc1 Bd2+ 82.Kb1 Kc3 83.Ka2 Kb4 84.Kb1 Kb3 0-1 

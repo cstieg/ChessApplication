@@ -1,0 +1,56 @@
+ 
+[Event "FSIM October 2015"] 
+[Site "Budapest HUN"] 
+[Date "2015.10.11"] 
+[Round "8.2"] 
+[White "Dovzik, Juri"] 
+[Black "Radlovacki, Jovan"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2278"] 
+[BlackElo "2371"] 
+[ECO "A05"] 
+[EventDate "2015.10.03"] 
+ 
+1.b3 Nf6 2.Nf3 e6 3.Bb2 Be7 4.c4 d5 5.e3 O-O 6.Be2 c5 7.O-O Nc6 8.cxd5  
+Nxd5 9.Na3 b6 10.Nc4 Bb7 11.Rc1 Rc8 12.Qc2 Bf6 13.Bxf6 1/2-1/2 
+ 
+[Event "ch-SER Qualification"] 
+[Site "Belgrade SER"] 
+[Date "2007.01.25"] 
+[Round "3"] 
+[White "Drazic, Sinisa"] 
+[Black "Bojkovic, Natasa"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2483"] 
+[BlackElo "2397"] 
+[ECO "A05"] 
+[EventDate "2007.01.23"] 
+ 
+1.b3 Nf6 2.Nf3 e6 3.Bb2 Be7 4.g3 b6 5.Bg2 Bb7 6.O-O c5 7.c4 d6 8.e3 O-O 9. 
+Nc3 Nc6 10.Qe2 d5 11.cxd5 Nxd5 12.Rfd1 Bf6 13.d4 Nxc3 14.Bxc3 cxd4 15.Bxd4 
+Nxd4 16.Nxd4 Bxg2 17.Kxg2 Qd5+ 18.e4 Qb7 19.Rac1 Bxd4 20.Rxd4 Rfd8 21.Rcd1 
+Rxd4 22.Rxd4 Rc8 23.Qd3 h6 24.a4 Qc6 25.Rd7 Rc7 26.Rd8+ Kh7 27.h4 h5 28. 
+Qf3 Qc5 29.Qf4 a5 30.Kh2 Rb7 31.e5 Qe7 32.Qd4 Qc7 33.Rd6 g6 34.Qf4 Rb8 35. 
+Kg1 Kg8 36.Qd4 b5 37.Rd7 Qc1+ 38.Kh2 Qc6 39.Rd8+ Rxd8 40.Qxd8+ Kg7 41.Qxa5 
+Qc2 42.Qxb5 Qxf2+ 43.Kh3 Qf3 44.Kh2 Qf2+ 45.Kh1 Qf3+ 46.Kh2 Qf2+ 47.Kh3  
+Qf3 48.Kh2 1/2-1/2 
+ 
+[Event "Ch Serbia (qual)"] 
+[Site "Belgrade SRB"] 
+[Date "2007.01.25"] 
+[Round "3"] 
+[White "Drazic, Sinisa"] 
+[Black "Bojkovic, Natasa"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2483"] 
+[BlackElo "2397"] 
+[ECO "A05"] 
+ 
+1.b3 Nf6 2.Nf3 e6 3.Bb2 Be7 4.g3 b6 5.Bg2 Bb7 6.O-O c5 7.c4 d6 8.e3 O-O 9. 
+Nc3 Nc6 10.Qe2 d5 11.cxd5 Nxd5 12.Rfd1 Bf6 13.d4 Nxc3 14.Bxc3 cxd4 15.Bxd4 
+Nxd4 16.Nxd4 Bxg2 17.Kxg2 Qd5+ 18.e4 Qb7 19.Rac1 Bxd4 20.Rxd4 Rfd8 21.Rcd1 
+Rxd4 22.Rxd4 Rc8 23.Qd3 h6 24.a4 Qc6 25.Rd7 Rc7 26.Rd8+ Kh7 27.h4 h5 28. 
+Qf3 Qc5 29.Qf4 a5 30.Kh2 Rb7 31.e5 Qe7 32.Qd4 Qc7 33.Rd6 g6 34.Qf4 Rb8 35. 
+Kg1 Kg8 36.Qd4 b5 37.Rd7 Qc1+ 38.Kh2 Qc6 39.Rd8+ Rxd8 40.Qxd8+ Kg7 41.Qxa5 
+Qc2 42.Qxb5 Qxf2+ 43.Kh3 Qf3 44.Kh2 Qf2+ 45.Kh1 Qf3+ 46.Kh2 Qf2+ 47.Kh3  
+Qf3 48.Kh2 1/2-1/2 

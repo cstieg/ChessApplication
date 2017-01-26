@@ -1,0 +1,81 @@
+ 
+[Event "Subic Open"] 
+[Site "Subic PHI"] 
+[Date "2009.05.29"] 
+[Round "7"] 
+[White "Nguyen, Thanh Son"] 
+[Black "Mohota, Nisha"] 
+[Result "0-1"] 
+[WhiteElo "2362"] 
+[BlackElo "2304"] 
+[ECO "A00"] 
+[EventDate "2009.05.25"] 
+ 
+1.a3 d5 2.Nf3 c5 3.e3 Nc6 4.c4 e6 5.cxd5 exd5 6.d4 c4 7.Nc3 Nf6 8.Ne5 Bd6  
+9.Qa4 Qa5 10.Nxc6 Qxa4 11.Nxa4 bxc6 12.Bd2 Rb8 13.O-O-O Ng4 14.Be1 Nxh2  
+15.Be2 Ng4 16.e4 dxe4 17.Bxc4 Bf5 18.Nc5 g6 19.b4 O-O 20.Nb3 e3 21.f3 e2  
+22.Bxe2 Ne3 23.Na5 Nxd1 24.Bxd1 Be6 25.Ba4 Bd5 26.Kd2 Bf4+ 27.Kd3 Rfe8 28. 
+Bd2 Bxd2 29.Kxd2 Re6 30.Rc1 Rbe8 31.Bd1 h5 32.Rc5 a6 33.Nc4 Bxc4 34.Rxc4  
+Re1 35.Rxc6 Rg1 36.Ba4 Rxg2+ 37.Kd3 h4 38.Rc1 Rd8 39.Rh1 Ra2 40.Bc6 Rxa3+  
+41.Kc4 g5 42.f4 f6 43.fxg5 fxg5 44.Bd5+ Kg7 45.Be6 a5 46.d5 axb4 47.Kxb4  
+Re3 48.Rg1 Rxe6 49.dxe6 Kf6 50.Kc5 h3 51.e7 Kxe7 52.Rxg5 Rh8 53.Rh5 Rxh5+  
+0-1 
+ 
+[Event "FSIMA August"] 
+[Site "Budapest HUN"] 
+[Date "2007.08.10"] 
+[Round "5"] 
+[White "Kahn, Evarth Dr"] 
+[Black "Strunski, Andreas"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2347"] 
+[BlackElo "2203"] 
+[ECO "A00"] 
+[EventDate "2007.08.06"] 
+ 
+1.a3 d5 2.Nf3 c5 3.g3 Nc6 4.Bg2 e5 5.d3 Nge7 6.O-O Ng6 7.h4 h5 8.c4 d4 9. 
+e3 Be7 10.exd4 exd4 11.Bg5 f6 12.Bc1 Bf5 13.Re1 Qd7 14.Qc2 Nge5 15.Nxe5  
+Nxe5 16.Be4 Bxe4 17.Rxe4 g5 18.Qe2 gxh4 19.Rxh4 O-O-O 20.Bf4 Ng6 21.Rxh5  
+Nxf4 22.gxf4 Rdg8+ 23.Kf1 Qc6 24.Rxh8 Qg2+ 25.Ke1 Rxh8 26.Nd2 Bd6 27.Qe6+  
+Kc7 28.Ne4 Qh1+ 29.Ke2 Qh5+ 30.Kd2 Bxf4+ 31.Kc2 Re8 32.Nxf6 Rxe6 33.Nxh5  
+Re2+ 34.Kb3 Rxf2 35.Nxf4 Rxf4 36.Rh1 Rf3 37.Kc2 Rf2+ 38.Kc1 a6 39.Rh7+ Kb6 
+40.Rh5 Rf6 41.Kc2 Rc6 42.b4 a5 43.Kb3 axb4 44.axb4 cxb4 45.Kxb4 Rg6 46.Rh4 
+Rg3 47.Rxd4 Kc6 48.Rd5 Rh3 49.Rc5+ Kd6 50.d4 Rd3 51.d5 Rb3+ 52.Kxb3 Kxc5  
+53.Kc3 b6 54.Kb3 b5 55.cxb5 Kxb5 56.d6 Kc6 57.d7 Kxd7 1/2-1/2 
+ 
+[Event "12. Open"] 
+[Site "Zadar CRO"] 
+[Date "2005.12.13"] 
+[Round "3"] 
+[White "Plenkovic, Zdenko"] 
+[Black "Malysheva, Polina"] 
+[Result "0-1"] 
+[WhiteElo "2321"] 
+[BlackElo "2295"] 
+[ECO "A00"] 
+[EventDate "2005.12.12"] 
+ 
+1.a3 d5 2.Nf3 c5 3.g3 Nc6 4.c4 d4 5.d3 e5 6.Bg2 Bd6 7.O-O Nge7 8.e3 O-O 9. 
+exd4 exd4 10.Nbd2 Ng6 11.Ne4 Be7 12.Re1 Bf5 13.h4 Bg4 14.Qc2 Qd7 15.Nh2  
+Bh3 16.h5 Nge5 17.Bf4 Rae8 18.Bxe5 Nxe5 19.f4 Nc6 20.Nf2 Bxg2 21.Kxg2 g6  
+22.Qe2 Bd8 23.Qf3 Re3 24.Qd5 Qxd5+ 25.cxd5 Ne7 26.Nhg4 Rxe1 27.Rxe1 f5 28. 
+d6 Nd5 29.Ne5 Ne3+ 30.Kf3 Rf6 31.hxg6 hxg6 32.Rc1 Rxd6 33.Rxc5 Kg7 34.Nc4  
+Nxc4 35.dxc4 Bb6 36.Re5 Rc6 37.b3 Bc5 38.b4 Bd6 39.Rd5 Ra6 40.Ke2 Be7 41. 
+Rxd4 Rxa3 42.Nd3 b6 43.Rd7 Kf6 44.c5 bxc5 45.bxc5 a5 46.Kd2 Ke6 47.c6 Bb4+ 
+48.Ke3 Rc3 49.Rg7 Be7 50.Rxg6+ Bf6 51.Rg8 Rxc6 52.Re8+ Kd5 53.Rb8 Bd4+ 54. 
+Kd2 Bc3+ 55.Ke3 Re6+ 56.Kf3 Kc4 57.Nc1 Bd2 58.Nb3 Re3+ 0-1 
+ 
+[Event "9. Bavarian Open"] 
+[Site "Bad Wiessee GER"] 
+[Date "2005.11.02"] 
+[Round "5"] 
+[White "Braun, Arik"] 
+[Black "Bach, Matthias"] 
+[Result "1-0"] 
+[WhiteElo "2465"] 
+[BlackElo "2310"] 
+[ECO "A00"] 
+[EventDate "2005.10.29"] 
+ 
+1.a3 d5 2.Nf3 c5 3.e3 g6 4.c4 Nf6 5.cxd5 Nxd5 6.Bb5+ Bd7 7.Qb3 Bg7 8.Bc4  
+Bc6 9.e4 b5 10.Bxd5 1-0 

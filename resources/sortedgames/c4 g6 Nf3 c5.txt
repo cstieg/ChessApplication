@@ -1,0 +1,100 @@
+ 
+[Event "Helio da Motta Filho Cup"] 
+[Site "Rio de Janeiro BRA"] 
+[Date "2008.12.13"] 
+[Round "8"] 
+[White "Fontes, C1."] 
+[Black "Saldano Dayer, Horacio"] 
+[Result "0-1"] 
+[WhiteElo "2222"] 
+[BlackElo "2457"] 
+[ECO "A38"] 
+[EventDate "2008.12.09"] 
+ 
+1.c4 g6 2.Nf3 c5 3.g3 Bg7 4.Bg2 Nc6 5.O-O d6 6.Nc3 Nf6 7.d3 O-O 8.Bd2 Rb8  
+9.a3 a6 10.Qa4 Bg4 11.h3 Bxf3 12.exf3 Nd4 13.Qd1 b5 14.Rb1 Nd7 15.cxb5  
+axb5 16.Ne2 Nxe2+ 17.Qxe2 Nb6 18.Bg5 Re8 19.Bd2 Qd7 20.Rfe1 Na4 21.b3 Nc3  
+22.Bxc3 Bxc3 23.Rec1 Bd4 24.f4 e5 25.Qd2 exf4 26.Qxf4 Re2 27.Rf1 Rbe8 28. 
+a4 R8e5 29.g4 Re6 30.Qf3 bxa4 31.bxa4 Qxa4 32.Rb8+ Kg7 33.g5 Re8 34.Rb7  
+R8e7 35.Rxe7 Rxe7 36.h4 Qc2 37.h5 gxh5 38.Qf5 Qe2 39.Bf3 Qe6 40.Qf4 Qh3  
+41.Qxd6 Re6 0-1 
+ 
+[Event "10. It"] 
+[Site "Tuzla BIH"] 
+[Date "2004.11.23"] 
+[Round "8"] 
+[White "Trumic, Enes"] 
+[Black "Sprecic, Mustafa"] 
+[Result "1-0"] 
+[WhiteElo "2248"] 
+[BlackElo "2375"] 
+[ECO "A37"] 
+[EventDate "2004.11.19"] 
+ 
+1.c4 g6 2.Nf3 c5 3.g3 Bg7 4.Bg2 Nc6 5.Nc3 d6 6.Rb1 Bf5 7.d3 Qc8 8.h3 h5 9. 
+e4 Bd7 10.Be3 Rb8 11.d4 cxd4 12.Nxd4 Nf6 13.Rc1 O-O 14.Nd5 Re8 15.Bg5 Nxd4 
+16.Bxf6 exf6 17.Qxd4 f5 18.Nf6+ Bxf6 19.Qxf6 d5 20.g4 fxg4 21.hxg4 Bxg4  
+22.f3 Be6 23.Rxh5 gxh5 24.Qg5+ Kf8 25.Qh6+ Ke7 26.cxd5 Qd8 27.dxe6 Qa5+  
+28.Rc3 Rg8 29.Qf4 fxe6 30.e5 Rbf8 31.Qh4+ Kd7 32.Qd4+ Ke8 33.Bf1 Qb6 34. 
+Qa4+ Ke7 35.Qh4+ Kd7 36.Qxh5 Rg7 37.Qh6 Rfg8 38.Qd2+ Ke7 39.Rb3 Qc6 40. 
+Qb4+ Kd8 41.Qh4+ Rg5 42.Rc3 Qb6 43.f4 Qb4 44.Bc4 Qxb2 45.Rd3+ Kc7 46.fxg5  
+Qxe5+ 47.Kd1 Rxg5 48.Qf2 Kc6 49.Qf3+ Kc5 50.Bb3 Rf5 51.Qg2 Kb6 52.Bc2 Qa1+ 
+53.Kd2 Qxa2 54.Rb3+ Rb5 55.Qf2+ Kc6 56.Rc3+ Kd7 57.Qf7+ Kd8 58.Qc7+ Ke8  
+59.Qc8+ Ke7 60.Rc7+ 1-0 
+ 
+[Event "17. ch-EU U18 Boys"] 
+[Site "Sibenik CRO"] 
+[Date "2007.09.15"] 
+[Round "2"] 
+[White "Rakhmanov, Aleksandr"] 
+[Black "Brzeski, Maciej"] 
+[Result "1-0"] 
+[WhiteElo "2489"] 
+[BlackElo "2356"] 
+[ECO "B36"] 
+[EventDate "2007.09.14"] 
+ 
+1.c4 g6 2.Nf3 c5 3.d4 cxd4 4.Nxd4 Nc6 5.e4 Nf6 6.Nc3 d6 7.Be2 Nxd4 8.Qxd4  
+Bg7 9.Be3 O-O 10.Qd2 Be6 11.Rc1 Qa5 12.f3 Rfc8 13.b3 a6 14.Na4 Qxd2+ 15. 
+Kxd2 Nd7 16.g4 f5 17.gxf5 gxf5 18.Rhg1 Kf7 19.Bd3 fxe4 20.Bxe4 Rc7 21.Bxh7 
+b5 22.Bg6+ Kf8 23.Be4 Rb8 24.cxb5 Rxc1 25.Rxc1 d5 26.Bd3 axb5 27.Nc5 Nxc5  
+28.Rxc5 b4 29.h4 Ra8 30.Bb1 Bc3+ 31.Ke2 Kf7 32.h5 Rg8 33.Bg6+ Kf6 34.Rc6  
+d4 35.Bf2 Ra8 36.Bh4+ Ke5 37.Bg3+ Kf6 38.Kd3 Rxa2 39.Bh4+ 1-0 
+ 
+[Event "18. WChCorr"] 
+[Site "ICCF COR"] 
+[Date "2004.06.01"] 
+[Round "15"] 
+[White "Van Oosterom, Joop"] 
+[Black "Toro Solis de Ovando, Guillermo"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2725"] 
+[BlackElo "2636"] 
+[ECO "B39"] 
+[EventDate "2003.06.01"] 
+ 
+1.c4 g6 2.Nf3 c5 3.e4 Bg7 4.d4 cxd4 5.Nxd4 Nc6 6.Be3 Nf6 7.Nc3 Ng4 8.Qxg4  
+Nxd4 9.Qd1 Ne6 10.Rc1 O-O 11.Bd3 b6 12.O-O Bb7 13.Qd2 d6 14.Rfe1 Qd7 15. 
+Rcd1 Rfe8 16.Bf1 Rad8 17.b3 Rc8 18.g3 Nc5 19.Bd4 Bxd4 20.Qxd4 Qg4 21.Qe3  
+Qe6 22.Bg2 Qe5 23.Bh3 Rcd8 24.Rd2 Qh5 25.Bg2 Rc8 26.h3 Kg7 27.f4 f6 28.Kh2 
+Qh6 29.h4 a5 30.Kg1 Kg8 31.Nd5 Bxd5 32.Rxd5 Qf8 33.Red1 Rcd8 34.Qd2 Rb8  
+35.h5 Qh6 36.Qc3 Kh8 37.hxg6 Qxg6 38.e5 dxe5 39.fxe5 Rg8 40.exf6 exf6 41. 
+Rd6 Qxg3 42.Qxf6+ Qg7 43.Qxg7+ Rxg7 44.Kh2 Rg6 45.Rxg6 1/2-1/2 
+ 
+[Event "Bled SLO, Men Ch 2003"] 
+[Site "Bled SLO"] 
+[Date "2003.??.??"] 
+[Round "1.5"] 
+[White "Iruzubieta Villaluenga, Jesus M"] 
+[Black "Silva, Fernando"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2432"] 
+[BlackElo "2362"] 
+[ECO "B27"] 
+[EventDate "2003.08.04"] 
+ 
+1.c4 g6 2.Nf3 c5 3.e4 d6 4.d4 Bg4 5.d5 Bg7 6.Be2 Nf6 7.Nc3 O-O 8.O-O e6 9. 
+Bf4 exd5 10.exd5 Re8 11.h3 Bxf3 12.Bxf3 Na6 13.Qc2 Nc7 14.Rab1 Qe7 15.a3  
+Nd7 16.b4 Qf6 17.Bd2 Qd4 18.Na4 b5 19.Nb2 Ne5 20.Bd1 bxc4 21.Bc3 Qh4 22.f4 
+Nd7 23.Bxg7 Kxg7 24.Nxc4 Qf6 25.Qb2 cxb4 26.axb4 Qxb2 27.Rxb2 Nf6 28.Nxd6  
+Re3 29.f5 Rd8 1/2-1/2 

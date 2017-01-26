@@ -1,0 +1,65 @@
+ 
+[Event "7. Arad Open 2014"] 
+[Site "Arad ROU"] 
+[Date "2014.08.10"] 
+[Round "9.9"] 
+[White "Farkas, Richard"] 
+[Black "Doncea, Vladimir"] 
+[Result "0-1"] 
+[WhiteElo "2289"] 
+[BlackElo "2405"] 
+[ECO "B10"] 
+[EventDate "2014.08.04"] 
+ 
+1.e4 c6 2.Ne2 Nf6 3.Nbc3 e5 4.d4 exd4 5.Qxd4 d5 6.Bg5 Be7 7.O-O-O c5 8.Qd3 
+d4 9.Bxf6 Bxf6 10.Nd5 O-O 11.f4 Nc6 12.Qb5 Be7 13.c3 Be6 14.cxd4 cxd4 15. 
+Nxd4 Bxd5 16.Qxd5 Nxd4 17.Qxd4 Qc7+ 18.Kb1 Rad8 19.Qa4 Rxd1+ 20.Qxd1 Qxf4  
+21.Qf3 Qd2 22.Qd1 Qf4 23.Qf3 Qd2 24.Bc4 Bf6 25.Qe2 Rd8 26.Rc1 Bxb2 27.Qxd2 
+Rxd2 28.Rf1 Bf6 29.e5 b5 30.Bb3 Bxe5 31.Re1 Bd6 32.Rf1 Ba3 33.Bxf7+ Kh8  
+34.Rf3 Bd6 35.h3 Rxg2 36.Rd3 Bf8 37.Be8 a6 38.Rf3 Be7 39.Re3 Bc5 40.Rc3  
+Rg5 41.Rd3 g6 42.Rd8 Kg7 43.Ra8 Rg1+ 44.Kc2 Rg2+ 45.Kb1 Ba3 46.Rxa6 Rb2+  
+47.Ka1 Re2 48.Rxa3 Rxe8 49.Rb3 Re5 50.Kb2 g5 51.Kc2 Rd5 52.Rb4 Kg6 53.a4  
+bxa4 54.Rxa4 Kh5 55.Ra6 h6 56.Rb6 Rf5 57.Rb3 Rf2+ 58.Kd1 Rh2 59.Ke1 Kh4  
+60.Kf1 Rxh3 61.Rb6 h5 62.Rb4+ g4 63.Kg2 Ra3 64.Rb2 Ra5 65.Rc2 Kg5 66.Rb2  
+h4 67.Kh2 h3 68.Rb8 0-1 
+ 
+[Event "Visma IMA 2014"] 
+[Site "Vaxjo SWE"] 
+[Date "2014.06.28"] 
+[Round "7.5"] 
+[White "Westerberg, Jonathan"] 
+[Black "Christensen, Tobias"] 
+[Result "1-0"] 
+[WhiteElo "2409"] 
+[BlackElo "2373"] 
+[ECO "B10"] 
+[EventDate "2014.06.25"] 
+ 
+1.e4 c6 2.Ne2 Nf6 3.e5 Nd5 4.d4 d6 5.exd6 Qxd6 6.c4 Qb4+ 7.Nd2 Nf6 8.Nc3  
+g6 9.Be2 Bg7 10.O-O O-O 11.Bf3 Rd8 12.Qb3 Na6 13.d5 cxd5 14.cxd5 Bg4 15. 
+Bxg4 Nxg4 16.Nf3 Qxb3 17.axb3 Nb4 18.Bg5 Nxd5 19.Nxd5 Rxd5 20.Bxe7 Bxb2  
+21.Ra2 Bf6 22.Bxf6 Nxf6 23.Rc1 Rad8 24.Kf1 a6 25.Rc7 R8d7 26.Rac2 Kg7 27. 
+Ke2 h6 28.h3 Rxc7 29.Rxc7 Rd7 30.Rc8 Re7+ 31.Kd3 Rd7+ 32.Ke2 Nd5 33.g3 Ne7 
+34.Re8 Nc6 35.Ke3 Kf6 36.Nd2 b6 37.Ne4+ Kg7 38.Ra8 Re7 39.Kd3 Rd7+ 40.Ke3  
+Nb4 41.Rg8+ Kxg8 42.Nf6+ Kg7 43.Nxd7 b5 44.Kd4 f5 45.f4 Na2 46.Nc5 a5 47. 
+Nd3 h5 48.h4 Kf6 49.Nc5 Ke7 50.Nb7 a4 51.bxa4 bxa4 52.Nc5 a3 53.Nd3 1-0 
+ 
+[Event "TCh-FRA Top 16 Gp B"] 
+[Site "Montpellier FRA"] 
+[Date "2008.04.12"] 
+[Round "6"] 
+[White "Cornette, Matthieu"] 
+[Black "Hauchard, Arnaud"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2491"] 
+[BlackElo "2476"] 
+[ECO "B10"] 
+[EventDate "2008.04.10"] 
+ 
+1.e4 c6 2.Ne2 Nf6 3.Nbc3 d6 4.g3 e5 5.Bg2 h5 6.h3 h4 7.g4 g5 8.d4 Nfd7 9. 
+Be3 Be7 10.Qd3 Nf8 11.a4 Ng6 12.O-O Na6 13.f3 Nc7 14.Rfd1 Ne6 15.d5 Nef4  
+16.Nxf4 exf4 17.Bd4 O-O 18.dxc6 bxc6 19.Qc4 Qe8 20.Ne2 Ne5 21.Qc3 Bf6 22. 
+Qd2 Qe7 23.b3 Rd8 24.c4 c5 25.Bf2 Be6 26.Rab1 Nc6 27.Nc3 Be5 28.Nd5 Bxd5  
+29.cxd5 Nb4 30.Bf1 Rab8 31.Bc4 Qf6 32.Qe2 Rdc8 33.Kg2 Qd8 34.Be1 Rb6 35. 
+Bb5 a5 36.Rbc1 Rcb8 37.Bxb4 axb4 38.Bc6 Qc8 39.Rc2 Ra6 40.Bd7 Qb7 41.Bc6  
+Qb6 42.Qb5 Qa7 43.Qc4 Ra5 44.Re1 1/2-1/2 

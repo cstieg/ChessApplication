@@ -1,0 +1,96 @@
+ 
+[Event "2. Verano ABC Color 2014"] 
+[Site "Asuncion PAR"] 
+[Date "2014.01.31"] 
+[Round "8.1"] 
+[White "Brito, Luismar"] 
+[Black "Kropff, Ricardo"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2271"] 
+[BlackElo "2218"] 
+[ECO "B19"] 
+[EventDate "2014.01.25"] 
+ 
+1.Nc3 d5 2.d4 c6 3.e4 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nd7 7.h4 h6 8.h5 Bh7 
+9.Bd3 Bxd3 10.Qxd3 e6 11.Bf4 Qa5+ 12.c3 Ngf6 13.a4 Nd5 14.Bd2 Qc7 15.Ne4  
+N5f6 16.g3 Nxe4 17.Qxe4 Bd6 18.Kf1 c5 19.a5 a6 20.b4 cxb4 21.cxb4 Nf6 22. 
+Qe2 Qc6 23.Rh4 O-O 24.g4 Rfc8 25.g5 hxg5 26.Nxg5 Qc4 27.Qxc4 Rxc4 28.h6  
+gxh6 29.Rxh6 Kg7 30.Rh4 Bxb4 31.Bf4 Nd5 32.Be5+ f6 33.Nxe6+ Kf7 34.Nc7  
+fxe5 35.Nxd5 Rd8 36.Ne3 1/2-1/2 
+ 
+[Event "TCh-POL 1. League"] 
+[Site "Mrzezyno POL"] 
+[Date "2011.09.06"] 
+[Round "4"] 
+[White "Butkiewicz, Lukasz"] 
+[Black "Krysztofiak, Marcin"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2430"] 
+[BlackElo "2461"] 
+[ECO "B19"] 
+[EventDate "2011.09.03"] 
+ 
+1.Nc3 d5 2.d4 c6 3.e4 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7 
+9.Bd3 Bxd3 10.Qxd3 e6 11.Bd2 Ngf6 12.O-O-O Be7 13.Ne4 Nxe4 14.Qxe4 Nf6 15. 
+Qe2 Qd5 16.c4 Qe4 17.Qxe4 Nxe4 18.Be3 Nd6 19.b3 b5 20.c5 Ne4 21.Kc2 f5 22. 
+g3 Bf6 23.Ne5 Bxe5 24.dxe5 Ke7 25.Rhg1 Rhd8 26.Rxd8 Rxd8 27.f3 Ng5 28. 
+Bxg5+ hxg5 29.Rd1 Rxd1 30.Kxd1 a5 31.a4 b4 32.g4 1/2-1/2 
+ 
+[Event "FRA Ch u20b"] 
+[Site "Montlucon FRA"] 
+[Date "2011.04.20"] 
+[Round "5.2"] 
+[White "Sochacki, Wojtek"] 
+[Black "Villegas, Pierre"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2294"] 
+[BlackElo "2246"] 
+[ECO "B19"] 
+[EventDate "2011.04.17"] 
+ 
+1.Nc3 d5 2.d4 c6 3.e4 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7 
+9.Bd3 Bxd3 10.Qxd3 e6 11.Bf4 Qa5+ 12.Bd2 Bb4 13.c3 Be7 14.c4 Qc7 15.O-O-O  
+Ngf6 16.Kb1 O-O 17.Rc1 c5 18.d5 exd5 19.Nf5 Bd6 20.cxd5 Ng4 21.Rh4 Nge5  
+22.Nxe5 Bxe5 23.f4 Bf6 24.Rg4 Kh8 25.Bc3 Rg8 26.Re1 Rae8 27.Rxe8 Rxe8 28. 
+Qg3 Bxc3 29.Qxc3 Nf6 30.a3 Qd7 31.Nxg7 Qxg4 32.Nxe8 Qd1+ 33.Ka2 Qxd5+ 34. 
+Ka1 Qd1+ 1/2-1/2 
+ 
+[Event "BL 0506 SK Zehlendorf - Godesberger SK"] 
+[Site "?"] 
+[Date "2006.01.28"] 
+[Round "8.4"] 
+[White "Janz, Frerik"] 
+[Black "Seel, Christian Dr"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2355"] 
+[BlackElo "2492"] 
+[ECO "B18"] 
+[EventDate "2006.??.??"] 
+ 
+1.Nc3 d5 2.d4 c6 3.e4 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nh3 Nf6 7.Nf4 e5 8.Nxg6  
+hxg6 9.dxe5 Qxd1+ 10.Kxd1 Ng4 11.Be3 Nxe3+ 12.fxe3 Ke7 13.Bc4 Nd7 14.e6  
+Nb6 15.Bb3 c5 16.c3 c4 17.Bc2 Kxe6 18.Ne2 Bd6 19.h3 Rae8 20.Rf1 Re7 21.Kd2 
+Kd7 22.Rf3 Ke8 23.Raf1 Nd7 24.Nd4 Ne5 25.R3f2 Rh4 26.Nf3 Rh5 27.Nxe5 Rhxe5 
+28.Rf3 Bc5 29.e4 f5 30.exf5 Re2+ 31.Kc1 Rxg2 32.Bd1 g5 33.f6 gxf6 34.Rxf6  
+Kd8 35.Rf8+ Kc7 36.R8f7 Rh2 37.Bg4 b5 38.a3 a5 39.R1f5 Rxf7 40.Rxf7+ Kd6  
+41.Rf6+ Kc7 42.Rf7+ Kd6 43.Rf6+ Kc7 44.Rf7+ 1/2-1/2 
+ 
+[Event "Bundesliga 2005-6"] 
+[Site "Zehlendorf GER"] 
+[Date "2006.01.28"] 
+[Round "8"] 
+[White "Janz, Frerik"] 
+[Black "Seel, Christian Dr"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2355"] 
+[BlackElo "2492"] 
+[ECO "B18"] 
+[EventDate "2006.01.27"] 
+ 
+1.Nc3 d5 2.d4 c6 3.e4 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nh3 Nf6 7.Nf4 e5 8.Nxg6  
+hxg6 9.dxe5 Qxd1+ 10.Kxd1 Ng4 11.Be3 Nxe3+ 12.fxe3 Ke7 13.Bc4 Nd7 14.e6  
+Nb6 15.Bb3 c5 16.c3 c4 17.Bc2 Kxe6 18.Ne2 Bd6 19.h3 Rae8 20.Rf1 Re7 21.Kd2 
+Kd7 22.Rf3 Ke8 23.Raf1 Nd7 24.Nd4 Ne5 25.R3f2 Rh4 26.Nf3 Rh5 27.Nxe5 Rhxe5 
+28.Rf3 Bc5 29.e4 f5 30.exf5 Re2+ 31.Kc1 Rxg2 32.Bd1 g5 33.f6 gxf6 34.Rxf6  
+Kd8 35.Rf8+ Kc7 36.R8f7 Rh2 37.Bg4 b5 38.a3 a5 39.R1f5 Rxf7 40.Rxf7+ Kd6  
+41.Rf6+ Kc7 42.Rf7+ Kd6 43.Rf6+ Kc7 44.Rf7+ 1/2-1/2 

@@ -1,0 +1,14 @@
+ 
+[Event "Ch Poland (team) (2. liga)"] 
+[Site "Polanica Zdroj POL"] 
+[Date "2004.09.07"] 
+[Round "5"] 
+[White "Sygulski, Boguslaw"] 
+[Black "Rawski, Slawomir"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2282"] 
+[BlackElo "2278"] 
+[ECO "C00"] 
+ 
+1.e4 e6 2.d3 d6 3.Nf3 g6 4.Nc3 Bg7 5.d4 Nd7 6.Be2 Ne7 7.O-O b6 8.Re1 Bb7  
+9.Bf1 1/2-1/2 

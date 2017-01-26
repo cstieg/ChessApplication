@@ -1,0 +1,23 @@
+ 
+[Event "Calvia Open"] 
+[Site "Calvia"] 
+[Date "2004.11.07"] 
+[Round "7"] 
+[White "Campos Moreno, Javier B"] 
+[Black "Gonzales, Jayson"] 
+[Result "0-1"] 
+[WhiteElo "2476"] 
+[BlackElo "2422"] 
+[ECO "A41"] 
+ 
+1.d4 d6 2.c4 Nc6 3.e4 e5 4.Ne2 exd4 5.Nxd4 g6 6.Be2 Bg7 7.Be3 Nge7 8.Qd2  
+f5 9.exf5 Nxf5 10.Nxf5 Bxf5 11.Nc3 Qf6 12.O-O O-O 13.Rad1 Kh8 14.Nd5 Qf7  
+15.Rfe1 b6 16.Bh6 Bxh6 17.Qxh6 Bc2 18.Rc1 Qxf2+ 19.Kh1 Be4 20.Qh3 Bxd5 21. 
+cxd5 Ne5 22.Ba6 Rf7 23.Bc8 g5 24.Be6 g4 25.Qc3 Rf6 26.Rg1 Raf8 27.a3 Qh4  
+28.Rc2 c5 29.Re2 Rh6 30.h3 Qf6 31.Re4 Rg6 32.Bxg4 Qg7 33.Qg3 Qf6 34.Qh2  
+Rfg8 35.Be2 Rg3 36.Bg4 Qf2 37.Rge1 Rf8 38.R4e2 Qf4 39.Re4 Qf2 40.R4e2 Qf4  
+41.Re4 Qf1+ 42.Rxf1 Rxf1+ 43.Qg1 Rxg1+ 44.Kxg1 Rd3 45.Kf1 Rxd5 46.Ke2 Kg7  
+47.Be6 Rd4 48.Rxd4 cxd4 49.h4 Kf6 50.Bc8 h6 51.b3 Ng6 52.g3 Ne7 53.Bd7 Ke5 
+54.Kf3 d3 55.Ke3 Nf5+ 56.Kxd3 Nxg3 57.Kc4 Ne4 58.Bc6 d5+ 59.Kd3 Nc5+ 60. 
+Kc3 Ke4 61.Kb4 Ne6 62.Bd7 Nc7 63.Bg4 Kd4 64.Bc8 Kd3 65.Bf5+ Kd2 66.h5 Ne8  
+67.Be6 Nc7 68.Bf5 a5+ 69.Ka4 Kc3 0-1 

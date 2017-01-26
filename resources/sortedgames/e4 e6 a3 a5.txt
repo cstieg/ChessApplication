@@ -1,0 +1,16 @@
+ 
+[Event "XXX Zalakaros Open"] 
+[Site "Zalakaros HUN"] 
+[Date "2011.05.28"] 
+[Round "9"] 
+[White "Frink, Ferenc"] 
+[Black "Horvath, Adam"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2264"] 
+[BlackElo "2502"] 
+[ECO "C00"] 
+[EventDate "2011.05.20"] 
+ 
+1.e4 e6 2.a3 a5 3.d4 d5 4.e5 b6 5.c3 Ba6 6.Bd3 Bxd3 7.Qxd3 a4 8.Be3 Nc6 9. 
+Nd2 Qc8 10.Ne2 Qa6 11.Qxa6 Rxa6 12.c4 dxc4 13.Nxc4 Nge7 14.Nc3 Nd5 15.Ke2  
+Kd7 1/2-1/2 

@@ -1,0 +1,18 @@
+ 
+[Event "Hanoi VIE, Ch U9 Boys"] 
+[Site "Hanoi VIE"] 
+[Date "2012.07.12"] 
+[Round "1.16"] 
+[White "Tran, Phan Anh Khoi"] 
+[Black "Pham, Anh Dang"] 
+[Result "1-0"] 
+[WhiteElo "2585"] 
+[BlackElo "2545"] 
+[ECO "B10"] 
+[EventDate "2012.07.12"] 
+ 
+1.e4 c6 2.Nf3 Qb6 3.Nc3 Nh6 4.h3 d5 5.exd5 cxd5 6.Nxd5 Qc5 7.Ne3 Bd7 8.d4  
+Qa5+ 9.Bd2 Qb6 10.Bc3 Nf5 11.Bd3 e6 12.Qe2 Bb4 13.Nxf5 Bxc3+ 14.bxc3 Qa5  
+15.Nd6+ Kf8 16.Qd2 Na6 17.Ne5 Ke7 18.Ndxf7 Rac8 19.Qg5+ Ke8 20.Nd6+ Kf8  
+21.Nxd7+ Kg8 22.Qxa5 b6 23.Qxa6 Rxc3 24.Nb5 Rc8 25.O-O Rd8 26.Be4 Rc8 27. 
+Nd6 Rb8 1-0 

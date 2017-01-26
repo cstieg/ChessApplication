@@ -1,0 +1,37 @@
+ 
+[Event "Chigorin Memorial"] 
+[Site "St Petersburg RUS"] 
+[Date "2013.10.06"] 
+[Round "2.48"] 
+[White "Sadovsky, Artem"] 
+[Black "Chekhov, Sergei"] 
+[Result "0-1"] 
+[WhiteElo "2263"] 
+[BlackElo "2455"] 
+[ECO "A01"] 
+[EventDate "2013.10.05"] 
+ 
+1.b3 e5 2.e3 Nf6 3.Bb2 d6 4.Be2 Be7 5.d3 Nc6 6.Nd2 O-O 7.g4 Nd5 8.Bf3 Be6  
+9.Ne2 a5 10.a3 Nb6 11.Ng3 d5 12.Qe2 Re8 13.O-O Qd7 14.c4 Rad8 15.Rfd1 g6  
+16.Rac1 d4 17.h3 dxe3 18.Qxe3 Qxd3 19.Qxd3 Rxd3 20.Bxc6 bxc6 21.Bxe5 Nd7  
+22.Bxc7 Bxa3 23.Ra1 Bb2 24.Ra2 Bd4 25.Kg2 a4 26.Rxa4 Nc5 27.Ra2 Nxb3 28. 
+Nge4 Bxc4 29.Nxb3 Rxd1 30.Nxd4 Rxe4 31.Ra8+ Kg7 32.Nf3 Bd5 33.Kg3 Rd3 34. 
+Ra5 Re7 35.Rxd5 cxd5 36.Bb6 Re4 37.g5 f5 38.Kg2 Rxf3 0-1 
+ 
+[Event "21. Post Open"] 
+[Site "Duesseldorf GER"] 
+[Date "2005.12.30"] 
+[Round "6"] 
+[White "Peters, Alex"] 
+[Black "Savchenko, Viacheslav"] 
+[Result "0-1"] 
+[WhiteElo "2211"] 
+[BlackElo "2395"] 
+[ECO "A01"] 
+[EventDate "2005.12.26"] 
+ 
+1.b3 e5 2.e3 Nf6 3.Bb2 Nc6 4.d4 exd4 5.exd4 d5 6.Nf3 Bd6 7.Be2 O-O 8.O-O  
+Re8 9.Nbd2 Bf5 10.a3 Bxc2 11.Qxc2 Rxe2 12.Rae1 Rxe1 13.Rxe1 Qf8 14.b4 Nd8  
+15.Ne5 Ne6 16.Qf5 Bxe5 17.dxe5 Nd7 18.Re3 a5 19.b5 g6 20.Qg4 Qh6 21.g3 Qg5 
+22.Qd1 Nb6 23.Nf3 Qg4 24.Rd3 c5 25.bxc6 bxc6 26.Rb3 Nc4 27.Bc1 Nxe5 28.h3  
+Nxf3+ 29.Rxf3 Qd4 30.Qe2 Rb8 31.Bh6 Qa1+ 32.Kh2 Nd4 0-1 

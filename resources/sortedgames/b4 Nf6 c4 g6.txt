@@ -1,0 +1,15 @@
+ 
+[Event "17. Battle of Senta"] 
+[Site "Senta SRB"] 
+[Date "2013.07.17"] 
+[Round "6.1"] 
+[White "Drazic, Sinisa"] 
+[Black "Kosanovic, Goran A"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2464"] 
+[BlackElo "2372"] 
+[ECO "D94"] 
+[EventDate "2013.07.13"] 
+ 
+1.b4 Nf6 2.c4 g6 3.Nf3 Bg7 4.d4 d5 5.e3 O-O 6.Nc3 c6 7.a4 Bg4 8.Qb3 Bxf3  
+9.gxf3 dxc4 10.Bxc4 Nbd7 11.Be2 e5 12.d5 1/2-1/2 

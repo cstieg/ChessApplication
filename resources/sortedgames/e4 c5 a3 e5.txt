@@ -1,0 +1,119 @@
+ 
+[Event "Belgrade Planetwin 365 Open"] 
+[Site "Belgrade SRB"] 
+[Date "2014.12.29"] 
+[Round "21"] 
+[White "Perunovic, Milos"] 
+[Black "Bogosavljevic, Boban"] 
+[Result "0-1"] 
+[WhiteElo "2696"] 
+[BlackElo "2504"] 
+[ECO "B20"] 
+[EventDate "2014.12.29"] 
+ 
+1.e4 c5 2.a3 e5 3.Nf3 Nc6 4.b4 cxb4 5.axb4 Bxb4 6.c3 Be7 7.d4 d6 8.Bb5 Bd7 
+9.Ba3 Nf6 10.O-O O-O 11.d5 Nb8 12.Bd3 a5 13.Nxe5 dxe5 14.d6 Bxd6 15.Bxd6  
+Bg4 16.f3 Qxd6 17.fxg4 Rd8 18.Rf3 Nc6 19.Nd2 Qc5+ 20.Kh1 Nxg4 21.Qf1 Qxc3  
+22.Nc4 Rxd3 0-1 
+ 
+[Event "Sao Paulo Braga Open"] 
+[Site "Sao Paulo BRA"] 
+[Date "2014.08.03"] 
+[Round "6"] 
+[White "Carneiro, Vitor Roberto Castro"] 
+[Black "Mendonca, Mateus Nakajo"] 
+[Result "0-1"] 
+[WhiteElo "2246"] 
+[BlackElo "2341"] 
+[ECO "B20"] 
+[EventDate "2014.08.01"] 
+ 
+1.e4 c5 2.a3 e5 3.b4 Nf6 4.Bb2 cxb4 5.f4 d5 6.fxe5 Nxe4 7.Nf3 Qb6 8.Bd4  
+Bc5 9.Bxc5 Qxc5 10.d4 Qa5 11.Nfd2 Nc6 12.Nb3 Qd8 13.N1d2 Qh4+ 14.g3 Nxg3  
+15.Nf3 Qe4+ 0-1 
+ 
+[Event "Czech GM Open A"] 
+[Site "Pardubice CZE"] 
+[Date "2011.07.24"] 
+[Round "3.57"] 
+[White "Kulagin, Maxim"] 
+[Black "Llaneza Vega, Marcos"] 
+[Result "1-0"] 
+[WhiteElo "2263"] 
+[BlackElo "2465"] 
+[ECO "B20"] 
+[EventDate "2011.07.22"] 
+ 
+1.e4 c5 2.a3 e5 3.Nc3 Nf6 4.Bc4 Be7 5.d3 O-O 6.f4 d6 7.Nf3 exf4 8.Bxf4 Nc6 
+9.Qd2 Be6 10.Nd5 Bxd5 11.exd5 Ne5 12.Nxe5 dxe5 13.Bxe5 Ng4 14.Bf4 Bh4+ 15. 
+g3 Re8+ 16.Kf1 Bf6 17.h3 Ne5 18.Re1 Qd7 19.Kg2 b5 20.Ba2 c4 21.dxc4 bxc4  
+22.Bxe5 Bxe5 23.Bxc4 Bxb2 24.d6 Rad8 25.Rxe8+ Rxe8 26.Rf1 Bf6 27.Qd3 Rd8  
+28.Re1 Qc6+ 29.Bd5 Qa4 30.c4 Qa5 31.Qe3 h6 32.Re2 Bg5 33.Qe5 Qxa3 34.d7  
+Rf8 35.Qe8 Qd6 36.Bxf7+ Kh7 37.Qe4+ Kh8 38.Qf5 g6 39.Qxg6 Qxd7 40.Rf2 Qb7+ 
+41.Kh2 Qb6 42.Qf5 Qd4 43.h4 Be7 44.Rf4 Qb2+ 45.Kh3 Bd6 46.Rf3 Qg7 47.Qe6  
+Bc7 48.c5 a5 49.c6 a4 50.g4 Bd8 51.c7 Bxc7 52.Rf6 Kh7 53.Qf5+ Kh8 54.g5  
+hxg5 55.hxg5 Rxf7 56.Rxf7 Qc3+ 57.Kg4 1-0 
+ 
+[Event "16. ch-Asian Cities Cup"] 
+[Site "Beirut LIB"] 
+[Date "2009.04.20"] 
+[Round "6"] 
+[White "Eid, Fadi"] 
+[Black "Mohammad, Samir"] 
+[Result "0-1"] 
+[WhiteElo "2381"] 
+[BlackElo "2391"] 
+[ECO "B20"] 
+[EventDate "2009.04.16"] 
+ 
+1.e4 c5 2.a3 e5 3.Nc3 Nc6 4.Bc4 g6 5.d3 Bg7 6.h4 h5 7.Bg5 f6 8.Be3 d6 9. 
+Qd2 Bh6 10.O-O-O Kf8 11.Nd5 Kg7 12.Ne2 Rb8 13.f4 Bg4 14.f5 gxf5 15.exf5 b5 
+16.Ba2 Nd4 17.Ng3 b4 18.Bc4 bxa3 19.b3 a5 20.Kb1 a4 21.Ka2 axb3+ 22.cxb3  
+Bxe3 23.Nxe3 Ne7 24.Nxh5+ Rxh5 25.Nxg4 d5 26.Nxf6 Kxf6 27.g4 dxc4 28.gxh5  
+cxb3+ 29.Kb1 Ndxf5 30.Qg5+ Ke6 31.d4 cxd4 32.Rhf1 Qd5 0-1 
+ 
+[Event "Norwegian Open"] 
+[Site "Oslo NOR"] 
+[Date "2005.03.24"] 
+[Round "6"] 
+[White "Stokke, Kjetil"] 
+[Black "Sopur, Lech"] 
+[Result "0-1"] 
+[WhiteElo "2211"] 
+[BlackElo "2396"] 
+[ECO "B20"] 
+[EventDate "2005.03.19"] 
+ 
+1.e4 c5 2.a3 e5 3.Nc3 Nc6 4.Bc4 d6 5.d3 g6 6.f4 Bg7 7.Nf3 Nge7 8.O-O O-O  
+9.fxe5 Nxe5 10.Nxe5 Bxe5 11.Qf3 Nc6 12.Nd5 Be6 13.Nf6+ Bxf6 14.Qxf6 Qxf6  
+15.Rxf6 Kg7 16.Rf2 Bxc4 17.dxc4 Rfe8 18.Bf4 Rxe4 19.Bxd6 b6 20.b3 Rae8 21. 
+Rd2 Nd4 22.Kf1 R8e6 23.Bg3 Re2 24.Rxe2 Nxe2 25.Bb8 Nd4 26.Rc1 a5 27.Bc7  
+Kf8 28.h3 Rf6+ 29.Ke1 Ke7 30.Bh2 Re6+ 31.Kf1 h6 32.a4 h5 33.Bg3 Kd7 34.Bf2 
+Kc6 35.Bxd4 cxd4 36.Rd1 Re4 37.Kf2 Kc5 38.Rd3 h4 39.Kf3 f5 40.c3 dxc3 41. 
+Rxc3 Kd4 42.Rc2 Re3+ 43.Kf4 Rg3 44.Rd2+ Kc3 45.Rd6 Kxb3 46.Rxb6+ Kxc4 47. 
+Rb5 Rxg2 48.Rxa5 Rf2+ 49.Kg5 f4 50.Kxh4 Rg2 51.Ra6 Kd3 52.Rf6 Ke3 53.a5 f3 
+54.Re6+ Kd3 55.Rf6 Ke3 56.Re6+ Kf2 57.a6 g5+ 58.Kh5 Kg3 59.Kxg5 Ra2 60.Rf6 
+f2 61.Rxf2 Kxf2 62.h4 Kg3 63.h5 Ra5+ 64.Kg6 Rxa6+ 65.Kg5 Ra5+ 66.Kg6 Kg4  
+67.h6 Ra6+ 68.Kg7 Kg5 69.h7 Ra7+ 70.Kg8 Kg6 71.h8=N+ Kf6 0-1 
+ 
+[Event "1. IM"] 
+[Site "Mataro ESP"] 
+[Date "2004.12.30"] 
+[Round "5"] 
+[White "Asis Gargatagli, Hipolito"] 
+[Black "Munoz Pantoja, Miguel"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2340"] 
+[BlackElo "2404"] 
+[ECO "B20"] 
+[EventDate "2004.12.26"] 
+ 
+1.e4 c5 2.a3 e5 3.f4 exf4 4.Nf3 g5 5.Bc4 Bg7 6.O-O h6 7.d4 cxd4 8.c3 Ne7  
+9.h4 Ng6 10.Nxd4 Qb6 11.Kh1 Bxd4 12.cxd4 Nc6 13.Nc3 Qxd4 14.Nb5 Qxd1 15. 
+Rxd1 d5 16.exd5 Nce5 17.Re1 O-O 18.Bf1 Bg4 19.hxg5 hxg5 20.Bd2 Rfd8 21.Bc3 
+f6 22.Rac1 a6 23.Nc7 Rac8 24.Bb4 Rd7 25.d6 a5 26.Bc5 b6 27.Bxb6 Rxd6 28. 
+Bxa5 f3 29.gxf3 Bxf3+ 30.Kg1 Nf4 31.Nb5 Rxc1 32.Rxc1 Rd5 33.b4 Nfd3 34. 
+Rc8+ Kf7 35.Rd8 Rxb5 36.Bxd3 Nxd3 37.Rxd3 g4 38.Bc7 Rb7 39.Rc3 Ke6 40.Kf2  
+f5 41.Kg3 Be4 42.Kf4 Bd5 43.Rc1 Be4 44.Rc5 Bd5 45.Rc2 Ra7 46.Rc3 Rb7 47. 
+Rc2 Be4 48.Rc3 Kd7 49.Be5 Rb6 50.Rc7+ Ke6 51.Rc5 Bd5 52.Bc7 Ra6 53.Ra5 Rc6 
+54.Rc5 Ra6 55.Ra5 1/2-1/2 

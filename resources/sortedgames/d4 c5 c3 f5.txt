@@ -1,0 +1,18 @@
+ 
+[Event "Jovenes Promesas"] 
+[Site "Malaga ESP"] 
+[Date "2006.01.21"] 
+[Round "6"] 
+[White "Cueto, Jonny"] 
+[Black "Salgado Lopez, Ivan"] 
+[Result "1-0"] 
+[WhiteElo "2322"] 
+[BlackElo "2366"] 
+[ECO "A43"] 
+[EventDate "2006.01.18"] 
+ 
+1.d4 c5 2.c3 f5 3.d5 Nf6 4.c4 b5 5.cxb5 a6 6.bxa6 Nxa6 7.Nc3 g6 8.f3 Bg7  
+9.e4 fxe4 10.fxe4 d6 11.Bb5+ Bd7 12.Bxd7+ Qxd7 13.Nf3 c4 14.Qe2 O-O 15.O-O 
+Ng4 16.Bg5 h6 17.Bd2 Rab8 18.Rab1 Rfc8 19.h3 Nf6 20.e5 Nh5 21.e6 Qe8 22. 
+Nh4 Ng3 23.Qg4 Nxf1 24.Rxf1 Bf6 25.Ne4 h5 26.Qg3 Bxh4 27.Qxh4 Rxb2 28.Bc3  
+Rb5 29.Nf6+ 1-0 

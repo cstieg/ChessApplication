@@ -1,0 +1,42 @@
+ 
+[Event "5. Open"] 
+[Site "Vins du Medoc FRA"] 
+[Date "2002.07.01"] 
+[Round "3"] 
+[White "Mayer, Jean-Marc"] 
+[Black "Wohl, Aleksandar H"] 
+[Result "0-1"] 
+[WhiteElo "2224"] 
+[BlackElo "2388"] 
+[ECO "A40"] 
+[EventDate "2002.06.30"] 
+ 
+1.d4 Nc6 2.Nf3 e6 3.g3 Nf6 4.Bg2 b5 5.O-O Bb7 6.c4 bxc4 7.Ne5 d5 8.Qa4 Qd6 
+9.Nc3 Qb4 10.Qb5 a6 11.Qxb4 Bxb4 12.Nxc6 Bxc6 13.Bf4 Kd7 14.Rac1 Rhb8 15. 
+b3 cxb3 16.axb3 Bd6 17.Bxd6 Kxd6 18.e4 dxe4 19.Rfe1 Rxb3 20.Nxe4+ Bxe4 21. 
+Bxe4 Nxe4 22.Rxe4 a5 23.Re2 a4 24.Kg2 a3 25.Rcc2 Rab8 26.Ra2 Rb2 27.Rc2  
+Rxa2 28.Rxa2 Ra8 0-1 
+ 
+[Event "3. IECC"] 
+[Site "Batumi GEO"] 
+[Date "2002.06.23"] 
+[Round "11"] 
+[White "Popov, Valerij"] 
+[Black "Velicka, Petr"] 
+[Result "1-0"] 
+[WhiteElo "2575"] 
+[BlackElo "2437"] 
+[ECO "C04"] 
+[EventDate "2002.06.12"] 
+ 
+1.d4 Nc6 2.Nf3 e6 3.e4 d5 4.Nbd2 Nf6 5.e5 Ne4 6.c3 f5 7.exf6 Nxf6 8.Bb5  
+Bd6 9.O-O O-O 10.Re1 Bd7 11.Nf1 Qe7 12.Ng3 Rae8 13.a4 a6 14.Nf5 Qd8 15. 
+Nxd6 cxd6 16.Be2 Qc7 17.Be3 Na5 18.Qc2 b5 19.axb5 Bxb5 20.Nd2 Bxe2 21.Rxe2 
+Nc4 22.Rxa6 Qb7 23.Ra4 Nxb2 24.Ra2 Qb5 25.Re1 Nc4 26.Nxc4 Qxc4 27.f3 Ra8  
+28.Rb2 Rac8 29.Rb3 e5 30.dxe5 dxe5 31.Qd1 Rfe8 32.Bg5 Rc6 33.h3 h6 34.Bc1  
+e4 35.f4 Rec8 36.Be3 Qd3 37.Bd4 Qxd1 38.Rxd1 Kf7 39.Kf2 Ke6 40.g4 g6 41. 
+Ra1 Ne8 42.Rb7 R8c7 43.Rb8 Rc8 44.Rxc8 Rxc8 45.Ra6+ Kf7 46.Be5 Rc5 47.Ra7+ 
+Ke6 48.Rh7 h5 49.gxh5 gxh5 50.Rxh5 Ra5 51.Rh8 Kf7 52.Rh7+ Ke6 53.Rh6+ Kf7  
+54.f5 Ra1 55.Rh7+ Kf8 56.h4 Rd1 57.h5 Rd3 58.h6 Rf3+ 59.Kg2 Rxf5 60.Rh8+  
+Kf7 61.Rxe8 Rh5 62.Ra8 Rxh6 63.Ra7+ Ke8 64.Ra5 Rh5 65.Rxd5 Ke7 66.Rc5 Ke6  
+67.Bd4 1-0 

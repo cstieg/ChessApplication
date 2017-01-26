@@ -1,0 +1,46 @@
+ 
+[Event "Ho Chi Minh City VIE,22. SEA Games (m)"] 
+[Site "Ho Chi Minh City VIE"] 
+[Date "2003.12.13"] 
+[Round "9"] 
+[White "Chaivichit, Suchart"] 
+[Black "Dabek, Roman"] 
+[Result "0-1"] 
+[WhiteElo "2264"] 
+[BlackElo "2305"] 
+[ECO "B10"] 
+[EventDate "2003.12.08"] 
+ 
+1.e4 c6 2.Nc3 e6 3.d4 d5 4.Nf3 Nf6 5.e5 Ng8 6.Bd3 b6 7.Ne2 Ba6 8.Bxa6 Nxa6 
+9.c3 Qd7 10.a4 Ne7 11.O-O c5 12.a5 c4 13.axb6 axb6 14.b3 Nc7 15.Rxa8+ Nxa8 
+16.Ba3 Nc7 17.Qb1 Nc8 18.Bxf8 Rxf8 19.bxc4 dxc4 20.Qxh7 g6 21.Nd2 Qc6 22. 
+Ng3 Nd5 23.Nde4 b5 24.h4 Kd8 25.h5 gxh5 26.Qg7 Qe8 27.Nf6 Nxf6 28.Qxf6+  
+Kc7 29.Nxh5 Nb6 30.Qf3 Qc6 31.Qxc6+ Kxc6 32.Nf6 Ra8 33.f4 Ra3 34.Rc1 b4  
+35.cxb4 Rd3 36.f5 Rxd4 37.fxe6 fxe6 38.g4 Nd5 39.g5 Nf4 40.Kf2 Ng6 41.Ke3  
+Rh4 42.Rd1 Nxe5 43.Rd4 Rh1 44.Re4 Kd6 45.Ne8+ Ke7 46.Kd4 Nf3+ 47.Kc3 Nxg5  
+48.Rg4 Nf7 49.Nc7 Rh3+ 50.Kc2 Nd6 51.b5 Rf3 52.Rg7+ Kf6 53.Rd7 Ke5 54.Re7  
+Ne4 55.Rxe6+ Kd4 56.Re8 Rf2+ 57.Kc1 Kd3 58.Rd8+ Kc3 59.Kd1 Kb2 60.Nd5 Rd2+ 
+61.Ke1 c3 62.b6 c2 63.Rc8 c1=Q+ 0-1 
+ 
+[Event "22. SEA Games Standard"] 
+[Site "Ho Chi Minh City VIE"] 
+[Date "2003.12.13"] 
+[Round "9"] 
+[White "Chaivichit, Suchart"] 
+[Black "Dableo, Ronald"] 
+[Result "0-1"] 
+[WhiteElo "2264"] 
+[BlackElo "2305"] 
+[ECO "B10"] 
+[EventDate "2003.12.08"] 
+ 
+1.e4 c6 2.Nc3 e6 3.d4 d5 4.Nf3 Nf6 5.e5 Ng8 6.Bd3 b6 7.Ne2 Ba6 8.Bxa6 Nxa6 
+9.c3 Qd7 10.a4 Ne7 11.O-O c5 12.a5 c4 13.axb6 axb6 14.b3 Nc7 15.Rxa8+ Nxa8 
+16.Ba3 Nc7 17.Qb1 Nc8 18.Bxf8 Rxf8 19.bxc4 dxc4 20.Qxh7 g6 21.Nd2 Qc6 22. 
+Ng3 Nd5 23.Nde4 b5 24.h4 Kd8 25.h5 gxh5 26.Qg7 Qe8 27.Nf6 Nxf6 28.Qxf6+  
+Kc7 29.Nxh5 Nb6 30.Qf3 Qc6 31.Qxc6+ Kxc6 32.Nf6 Ra8 33.f4 Ra3 34.Rc1 b4  
+35.cxb4 Rd3 36.f5 Rxd4 37.fxe6 fxe6 38.g4 Nd5 39.g5 Nf4 40.Kf2 Ng6 41.Ke3  
+Rh4 42.Rd1 Nxe5 43.Rd4 Rh1 44.Re4 Kd6 45.Ne8+ Ke7 46.Kd4 Nf3+ 47.Kc3 Nxg5  
+48.Rg4 Nf7 49.Nc7 Rh3+ 50.Kc2 Nd6 51.b5 Rf3 52.Rg7+ Kf6 53.Rd7 Ke5 54.Re7  
+Ne4 55.Rxe6+ Kd4 56.Re8 Rf2+ 57.Kc1 Kd3 58.Rd8+ Kc3 59.Kd1 Kb2 60.Nd5 Rd2+ 
+61.Ke1 c3 62.b6 c2 63.Rc8 c1=Q+ 0-1 

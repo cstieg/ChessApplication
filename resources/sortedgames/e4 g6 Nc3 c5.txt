@@ -1,0 +1,117 @@
+ 
+[Event "42. TCh-ITA Masters"] 
+[Site "Arvier ITA"] 
+[Date "2010.05.01"] 
+[Round "5"] 
+[White "Di Paolo, Raffaele"] 
+[Black "Georgiev, Kiril"] 
+[Result "0-1"] 
+[WhiteElo "2338"] 
+[BlackElo "2669"] 
+[ECO "B26"] 
+[EventDate "2010.04.29"] 
+ 
+1.e4 g6 2.Nc3 c5 3.g3 Bg7 4.Bg2 Nc6 5.d3 d6 6.Be3 Rb8 7.a4 a6 8.f4 b5 9. 
+axb5 axb5 10.e5 Nd4 11.Ne4 Nh6 12.Nf3 Ng4 13.Bg1 dxe5 14.h3 Nh6 15.Nxe5  
+Bb7 16.c3 Ne6 17.Qd2 Ra8 18.Rd1 Rc8 19.Ng5 Bd5 20.Nxe6 Bxe6 21.Bf2 Bd5 22. 
+O-O Bxg2 23.Kxg2 Qd5+ 24.Kg1 O-O 25.Rfe1 Rfd8 26.Qe2 Nf5 27.Qe4 Qxe4 28. 
+Rxe4 f6 29.Nf3 Kf7 30.Ree1 h5 31.Kg2 e6 32.g4 Ne7 33.c4 Bf8 34.g5 Bg7 35. 
+gxf6 Bxf6 36.Bh4 Bxh4 37.Nxh4 bxc4 38.dxc4 Rxd1 39.Rxd1 Rb8 40.Rd2 Nf5 41. 
+Nf3 Ne3+ 42.Kg1 Nxc4 43.Rc2 Ne3 44.Rxc5 Nd5 45.Ne5+ Kg7 46.Rc6 Rxb2 47.Nd3 
+Re2 48.Ra6 Re3 0-1 
+ 
+[Event "23. Open"] 
+[Site "Schwarzach AUT"] 
+[Date "2008.08.18"] 
+[Round "3"] 
+[White "Jovanovic, Zoran CRO"] 
+[Black "Zakharchenko, Arnold"] 
+[Result "1-0"] 
+[WhiteElo "2557"] 
+[BlackElo "2271"] 
+[ECO "B23"] 
+[EventDate "2008.08.16"] 
+ 
+1.e4 g6 2.Nc3 c5 3.f4 Bg7 4.Nf3 Nc6 5.Bb5 Nd4 6.O-O Nxb5 7.Nxb5 d6 8.d3  
+Nf6 9.Qe1 O-O 10.Nc3 Qd7 11.Qh4 Qg4 12.Qf2 b6 13.h3 Qd7 14.Qh4 d5 15.e5 d4 
+16.Ne2 Nd5 17.f5 gxf5 18.Ng3 Qe6 19.Nh5 Bb7 20.Bg5 h6 21.Bd2 Qg6 22.Rae1  
+e6 23.Kh2 Kh7 24.g4 Rg8 25.Re2 fxg4 26.Ng5+ Kh8 27.Nxf7+ Kh7 28.Nxg7 Qxg7  
+29.Nxh6 g3+ 30.Kg1 g2 31.Nf7+ 1-0 
+ 
+[Event "16. TCh-CRO"] 
+[Site "Sibenik CRO"] 
+[Date "2007.05.17"] 
+[Round "1"] 
+[White "Zovko, Mario"] 
+[Black "Mohr, Georg"] 
+[Result "0-1"] 
+[WhiteElo "2216"] 
+[BlackElo "2485"] 
+[ECO "B24"] 
+[EventDate "2007.05.17"] 
+ 
+1.e4 g6 2.Nc3 c5 3.g3 Bg7 4.Nge2 Nc6 5.Bg2 Rb8 6.a4 a6 7.d3 b5 8.axb5 axb5 
+9.Be3 b4 10.Na4 d6 11.O-O Nf6 12.h3 O-O 13.b3 Ne8 14.Rb1 Nc7 15.Qd2 Nb5  
+16.Bh6 Ncd4 17.Bxg7 Kxg7 18.Nxd4 Nxd4 19.f4 Bd7 20.Ra1 Ra8 21.e5 Ra5 22. 
+Nb2 Rxa1 23.Rxa1 Bxh3 24.Ra8 Qd7 25.Rxf8 Kxf8 26.Nc4 Kg7 27.Qf2 Be6 28. 
+exd6 Bxc4 29.dxc4 Qxd6 30.Kh1 Nf5 31.Kh2 Qd4 32.Qe2 Qc3 33.g4 Qg3+ 34.Kh1  
+Ne3 0-1 
+ 
+[Event "Cullera ESP, Open A 2004"] 
+[Site "Cullera ESP"] 
+[Date "2004.07.27"] 
+[Round "7.1"] 
+[White "Torres Sanchez, Jose"] 
+[Black "Toledano Llinares, Juan A"] 
+[Result "0-1"] 
+[WhiteElo "2275"] 
+[BlackElo "2338"] 
+[ECO "B34"] 
+[EventDate "2004.07.20"] 
+ 
+1.e4 g6 2.Nc3 c5 3.Nf3 Bg7 4.d4 cxd4 5.Nxd4 Nc6 6.Be3 Nf6 7.Nxc6 bxc6 8.e5 
+Ng8 9.f4 d5 10.Be2 f6 11.Bd4 Nh6 12.O-O O-O 13.Na4 Nf5 14.c3 fxe5 15.fxe5  
+Qc7 16.g4 Nh6 17.Rxf8+ Kxf8 18.Qd2 Kg8 19.e6 Bxe6 20.Bxg7 Kxg7 21.Qd4+ Kg8 
+22.Qe3 Bxg4 23.Qxh6 Bxe2 24.Re1 Bd3 25.Nc5 Bf5 26.Qe3 e5 27.Qxe5 Qxe5 28. 
+Rxe5 Kf7 29.Na6 Re8 30.Rxe8 Kxe8 31.Kf2 Kd7 32.Ke3 g5 33.b4 Kd6 34.Nc5 Ke5 
+35.Nb3 h5 36.Nd4 Bd7 37.a4 g4 38.a5 h4 39.Ne2 Kd6 40.Nf4 c5 41.Nd3 cxb4  
+42.Nxb4 Bf5 43.Kf4 g3 44.hxg3 h3 0-1 
+ 
+[Event "XX Franca Garcia Memorial"] 
+[Site "Osasco BRA"] 
+[Date "2004.07.06"] 
+[Round "7"] 
+[White "Pelikian, Jefferson"] 
+[Black "Rodriguez Vila, Andres"] 
+[Result "0-1"] 
+[WhiteElo "2407"] 
+[BlackElo "2556"] 
+[ECO "B23"] 
+[EventDate "2004.07.01"] 
+ 
+1.e4 g6 2.Nc3 c5 3.f4 Nc6 4.Nf3 Bg7 5.Bb5 Nh6 6.Bxc6 bxc6 7.d3 O-O 8.O-O  
+d5 9.h3 f6 10.b3 g5 11.Qe1 Nf7 12.Na4 g4 13.hxg4 f5 14.e5 fxg4 15.Nh4 c4  
+16.d4 Nh6 17.Nc5 Nf5 18.c3 cxb3 19.axb3 Qe8 20.Nxf5 Bxf5 21.g3 e6 22.Rf2  
+Rf7 23.Rh2 Bf8 24.Na6 Rb7 25.Qd1 h5 26.Ba3 Bh6 27.Bd6 Qg6 28.Nc5 Rh7 29. 
+Qd2 a5 30.Kf2 Raa7 31.Kg1 Be4 32.Rh4 Bf3 33.Qd3 Qf7 34.b4 Kh8 35.Rxa5 Rxa5 
+36.bxa5 Bxf4 37.Qa6 Bxg3 38.Qc8+ Qg8 39.Qxg8+ Kxg8 40.a6 Bxh4 41.Nb7 Rh8  
+42.a7 Kg7 43.Bb8 g3 44.Nc5 Re8 45.Nd3 Bg5 46.Ne1 Be4 47.a8=Q Rf8 48.Ng2 h4 
+49.Qb7+ Rf7 50.Qb2 h3 0-1 
+ 
+[Event "FRA-chT1"] 
+[Site "France"] 
+[Date "2002.??.??"] 
+[Round "7.1"] 
+[White "Lepelletier, Benoit"] 
+[Black "Istratescu, Andrei"] 
+[Result "0-1"] 
+[WhiteElo "2444"] 
+[BlackElo "2605"] 
+[ECO "B25"] 
+ 
+1.e4 g6 2.Nc3 c5 3.g3 Bg7 4.Bg2 Nc6 5.f4 d6 6.Nf3 e5 7.d3 Nge7 8.O-O Nd4  
+9.Ne2 Nxf3+ 10.Bxf3 h5 11.c3 exf4 12.Nxf4 Nc6 13.Be3 Ne5 14.Bg2 h4 15.Nd5  
+Be6 16.Qd2 Bxd5 17.exd5 hxg3 18.hxg3 Qd7 19.d4 cxd4 20.Bxd4 Kf8 21.Qf4 Kg8 
+22.Rad1 b5 23.Rf2 Rh5 24.Rdf1 Rf8 25.Qe4 a6 26.Bxe5 Bxe5 27.Rxf7 Qxf7 28. 
+Rxf7 Kxf7 29.Qg4 Rf5 30.Be4 Rf6 31.a3 Kg7 32.Bd3 R8f7 33.Kg2 Rf2+ 34.Kg1  
+R2f3 35.Qxg6+ Kf8 36.Qh6+ Ke7 37.Kh1 Kd8 38.Qg6 Rg7 0-1 

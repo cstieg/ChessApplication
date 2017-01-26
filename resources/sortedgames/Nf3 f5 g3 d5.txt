@@ -1,0 +1,21 @@
+ 
+[Event "Zonal 2.3"] 
+[Site "Santo Domingo DOM"] 
+[Date "2007.06.03"] 
+[Round "7"] 
+[White "Iturrizaga Bonelli, Eduardo"] 
+[Black "Mendoza, Rafael"] 
+[Result "1-0"] 
+[WhiteElo "2398"] 
+[BlackElo "2390"] 
+[ECO "A04"] 
+[EventDate "2007.05.30"] 
+ 
+1.Nf3 f5 2.g3 d5 3.Bg2 e6 4.O-O Nf6 5.d3 Be7 6.Nbd2 O-O 7.Re1 Nc6 8.c4 d4  
+9.Nb3 a5 10.e3 dxe3 11.Bxe3 e5 12.Bc5 Bd6 13.Bxd6 cxd6 14.c5 a4 15.Nbd2  
+dxc5 16.Nxe5 Nxe5 17.Rxe5 Qxd3 18.Nf3 Qxd1+ 19.Rxd1 a3 20.b3 b6 21.Nd2 Rb8 
+22.Nc4 g6 23.Re7 Ba6 24.Ra7 Bxc4 25.bxc4 Rbd8 26.Rb1 Rd6 27.Rxa3 Re8 28. 
+Ra6 Nd7 29.a4 Rb8 30.a5 Kf8 31.Bd5 Ke8 32.Kg2 Rd8 33.h4 Rf6 34.Re1+ Kf8  
+35.axb6 Rxb6 36.Ra7 Rd6 37.Kf3 Re8 38.Rxe8+ Kxe8 39.Kf4 Kf8 40.f3 Kg7 41. 
+g4 fxg4 42.fxg4 h6 43.Bc6 Rf6+ 44.Ke4 Rxc6 45.Rxd7+ Kf6 46.Kd5 Rc8 47.Rd6+ 
+Kg7 48.h5 gxh5 49.gxh5 1-0 

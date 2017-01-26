@@ -1,0 +1,75 @@
+ 
+[Event "Kemerovo RUS, Open 2011"] 
+[Site "Kemerovo RUS"] 
+[Date "2011.07.29"] 
+[Round "7"] 
+[White "Chigaev, Maksim"] 
+[Black "Ponomarev, Dmitry"] 
+[Result "1-0"] 
+[WhiteElo "2309"] 
+[BlackElo "2401"] 
+[ECO "B07"] 
+[EventDate "2011.07.25"] 
+ 
+1.e4 c6 2.Nf3 d6 3.d4 Nf6 4.Nc3 Bg4 5.Be3 e6 6.Be2 Be7 7.Nd2 Bxe2 8.Qxe2  
+d5 9.e5 Nfd7 10.Qg4 g6 11.Bh6 c5 12.dxc5 Nc6 13.f4 Nd4 14.O-O-O Nf5 15.Qh3 
+Nxc5 16.g4 Nxh6 17.Qxh6 Bf8 18.Qh3 Bg7 19.Nde4 Nxe4 20.Nxe4 O-O 21.Ng5 h6  
+22.Nf3 Rc8 23.Kb1 Qc7 24.Qg2 f6 25.Nd4 Qb6 26.f5 exf5 27.gxf5 fxe5 28. 
+Qxd5+ Rf7 29.fxg6 Qxg6 30.Rhg1 Qxg1 31.Rxg1 exd4 32.Rf1 Rc7 33.a4 Rd7 34. 
+Qc4 Rc7 35.Qb3 Kf8 36.Re1 Rce7 37.Qb4 Ke8 38.Qb5+ Kd8 39.Qa5+ b6 40.Qd5+  
+Kc7 41.Qc4+ Kb8 42.Re4 Kb7 43.a5 bxa5 44.Qd5+ Kc7 45.Qc5+ Kd8 1-0 
+ 
+[Event "IRI Ch"] 
+[Site "Tehran IRI"] 
+[Date "2006.12.25"] 
+[Round "5"] 
+[White "Toufighi, Homayoon"] 
+[Black "Ghorbani, M."] 
+[Result "0-1"] 
+[WhiteElo "2386"] 
+[BlackElo "2304"] 
+[ECO "B08"] 
+[EventDate "2006.12.22"] 
+ 
+1.e4 c6 2.Nf3 d6 3.d4 Nf6 4.Nc3 g6 5.h3 Bg7 6.Be3 Qc7 7.Be2 Nbd7 8.Qd2 O-O 
+9.O-O Re8 10.Rad1 a6 11.Rfe1 b5 12.a3 Bb7 13.Bh6 Rad8 14.Qg5 c5 15.Bxg7  
+Kxg7 16.e5 cxd4 17.exf6+ exf6 18.Nxb5 axb5 19.Qxb5 Bxf3 20.Bxf3 Rb8 21.Qa4 
+Rxe1+ 22.Rxe1 Rxb2 23.Re7 d3 24.Rxd7 Qxd7 25.Qxd7 dxc2 26.Qc7 Rb1+ 27.Kh2  
+c1=Q 28.Qxd6 Ra1 29.Bd5 Qd2 30.Qc5 Rc1 0-1 
+ 
+[Event "Ch Iran"] 
+[Site "Teheran (Iran)"] 
+[Date "2006.12.25"] 
+[Round "5"] 
+[White "Toufighi, Homayoon"] 
+[Black "Ghorbani, Mohsen"] 
+[Result "0-1"] 
+[WhiteElo "2386"] 
+[BlackElo "2304"] 
+[ECO "B08"] 
+ 
+1.e4 c6 2.Nf3 d6 3.d4 Nf6 4.Nc3 g6 5.h3 Bg7 6.Be3 Qc7 7.Be2 Nbd7 8.Qd2 O-O 
+9.O-O Re8 10.Rad1 a6 11.Rfe1 b5 12.a3 Bb7 13.Bh6 Rad8 14.Qg5 c5 15.Bxg7  
+Kxg7 16.e5 cxd4 17.exf6+ exf6 18.Nxb5 axb5 19.Qxb5 Bxf3 20.Bxf3 Rb8 21.Qa4 
+Rxe1+ 22.Rxe1 Rxb2 23.Re7 d3 24.Rxd7 Qxd7 25.Qxd7 dxc2 26.Qc7 Rb1+ 27.Kh2  
+c1=Q 28.Qxd6 Ra1 29.Bd5 Qd2 30.Qc5 Rc1 0-1 
+ 
+[Event "12. Amantea Open 2014"] 
+[Site "Amantea ITA"] 
+[Date "2014.09.13"] 
+[Round "8.8"] 
+[White "Sharma, Dinesh K"] 
+[Black "Sveshnikov, Vladimir"] 
+[Result "1/2-1/2"] 
+[WhiteElo "2359"] 
+[BlackElo "2380"] 
+[ECO "E91"] 
+[EventDate "2014.09.07"] 
+ 
+1.e4 c6 2.Nf3 d6 3.c4 Nf6 4.Nc3 g6 5.d4 Bg7 6.Be2 O-O 7.O-O a6 8.Re1 Bg4  
+9.Bg5 Nbd7 10.h3 Bxf3 11.Bxf3 Qc7 12.Qd2 Rfe8 13.a4 e5 14.d5 Nc5 15.Qc2 a5 
+16.Be3 Na6 17.Rad1 Nd7 18.h4 Ndc5 19.Na2 cxd5 20.cxd5 Qd7 21.Nc3 Nb4 22. 
+Qe2 Nxa4 23.Nxa4 Qxa4 24.Ra1 Qd7 25.Rec1 Rec8 26.Rxc8+ Rxc8 27.Rxa5 Nc2  
+28.g3 h5 29.Kg2 Qc7 30.Ra7 Kh7 31.Qd2 Qb8 32.Ra4 Nxe3+ 33.Qxe3 Bh6 34.Qd3  
+Rc5 35.Rc4 Qc7 36.Rxc5 Qxc5 37.Qc3 b6 38.Qxc5 bxc5 39.b3 Bc1 40.Be2  
+1/2-1/2 

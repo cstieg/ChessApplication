@@ -1,0 +1,55 @@
+ 
+[Event "Saint Affrique FRA, 15. Open"] 
+[Site "Saint Affrique FRA"] 
+[Date "2007.??.??"] 
+[Round "5.4"] 
+[White "Prie, Eric"] 
+[Black "David, Vincent"] 
+[Result "1-0"] 
+[WhiteElo "2518"] 
+[BlackElo "2390"] 
+[ECO "A40"] 
+[EventDate "2007.07.21"] 
+ 
+1.d4 e6 2.a3 d5 3.Nf3 Nf6 4.Bf4 Bd6 5.Bxd6 cxd6 6.e3 O-O 7.c4 dxc4 8.Bxc4  
+b6 9.Nc3 Bb7 10.O-O Nbd7 11.Qe2 Rc8 12.Ba6 Qc7 13.Rac1 Bxa6 14.Qxa6 Nb8  
+15.Qd3 a6 16.e4 h6 17.h3 Qb7 18.Rc2 d5 19.exd5 Nxd5 20.Nxd5 Qxd5 21.Rfc1  
+Rcd8 22.Qe2 a5 23.b4 axb4 24.axb4 Nd7 25.Rc7 Nf6 26.Ra1 Qd6 27.Raa7 Nd5  
+28.Rcb7 Ra8 29.Rxf7 Rxa7 30.Rxa7 Nxb4 31.Ne5 Qxd4 32.Ng6 Rf6 33.Ra8+ Kf7  
+34.Ne5+ Ke7 35.Ra7+ Kd8 36.Ng4 1-0 
+ 
+[Event "TCh-FRA Nat1 Final"] 
+[Site "Belfort FRA"] 
+[Date "2004.05.10"] 
+[Round "10"] 
+[White "Prie, Eric"] 
+[Black "Sharif, Mehrshad"] 
+[Result "1-0"] 
+[WhiteElo "2427"] 
+[BlackElo "2462"] 
+[ECO "A40"] 
+[EventDate "2004.05.01"] 
+ 
+1.d4 e6 2.a3 d5 3.Nf3 Nf6 4.Bg5 Be7 5.e3 b6 6.c4 O-O 7.cxd5 exd5 8.Nc3 a5  
+9.Qc2 Ba6 10.Bxa6 Rxa6 11.O-O c6 12.Ne5 b5 13.a4 b4 14.Ne2 Ne4 15.Bxe7  
+Qxe7 16.Ng3 Nxg3 17.hxg3 Nd7 18.Nxc6 Qe6 19.Rac1 f6 20.Rfe1 Re8 21.e4 dxe4 
+22.Rxe4 Qxe4 23.Qc4+ Re6 24.Qxa6 h5 25.Qb7 Nf8 26.Nd8 1-0 
+ 
+[Event "Open"] 
+[Site "Novosibirsk RUS"] 
+[Date "2001.07.22"] 
+[Round "4"] 
+[White "Kovalev, E2."] 
+[Black "Popov, Roman2"] 
+[Result "1-0"] 
+[WhiteElo "2201"] 
+[BlackElo "2348"] 
+[ECO "A40"] 
+[EventDate "2001.07.18"] 
+ 
+1.d4 e6 2.a3 d5 3.Nf3 Nf6 4.e3 a6 5.Nbd2 c5 6.dxc5 Bxc5 7.b4 Ba7 8.Bb2 O-O 
+9.c4 Nc6 10.Be2 Qe7 11.O-O Rd8 12.b5 axb5 13.cxb5 Na5 14.Qa4 Bb6 15.Rac1  
+Bd7 16.Qh4 Rdc8 17.Bd3 h6 18.Ne5 Bd8 19.e4 Be8 20.Ng4 Nxg4 21.Qxg4 Qg5 22. 
+Qe2 Bb6 23.Nf3 Qh5 24.exd5 exd5 25.Qe7 Rd8 26.Rfe1 Bd7 27.Re5 Qg4 28.h3  
+Qf4 29.Qd6 Bxb5 30.Re8+ Rxe8 31.Qxf4 Bxd3 32.Ne5 Bg6 33.Nxg6 fxg6 34.Rc7  
+1-0 

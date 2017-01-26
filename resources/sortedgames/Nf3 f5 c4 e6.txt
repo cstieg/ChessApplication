@@ -1,0 +1,36 @@
+ 
+[Event "Myanmar Open 2015"] 
+[Site "Yangon MYA"] 
+[Date "2015.11.25"] 
+[Round "5.2"] 
+[White "Wynn Zaw Htun"] 
+[Black "Saw, Win Aung"] 
+[Result "1-0"] 
+[WhiteElo "2414"] 
+[BlackElo "2217"] 
+[ECO "A10"] 
+[EventDate "2015.11.23"] 
+ 
+1.Nf3 f5 2.c4 e6 3.g3 Nf6 4.Bg2 d5 5.O-O c6 6.Qc2 Bd6 7.d3 O-O 8.Nc3 dxc4  
+9.dxc4 e5 10.e4 fxe4 11.Nh4 Be7 12.Rd1 Qe8 13.Bg5 Bg4 14.Re1 Nbd7 15.Nxe4  
+h6 16.Nxf6+ Bxf6 17.Bxf6 Rxf6 18.Be4 Nf8 19.Bf5 Bxf5 20.Nxf5 Ng6 21.Rad1  
+Qe6 22.Nd6 Raf8 23.Ne4 Rf3 24.Qe2 Qg4 25.Kh1 Qf5 26.Rd6 h5 27.Red1 h4 28. 
+Rd8 hxg3 29.fxg3 Rxd8 30.Rxd8+ Kh7 31.Kg1 Qg4 32.Qxf3 1-0 
+ 
+[Event "2. League TCh-SCG"] 
+[Site "Belgrade SRB"] 
+[Date "2003.09.28"] 
+[Round "2"] 
+[White "Ostojic, N."] 
+[Black "Nikolic, Stanimir"] 
+[Result "1-0"] 
+[WhiteElo "2425"] 
+[BlackElo "2326"] 
+[ECO "A85"] 
+[EventDate "2003.09.27"] 
+ 
+1.Nf3 f5 2.c4 e6 3.Nc3 Nf6 4.d4 b6 5.g3 Bb7 6.Bg2 Bb4 7.Qb3 Be7 8.O-O Nc6  
+9.d5 Na5 10.Qa4 O-O 11.Rd1 Qc8 12.Bf4 Nh5 13.Ne5 d6 14.Nc6 Bxc6 15.dxc6  
+Bf6 16.Bd2 a6 17.e3 Qe8 18.Rac1 Rd8 19.b3 g5 20.Ne2 Bg7 21.Bf3 Nf6 22.c5  
+dxc5 23.Bxa5 bxa5 24.Qxa5 Qe7 25.Rxd8 Rxd8 26.Qxa6 Rd2 27.Nc3 f4 28.exf4  
+gxf4 29.Rd1 Rxd1+ 30.Nxd1 fxg3 31.hxg3 1-0 
